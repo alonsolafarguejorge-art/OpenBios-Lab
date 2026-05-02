@@ -1,30 +1,67 @@
 import os
 
 
-def find_signature_offsets(binary_data, signatures):
-    results = {}
+def find_all_offsets(binary_data, signature):
+    offsets = []
+    start = 0
 
-    for name, signature in signatures.items():
-        offset = binary_data.find(signature)
-        if offset != -1:
-            results[name] = hex(offset)
+    while True:
+        offset = binary_data.find(signature, start)
+        if offset == -1:
+            break
+        offsets.append(hex(offset))
+        start = offset + 1
 
-    return results
+    return offsets
 
 
-def classify_bios(offsets):
-    if "Intel Flash Descriptor" in offsets:
-        return "Intel UEFI/Modern BIOS"
-    elif "UEFI Firmware Volume" in offsets:
-        return "UEFI BIOS"
-    elif "AMI BIOS" in offsets:
-        return "AMI BIOS"
-    elif "Phoenix BIOS" in offsets:
-        return "Phoenix/Legacy BIOS"
-    elif "Insyde BIOS" in offsets:
-        return "Insyde BIOS"
+def detect_firmware_structure(binary_data):
+    signatures = {
+        "UEFI Firmware Volume": b"_FVH",
+        "Intel Flash Descriptor": b"$FPT",
+        "AMI BIOS": b"AMI",
+        "Phoenix BIOS": b"Phoenix",
+        "Insyde BIOS": b"Insyde"
+    }
+
+    structure = {}
+
+    for name, sig in signatures.items():
+        found_offsets = find_all_offsets(binary_data, sig)
+        if found_offsets:
+            structure[name] = found_offsets
+
+    return structure
+
+
+def classify_bios(structure):
+    if "Intel Flash Descriptor" in structure:
+        return "Intel UEFI/Modern BIOS", "High"
+    elif "UEFI Firmware Volume" in structure:
+        return "UEFI BIOS", "Medium"
+    elif "AMI BIOS" in structure:
+        return "AMI BIOS", "Medium"
+    elif "Phoenix BIOS" in structure:
+        return "Phoenix/Legacy BIOS", "Medium"
+    elif "Insyde BIOS" in structure:
+        return "Insyde BIOS", "Medium"
     else:
-        return "Unknown"
+        return "Unknown", "Low"
+
+
+def basic_health_check(file_size, structure):
+    warnings = []
+
+    if file_size < 1024 * 1024:
+        warnings.append("Unusually small BIOS file")
+
+    if "UEFI Firmware Volume" not in structure:
+        warnings.append("No UEFI volumes detected")
+
+    if not structure:
+        warnings.append("No known firmware signatures detected")
+
+    return warnings if warnings else ["No obvious structural issues detected"]
 
 
 def analyze_bios_file(file_path):
@@ -39,17 +76,11 @@ def analyze_bios_file(file_path):
     with open(file_path, "rb") as bios_file:
         binary_data = bios_file.read()
 
-    signatures = {
-        "UEFI Firmware Volume": b"_FVH",
-        "Intel Flash Descriptor": b"$FPT",
-        "AMI BIOS": b"AMI",
-        "Phoenix BIOS": b"Phoenix",
-        "Insyde BIOS": b"Insyde"
-    }
+    structure = detect_firmware_structure(binary_data)
 
-    detected_offsets = find_signature_offsets(binary_data, signatures)
+    bios_type, confidence = classify_bios(structure)
 
-    bios_type = classify_bios(detected_offsets)
+    health_warnings = basic_health_check(file_size, structure)
 
     return {
         "status": "success",
@@ -57,7 +88,9 @@ def analyze_bios_file(file_path):
         "file_size_bytes": file_size,
         "file_size_mb": round(file_size / (1024 * 1024), 2),
         "bios_type": bios_type,
-        "detected_regions": detected_offsets if detected_offsets else {"Unknown": "N/A"}
+        "confidence_level": confidence,
+        "detected_structure": structure if structure else {"Unknown": "N/A"},
+        "health_check": health_warnings
     }
 
 
@@ -66,6 +99,6 @@ if __name__ == "__main__":
 
     result = analyze_bios_file(bios_file)
 
-    print("\n--- BIOS Structural Analysis Result ---")
+    print("\n--- BIOS Structural Intelligence Report ---")
     for key, value in result.items():
         print(f"{key}: {value}")

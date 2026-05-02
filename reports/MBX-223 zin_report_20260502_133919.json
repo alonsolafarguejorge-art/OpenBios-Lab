@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-02T13:39:19.229482",
+    "file_path": "D:\\A26\\Bios\\Bios Sony\\Sony MBX-223 M971 Main Board 6Layer REV. 1.1 1P-0106j00-6011\\MBX-223 M971 Main Board 6Layer REV. 1.1 1P-0106j00-6011\\MBX-223 zin.bin",
+    "file_name": "MBX-223 zin.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x200028",
+            "0x210028",
+            "0x220028",
+            "0x340028",
+            "0x3cccef"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2002fb",
+            "0x2102fb"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

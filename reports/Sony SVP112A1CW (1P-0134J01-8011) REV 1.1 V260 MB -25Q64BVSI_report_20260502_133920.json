@@ -1,0 +1,40 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-02T13:39:20.069648",
+    "file_path": "D:\\A26\\Bios\\Bios Sony\\Sony SVP112A1CW (1P-0134J01-8011) REV 1.1 V260\\Sony SVP112A1CW (1P-0134J01-8011) REV 1.1 V260 MB -25Q64BVSI.BIN",
+    "file_name": "Sony SVP112A1CW (1P-0134J01-8011) REV 1.1 V260 MB -25Q64BVSI.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x470028",
+            "0x490028",
+            "0x510028",
+            "0x75f028",
+            "0x770028",
+            "0x7a4358",
+            "0x7a44a5",
+            "0x7a7287",
+            "0x7b504e",
+            "0x7ff810"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x40046f",
+            "0x7d9d24",
+            "0x7dc3c4"
+        ],
+        "Insyde BIOS": [
+            "0x450160",
+            "0x6b1130"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

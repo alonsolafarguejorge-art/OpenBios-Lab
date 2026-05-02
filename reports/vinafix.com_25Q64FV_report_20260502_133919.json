@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-02T13:39:19.881527",
+    "file_path": "D:\\A26\\Bios\\Bios Sony\\Sony SVP112A19T 1P-0134200-8011 V260 R1.1\\vinafix.com_25Q64FV.bin",
+    "file_name": "vinafix.com_25Q64FV.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x470028",
+            "0x490028",
+            "0x510028",
+            "0x75f028",
+            "0x770028",
+            "0x7a4bd8",
+            "0x7a4d25",
+            "0x7a7b07",
+            "0x7b58ce",
+            "0x7ff810"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x40046f",
+            "0x40c388",
+            "0x7da5cc",
+            "0x7dcc6c"
+        ],
+        "Insyde BIOS": [
+            "0x450160",
+            "0x6b1470"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

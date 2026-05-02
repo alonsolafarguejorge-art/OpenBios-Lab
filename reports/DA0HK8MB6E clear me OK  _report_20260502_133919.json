@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-02T13:39:19.681805",
+    "file_path": "D:\\A26\\Bios\\Bios Sony\\Sony SVF14218SGB DAOHK8MB6E0 HK8 DA0HK8MB6E0\\DA0HK8MB6E clear me OK  .bin",
+    "file_name": "DA0HK8MB6E clear me OK  .bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x520028",
+            "0x6f2028",
+            "0x772028",
+            "0x79c030",
+            "0x7a0028",
+            "0x7ba965",
+            "0x7bad3a",
+            "0x7bc48b"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

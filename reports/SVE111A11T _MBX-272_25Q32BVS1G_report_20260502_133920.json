@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-02T13:39:20.434665",
+    "file_path": "D:\\A26\\Bios\\Bios Sony\\Sony Vaio SVE111B11M MBX-272 1P-0128J00-6011\\SVE111A11T _MBX-272_25Q32BVS1G.BIN",
+    "file_name": "SVE111A11T _MBX-272_25Q32BVS1G.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x351028",
+            "0x383028",
+            "0x3bda4b",
+            "0x3bde07",
+            "0x3bfc03"
+        ],
+        "Insyde BIOS": [
+            "0x160"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

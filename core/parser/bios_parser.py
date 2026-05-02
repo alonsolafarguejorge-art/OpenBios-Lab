@@ -1,4 +1,6 @@
 import os
+import json
+from datetime import datetime
 
 
 def find_all_offsets(binary_data, signature):
@@ -64,6 +66,24 @@ def basic_health_check(file_size, structure):
     return warnings if warnings else ["No obvious structural issues detected"]
 
 
+def export_report(report_data, original_file):
+    reports_dir = "reports"
+    os.makedirs(reports_dir, exist_ok=True)
+
+    base_name = os.path.splitext(os.path.basename(original_file))[0]
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+
+    output_file = os.path.join(
+        reports_dir,
+        f"{base_name}_report_{timestamp}.json"
+    )
+
+    with open(output_file, "w", encoding="utf-8") as report_file:
+        json.dump(report_data, report_file, indent=4)
+
+    return output_file
+
+
 def analyze_bios_file(file_path):
     if not os.path.exists(file_path):
         return {
@@ -82,9 +102,11 @@ def analyze_bios_file(file_path):
 
     health_warnings = basic_health_check(file_size, structure)
 
-    return {
+    report = {
         "status": "success",
+        "analysis_timestamp": datetime.now().isoformat(),
         "file_path": file_path,
+        "file_name": os.path.basename(file_path),
         "file_size_bytes": file_size,
         "file_size_mb": round(file_size / (1024 * 1024), 2),
         "bios_type": bios_type,
@@ -92,6 +114,11 @@ def analyze_bios_file(file_path):
         "detected_structure": structure if structure else {"Unknown": "N/A"},
         "health_check": health_warnings
     }
+
+    report_path = export_report(report, file_path)
+    report["report_saved_to"] = report_path
+
+    return report
 
 
 if __name__ == "__main__":

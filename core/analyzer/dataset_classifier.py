@@ -4,13 +4,48 @@ from collections import defaultdict
 
 
 VENDOR_KEYWORDS = {
-    "HP": ["hp", "probook", "elitebook", "pavilion"],
-    "Dell": ["dell", "latitude", "inspiron", "precision"],
-    "Lenovo": ["lenovo", "thinkpad", "ideapad"],
-    "ASUS": ["asus", "rog", "vivobook"],
-    "Acer": ["acer", "aspire", "nitro", "predator"],
-    "MSI": ["msi"],
-    "Gigabyte": ["gigabyte", "aorus"]
+    "HP": [
+        "hp", "probook", "elitebook", "pavilion", "envy", "zbook"
+    ],
+    "Dell": [
+        "dell", "latitude", "inspiron", "precision", "vostro", "xps"
+    ],
+    "Lenovo": [
+        "lenovo", "thinkpad", "ideapad", "legion", "yoga"
+    ],
+    "ASUS": [
+        "asus", "rog", "vivobook", "zenbook", "tuf"
+    ],
+    "Acer": [
+        "acer", "aspire", "nitro", "predator", "travelmate"
+    ],
+    "MSI": [
+        "msi", "katana", "stealth", "raider"
+    ],
+    "Gigabyte": [
+        "gigabyte", "aorus"
+    ],
+    "Toshiba": [
+        "toshiba", "satellite", "dynabook"
+    ],
+    "Samsung": [
+        "samsung", "np", "galaxy book"
+    ],
+    "Sony": [
+        "sony", "vaio"
+    ],
+    "Fujitsu": [
+        "fujitsu", "lifebook"
+    ],
+    "Clevo": [
+        "clevo"
+    ],
+    "Compal": [
+        "compal"
+    ],
+    "Quanta": [
+        "quanta"
+    ]
 }
 
 

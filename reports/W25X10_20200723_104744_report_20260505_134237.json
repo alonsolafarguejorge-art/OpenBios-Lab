@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:37.732912",
+    "file_path": "E:\\Bios Acer\\Acer Switch SW312-31 SW312-31 T8202_ Pcb _ MB _V6\\W25X10_20200723_104744.BIN",
+    "file_name": "W25X10_20200723_104744.BIN",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

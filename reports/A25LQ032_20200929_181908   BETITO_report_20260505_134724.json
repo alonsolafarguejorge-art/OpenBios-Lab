@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:24.222460",
+    "file_path": "E:\\Bios Hp Compaq\\HP PAVILION 14-B065BR QUANTA DA0U33MB6D0 REV.D\\A25LQ032_20200929_181908   BETITO.BIN",
+    "file_name": "A25LQ032_20200929_181908   BETITO.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1ae030",
+            "0x1d0028",
+            "0x380028",
+            "0x381028",
+            "0x39e9f3",
+            "0x39f026",
+            "0x3a341f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2596e8",
+            "0x2d91f6",
+            "0x38009e",
+            "0x38027e",
+            "0x3eeeee",
+            "0x3ef0ce"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

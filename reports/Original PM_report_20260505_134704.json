@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:04.924725",
+    "file_path": "E:\\Bios Hp Compaq\\HP DV5 SEGUNDA GEN AMD\\6050A2313401-MB-A03\\Original PM.bin",
+    "file_name": "Original PM.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x13028",
+            "0x196028",
+            "0x1a6028",
+            "0x1ad028",
+            "0x1ba028",
+            "0x1ef56f",
+            "0x1efcec",
+            "0x1f327b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

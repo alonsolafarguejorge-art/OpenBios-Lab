@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:52.642262",
+    "file_path": "E:\\Bios Dell\\Dell Latitude E7270 and Latitude E7470 BIOS AAZ50 LA-C451P\\__MACOSX\\._DELL Latitude E7270 AAZ50 LA-C451P.bin",
+    "file_name": "._DELL Latitude E7270 AAZ50 LA-C451P.bin",
+    "file_size_bytes": 182,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:19.036066",
+    "file_path": "E:\\BIOS\\BIOS RECIENTES\\A1312 820-2828-A bios\\original PM.bin",
+    "file_name": "original PM.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x181028",
+            "0x490028",
+            "0x4b8028",
+            "0x682028",
+            "0x692028",
+            "0x695028",
+            "0x698028",
+            "0x6b8028",
+            "0x6d8028",
+            "0x700028",
+            "0x700aa5",
+            "0x709f82",
+            "0x715037",
+            "0x72e0fe",
+            "0x72e4b9",
+            "0x73224a",
+            "0x770028",
+            "0x770aa5",
+            "0x779f82",
+            "0x785037",
+            "0x79e0fe",
+            "0x79e4b9",
+            "0x7a224a",
+            "0x7e0028",
+            "0x7e0415",
+            "0x7f0028",
+            "0x7f0415"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x292724",
+            "0x5ac6f1"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

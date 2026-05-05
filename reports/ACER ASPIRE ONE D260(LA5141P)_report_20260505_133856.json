@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:56.430130",
+    "file_path": "E:\\ACER ASPIRE ONE D260(LA5141P).BIN",
+    "file_name": "ACER ASPIRE ONE D260(LA5141P).BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x20028",
+            "0xc0028",
+            "0xe0028",
+            "0xe55d3",
+            "0xed117"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

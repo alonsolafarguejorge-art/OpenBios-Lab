@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:53.895643",
+    "file_path": "E:\\Bin\\western digital hdd.bin",
+    "file_name": "western digital hdd.bin",
+    "file_size_bytes": 262144,
+    "file_size_mb": 0.25,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

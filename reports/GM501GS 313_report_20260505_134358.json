@@ -1,0 +1,53 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:58.955313",
+    "file_path": "E:\\BIOS\\ROG Zephyrus M GM501GS\\GM501GS 313.bin",
+    "file_name": "GM501GS 313.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x440028",
+            "0x470028",
+            "0xd10028",
+            "0xda0028",
+            "0xda7fdb",
+            "0xdb952e",
+            "0xe20028",
+            "0xe20098",
+            "0xec0028",
+            "0xec4028",
+            "0xec607e",
+            "0xf11422",
+            "0xf20028",
+            "0xf20be6",
+            "0xf22800",
+            "0xf2f353",
+            "0xf2f3d1",
+            "0xf2f423",
+            "0xf37936",
+            "0xf40ca0",
+            "0xf5012b",
+            "0xf5b52c",
+            "0xffe90e",
+            "0xfff34c"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2000"
+        ],
+        "AMI BIOS": [
+            "0x11e057",
+            "0x44142b",
+            "0x442b21",
+            "0x663646",
+            "0xdfe321",
+            "0xf2f8d9",
+            "0xf649f3"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

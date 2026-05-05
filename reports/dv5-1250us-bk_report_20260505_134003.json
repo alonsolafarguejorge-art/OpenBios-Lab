@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:03.501339",
+    "file_path": "E:\\dv5-1250us-bk.bin",
+    "file_name": "dv5-1250us-bk.bin",
+    "file_size_bytes": 73728,
+    "file_size_mb": 0.07,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

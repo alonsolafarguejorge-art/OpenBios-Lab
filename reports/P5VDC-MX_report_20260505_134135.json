@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:35.589961",
+    "file_path": "E:\\P5VDC-MX.bin",
+    "file_name": "P5VDC-MX.bin",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x158aa",
+            "0x1e8a5",
+            "0x6bfea",
+            "0x7033c",
+            "0x70d95",
+            "0x71b0a"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

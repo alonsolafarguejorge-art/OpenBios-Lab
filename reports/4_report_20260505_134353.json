@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:53.458031",
+    "file_path": "E:\\BIOS\\optiplex 9020m\\OptiPlex 9020M A25\\4.bin",
+    "file_name": "4.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x32f279",
+            "0x32f3c2",
+            "0x332c96",
+            "0x358db6",
+            "0x3ff770"
+        ],
+        "AMI BIOS": [
+            "0x32a884",
+            "0x32ce5c",
+            "0x32e5f0",
+            "0x38d444"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

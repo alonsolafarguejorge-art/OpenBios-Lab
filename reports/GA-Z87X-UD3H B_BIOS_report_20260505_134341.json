@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:41.541350",
+    "file_path": "E:\\BIOS\\GA-Z87X-UD3H  NEW\\GA-Z87X-UD3H B_BIOS.bin",
+    "file_name": "GA-Z87X-UD3H B_BIOS.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x200028",
+            "0x310028",
+            "0xf00028",
+            "0xf41ce8",
+            "0xf425e3",
+            "0xf4272e",
+            "0xf4692e",
+            "0xf93faa",
+            "0xfff430"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x200834",
+            "0x464b02",
+            "0xfc966c",
+            "0xfcbbac"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

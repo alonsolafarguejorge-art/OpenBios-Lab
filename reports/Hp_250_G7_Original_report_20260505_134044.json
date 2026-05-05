@@ -1,0 +1,54 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:44.224356",
+    "file_path": "E:\\Hp_250_G7_Original.bin",
+    "file_name": "Hp_250_G7_Original.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x44b028",
+            "0x452028",
+            "0x4d3028",
+            "0x537030",
+            "0x53b028",
+            "0x8fb028",
+            "0xa68028",
+            "0xa98028",
+            "0xb48028",
+            "0xbcb028",
+            "0xbd3028",
+            "0xbd51bd",
+            "0xc39905",
+            "0xcfd028",
+            "0xd1c1b4",
+            "0xd48028",
+            "0xd78028",
+            "0xe28028",
+            "0xeab028",
+            "0xeb3028",
+            "0xeb51bd",
+            "0xf19905",
+            "0xfdd028",
+            "0xffc1b4",
+            "0xffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x354000"
+        ],
+        "AMI BIOS": [
+            "0xae68ae",
+            "0xae6a8e",
+            "0xdc68ae",
+            "0xdc6a8e"
+        ],
+        "Insyde BIOS": [
+            "0x40000a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

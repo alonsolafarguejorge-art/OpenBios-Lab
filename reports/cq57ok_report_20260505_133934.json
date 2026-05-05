@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:34.555109",
+    "file_path": "E:\\cq57ok.bin",
+    "file_name": "cq57ok.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x183028",
+            "0x193028",
+            "0x3a1028",
+            "0x3b3b6b",
+            "0x3b3ff8",
+            "0x3cf74f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x3dfa3e",
+            "0x3dfc1e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

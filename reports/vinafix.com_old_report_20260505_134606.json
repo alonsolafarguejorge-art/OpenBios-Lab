@@ -1,0 +1,48 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:06.887558",
+    "file_path": "E:\\Bios Dell\\XPS 8930 IPCFL-VM REV A00\\vinafix.com_old.bin",
+    "file_name": "vinafix.com_old.bin",
+    "file_size_bytes": 16777728,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x802028",
+            "0x822028",
+            "0x852028",
+            "0x85b888",
+            "0xdd0028",
+            "0xea0028",
+            "0xeb0c82",
+            "0xf40028",
+            "0xf40d56",
+            "0xf40e99",
+            "0xf42825",
+            "0xf56ccd",
+            "0xf5e6a9",
+            "0xfc73a1",
+            "0xfff305"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x803244",
+            "0x8046ba",
+            "0x80a67a",
+            "0x823244",
+            "0x8246ba",
+            "0x82a67a",
+            "0x8317cb",
+            "0xf2c099",
+            "0xf55601",
+            "0xfd5e8d",
+            "0xfd86ac"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

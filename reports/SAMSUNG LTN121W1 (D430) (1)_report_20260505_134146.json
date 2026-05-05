@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:46.035939",
+    "file_path": "E:\\SAMSUNG LTN121W1 (D430) (1).BIN",
+    "file_name": "SAMSUNG LTN121W1 (D430) (1).BIN",
+    "file_size_bytes": 128,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

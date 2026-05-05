@@ -1,0 +1,71 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:09.951033",
+    "file_path": "E:\\BIOS\\17831-1\\W25Q128FWXXXG@SOIC8_20210930_162213   hugo 17831-1.BIN",
+    "file_name": "W25Q128FWXXXG@SOIC8_20210930_162213   hugo 17831-1.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x93028",
+            "0x95028",
+            "0x95cb0",
+            "0x96028",
+            "0x96845",
+            "0x968fb",
+            "0x9c8f3",
+            "0x9ca4b",
+            "0x9ceee",
+            "0xa3360",
+            "0xabcfd",
+            "0xb5c10",
+            "0xd6028",
+            "0xd8037",
+            "0xdd070",
+            "0x13c028",
+            "0x13d3ea",
+            "0x13d522",
+            "0x14645d",
+            "0x14744b",
+            "0x147501",
+            "0x18097d",
+            "0x1869e8",
+            "0x1dc028",
+            "0x783028",
+            "0xb5e028",
+            "0xb8e028",
+            "0xbce028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5a32e",
+            "0x61582",
+            "0x615a8",
+            "0x6906b",
+            "0xeff000"
+        ],
+        "AMI BIOS": [
+            "0x930a5",
+            "0xd60a5",
+            "0x10eab3",
+            "0x118e28",
+            "0x119c80",
+            "0x119cd0",
+            "0x18af33",
+            "0x1dc0a5",
+            "0xb8e927",
+            "0xb8f3a0",
+            "0xb91d94",
+            "0xbce927",
+            "0xbcf3a0",
+            "0xbd1d94"
+        ],
+        "Insyde BIOS": [
+            "0xb3c160"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

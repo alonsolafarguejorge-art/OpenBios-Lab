@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:28.329966",
+    "file_path": "E:\\Bios Dell\\Dell Alienware 17 R3 AAP21 LA-C912P Rev2.0 (A01)\\Dell Alienware 17 R3 AAP21 LA-C912P Rev2.0 (A01)\\LA-C912P R2.KB9022.bin",
+    "file_name": "LA-C912P R2.KB9022.bin",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

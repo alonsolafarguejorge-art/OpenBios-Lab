@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:44.265822",
+    "file_path": "E:\\s10 3 (da0fl5mb6d0) (u9) (1).BIN",
+    "file_name": "s10 3 (da0fl5mb6d0) (u9) (1).BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xec055",
+            "0xec088",
+            "0xf1030"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:22.623793",
+    "file_path": "E:\\Bios Hp Compaq\\HP 14-am045la serial BIOS DINERINL-6050A2823301-MB-A01\\HP 14-am045la\\081DC\\081DC.bin",
+    "file_name": "081DC.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x254028",
+            "0x288030",
+            "0x34c028",
+            "0x66f028",
+            "0x70e028",
+            "0x70f028",
+            "0x7167e3",
+            "0x7deda7"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x70e09e",
+            "0x70e27e",
+            "0x7ddc4e",
+            "0x7dde2e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

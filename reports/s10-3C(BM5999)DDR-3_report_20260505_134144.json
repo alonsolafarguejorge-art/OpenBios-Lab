@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:44.511318",
+    "file_path": "E:\\s10-3C(BM5999)DDR-3.bin",
+    "file_name": "s10-3C(BM5999)DDR-3.bin",
+    "file_size_bytes": 2097154,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2028",
+            "0x12028",
+            "0x1d6028",
+            "0x1d8ae6",
+            "0x1d9d3b"
+        ],
+        "AMI BIOS": [
+            "0x2113",
+            "0x2244"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

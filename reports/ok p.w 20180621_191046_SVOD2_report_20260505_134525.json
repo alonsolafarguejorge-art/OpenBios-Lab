@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:25.056445",
+    "file_path": "E:\\Bios Dell\\Dell 15-5565 LA-D803P AMD CPU\\ok p.w 20180621_191046_SVOD2.bin",
+    "file_name": "ok p.w 20180621_191046_SVOD2.bin",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

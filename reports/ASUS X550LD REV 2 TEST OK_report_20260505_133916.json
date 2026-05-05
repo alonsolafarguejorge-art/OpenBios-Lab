@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:16.908501",
+    "file_path": "E:\\ASUS X550LD REV 2 TEST OK.bin",
+    "file_name": "ASUS X550LD REV 2 TEST OK.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x210028",
+            "0x280028",
+            "0x730028",
+            "0x750028",
+            "0x78aed0",
+            "0x78b01d",
+            "0x78f314",
+            "0x79db06",
+            "0x7ff770"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x21052d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

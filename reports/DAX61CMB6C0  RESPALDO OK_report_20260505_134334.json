@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:34.211394",
+    "file_path": "E:\\BIOS\\DAX61CMB6C0\\DAX61CMB6C0  RESPALDO OK.BIN",
+    "file_name": "DAX61CMB6C0  RESPALDO OK.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x75d028",
+            "0xb10028",
+            "0xb51028",
+            "0xc0c028",
+            "0xc0e5f7",
+            "0xcb274b",
+            "0xcd20ee",
+            "0xda8028",
+            "0xe63028",
+            "0xe655f7",
+            "0xf0974b",
+            "0xf290ee",
+            "0xffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

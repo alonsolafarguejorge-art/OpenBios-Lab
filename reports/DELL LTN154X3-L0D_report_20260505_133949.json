@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:49.167441",
+    "file_path": "E:\\DELL LTN154X3-L0D.BIN",
+    "file_name": "DELL LTN154X3-L0D.BIN",
+    "file_size_bytes": 4097,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

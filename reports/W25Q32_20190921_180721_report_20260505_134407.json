@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:07.010635",
+    "file_path": "E:\\BIOS\\V5-472 DA0ZQKMB8F0\\W25Q32_20190921_180721.BIN",
+    "file_name": "W25Q32_20190921_180721.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x100028",
+            "0x312028",
+            "0x33c030",
+            "0x340028",
+            "0x35e2dd",
+            "0x35e6bc",
+            "0x36154b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

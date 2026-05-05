@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:47.567970",
+    "file_path": "E:\\910 CYG50 NM-A901 AGERA-SVT Rev1.0 Clean ME Lenovo Yoga.bin",
+    "file_name": "910 CYG50 NM-A901 AGERA-SVT Rev1.0 Clean ME Lenovo Yoga.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2ce028",
+            "0x580028",
+            "0x5b4030",
+            "0x6c0028",
+            "0x6c4609",
+            "0x6dfc5b"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

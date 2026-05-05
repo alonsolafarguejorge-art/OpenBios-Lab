@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:06.909467",
+    "file_path": "E:\\Bios Dell\\_Dell  mini la-5091p\\Dell  mini la-5091p.bin",
+    "file_name": "Dell  mini la-5091p.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xebc75"
+        ],
+        "Phoenix BIOS": [
+            "0xec2d8",
+            "0xec30c"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

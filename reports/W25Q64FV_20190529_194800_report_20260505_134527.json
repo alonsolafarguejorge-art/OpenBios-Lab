@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:27.508673",
+    "file_path": "E:\\Bios Dell\\Dell Alienware 13 - ZAP00 LA-A301P\\Dell Alienware 13 - ZAP00 LA-A301P\\W25Q64FV_20190529_194800.BIN",
+    "file_name": "W25Q64FV_20190529_194800.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x204028",
+            "0x224028",
+            "0x245028",
+            "0x720028",
+            "0x72141f",
+            "0x722efb",
+            "0x72cea8",
+            "0x791750",
+            "0x7ffa63"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2046a2",
+            "0x2048cf",
+            "0x20668f",
+            "0x2066d6",
+            "0x206846",
+            "0x2246a2",
+            "0x2248cf",
+            "0x22668f",
+            "0x2266d6",
+            "0x226846"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

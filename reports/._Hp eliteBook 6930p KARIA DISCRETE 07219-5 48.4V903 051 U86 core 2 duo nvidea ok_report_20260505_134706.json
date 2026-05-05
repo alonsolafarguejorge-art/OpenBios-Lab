@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:06.393756",
+    "file_path": "E:\\Bios Hp Compaq\\HP EliteBook 6930P Karia Discrete 07219\\__MACOSX\\._Hp eliteBook 6930p KARIA DISCRETE 07219-5 48.4V903 051 U86 core 2 duo nvidea ok.bin",
+    "file_name": "._Hp eliteBook 6930p KARIA DISCRETE 07219-5 48.4V903 051 U86 core 2 duo nvidea ok.bin",
+    "file_size_bytes": 182,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

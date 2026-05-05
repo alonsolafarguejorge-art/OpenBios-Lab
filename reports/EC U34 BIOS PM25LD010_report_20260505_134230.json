@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:30.189416",
+    "file_path": "E:\\Bios Acer\\ACER AIO Z3-615 Madrid23 MB 13094-1\\EC U34 BIOS PM25LD010.BIN",
+    "file_name": "EC U34 BIOS PM25LD010.BIN",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

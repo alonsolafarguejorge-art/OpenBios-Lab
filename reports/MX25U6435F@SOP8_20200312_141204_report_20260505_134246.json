@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:46.369989",
+    "file_path": "E:\\Bios Acer\\Aspire Z1-612 BIOS 15047-1 Bolton195i bsw mb\\MX25U6435F@SOP8_20200312_141204.BIN",
+    "file_name": "MX25U6435F@SOP8_20200312_141204.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x320028",
+            "0x350028",
+            "0x3a0028",
+            "0x3a6028",
+            "0x73b028",
+            "0x7e1028",
+            "0x7e3e2b",
+            "0x7e69c0",
+            "0x7f32cd"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x1225bc",
+            "0x30044e",
+            "0x304c9d",
+            "0x304fc6",
+            "0x32044e",
+            "0x324c9d",
+            "0x324fc6",
+            "0x4dca91",
+            "0x751e48"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:22.293477",
+    "file_path": "E:\\Bios Lenovo IBM\\LENOVO  IDEAPAD 300 bm5455_W25Q64FW_U3_PCH OK\\__MACOSX\\._W25Q64FW_U3_PCH.BIN",
+    "file_name": "._W25Q64FW_U3_PCH.BIN",
+    "file_size_bytes": 212,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

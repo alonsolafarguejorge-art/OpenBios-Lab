@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:06.055730",
+    "file_path": "E:\\dv9000at9.bin",
+    "file_name": "dv9000at9.bin",
+    "file_size_bytes": 1109666,
+    "file_size_mb": 1.06,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xf6d38",
+            "0xf6d6d"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

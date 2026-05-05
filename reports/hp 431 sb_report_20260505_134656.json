@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:56.675733",
+    "file_path": "E:\\Bios Hp Compaq\\HP 431 HM65 A CHICAGO -CP- HPC   MV-MB-V2  ML1 H\\HP 431 HM65 A CHICAGO -CP- HPC   MV-MB-V2  ML1 H\\hp 431 sb.BIN",
+    "file_name": "hp 431 sb.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x203028",
+            "0x213028",
+            "0x3a1028",
+            "0x3af814",
+            "0x3b0e72",
+            "0x3b5e9f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x3f41fe",
+            "0x3f43de"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

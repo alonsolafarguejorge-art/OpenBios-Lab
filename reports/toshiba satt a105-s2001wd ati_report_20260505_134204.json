@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:04.089608",
+    "file_path": "E:\\toshiba satt a105-s2001wd ati.BIN",
+    "file_name": "toshiba satt a105-s2001wd ati.BIN",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x6c9e0",
+            "0x6ca1c"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

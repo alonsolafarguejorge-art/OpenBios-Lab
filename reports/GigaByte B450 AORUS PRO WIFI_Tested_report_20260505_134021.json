@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:21.923722",
+    "file_path": "E:\\GigaByte B450 AORUS PRO WIFI_Tested.bin",
+    "file_name": "GigaByte B450 AORUS PRO WIFI_Tested.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x37028",
+            "0x94f028",
+            "0x9500e8",
+            "0x970138",
+            "0xe3f028",
+            "0xe40028"
+        ],
+        "AMI BIOS": [
+            "0x37351"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

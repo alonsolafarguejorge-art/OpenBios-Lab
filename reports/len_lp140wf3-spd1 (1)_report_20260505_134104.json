@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:04.393065",
+    "file_path": "E:\\len_lp140wf3-spd1 (1).BIN",
+    "file_name": "len_lp140wf3-spd1 (1).BIN",
+    "file_size_bytes": 2048,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

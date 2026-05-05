@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:05.337660",
+    "file_path": "E:\\BIOS\\GD25Q64B_20200429_103130   DAOBLMMB6E0  L55D  PSKULU BCK UP GABRIEL.BIN",
+    "file_name": "GD25Q64B_20200429_103130   DAOBLMMB6E0  L55D  PSKULU BCK UP GABRIEL.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x193028",
+            "0x726028",
+            "0x754030",
+            "0x75b028",
+            "0x7b1adf",
+            "0x7b1e94",
+            "0x7b4e0e"
+        ],
+        "AMI BIOS": [
+            "0x141bc7"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

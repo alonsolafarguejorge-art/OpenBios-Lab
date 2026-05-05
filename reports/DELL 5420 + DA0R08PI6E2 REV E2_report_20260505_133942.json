@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:42.408777",
+    "file_path": "E:\\DELL 5420 + DA0R08PI6E2 REV E2.BIN",
+    "file_name": "DELL 5420 + DA0R08PI6E2 REV E2.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x660028",
+            "0x6ef028",
+            "0x750028",
+            "0x756ad8",
+            "0x76d95c",
+            "0x76d986",
+            "0x7bb55f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x57f573"
+        ],
+        "Phoenix BIOS": [
+            "0x672e1b",
+            "0x672e4e",
+            "0x672ebe",
+            "0x672ef1",
+            "0x6730b6",
+            "0x6730e9"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

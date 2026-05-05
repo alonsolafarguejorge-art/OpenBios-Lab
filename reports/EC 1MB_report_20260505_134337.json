@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:37.026543",
+    "file_path": "E:\\BIOS\\Echo 15 17 nVidia - LA-B751P  LA-B753P\\Dell Alienware 17 R2-LA-B753P\\EC 1MB.bin",
+    "file_name": "EC 1MB.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

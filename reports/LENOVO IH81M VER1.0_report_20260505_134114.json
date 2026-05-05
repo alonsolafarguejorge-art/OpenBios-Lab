@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:14.075369",
+    "file_path": "E:\\LENOVO IH81M VER1.0.BIN",
+    "file_name": "LENOVO IH81M VER1.0.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x420028",
+            "0x450028",
+            "0x720028",
+            "0x740028",
+            "0x77dcd3",
+            "0x77de20",
+            "0x782063",
+            "0x79010e",
+            "0x7ff790"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x402161",
+            "0x42436b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

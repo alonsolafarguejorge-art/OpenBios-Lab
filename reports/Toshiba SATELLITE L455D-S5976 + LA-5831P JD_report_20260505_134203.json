@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:03.714718",
+    "file_path": "E:\\Toshiba SATELLITE L455D-S5976 + LA-5831P JD.bin",
+    "file_name": "Toshiba SATELLITE L455D-S5976 + LA-5831P JD.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xec401",
+            "0xec435",
+            "0xf4030"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

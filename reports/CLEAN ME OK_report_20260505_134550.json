@@ -1,0 +1,64 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:50.161632",
+    "file_path": "E:\\Bios Dell\\Dell LATITUDE E5550 zam80 la-a911p\\CLEAN ME OK.bin",
+    "file_name": "CLEAN ME OK.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x200028",
+            "0x220028",
+            "0x250028",
+            "0x290028",
+            "0x2a0028",
+            "0x680028",
+            "0x6a0028",
+            "0x6a1fdd",
+            "0x6a59d2",
+            "0x6a5b0b",
+            "0x6a8217",
+            "0x6a825e",
+            "0x6ac840",
+            "0x763ec0",
+            "0x7ffa6b"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5010"
+        ],
+        "AMI BIOS": [
+            "0x200b17",
+            "0x20fddb",
+            "0x220b17",
+            "0x2269c7",
+            "0x295d8c",
+            "0x296050",
+            "0x296097",
+            "0x296207",
+            "0x296361",
+            "0x296516",
+            "0x29655d",
+            "0x2966cd",
+            "0x2968c0",
+            "0x296907",
+            "0x296a77",
+            "0x296bd1",
+            "0x2973e8",
+            "0x29742f",
+            "0x29759f",
+            "0x2976f9",
+            "0x298540",
+            "0x298587",
+            "0x2986f7",
+            "0x298851",
+            "0x4aedcc",
+            "0x74ac81",
+            "0x75a11d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

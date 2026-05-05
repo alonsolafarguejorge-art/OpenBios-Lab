@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:48.551035",
+    "file_path": "E:\\Bios Acer\\Gateway ZX4970 - IPISB-AG\\Acer Z3770 Z5770 Z5771_IPISB-AG 1.04\\W25Q32BV_IPISB_AG_104.BIN",
+    "file_name": "W25Q32BV_IPISB_AG_104.BIN",
+    "file_size_bytes": 4195328,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x200028",
+            "0x210028",
+            "0x220028",
+            "0x3a0028",
+            "0x3baa10",
+            "0x3bbe74",
+            "0x3c942f",
+            "0x3ff7f0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x2001bf",
+            "0x200368",
+            "0x2004dd",
+            "0x2101bf",
+            "0x210368",
+            "0x2104dd"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

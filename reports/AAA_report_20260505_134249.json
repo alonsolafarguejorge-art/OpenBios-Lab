@@ -1,0 +1,50 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:49.147450",
+    "file_path": "E:\\Bin\\AAA.bin",
+    "file_name": "AAA.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x190028",
+            "0x330028",
+            "0x360028",
+            "0x600028",
+            "0x610028",
+            "0x620028",
+            "0x630028",
+            "0x650028",
+            "0x670028",
+            "0x6a0028",
+            "0x6a6863",
+            "0x6b32d9",
+            "0x6e7687",
+            "0x6fa7d3",
+            "0x6fac46",
+            "0x704b45",
+            "0x740028",
+            "0x746863",
+            "0x7532d9",
+            "0x787687",
+            "0x79a7d3",
+            "0x79ac46",
+            "0x7a4b45",
+            "0x7e0028",
+            "0x7e060b",
+            "0x7f0028",
+            "0x7f060b"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x41504d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

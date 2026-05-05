@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:16.099859",
+    "file_path": "E:\\G60JX (2).ROM",
+    "file_name": "G60JX (2).ROM",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x220028",
+            "0x234028",
+            "0x3a0028",
+            "0x3bf765"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x22032b",
+            "0x220404",
+            "0x279d04"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

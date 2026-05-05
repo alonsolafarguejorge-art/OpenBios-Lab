@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:12.731148",
+    "file_path": "E:\\f13 -mbx-235-n11p-gs-a1-i7small.bin",
+    "file_name": "f13 -mbx-235-n11p-gs-a1-i7small.bin",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Insyde BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Insyde BIOS": [
+            "0x160"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

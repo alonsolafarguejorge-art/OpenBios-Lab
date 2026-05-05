@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:44.535548",
+    "file_path": "E:\\s10-3c.bin",
+    "file_name": "s10-3c.bin",
+    "file_size_bytes": 65536,
+    "file_size_mb": 0.06,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x41"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

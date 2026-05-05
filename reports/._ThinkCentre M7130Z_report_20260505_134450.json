@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:50.818517",
+    "file_path": "E:\\Bios Lenovo IBM\\ThinkCentre M7130Z 10124-3\\__MACOSX\\._ThinkCentre M7130Z.bin",
+    "file_name": "._ThinkCentre M7130Z.bin",
+    "file_size_bytes": 212,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

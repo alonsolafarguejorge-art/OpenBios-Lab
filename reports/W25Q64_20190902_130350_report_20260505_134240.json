@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:40.044657",
+    "file_path": "E:\\Bios Acer\\Acer-Gateway Acer Aspire S3 Series Wistron Hummingbird2_CR HM2-CR 12201-2 48.4TH03.001\\W25Q64_20190902_130350.BIN",
+    "file_name": "W25Q64_20190902_130350.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x522028",
+            "0x712028",
+            "0x73c030",
+            "0x740028",
+            "0x75f375",
+            "0x75f754",
+            "0x7607f3"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Insyde BIOS": [
+            "0x508074"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

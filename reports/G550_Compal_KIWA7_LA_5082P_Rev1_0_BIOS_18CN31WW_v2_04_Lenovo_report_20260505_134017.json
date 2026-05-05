@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:17.550947",
+    "file_path": "E:\\G550_Compal_KIWA7_LA_5082P_Rev1_0_BIOS_18CN31WW_v2_04_Lenovo.bin",
+    "file_name": "G550_Compal_KIWA7_LA_5082P_Rev1_0_BIOS_18CN31WW_v2_04_Lenovo.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

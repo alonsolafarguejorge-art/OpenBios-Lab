@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:39.371924",
+    "file_path": "E:\\DEL1201-V100AAML6b3.bin",
+    "file_name": "DEL1201-V100AAML6b3.bin",
+    "file_size_bytes": 1768892,
+    "file_size_mb": 1.69,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x3f568"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

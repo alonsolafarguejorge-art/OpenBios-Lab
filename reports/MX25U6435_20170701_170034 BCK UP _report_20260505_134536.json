@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:36.416238",
+    "file_path": "E:\\Bios Dell\\DELL INSPIRON 14 14 Iris BTM MB 142141-1 PWB 1JTN6 REV A00\\MX25U6435_20170701_170034 BCK UP .BIN",
+    "file_name": "MX25U6435_20170701_170034 BCK UP .BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x224028",
+            "0x274028",
+            "0x2c4028",
+            "0x67f028",
+            "0x680028",
+            "0x780028",
+            "0x7ce028",
+            "0x7cff90",
+            "0x7d25f9",
+            "0x7d8630",
+            "0x7e96f8",
+            "0x7ffb5a"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x22463e",
+            "0x536cce"
+        ],
+        "Insyde BIOS": [
+            "0x200160"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

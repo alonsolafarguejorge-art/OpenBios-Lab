@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:01.257648",
+    "file_path": "E:\\l-300 (6050a2170201mb-a03-).bin",
+    "file_name": "l-300 (6050a2170201mb-a03-).bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x18028",
+            "0xc0028",
+            "0xd0028",
+            "0xe0028",
+            "0xe7634",
+            "0xf5bd5"
+        ],
+        "Insyde BIOS": [
+            "0x108e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

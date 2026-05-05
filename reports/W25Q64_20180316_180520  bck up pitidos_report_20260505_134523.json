@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:23.704815",
+    "file_path": "E:\\Bios Dell\\DELL 15 ZAVC0 LA-B012P REV 1.0\\W25Q64_20180316_180520  bck up pitidos.BIN",
+    "file_name": "W25Q64_20180316_180520  bck up pitidos.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x402028",
+            "0x6ce028",
+            "0x6fc030",
+            "0x700028",
+            "0x730743",
+            "0x730b18",
+            "0x7323fb"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

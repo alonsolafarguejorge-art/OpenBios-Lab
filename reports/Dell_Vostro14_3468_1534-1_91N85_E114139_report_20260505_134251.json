@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:51.653744",
+    "file_path": "E:\\Bin\\Dell_Vostro14_3468_1534-1_91N85_E114139.bin",
+    "file_name": "Dell_Vostro14_3468_1534-1_91N85_E114139.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x700028",
+            "0x740028",
+            "0x7a0028",
+            "0x800028",
+            "0x811028",
+            "0x851028",
+            "0x861028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x74143d",
+            "0x7418a1",
+            "0x752203",
+            "0x7a143d",
+            "0x7a18a1"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

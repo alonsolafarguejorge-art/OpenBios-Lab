@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:55.552264",
+    "file_path": "E:\\Bios Hp Compaq\\HP 245 G3 ZSO41 LA-A997P\\LA-A997P .BIN",
+    "file_name": "LA-A997P .BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1b4028",
+            "0x1e0030",
+            "0x1f4028",
+            "0x750028",
+            "0x751028",
+            "0x7a9cab",
+            "0x7aa2d3",
+            "0x7af14b",
+            "0x7af66b"
+        ],
+        "AMI BIOS": [
+            "0x6fcf40",
+            "0x75009e",
+            "0x75027e",
+            "0x7c73f6",
+            "0x7c75d6"
+        ],
+        "Insyde BIOS": [
+            "0x114"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

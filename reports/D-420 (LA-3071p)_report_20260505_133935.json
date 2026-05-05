@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:35.824830",
+    "file_path": "E:\\D-420 (LA-3071p).bin",
+    "file_name": "D-420 (LA-3071p).bin",
+    "file_size_bytes": 1048577,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x2001c",
+            "0x25268",
+            "0x280b9"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

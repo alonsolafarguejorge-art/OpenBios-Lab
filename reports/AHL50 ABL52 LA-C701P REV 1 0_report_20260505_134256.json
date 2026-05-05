@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:56.681784",
+    "file_path": "E:\\BIOS\\AHL50 ABL52 LA-C701P REV 1 0.BIN",
+    "file_name": "AHL50 ABL52 LA-C701P REV 1 0.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x244028",
+            "0x278030",
+            "0x2fd028",
+            "0x730028",
+            "0x737da8",
+            "0x7c9a73"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x7c88de",
+            "0x7c8abe"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

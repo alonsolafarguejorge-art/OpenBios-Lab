@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:32.702173",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo Ideapad 100S-14IBR 1501B_01_01 REV SOVP4\\PN 431202029010  1501B_01_01 REVSOVP4\\ux3.BIN",
+    "file_name": "ux3.BIN",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

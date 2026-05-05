@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:04.552344",
+    "file_path": "E:\\Bios Toshiba\\Toshiba Satellite L30w hl10bm-6050a2632901-mb-a01 MX25U6435E\\Toshiba Satellite L30w hl10bm-6050a2632901-mb-a01 MX25U6435E.BIN",
+    "file_name": "Toshiba Satellite L30w hl10bm-6050a2632901-mb-a01 MX25U6435E.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x500028",
+            "0x53e030",
+            "0x550028",
+            "0x5d0028",
+            "0x780028",
+            "0x7adf11",
+            "0x7ae1bc",
+            "0x7e1028",
+            "0x7e2722"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2010"
+        ],
+        "Insyde BIOS": [
+            "0x59458e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

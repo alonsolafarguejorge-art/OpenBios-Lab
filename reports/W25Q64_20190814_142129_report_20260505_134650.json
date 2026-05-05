@@ -1,0 +1,58 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:50.981894",
+    "file_path": "E:\\Bios Hp Compaq\\HP 20 DA0N69MB6E0  REV E\\W25Q64_20190814_142129.BIN",
+    "file_name": "W25Q64_20190814_142129.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x140028",
+            "0x1407f0",
+            "0x160028",
+            "0x1607f0",
+            "0x180028",
+            "0x6c0028",
+            "0x6c4ce0",
+            "0x6c4e32",
+            "0x6c9194",
+            "0x75fd7e",
+            "0x75fd8f",
+            "0x75fda0",
+            "0x75fdb1",
+            "0x760028",
+            "0x764ce0",
+            "0x764e32",
+            "0x769194",
+            "0x7ffd7e",
+            "0x7ffd8f",
+            "0x7ffda0",
+            "0x7ffdb1"
+        ],
+        "AMI BIOS": [
+            "0x1401f9",
+            "0x140980",
+            "0x141c0d",
+            "0x1422f6",
+            "0x146479",
+            "0x1601f9",
+            "0x160980",
+            "0x161c0d",
+            "0x1622f6",
+            "0x166479",
+            "0x30600d",
+            "0x73361c",
+            "0x739c5b",
+            "0x739f5b",
+            "0x7d361c",
+            "0x7d9c5b",
+            "0x7d9f5b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

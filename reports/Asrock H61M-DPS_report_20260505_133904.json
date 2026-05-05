@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:04.875999",
+    "file_path": "E:\\Asrock H61M-DPS.bin",
+    "file_name": "Asrock H61M-DPS.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1c0028",
+            "0x360028",
+            "0x3a9833",
+            "0x3a997c",
+            "0x3ad36a",
+            "0x3bafd2",
+            "0x3fd7b0",
+            "0x3fe028",
+            "0x3ffee0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x180397",
+            "0x3e5834",
+            "0x3e8ad4"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

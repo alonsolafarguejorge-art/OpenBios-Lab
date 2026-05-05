@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:34.214218",
+    "file_path": "E:\\cq42 daoax3mb6c2 227TU (1).BIN",
+    "file_name": "cq42 daoax3mb6c2 227TU (1).BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x20028",
+            "0xd0028",
+            "0xd8028",
+            "0xe3028",
+            "0xf3028",
+            "0xfa616",
+            "0xfc0ba"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

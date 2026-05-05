@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:53.623672",
+    "file_path": "E:\\Bios Hp Compaq\\HP 240  G4 SKITTL10-6050A2730601-MB-A01 SR29H\\HP 240 g4-6050A2730001-MB-A01.BIN",
+    "file_name": "HP 240 g4-6050A2730001-MB-A01.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x323028",
+            "0x34f030",
+            "0x353028",
+            "0x76c028",
+            "0x76d028",
+            "0x78f1cd",
+            "0x78f818",
+            "0x79505f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x46860d",
+            "0x76c09e",
+            "0x76c27e",
+            "0x7d3ace",
+            "0x7d3cae"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

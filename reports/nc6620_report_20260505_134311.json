@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:11.058886",
+    "file_path": "E:\\BIOS\\6050A0066801-MB-A04\\nc6620.BIN",
+    "file_name": "nc6620.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x1d5bb"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

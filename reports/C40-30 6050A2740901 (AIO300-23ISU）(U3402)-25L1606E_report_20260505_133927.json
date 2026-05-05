@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:27.589637",
+    "file_path": "E:\\C40-30 6050A2740901 (AIO300-23ISU\uff09(U3402)-25L1606E.bin",
+    "file_name": "C40-30 6050A2740901 (AIO300-23ISU\uff09(U3402)-25L1606E.bin",
+    "file_size_bytes": 2097216,
+    "file_size_mb": 2.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

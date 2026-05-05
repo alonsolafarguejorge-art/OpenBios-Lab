@@ -1,0 +1,63 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:40.202806",
+    "file_path": "E:\\BIOS\\FAROE DIS X32 MB_MV (18742-1 0GG03)\\GD25Q128B@WSON8_20210902_190501.BIN",
+    "file_name": "GD25Q128B@WSON8_20210902_190501.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x450028",
+            "0x4a2030",
+            "0x4ad028",
+            "0x895028",
+            "0x935028",
+            "0xa50028",
+            "0xad0028",
+            "0xad5028",
+            "0xad701d",
+            "0xb31ec5",
+            "0xc10028",
+            "0xc270b8",
+            "0xc40028",
+            "0xc8a160",
+            "0xce0028",
+            "0xce182f",
+            "0xd0cb78",
+            "0xd0d2b8",
+            "0xd40028",
+            "0xdc0028",
+            "0xdc5028",
+            "0xdc701d",
+            "0xe21ec5",
+            "0xf00028",
+            "0xf170b8",
+            "0xf30028",
+            "0xf7a160",
+            "0xfd0028",
+            "0xfd182f",
+            "0xffcb78",
+            "0xffd2b8",
+            "0xfff028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2000"
+        ],
+        "AMI BIOS": [
+            "0x8a2569",
+            "0x8a511c",
+            "0xc9f906",
+            "0xc9fae6",
+            "0xf8f906",
+            "0xf8fae6"
+        ],
+        "Insyde BIOS": [
+            "0x42000a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:08.113364",
+    "file_path": "E:\\BIOS\\08074F18_DMI.bin\\08074F18_DMI.bin",
+    "file_name": "08074F18_DMI.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x22f028",
+            "0x26d030",
+            "0x281028",
+            "0x2ce028",
+            "0x5fe028",
+            "0x76c028",
+            "0x76d028",
+            "0x7bea2d",
+            "0x7d0028",
+            "0x7d2017"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x76c09e",
+            "0x76c27e",
+            "0x7bd7fe",
+            "0x7bd9de"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

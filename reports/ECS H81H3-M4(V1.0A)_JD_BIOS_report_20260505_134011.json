@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:11.130179",
+    "file_path": "E:\\ECS H81H3-M4(V1.0A)_JD_BIOS.ROM",
+    "file_name": "ECS H81H3-M4(V1.0A)_JD_BIOS.ROM",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x450028",
+            "0x720028",
+            "0x740028",
+            "0x78368a",
+            "0x7837d7",
+            "0x787caa",
+            "0x7a90f8",
+            "0x7ff810"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x4005c9"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

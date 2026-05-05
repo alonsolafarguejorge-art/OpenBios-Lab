@@ -1,0 +1,72 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:06.730939",
+    "file_path": "E:\\Bios Asus\\ASUS Prime H310M-K\\vinafix.com_PRIME-H310M-K-ASUS-2012.BIN",
+    "file_name": "vinafix.com_PRIME-H310M-K-ASUS-2012.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x390028",
+            "0x410028",
+            "0x450028",
+            "0xb20028",
+            "0xb2676e",
+            "0xb39592",
+            "0xba0028",
+            "0xba676e",
+            "0xbb9592",
+            "0xc20028",
+            "0xc20098",
+            "0xca0028",
+            "0xca6028",
+            "0xca86ec",
+            "0xd0df3b",
+            "0xd90028",
+            "0xd90098",
+            "0xe10028",
+            "0xe16028",
+            "0xe186ec",
+            "0xe7df3b",
+            "0xf00028",
+            "0xf00c76",
+            "0xf02e7a",
+            "0xf2161c",
+            "0xf2f138",
+            "0xf3bc9a",
+            "0xf7e4af",
+            "0xf7ed48",
+            "0xf80028",
+            "0xf80c76",
+            "0xf82e7a",
+            "0xfa161c",
+            "0xfaf138",
+            "0xfbbc9a",
+            "0xffe4af",
+            "0xffed48"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2000"
+        ],
+        "AMI BIOS": [
+            "0x3014d2",
+            "0x42ae31",
+            "0x42b09f",
+            "0x42b103",
+            "0x42b16e",
+            "0x42b2ab",
+            "0x42b945",
+            "0x42b957",
+            "0x42e336",
+            "0xa35752",
+            "0xf660e6",
+            "0xfe60e6"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

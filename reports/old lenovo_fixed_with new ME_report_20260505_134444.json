@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:44.101809",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo X1 Carbon LMQ2 13268-1\\old lenovo_fixed_with new ME.bin",
+    "file_name": "old lenovo_fixed_with new ME.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0xa00028",
+            "0xdf1028",
+            "0xe87028",
+            "0xeb0028",
+            "0xeb22a2",
+            "0xf4e394",
+            "0xf61850",
+            "0xf6187a"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

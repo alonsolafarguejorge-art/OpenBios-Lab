@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:19.889782",
+    "file_path": "E:\\Bios Hp Compaq\\HP Notebook - 15-bs089nia CKL50 LA-E801P Rev 1.0\\LA-E801P REV.2.0 CLEAR ME  OK .bin",
+    "file_name": "LA-E801P REV.2.0 CLEAR ME  OK .bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x244028",
+            "0x286030",
+            "0x364028",
+            "0x657028",
+            "0x6f2028",
+            "0x6f6a89",
+            "0x713af2"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x6b406c",
+            "0x7ef056",
+            "0x7ef236"
+        ],
+        "Insyde BIOS": [
+            "0x21000a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

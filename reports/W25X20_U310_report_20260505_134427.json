@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:27.195611",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo C365  6050A2594901\\W25X20_U310.BIN\\W25X20_U310.BIN",
+    "file_name": "W25X20_U310.BIN",
+    "file_size_bytes": 262144,
+    "file_size_mb": 0.25,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

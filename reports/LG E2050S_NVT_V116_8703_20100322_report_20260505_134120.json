@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:20.788368",
+    "file_path": "E:\\LG E2050S_NVT_V116_8703_20100322.Bin",
+    "file_name": "LG E2050S_NVT_V116_8703_20100322.Bin",
+    "file_size_bytes": 262144,
+    "file_size_mb": 0.25,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

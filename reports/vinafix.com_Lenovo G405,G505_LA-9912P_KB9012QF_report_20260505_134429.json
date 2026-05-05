@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:29.520765",
+    "file_path": "E:\\Bios Lenovo IBM\\LENOVO G405 AMD E1\\vinafix.com_Lenovo G405,G505_LA-9912P_KB9012QF.bin",
+    "file_name": "vinafix.com_Lenovo G405,G505_LA-9912P_KB9012QF.bin",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:59.623291",
+    "file_path": "E:\\BIOS\\S2-NSBW140X MB_V1\\GD25LQ64C@SOP8-200_20200203_182834.BIN",
+    "file_name": "GD25LQ64C@SOP8-200_20200203_182834.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x320028",
+            "0x350028",
+            "0x3a3028",
+            "0x576510",
+            "0x73b028",
+            "0x7e1028",
+            "0x7e318b",
+            "0x7e5e78",
+            "0x7f28c5"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x320399",
+            "0x32312c",
+            "0x324583",
+            "0x751328"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

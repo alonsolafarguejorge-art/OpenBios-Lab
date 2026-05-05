@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:52.336963",
+    "file_path": "E:\\Bios Samsung\\Samsug NP700Z5A Nike15-R-QC\\SAMSUNG NP700Z5B  BA41-01724A  BA68 07950A\\W25Q32_20180817_121043  BCK UP DA VIDEO.BIN",
+    "file_name": "W25Q32_20180817_121043  BCK UP DA VIDEO.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x190028",
+            "0x360028",
+            "0x380028",
+            "0x390028",
+            "0x3cfc15"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x74217"
+        ],
+        "Phoenix BIOS": [
+            "0x3ffe3c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

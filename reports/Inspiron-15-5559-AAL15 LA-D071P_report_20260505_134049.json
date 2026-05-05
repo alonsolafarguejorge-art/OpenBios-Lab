@@ -1,0 +1,47 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:49.608889",
+    "file_path": "E:\\Inspiron-15-5559-AAL15 LA-D071P.BIN",
+    "file_name": "Inspiron-15-5559-AAL15 LA-D071P.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x700028",
+            "0x741028",
+            "0x7a1028",
+            "0x811028",
+            "0x851028",
+            "0x861028",
+            "0xdf0028",
+            "0xe40028",
+            "0xe4100e",
+            "0xe434a7",
+            "0xf2b509",
+            "0xf4b0ba",
+            "0xf61256",
+            "0xf678bb",
+            "0xfffd45"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x7421a9",
+            "0x751651",
+            "0x7a21a9",
+            "0x7a6528",
+            "0x8757c7",
+            "0x88a3c7",
+            "0xe92b28",
+            "0xf35955",
+            "0xf35d51",
+            "0xfb1739"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

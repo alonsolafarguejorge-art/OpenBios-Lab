@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:58.256228",
+    "file_path": "E:\\BIOS\\Quanta U72 rev1A  HP 14-F027CL DA0U72MB6D0\\__MACOSX\\._HP 14-F027CL DA0U72MB6D0.BIN",
+    "file_name": "._HP 14-F027CL DA0U72MB6D0.BIN",
+    "file_size_bytes": 182,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

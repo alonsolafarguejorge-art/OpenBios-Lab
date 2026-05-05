@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:03.325605",
+    "file_path": "E:\\dv5 amd without displychip.bin",
+    "file_name": "dv5 amd without displychip.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x12028",
+            "0x1c028",
+            "0xc0028",
+            "0xd0028",
+            "0xd9028",
+            "0xe5028",
+            "0xf4ef4",
+            "0xf796a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:10.762581",
+    "file_path": "E:\\BIOS\\6-71-W54S0-D03A W540SU1W545SU1\\GD25Q32_20190726_134905.BIN",
+    "file_name": "GD25Q32_20190726_134905.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x10028",
+            "0x30028",
+            "0x60028",
+            "0x2f0028",
+            "0x310028",
+            "0x3633e6",
+            "0x363533",
+            "0x3678ae",
+            "0x3846f6",
+            "0x3ff830"
+        ],
+        "AMI BIOS": [
+            "0x104e7",
+            "0x125b5",
+            "0x1554e",
+            "0x304e7",
+            "0x339ca",
+            "0x37181",
+            "0x20b237",
+            "0x20b27e",
+            "0x20b3ee",
+            "0x20b548",
+            "0x20c387",
+            "0x20c3ce",
+            "0x20c53e",
+            "0x20c698",
+            "0x3b60bf",
+            "0x3b6106",
+            "0x3b6276",
+            "0x3b63d0",
+            "0x3b96a4",
+            "0x3bbc04"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

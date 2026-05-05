@@ -1,0 +1,52 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:00.174554",
+    "file_path": "E:\\BIos Apple\\Apple APPLE K92_051-8618_1122_resolved 820-2914 820-2915\\MX25L6406E@SOP8_20200124_123210   A1297  17 PUL  i7 late 2011    820-2914-b OK.BIN-new.bin",
+    "file_name": "MX25L6406E@SOP8_20200124_123210   A1297  17 PUL  i7 late 2011    820-2914-b OK.BIN-new.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x181028",
+            "0x490028",
+            "0x4b8028",
+            "0x682028",
+            "0x692028",
+            "0x695028",
+            "0x698028",
+            "0x6b8028",
+            "0x6d8028",
+            "0x700028",
+            "0x700aa5",
+            "0x70a19d",
+            "0x71514f",
+            "0x72df0e",
+            "0x72e2c9",
+            "0x73205a",
+            "0x770028",
+            "0x770aa5",
+            "0x77a19d",
+            "0x78514f",
+            "0x79df0e",
+            "0x79e2c9",
+            "0x7a205a",
+            "0x7e0028",
+            "0x7e0415",
+            "0x7f0028",
+            "0x7f0415"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x1b60d0",
+            "0x2e791c",
+            "0x571649"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

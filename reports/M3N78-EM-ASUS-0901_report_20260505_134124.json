@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:24.993271",
+    "file_path": "E:\\M3N78-EM-ASUS-0901.ROM",
+    "file_name": "M3N78-EM-ASUS-0901.ROM",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xd07a8",
+            "0xdb765",
+            "0xdbfea",
+            "0xe0000",
+            "0xf03ac",
+            "0xf12bb"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:55.628776",
+    "file_path": "E:\\BIOS\\02266.bin",
+    "file_name": "02266.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x68028",
+            "0x5c0028",
+            "0x740028",
+            "0x7461ef",
+            "0x74633c",
+            "0x74a8fc"
+        ],
+        "AMI BIOS": [
+            "0x5c0242",
+            "0x691f40",
+            "0x7b92d0",
+            "0x7bb6ac",
+            "0x7bf67b",
+            "0x7bf97b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

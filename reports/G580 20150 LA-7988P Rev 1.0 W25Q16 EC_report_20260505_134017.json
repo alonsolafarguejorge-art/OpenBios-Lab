@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:17.862392",
+    "file_path": "E:\\G580 20150 LA-7988P Rev 1.0 W25Q16 EC.BIN",
+    "file_name": "G580 20150 LA-7988P Rev 1.0 W25Q16 EC.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x10e028",
+            "0x13c030",
+            "0x140028",
+            "0x15c485",
+            "0x15c878",
+            "0x15d953",
+            "0x15de61"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

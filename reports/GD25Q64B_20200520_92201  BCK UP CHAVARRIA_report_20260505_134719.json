@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:19.447395",
+    "file_path": "E:\\Bios Hp Compaq\\HP Notebook - 15-ac113nx - LA-C921P\\GD25Q64B_20200520_92201  BCK UP CHAVARRIA.BIN",
+    "file_name": "GD25Q64B_20200520_92201  BCK UP CHAVARRIA.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x244028",
+            "0x278030",
+            "0x33c028",
+            "0x71f028",
+            "0x729173",
+            "0x7e922e"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x7e800e",
+            "0x7e81ee"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

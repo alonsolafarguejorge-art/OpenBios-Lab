@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:38.060282",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo ThinkCentre M H81 AIO WISTRON PIH81FNon GPU 12103-1\\SB.bin",
+    "file_name": "SB.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x450028",
+            "0x720028",
+            "0x740028",
+            "0x78567b",
+            "0x7857c8",
+            "0x789ad0",
+            "0x7a8396",
+            "0x7ff770"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x4041f2",
+            "0x7df498",
+            "0x7e1cf4",
+            "0x7e4ff4"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

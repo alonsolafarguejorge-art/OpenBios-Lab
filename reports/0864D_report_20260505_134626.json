@@ -1,0 +1,60 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:26.678984",
+    "file_path": "E:\\Bios Hp Compaq\\HP 14-DQ0011DX  DA00PAMB6D0\\0864D.bin",
+    "file_name": "0864D.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x93028",
+            "0x95028",
+            "0x95cb0",
+            "0x96028",
+            "0x96974",
+            "0x96a2d",
+            "0x9ca5c",
+            "0x9cbb4",
+            "0x9d04f",
+            "0xa3252",
+            "0xac79e",
+            "0xb7047",
+            "0xd6028",
+            "0xd835c",
+            "0xdd22a",
+            "0x13c028",
+            "0x13cd04",
+            "0x1462b1",
+            "0x17c090",
+            "0x182496",
+            "0x1bc028",
+            "0x3c3028",
+            "0x6d5028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5a2f3",
+            "0x61512",
+            "0x61538",
+            "0x68d6f"
+        ],
+        "AMI BIOS": [
+            "0x930a5",
+            "0xd60a5",
+            "0x106c0f",
+            "0x110f68",
+            "0x1115a0",
+            "0x1115f0",
+            "0x18a493",
+            "0x18a793",
+            "0x18eec0",
+            "0x1bc0a5",
+            "0x2ac4f9",
+            "0x6d675c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

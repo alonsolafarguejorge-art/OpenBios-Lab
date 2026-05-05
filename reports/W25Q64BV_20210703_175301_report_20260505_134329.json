@@ -1,0 +1,68 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:29.370387",
+    "file_path": "E:\\BIOS\\DA0N83MB6F0 REV F (N83-F)\\W25Q64BV_20210703_175301.BIN",
+    "file_name": "W25Q64BV_20210703_175301.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x200028",
+            "0x241028",
+            "0x2435d2",
+            "0x261028",
+            "0x2635d2",
+            "0x292028",
+            "0x510028",
+            "0x560028",
+            "0x560ba5",
+            "0x563337",
+            "0x5f79f7",
+            "0x5fd00a",
+            "0x61332b",
+            "0x659d9c",
+            "0x6af997",
+            "0x6af9d5",
+            "0x6afd3d",
+            "0x6b0028",
+            "0x6b0ba5",
+            "0x6b3337",
+            "0x7479f7",
+            "0x74d00a",
+            "0x76332b",
+            "0x7a9d9c",
+            "0x7ff997",
+            "0x7ff9d5",
+            "0x7ffd3d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x241e69",
+            "0x243fa2",
+            "0x2444cf",
+            "0x245eca",
+            "0x2477db",
+            "0x261e69",
+            "0x263fa2",
+            "0x2644cf",
+            "0x265eca",
+            "0x2677db",
+            "0x29a7b5",
+            "0x643d2c",
+            "0x68f761",
+            "0x691ed3",
+            "0x6921d3",
+            "0x793d2c",
+            "0x7df761",
+            "0x7e1ed3",
+            "0x7e21d3"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

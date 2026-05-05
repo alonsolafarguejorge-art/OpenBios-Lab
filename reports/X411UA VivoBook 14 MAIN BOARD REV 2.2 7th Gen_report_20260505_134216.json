@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:16.758041",
+    "file_path": "E:\\X411UA VivoBook 14 MAIN BOARD REV 2.2 7th Gen.bin",
+    "file_name": "X411UA VivoBook 14 MAIN BOARD REV 2.2 7th Gen.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x220028",
+            "0x250028",
+            "0x610028",
+            "0x6a0028",
+            "0x6ae9a2",
+            "0x720028",
+            "0x720b67",
+            "0x7225a5",
+            "0x7351a6",
+            "0x73f4d2",
+            "0x7a3e46",
+            "0x7ff385"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x221117",
+            "0x222eb8",
+            "0x717fc9",
+            "0x733e11",
+            "0x7b3f0f"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:58.793416",
+    "file_path": "E:\\Bios Hp Compaq\\HP 840 G5_6050A2945601-MB-a01_W25Q256JV\\HP 840 G5_6050A2945601-MB-a01_W25Q256JV.bin",
+    "file_name": "HP 840 G5_6050A2945601-MB-a01_W25Q256JV.bin",
+    "file_size_bytes": 33554432,
+    "file_size_mb": 32.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1624028",
+            "0x1636028",
+            "0x1af6028",
+            "0x1b47028",
+            "0x1c42028",
+            "0x1c9faa3",
+            "0x1ca5840",
+            "0x1d6a463",
+            "0x1da3028",
+            "0x1e9e028",
+            "0x1efbaa3",
+            "0x1f01840",
+            "0x1fc6463",
+            "0x1ffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x5c196b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

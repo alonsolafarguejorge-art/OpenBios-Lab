@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:29.744593",
+    "file_path": "E:\\Bios Hp Compaq\\HP Pavilion RT3290 ZS040 LA-A993P REV1.0\\vinafix.com_KB9012QF_A3_ZS040 LA-A993P.BIN",
+    "file_name": "vinafix.com_KB9012QF_A3_ZS040 LA-A993P.BIN",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

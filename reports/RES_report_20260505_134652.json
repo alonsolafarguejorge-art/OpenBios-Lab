@@ -1,0 +1,51 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:52.513259",
+    "file_path": "E:\\Bios Hp Compaq\\HP 20-2000 All-in-One - AMPKB-PT\\RES.BIN",
+    "file_name": "RES.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x40028",
+            "0x409ae",
+            "0x60028",
+            "0x609ae",
+            "0x80028",
+            "0x2c0028",
+            "0x2c4601",
+            "0x2c4753",
+            "0x2c8aa2",
+            "0x35febe",
+            "0x35fecf",
+            "0x35fee0",
+            "0x35fef1",
+            "0x360028",
+            "0x364601",
+            "0x364753",
+            "0x368aa2",
+            "0x3ffebe",
+            "0x3ffecf",
+            "0x3ffee0",
+            "0x3ffef1"
+        ],
+        "AMI BIOS": [
+            "0x40252",
+            "0x40b47",
+            "0x4102c",
+            "0x60252",
+            "0x60b47",
+            "0x6102c",
+            "0x34b8bb",
+            "0x34bbbb",
+            "0x3eb8bb",
+            "0x3ebbbb"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

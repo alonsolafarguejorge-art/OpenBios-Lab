@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:11.945369",
+    "file_path": "E:\\Bios Asus\\ASUS VivoBook Pro 15 N580VD\\MX25L6405@SOIC16_20210626_183222   asus n580v cubano_Repaired.Bin",
+    "file_name": "MX25L6405@SOIC16_20210626_183222   asus n580v cubano_Repaired.Bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x220028",
+            "0x250028",
+            "0x610028",
+            "0x6a0028",
+            "0x6b2d17",
+            "0x720028",
+            "0x720ba4",
+            "0x7234e7",
+            "0x735c2e",
+            "0x73ea6a",
+            "0x7ab5db",
+            "0x7ffd7d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2210d3",
+            "0x71bc79",
+            "0x7339dd",
+            "0x7b9e0b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

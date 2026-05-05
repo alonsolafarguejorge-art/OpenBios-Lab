@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:53.074670",
+    "file_path": "E:\\Bin\\Lenovo_M72e_IH61M_W25Q16CV_Backup.bin",
+    "file_name": "Lenovo_M72e_IH61M_W25Q16CV_Backup.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

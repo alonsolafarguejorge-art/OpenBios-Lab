@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:54.324439",
+    "file_path": "E:\\sony PCG-71211W(VPCEB36FG) M961_MP_MB 8LAYER MBX-224 REV 1.1.bin",
+    "file_name": "sony PCG-71211W(VPCEB36FG) M961_MP_MB 8LAYER MBX-224 REV 1.1.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x200028",
+            "0x210028",
+            "0x220028",
+            "0x340028",
+            "0x3cccef"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2002fb",
+            "0x201214",
+            "0x2102fb",
+            "0x211278"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

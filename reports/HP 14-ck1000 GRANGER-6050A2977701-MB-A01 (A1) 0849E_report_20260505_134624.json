@@ -1,0 +1,52 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:24.808482",
+    "file_path": "E:\\Bios Hp Compaq\\HP 14-ck1000 GRANGER-6050A2977701-MB-A01 (A1) BIOS\\HP 14-ck1000 GRANGER-6050A2977701-MB-A01 (A1) 0849E.bin",
+    "file_name": "HP 14-ck1000 GRANGER-6050A2977701-MB-A01 (A1) 0849E.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x92028",
+            "0x94028",
+            "0x94cb0",
+            "0x95028",
+            "0x96805",
+            "0xa09a5",
+            "0xa21c3",
+            "0xa7590",
+            "0xa77f6",
+            "0xaf874",
+            "0xd6028",
+            "0xd81fa",
+            "0xdd16b",
+            "0x13c028",
+            "0x160e38",
+            "0x1c8028",
+            "0x1f4028",
+            "0x40d028",
+            "0x655028",
+            "0x6d7030"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5924a",
+            "0x60348",
+            "0x6036e",
+            "0x67aa5",
+            "0x77f000"
+        ],
+        "AMI BIOS": [
+            "0x111a2b",
+            "0x11bd98",
+            "0x11cc60",
+            "0x11ccb0",
+            "0x17f4e6",
+            "0x17f6c6"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

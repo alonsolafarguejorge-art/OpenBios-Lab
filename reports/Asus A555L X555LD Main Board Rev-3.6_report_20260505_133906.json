@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:06.196239",
+    "file_path": "E:\\Asus A555L X555LD Main Board Rev-3.6.bin",
+    "file_name": "Asus A555L X555LD Main Board Rev-3.6.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1d0028",
+            "0x310028",
+            "0x320028",
+            "0x690028",
+            "0x6a0028",
+            "0x6a0ab6",
+            "0x6a2614",
+            "0x6ad03b",
+            "0x727b58",
+            "0x7ffa63"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x1d0595",
+            "0x1d4930",
+            "0x1e1988"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

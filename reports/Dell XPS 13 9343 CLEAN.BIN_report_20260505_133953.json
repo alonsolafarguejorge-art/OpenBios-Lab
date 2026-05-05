@@ -1,0 +1,61 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:53.553236",
+    "file_path": "E:\\Dell XPS 13 9343 CLEAN.BIN.BIN",
+    "file_name": "Dell XPS 13 9343 CLEAN.BIN.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x200028",
+            "0x220028",
+            "0x250028",
+            "0x290028",
+            "0x2a0028",
+            "0x680028",
+            "0x6a0028",
+            "0x6a1fcd",
+            "0x6a59c2",
+            "0x6a5afb",
+            "0x6a821d",
+            "0x6a8264",
+            "0x6ac850",
+            "0x773e60",
+            "0x7ffa6b"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5010"
+        ],
+        "AMI BIOS": [
+            "0x200b3b",
+            "0x220b3b",
+            "0x295d78",
+            "0x296068",
+            "0x2960af",
+            "0x29621f",
+            "0x296379",
+            "0x29652e",
+            "0x296575",
+            "0x2966e5",
+            "0x2968d8",
+            "0x29691f",
+            "0x296a8f",
+            "0x296be9",
+            "0x297400",
+            "0x297447",
+            "0x2975b7",
+            "0x297711",
+            "0x298558",
+            "0x29859f",
+            "0x29870f",
+            "0x298869",
+            "0x74dc81",
+            "0x76a11d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

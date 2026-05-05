@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:12.874202",
+    "file_path": "E:\\Bios Asus\\Asus X201e Main X202e\\vinafix.com_ASUS X201E X201EP BIOS-OK.bin\\ASUS X201E X201EP BIOS.bin",
+    "file_name": "ASUS X201E X201EP BIOS.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x210028",
+            "0x280028",
+            "0x764028",
+            "0x7925bd",
+            "0x79270d",
+            "0x7946c1",
+            "0x7a20c7",
+            "0x7ff710"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x21038a",
+            "0x7c69ac",
+            "0x7c9d2c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

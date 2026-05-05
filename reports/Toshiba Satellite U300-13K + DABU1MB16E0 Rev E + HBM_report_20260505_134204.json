@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:04.026494",
+    "file_path": "E:\\Toshiba Satellite U300-13K + DABU1MB16E0 Rev E + HBM.bin",
+    "file_name": "Toshiba Satellite U300-13K + DABU1MB16E0 Rev E + HBM.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xed004",
+            "0xed039"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

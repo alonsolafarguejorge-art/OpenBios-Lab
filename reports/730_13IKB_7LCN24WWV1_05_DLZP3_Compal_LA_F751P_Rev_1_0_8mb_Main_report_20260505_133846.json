@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:46.953831",
+    "file_path": "E:\\730_13IKB_7LCN24WWV1_05_DLZP3_Compal_LA_F751P_Rev_1_0_8mb_Main.BIN",
+    "file_name": "730_13IKB_7LCN24WWV1_05_DLZP3_Compal_LA_F751P_Rev_1_0_8mb_Main.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2bd028",
+            "0x5b6028",
+            "0x608030",
+            "0x6a0028",
+            "0x6a5b09",
+            "0x6c6571"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x13b604",
+            "0x365828"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:15.664666",
+    "file_path": "E:\\Bios Hp Compaq\\HP G4 INTEL DA0R33MB6F1\\G6-2327tx DA0R33MB6F1 BIOS OK\\g6-2327tx F1 ICH.bin",
+    "file_name": "g6-2327tx F1 ICH.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1ae030",
+            "0x1d0028",
+            "0x380028",
+            "0x381028",
+            "0x399c3b",
+            "0x39a26e",
+            "0x39e24b"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2305c3",
+            "0x38009e",
+            "0x38027e",
+            "0x3e2dee",
+            "0x3e2fce"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

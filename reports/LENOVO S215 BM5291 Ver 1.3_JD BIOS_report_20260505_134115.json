@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:15.113129",
+    "file_path": "E:\\LENOVO S215 BM5291 Ver 1.3_JD BIOS.bin",
+    "file_name": "LENOVO S215 BM5291 Ver 1.3_JD BIOS.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x337028",
+            "0x365030",
+            "0x36b028",
+            "0x3d87b7",
+            "0x3d8b58",
+            "0x3db71b",
+            "0x3dbc3e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

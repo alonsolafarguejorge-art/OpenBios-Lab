@@ -1,0 +1,52 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:41.992653",
+    "file_path": "E:\\HP Probook_430 G6 DA0X8IMB8E0 Rev E _ME REGION CLEAN .bin",
+    "file_name": "HP Probook_430 G6 DA0X8IMB8E0 Rev E _ME REGION CLEAN .bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x43b028",
+            "0x44d028",
+            "0xa58028",
+            "0xab0028",
+            "0xb92028",
+            "0xbc7028",
+            "0xbc8fbc",
+            "0xc239c6",
+            "0xc4f028",
+            "0xc53028",
+            "0xcb963c",
+            "0xcbfc98",
+            "0xcda87f",
+            "0xcecb6c",
+            "0xcf6ab8",
+            "0xd51f1d",
+            "0xd52290",
+            "0xd5b028",
+            "0xe3d028",
+            "0xe72028",
+            "0xe73fbc",
+            "0xece9c6",
+            "0xefa028",
+            "0xefe028",
+            "0xf6463c",
+            "0xf6ac98",
+            "0xf8587f",
+            "0xf97b6c",
+            "0xfa1ab8",
+            "0xffcf1d",
+            "0xffd290",
+            "0xffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2000"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

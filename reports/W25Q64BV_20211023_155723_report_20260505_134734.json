@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:34.769139",
+    "file_path": "E:\\Bios Hp Compaq\\HP Probook 430 G2 LA-B171P REV1.0.bin\\W25Q64BV_20211023_155723.BIN",
+    "file_name": "W25Q64BV_20211023_155723.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x250028",
+            "0x291028",
+            "0x60c028",
+            "0x67ff80",
+            "0x73e028",
+            "0x7b1f80",
+            "0x7fe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

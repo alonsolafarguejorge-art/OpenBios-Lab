@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:53.394057",
+    "file_path": "E:\\Bios Samsung\\Samsung NP-R440\\vinafix.com_NP-R440L Suzhou2LA-512M REV MP1.0 BA41-01269A 216-0728018 02.UW.bin",
+    "file_name": "vinafix.com_NP-R440L Suzhou2LA-512M REV MP1.0 BA41-01269A 216-0728018 02.UW.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x4010"
+        ],
+        "Phoenix BIOS": [
+            "0x2004a9",
+            "0x2747b1",
+            "0x275a67",
+            "0x2878e5",
+            "0x399add"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

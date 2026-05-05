@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:48.355632",
+    "file_path": "E:\\Bios Hp Compaq\\HP-Compaq Nasir CQ42F OR AX35\\HP CQ42 GL40 AX3 da0ax3mb6c1 DDR3\\__MACOSX\\._cq42-105tu ok AX3 GL40.BIN",
+    "file_name": "._cq42-105tu ok AX3 GL40.BIN",
+    "file_size_bytes": 216,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:41.919049",
+    "file_path": "E:\\Bios Hp Compaq\\hp 15-da0009la  LA-G07DP\\Disco extra\u00edble\\HP 15-da0009la EPK50 LA-G07DP\\XM25QH64A@SOIC8-200_20201103_182226.BIN",
+    "file_name": "XM25QH64A@SOIC8-200_20201103_182226.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x244028",
+            "0x296030",
+            "0x334028",
+            "0x627028",
+            "0x6c2028",
+            "0x6c6d09",
+            "0x6e2956"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x7c01ee",
+            "0x7c03ce"
+        ],
+        "Insyde BIOS": [
+            "0x21000a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

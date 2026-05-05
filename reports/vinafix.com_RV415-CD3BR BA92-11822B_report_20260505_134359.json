@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:59.112180",
+    "file_path": "E:\\BIOS\\RV415-CD3BR BA92-11822B\\vinafix.com_RV415-CD3BR BA92-11822B.BIN",
+    "file_name": "vinafix.com_RV415-CD3BR BA92-11822B.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x50028",
+            "0x80028",
+            "0x380028",
+            "0x3813c1",
+            "0x38150e",
+            "0x383675"
+        ],
+        "AMI BIOS": [
+            "0x11101",
+            "0x30271",
+            "0x30448",
+            "0x50271",
+            "0x50448"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

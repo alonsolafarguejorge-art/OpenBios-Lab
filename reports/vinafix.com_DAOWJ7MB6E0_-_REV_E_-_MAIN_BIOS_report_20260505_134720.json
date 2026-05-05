@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:20.351338",
+    "file_path": "E:\\Bios Hp Compaq\\hp omni 120 DAOWJ7MB6E0\\DAOWJ7MB6E0 Rev E\\vinafix.com_DAOWJ7MB6E0_-_REV_E_-_MAIN_BIOS.bin",
+    "file_name": "vinafix.com_DAOWJ7MB6E0_-_REV_E_-_MAIN_BIOS.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x10028",
+            "0x20028",
+            "0x3a0028",
+            "0x3a1b7b",
+            "0x3a2ddb"
+        ],
+        "AMI BIOS": [
+            "0x292",
+            "0x10292"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

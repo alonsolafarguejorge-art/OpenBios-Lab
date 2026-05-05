@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:11.339353",
+    "file_path": "E:\\Bios Hp Compaq\\HP 14 GABRIEL BCK UP.BIN",
+    "file_name": "HP 14 GABRIEL BCK UP.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x38e028",
+            "0x3cc030",
+            "0x3e0028",
+            "0x430028",
+            "0x730028",
+            "0x75bdde",
+            "0x75c386",
+            "0x7e1028",
+            "0x7e2722"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x75b1b6",
+            "0x75b396"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

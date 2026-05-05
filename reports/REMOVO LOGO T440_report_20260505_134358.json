@@ -1,0 +1,72 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:58.483051",
+    "file_path": "E:\\BIOS\\REMOVO LOGO T440_Moded\\REMOVO LOGO T440.BIN",
+    "file_name": "REMOVO LOGO T440.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0xc00028",
+            "0xeb1028",
+            "0xf17028",
+            "0xf40028",
+            "0xfc502f",
+            "0xfdc4ef",
+            "0xfdc517",
+            "0xfe054e"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0xd20002"
+        ],
+        "Phoenix BIOS": [
+            "0xf9a2a0",
+            "0xf9a2e8",
+            "0xf9a334",
+            "0xf9a368",
+            "0xf9a3b8",
+            "0xf9a400",
+            "0xf9a450",
+            "0xf9a4a0",
+            "0xf9a4f0",
+            "0xf9a524",
+            "0xf9a554",
+            "0xf9a58c",
+            "0xf9a5c8",
+            "0xf9a618",
+            "0xf9a708",
+            "0xf9a72c",
+            "0xf9a768",
+            "0xf9a7a8",
+            "0xf9a7d8",
+            "0xf9a820",
+            "0xf9a850",
+            "0xf9a890",
+            "0xf9a8e0",
+            "0xf9a92c",
+            "0xf9a960",
+            "0xf9a9b8",
+            "0xf9aa10",
+            "0xf9aa64",
+            "0xf9aaa0",
+            "0xf9aae8",
+            "0xf9ab30",
+            "0xf9ab70",
+            "0xf9abac",
+            "0xf9abe0",
+            "0xf9ac2c",
+            "0xf9ac60",
+            "0xf9aca8",
+            "0xf9ad00",
+            "0xf9ad78"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:48.307699",
+    "file_path": "E:\\SAMSUNG N150 PLUS.bin",
+    "file_name": "SAMSUNG N150 PLUS.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x1ec284",
+            "0x1ec2b7",
+            "0x1ec313",
+            "0x1f1030"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

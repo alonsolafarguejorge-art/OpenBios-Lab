@@ -1,0 +1,43 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:00.847719",
+    "file_path": "E:\\BIos Apple\\Apple MacBook Air A1369 MLB K16 820-2838-A\\MX25L3205@SOIC16_20210722_152248 LOK.BIN",
+    "file_name": "MX25L3205@SOIC16_20210722_152248 LOK.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x1102",
+            "0x82a6",
+            "0x865f",
+            "0x9eb7",
+            "0x17f7e",
+            "0x40028",
+            "0x41102",
+            "0x482a6",
+            "0x4865f",
+            "0x49eb7",
+            "0x57f7e",
+            "0x80028",
+            "0xa8028",
+            "0xab028",
+            "0xae028",
+            "0xb4028",
+            "0xba028",
+            "0xca028",
+            "0x20a028",
+            "0x232028",
+            "0x3fc028",
+            "0x3fc42d"
+        ],
+        "AMI BIOS": [
+            "0x352059"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

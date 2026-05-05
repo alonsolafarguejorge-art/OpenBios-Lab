@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:44.741288",
+    "file_path": "E:\\Hp_pavillion_15_+_OSAMU2_CR_HPC_MV_MB_V1_010194G00_35K_G_+_SLJ8E.bin",
+    "file_name": "Hp_pavillion_15_+_OSAMU2_CR_HPC_MV_MB_V1_010194G00_35K_G_+_SLJ8E.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x183028",
+            "0x1af030",
+            "0x1c4028",
+            "0x371028",
+            "0x372028",
+            "0x38cf15",
+            "0x38d52f",
+            "0x3916a3"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x37109e",
+            "0x37127e",
+            "0x3d4e86",
+            "0x3d5066"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:15.412058",
+    "file_path": "E:\\Bios Hp Compaq\\HP G4 INTEL DA0R33MB6F1\\A25L080_20190821_123754.BIN",
+    "file_name": "A25L080_20190821_123754.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x76028",
+            "0xf0028"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

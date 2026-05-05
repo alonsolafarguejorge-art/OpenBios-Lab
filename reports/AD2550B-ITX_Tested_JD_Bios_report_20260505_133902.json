@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:02.233572",
+    "file_path": "E:\\AD2550B-ITX_Tested_JD_Bios.bin",
+    "file_name": "AD2550B-ITX_Tested_JD_Bios.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x20028",
+            "0x1c0028",
+            "0x1c2194",
+            "0x1c423e",
+            "0x1ff028",
+            "0x1ffed9"
+        ],
+        "AMI BIOS": [
+            "0x1de"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

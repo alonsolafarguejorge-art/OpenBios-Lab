@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:55.502423",
+    "file_path": "E:\\sony vgn-cr307e intl wd hbm withot grapic.BIN",
+    "file_name": "sony vgn-cr307e intl wd hbm withot grapic.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xebd3c",
+            "0xebd70"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

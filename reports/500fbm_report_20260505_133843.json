@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:43.677175",
+    "file_path": "E:\\500fbm.bin",
+    "file_name": "500fbm.bin",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x75760",
+            "0x7579a"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

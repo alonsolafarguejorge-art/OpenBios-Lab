@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:33.954081",
+    "file_path": "E:\\nx6120 (1).bin",
+    "file_name": "nx6120 (1).bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:37.591001",
+    "file_path": "E:\\hp G62t-250(DA0AX1MB6F0)REV F eprom 100%ok.bin",
+    "file_name": "hp G62t-250(DA0AX1MB6F0)REV F eprom 100%ok.bin",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

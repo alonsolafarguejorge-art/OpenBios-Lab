@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:27.766293",
+    "file_path": "E:\\C200 CIPTS V1.1.BIN",
+    "file_name": "C200 CIPTS V1.1.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x7186",
+            "0x7192",
+            "0xf7c6",
+            "0xf8c6",
+            "0x10326",
+            "0x131b2",
+            "0x131ba",
+            "0x34fdc",
+            "0x36ce9",
+            "0x36d31",
+            "0x36d54",
+            "0x42033",
+            "0x74e27",
+            "0x76529",
+            "0x82909",
+            "0xcffea",
+            "0xe0000",
+            "0xf0040",
+            "0xf0398"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

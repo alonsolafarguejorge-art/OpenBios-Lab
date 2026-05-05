@@ -1,0 +1,45 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:41.661404",
+    "file_path": "E:\\Bios Hp Compaq\\hp 15-da0009la  LA-G07DP\\Disco extra\u00edble\\EFI AIR 13 KKKK\\20201006_133712_SVOD3  EFI AIR 13 KKKK  .bin",
+    "file_name": "20201006_133712_SVOD3  EFI AIR 13 KKKK  .bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1028",
+            "0x190028",
+            "0x330028",
+            "0x360028",
+            "0x5e0028",
+            "0x5f0028",
+            "0x600028",
+            "0x610028",
+            "0x640028",
+            "0x649500",
+            "0x695d1d",
+            "0x6a2d56",
+            "0x6a31b7",
+            "0x6aba43",
+            "0x6f0028",
+            "0x6f9500",
+            "0x745d1d",
+            "0x752d56",
+            "0x7531b7",
+            "0x75ba43",
+            "0x7a0028",
+            "0x7da028",
+            "0x7da870",
+            "0x7fa028",
+            "0x7fa870"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

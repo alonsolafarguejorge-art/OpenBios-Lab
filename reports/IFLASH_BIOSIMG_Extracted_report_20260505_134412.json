@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:12.842623",
+    "file_path": "E:\\BIOS\\Z51-70 Laptop (Lenovo)\\IFLASH_BIOSIMG_Extracted.BIN",
+    "file_name": "IFLASH_BIOSIMG_Extracted.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2bc028",
+            "0x5c0028",
+            "0x5f4030",
+            "0x6c0028",
+            "0x6c75a3",
+            "0x6d77d1"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Insyde BIOS": [
+            "0x20016a",
+            "0x20216a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

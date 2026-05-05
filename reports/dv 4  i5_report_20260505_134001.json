@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:01.693988",
+    "file_path": "E:\\dv 4  i5.bin",
+    "file_name": "dv 4  i5.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x202028",
+            "0x352028",
+            "0x362028",
+            "0x36fd41",
+            "0x374b82"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

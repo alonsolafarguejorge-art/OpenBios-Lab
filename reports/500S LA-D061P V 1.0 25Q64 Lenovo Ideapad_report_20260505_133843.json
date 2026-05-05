@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:43.799140",
+    "file_path": "E:\\500S LA-D061P V 1.0 25Q64 Lenovo Ideapad.bin",
+    "file_name": "500S LA-D061P V 1.0 25Q64 Lenovo Ideapad.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2bc028",
+            "0x580028",
+            "0x5b4030",
+            "0x6c0028",
+            "0x6c8662",
+            "0x6dc534"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x37cbd9"
+        ],
+        "Insyde BIOS": [
+            "0x20016a",
+            "0x20216a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

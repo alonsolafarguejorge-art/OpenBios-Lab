@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:25.668832",
+    "file_path": "E:\\M-200 (MA10-6050A2110801-MB-A05)  HBM.bin",
+    "file_name": "M-200 (MA10-6050A2110801-MB-A05)  HBM.bin",
+    "file_size_bytes": 1075054,
+    "file_size_mb": 1.03,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xec52f",
+            "0xec563"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:21.582688",
+    "file_path": "E:\\asus-P5LD2-X-GBL-0207.ROM",
+    "file_name": "asus-P5LD2-X-GBL-0207.ROM",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x87cf1",
+            "0x91785",
+            "0xebfea",
+            "0xf051a",
+            "0xf0eb0",
+            "0xf0ebc",
+            "0xf1ce1"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

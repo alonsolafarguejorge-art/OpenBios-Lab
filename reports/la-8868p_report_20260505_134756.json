@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:56.500276",
+    "file_path": "E:\\Bios Samsung\\Samsung QMLE4 LA-8863P LA-8864P Samsung NP355V5C\\la-8868p.bin",
+    "file_name": "la-8868p.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x50028",
+            "0x80028",
+            "0x380028",
+            "0x38163c",
+            "0x381cad",
+            "0x381e15",
+            "0x38417b"
+        ],
+        "AMI BIOS": [
+            "0x301e5",
+            "0x315f9",
+            "0x501e5",
+            "0x515f9",
+            "0x3ccc0c",
+            "0x3cfec4"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

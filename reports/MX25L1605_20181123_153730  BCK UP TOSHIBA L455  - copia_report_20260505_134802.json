@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:02.882952",
+    "file_path": "E:\\Bios Toshiba\\Toshiba NBWAA LA-5822P NBWAA-LA5821P\\MX25L1605_20181123_153730  BCK UP TOSHIBA L455  - copia.BIN",
+    "file_name": "MX25L1605_20181123_153730  BCK UP TOSHIBA L455  - copia.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

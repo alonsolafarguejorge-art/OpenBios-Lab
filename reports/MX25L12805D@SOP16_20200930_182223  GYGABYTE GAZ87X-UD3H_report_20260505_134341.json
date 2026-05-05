@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:41.773507",
+    "file_path": "E:\\BIOS\\GA-Z87X-UD3H  NEW\\MX25L12805D@SOP16_20200930_182223  GYGABYTE GAZ87X-UD3H.BIN",
+    "file_name": "MX25L12805D@SOP16_20200930_182223  GYGABYTE GAZ87X-UD3H.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x200028",
+            "0x280028",
+            "0x310028",
+            "0xee0028",
+            "0xf00028",
+            "0xf406dc",
+            "0xf40fa1",
+            "0xf410ec",
+            "0xf44c10",
+            "0xf94c4a",
+            "0xfff430"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x200a7d",
+            "0x2024e7",
+            "0x280a7d",
+            "0x282726",
+            "0xfca620",
+            "0xfccbac"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

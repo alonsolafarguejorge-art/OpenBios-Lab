@@ -1,0 +1,57 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:43.055763",
+    "file_path": "E:\\HP Stream - 11-ah113wm DAY0HGMB6C1 REV C.BIN",
+    "file_name": "HP Stream - 11-ah113wm DAY0HGMB6C1 REV C.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x90028",
+            "0x92028",
+            "0x92cb0",
+            "0x93028",
+            "0x94805",
+            "0x9e525",
+            "0x9fd43",
+            "0xa4f80",
+            "0xa51e6",
+            "0xad173",
+            "0xd4028",
+            "0xd61fa",
+            "0xdb14b",
+            "0x13a028",
+            "0x15ff38",
+            "0x1c6028",
+            "0x1f2028",
+            "0x40f028",
+            "0x434f38",
+            "0x49b028",
+            "0x724028",
+            "0x765030"
+        ],
+        "Intel Flash Descriptor": [
+            "0x57f4e",
+            "0x5f035",
+            "0x5f05b",
+            "0x65e27",
+            "0x77f000"
+        ],
+        "AMI BIOS": [
+            "0x10e9c3",
+            "0x118d30",
+            "0x119bf0",
+            "0x119c40",
+            "0x17ef0e",
+            "0x17f0ee",
+            "0x453f0e",
+            "0x4540ee",
+            "0x68b69d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:19.435132",
+    "file_path": "E:\\Bios Hp Compaq\\HP 13-d006la\\080D7.bin",
+    "file_name": "080D7.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x244028",
+            "0x278030",
+            "0x2fd028",
+            "0x690028",
+            "0x72f028",
+            "0x730028",
+            "0x738828",
+            "0x7cb6ab"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x72f09e",
+            "0x72f27e",
+            "0x7ca466",
+            "0x7ca646"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

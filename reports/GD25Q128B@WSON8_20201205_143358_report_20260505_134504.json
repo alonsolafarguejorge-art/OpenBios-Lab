@@ -1,0 +1,51 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:04.696740",
+    "file_path": "E:\\Bios Asus\\ASUS FX504G DABLKGMB8D0\\GD25Q128B@WSON8_20201205_143358.BIN",
+    "file_name": "GD25Q128B@WSON8_20201205_143358.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x330028",
+            "0x3c0028",
+            "0x3d0028",
+            "0xd10028",
+            "0xde0028",
+            "0xde4b73",
+            "0xdf4276",
+            "0xe80028",
+            "0xe80098",
+            "0xf20028",
+            "0xf24028",
+            "0xf2607e",
+            "0xf71422",
+            "0xf80028",
+            "0xf80dd6",
+            "0xf829f0",
+            "0xf9f63c",
+            "0xfae67e",
+            "0xfb8f84",
+            "0xfc1fce",
+            "0xffe8ce",
+            "0xfff34c"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2000"
+        ],
+        "AMI BIOS": [
+            "0x3012c2",
+            "0x309905",
+            "0x3312c2",
+            "0xfc400c",
+            "0xfc401c",
+            "0xfc57da"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

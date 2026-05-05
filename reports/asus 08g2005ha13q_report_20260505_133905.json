@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:05.584474",
+    "file_path": "E:\\asus 08g2005ha13q.bin",
+    "file_name": "asus 08g2005ha13q.bin",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x596a",
+            "0x59b4",
+            "0x137f5",
+            "0x6bfea",
+            "0x7036c"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

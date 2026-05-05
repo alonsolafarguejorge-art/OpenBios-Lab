@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:53.247247",
+    "file_path": "E:\\Bios Samsung\\Samsung NP-N150-JP03PL\\__MACOSX\\._GD25Q16.BIN",
+    "file_name": "._GD25Q16.BIN",
+    "file_size_bytes": 512,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

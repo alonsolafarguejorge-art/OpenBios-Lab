@@ -1,0 +1,43 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:26.231302",
+    "file_path": "E:\\Bios Hp Compaq\\HP Pavilion 20-b323w All-in-One BIOS AABRZ-AB REV 1.02\\AZ3_8008.bin",
+    "file_name": "AZ3_8008.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x40028",
+            "0x80028",
+            "0x2c0028",
+            "0x2c13de",
+            "0x2c1530",
+            "0x2c5151",
+            "0x35feae",
+            "0x35febf",
+            "0x35fed0",
+            "0x35fee1",
+            "0x360028",
+            "0x3613de",
+            "0x361530",
+            "0x365151",
+            "0x3ffeae",
+            "0x3ffebf",
+            "0x3ffed0",
+            "0x3ffee1"
+        ],
+        "AMI BIOS": [
+            "0x40218",
+            "0x32377b",
+            "0x323a7b",
+            "0x3c377b",
+            "0x3c3a7b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

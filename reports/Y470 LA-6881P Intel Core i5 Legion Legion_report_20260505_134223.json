@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:23.465840",
+    "file_path": "E:\\Y470 LA-6881P Intel Core i5 Legion Legion.bin",
+    "file_name": "Y470 LA-6881P Intel Core i5 Legion Legion.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x185028",
+            "0x193028",
+            "0x351028",
+            "0x361028",
+            "0x37801d",
+            "0x37858d",
+            "0x392d43"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

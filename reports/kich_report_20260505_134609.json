@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:09.852037",
+    "file_path": "E:\\Bios Dell\\dell 5521 la-9104p\\3521-la-9104p-1.0-ok\\kich.BIN",
+    "file_name": "kich.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x100028",
+            "0x130030",
+            "0x140028",
+            "0x163bb7",
+            "0x163faa",
+            "0x16575b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:54.825271",
+    "file_path": "E:\\Bios Samsung\\Samsung NP370R5E (Ba41-02175a Ramos Rev1.0 )\\vinafix.com_SAMSUNG BA41-02317A  BIOS OK.bin\\__MACOSX\\._SAMSUNG BA41-02317A  BIOS OK.bin",
+    "file_name": "._SAMSUNG BA41-02317A  BIOS OK.bin",
+    "file_size_bytes": 212,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

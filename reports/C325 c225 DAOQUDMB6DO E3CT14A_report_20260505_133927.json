@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:27.947742",
+    "file_path": "E:\\C325 c225 DAOQUDMB6DO E3CT14A.ROM",
+    "file_name": "C325 c225 DAOQUDMB6DO E3CT14A.ROM",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:04.137397",
+    "file_path": "E:\\Bios Toshiba\\Toshiba Satellite C850 DK10F 6050A2541801-MB-A02\\Satellite C850 DK10F-6050A2541801-MB-A02_Clear me.BIN",
+    "file_name": "Satellite C850 DK10F-6050A2541801-MB-A02_Clear me.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x199028",
+            "0x340028",
+            "0x370028",
+            "0x38cdb6",
+            "0x38d09a",
+            "0x38f326"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2010"
+        ],
+        "Insyde BIOS": [
+            "0x18108e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

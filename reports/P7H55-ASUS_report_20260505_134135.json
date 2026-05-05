@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:35.685685",
+    "file_path": "E:\\P7H55-ASUS.bin",
+    "file_name": "P7H55-ASUS.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x10010"
+        ],
+        "AMI BIOS": [
+            "0x6d885",
+            "0x19ffea",
+            "0x1b0000",
+            "0x1d453f",
+            "0x1d456f",
+            "0x1d459b",
+            "0x1d45cb",
+            "0x1d45e3",
+            "0x1d460f",
+            "0x1d4637",
+            "0x1d466b",
+            "0x1d469f",
+            "0x1d470f",
+            "0x1d4733",
+            "0x1f004c",
+            "0x1f03fc"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:59.799395",
+    "file_path": "E:\\BIOS\\EN25QH64_20190906_171737  HP 14 BLANCA.BIN",
+    "file_name": "EN25QH64_20190906_171737  HP 14 BLANCA.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x5c0028",
+            "0x5e0028",
+            "0x740028",
+            "0x7461ef",
+            "0x74633c",
+            "0x74a8fc"
+        ],
+        "AMI BIOS": [
+            "0x40167",
+            "0x40187",
+            "0x401a7",
+            "0x401c7",
+            "0x401e7",
+            "0x40207",
+            "0x5c0242",
+            "0x5c08b3",
+            "0x5e0242",
+            "0x5e08b3",
+            "0x691f40",
+            "0x7b92f8",
+            "0x7bb6dc",
+            "0x7bea6b",
+            "0x7bed6b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:10.116236",
+    "file_path": "E:\\V3000 HBM 965 Intel dis doubt.bin",
+    "file_name": "V3000 HBM 965 Intel dis doubt.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xec0f6",
+            "0xec12a"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

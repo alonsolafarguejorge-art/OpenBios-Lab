@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:05.427368",
+    "file_path": "E:\\dv2000gbm7200.bin",
+    "file_name": "dv2000gbm7200.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xeb966"
+        ],
+        "Phoenix BIOS": [
+            "0xebf29",
+            "0xebf5d"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:06.672183",
+    "file_path": "E:\\Bios Hp Compaq\\HP EliteBook 820 G1 BIOS\\ec.BIN",
+    "file_name": "ec.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x14f028",
+            "0x1a06c5",
+            "0x1fe028"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

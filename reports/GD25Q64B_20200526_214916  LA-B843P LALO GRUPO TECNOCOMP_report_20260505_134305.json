@@ -1,0 +1,59 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:05.562153",
+    "file_path": "E:\\BIOS\\GD25Q64B_20200526_214916  LA-B843P LALO GRUPO TECNOCOMP.BIN",
+    "file_name": "GD25Q64B_20200526_214916  LA-B843P LALO GRUPO TECNOCOMP.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1e0028",
+            "0x200028",
+            "0x230028",
+            "0x270028",
+            "0x280028",
+            "0x6e0028",
+            "0x700028",
+            "0x702033",
+            "0x7059f6",
+            "0x705b2f",
+            "0x70824d",
+            "0x708294",
+            "0x70c800",
+            "0x79d948",
+            "0x7ffa6b"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x1e0b17",
+            "0x200b17",
+            "0x275ddc",
+            "0x2760a0",
+            "0x2760e7",
+            "0x276257",
+            "0x2763b1",
+            "0x276566",
+            "0x2765ad",
+            "0x27671d",
+            "0x276910",
+            "0x276957",
+            "0x276ac7",
+            "0x276c21",
+            "0x277438",
+            "0x27747f",
+            "0x2775ef",
+            "0x277749",
+            "0x78e7e1"
+        ],
+        "Insyde BIOS": [
+            "0x1c016a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

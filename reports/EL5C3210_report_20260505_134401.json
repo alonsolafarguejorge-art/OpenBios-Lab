@@ -1,0 +1,48 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:01.671092",
+    "file_path": "E:\\BIOS\\S340-15IWL Laptop (ideapad)\\alcn33ww_LBE OutPut\\codeGetExtractPath\\EL5C3210.ROM",
+    "file_name": "EL5C3210.ROM",
+    "file_size_bytes": 18214432,
+    "file_size_mb": 17.37,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2d0",
+            "0x7edaf8",
+            "0xb27af8",
+            "0xb69b00",
+            "0xbd0af8",
+            "0xc90af8",
+            "0xf30af8",
+            "0xf4f24f",
+            "0xf508a5",
+            "0xf90af8",
+            "0xfdeaef",
+            "0x1060af8",
+            "0x1065af8",
+            "0x1067aed",
+            "0x10c2e1d",
+            "0x10f0af8",
+            "0x10f22ff",
+            "0x112d4e2",
+            "0x112f97e"
+        ],
+        "Intel Flash Descriptor": [
+            "0x33fad0"
+        ],
+        "Insyde BIOS": [
+            "0x1130aff",
+            "0x1133ad3",
+            "0x1133fee",
+            "0x1134063",
+            "0x11340af",
+            "0x113cf5a",
+            "0x113d54b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

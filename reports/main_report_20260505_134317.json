@@ -1,0 +1,37 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:17.239508",
+    "file_path": "E:\\BIOS\\apire es1\\Aspire ES1-432 DA0ZQFMB6F0 Quanta ZQF\\Aspire ES1-432 DA0ZQFMB6F0\\main.bin",
+    "file_name": "main.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x7f468",
+            "0x80468",
+            "0x81bcb",
+            "0x8cb15",
+            "0x8ccd7",
+            "0xda468",
+            "0xe0243",
+            "0x388028",
+            "0x3d6028",
+            "0x5db028",
+            "0x619030"
+        ],
+        "Intel Flash Descriptor": [
+            "0x4af8f"
+        ],
+        "AMI BIOS": [
+            "0xbf1e8"
+        ],
+        "Insyde BIOS": [
+            "0x3c9008"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

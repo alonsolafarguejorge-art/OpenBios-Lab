@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:36.367585",
+    "file_path": "E:\\BIOS\\E1-572-54201G20Dnii\\EN25QH64_20190118_131844  acer bck up.BIN-new.bin",
+    "file_name": "EN25QH64_20190118_131844  acer bck up.BIN-new.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x408028",
+            "0x416028",
+            "0x6ce028",
+            "0x6fc030",
+            "0x700028",
+            "0x7323b5",
+            "0x73278a",
+            "0x733efb"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Insyde BIOS": [
+            "0x411008"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

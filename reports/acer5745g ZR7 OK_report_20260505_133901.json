@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:01.763621",
+    "file_path": "E:\\acer5745g ZR7 OK.bin",
+    "file_name": "acer5745g ZR7 OK.bin",
+    "file_size_bytes": 4195330,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x214028",
+            "0x34f028",
+            "0x351028",
+            "0x361028",
+            "0x36f186",
+            "0x374562"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x21fd1d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:18.486003",
+    "file_path": "E:\\Bios Hp Compaq\\hp 11\\W25Q64FW_QPI_20190709_131502.BIN",
+    "file_name": "W25Q64FW_QPI_20190709_131502.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x38e028",
+            "0x3cc030",
+            "0x3e0028",
+            "0x430028",
+            "0x730028",
+            "0x75dede",
+            "0x75e486",
+            "0x7e1028",
+            "0x7e2722"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x75d30e",
+            "0x75d4ee"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

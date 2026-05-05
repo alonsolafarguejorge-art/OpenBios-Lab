@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:07.560184",
+    "file_path": "E:\\Bios Toshiba\\Toshiba Satellite S45t-ASP4207SL PSKHAM, PSKHAP, PSKHAU, PSKHEP BIOS version 1.20\\EC.ROM",
+    "file_name": "EC.ROM",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

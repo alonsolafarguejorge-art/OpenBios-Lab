@@ -1,0 +1,51 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:00.600667",
+    "file_path": "E:\\Bios Hp Compaq\\HP All-in-One - 20-r018la AMPBM-DP rev 1.02 BIOS MAK_A009 4MB\\MX25L3205_20190327_132756  bck up hp 20 ampbm-dp rev 1.02.BIN",
+    "file_name": "MX25L3205_20190327_132756  bck up hp 20 ampbm-dp rev 1.02.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x40028",
+            "0x40961",
+            "0x60028",
+            "0x60961",
+            "0x80028",
+            "0x2c0028",
+            "0x2c42e1",
+            "0x2c4433",
+            "0x2c8787",
+            "0x35feae",
+            "0x35febf",
+            "0x35fed0",
+            "0x35fee1",
+            "0x360028",
+            "0x3642e1",
+            "0x364433",
+            "0x368787",
+            "0x3ffeae",
+            "0x3ffebf",
+            "0x3ffed0",
+            "0x3ffee1"
+        ],
+        "AMI BIOS": [
+            "0x401ea",
+            "0x40af0",
+            "0x40e53",
+            "0x601ea",
+            "0x60af0",
+            "0x60e53",
+            "0x349d2b",
+            "0x34a02b",
+            "0x3e9d2b",
+            "0x3ea02b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

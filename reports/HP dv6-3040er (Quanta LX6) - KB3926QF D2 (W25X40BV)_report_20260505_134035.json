@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:35.498099",
+    "file_path": "E:\\HP dv6-3040er (Quanta LX6) - KB3926QF D2 (W25X40BV).bin",
+    "file_name": "HP dv6-3040er (Quanta LX6) - KB3926QF D2 (W25X40BV).bin",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

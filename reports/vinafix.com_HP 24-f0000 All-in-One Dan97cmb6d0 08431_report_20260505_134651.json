@@ -1,0 +1,59 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:51.362376",
+    "file_path": "E:\\Bios Hp Compaq\\HP 20 DAN97CMB6D0 REV D\\vinafix.com_HP 24-f0000 All-in-One Dan97cmb6d0 08431.bin",
+    "file_name": "vinafix.com_HP 24-f0000 All-in-One Dan97cmb6d0 08431.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x90028",
+            "0x92028",
+            "0x92cb0",
+            "0x93028",
+            "0x98a1f",
+            "0x98b77",
+            "0x99011",
+            "0x9f332",
+            "0xa9a8d",
+            "0xb687b",
+            "0xd3028",
+            "0xd5397",
+            "0xda3d0",
+            "0x139028",
+            "0x139b6c",
+            "0x142e12",
+            "0x18678d",
+            "0x18c7ee",
+            "0x1b9028",
+            "0x783028",
+            "0xbee028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x57f4e",
+            "0x5f035",
+            "0x5f05b",
+            "0x65e32"
+        ],
+        "AMI BIOS": [
+            "0x900a5",
+            "0xd30a5",
+            "0x10726b",
+            "0x1115e0",
+            "0x111c18",
+            "0x111c68",
+            "0x1925b7",
+            "0x192c33",
+            "0x192f33",
+            "0x1b90a5",
+            "0x783767",
+            "0xa17a45",
+            "0xbee72b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

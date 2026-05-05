@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:49.931683",
+    "file_path": "E:\\5517 (NCWG0 LA-5481P).BIN",
+    "file_name": "5517 (NCWG0 LA-5481P).BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x20028",
+            "0x24028",
+            "0xc3028",
+            "0xd1028",
+            "0xe2175",
+            "0xe5762"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

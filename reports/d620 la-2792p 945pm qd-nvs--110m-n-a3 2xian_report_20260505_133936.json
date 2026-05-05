@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:36.263090",
+    "file_path": "E:\\d620 la-2792p 945pm qd-nvs--110m-n-a3 2xian.BIN",
+    "file_name": "d620 la-2792p 945pm qd-nvs--110m-n-a3 2xian.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x2001c",
+            "0x252bc",
+            "0x28125"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

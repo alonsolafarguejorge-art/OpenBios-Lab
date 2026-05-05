@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:32.997220",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo ideapad 110 CG521 NM-A841 1.0 BIOS\\vinafix.com_nm-a841 IT8586E.BIN",
+    "file_name": "vinafix.com_nm-a841 IT8586E.BIN",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

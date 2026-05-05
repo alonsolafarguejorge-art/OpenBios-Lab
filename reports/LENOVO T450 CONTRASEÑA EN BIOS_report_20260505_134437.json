@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:37.210457",
+    "file_path": "E:\\Bios Lenovo IBM\\LENOVO T450 SN PC-054LS9 1505   password\\LENOVO T450 CONTRASE\u00d1A EN BIOS.bin",
+    "file_name": "LENOVO T450 CONTRASE\u00d1A EN BIOS.bin",
+    "file_size_bytes": 196608,
+    "file_size_mb": 0.19,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

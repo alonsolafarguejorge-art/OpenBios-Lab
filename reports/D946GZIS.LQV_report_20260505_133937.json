@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:37.269153",
+    "file_path": "E:\\D946GZIS.LQV.BIN",
+    "file_name": "D946GZIS.LQV.BIN",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x2028",
+            "0x8028",
+            "0x10028",
+            "0x70028",
+            "0x75ed8",
+            "0x75f09",
+            "0x77f99",
+            "0x780b1"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:14.308050",
+    "file_path": "E:\\Bios Hp Compaq\\HP Folio 13-2000 QAZ61 LA-8044P\\QAZ61 LA-8044P\\W25Q32V@SOIC8_20210915_135046  QAZ61 LA-8044P.BIN",
+    "file_name": "W25Q32V@SOIC8_20210915_135046  QAZ61 LA-8044P.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x182028",
+            "0x192028",
+            "0x392028",
+            "0x3a876f",
+            "0x3a8d6f",
+            "0x3c6a2f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x3d90f6",
+            "0x3d92d6"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

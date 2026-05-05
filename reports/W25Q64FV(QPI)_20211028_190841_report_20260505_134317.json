@@ -1,0 +1,46 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:17.108489",
+    "file_path": "E:\\BIOS\\apire es1\\W25Q64FV(QPI)_20211028_190841.BIN",
+    "file_name": "W25Q64FV(QPI)_20211028_190841.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x7f468",
+            "0x80468",
+            "0x81bcb",
+            "0x8cda9",
+            "0x8cf6b",
+            "0xda468",
+            "0xe0243",
+            "0x388028",
+            "0x3d6028",
+            "0x5db028",
+            "0x619030",
+            "0x712932",
+            "0x716cd6",
+            "0x71eea4",
+            "0x745282",
+            "0x7761dd",
+            "0x7b7a34",
+            "0x7b7c04",
+            "0x7c8202"
+        ],
+        "Intel Flash Descriptor": [
+            "0x4af8f",
+            "0x6ff000"
+        ],
+        "AMI BIOS": [
+            "0xbf4e8"
+        ],
+        "Insyde BIOS": [
+            "0x3c9008"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

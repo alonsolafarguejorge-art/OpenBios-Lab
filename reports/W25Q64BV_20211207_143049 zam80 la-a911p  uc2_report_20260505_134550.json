@@ -1,0 +1,52 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:50.708424",
+    "file_path": "E:\\Bios Dell\\Dell LATITUDE E5550 zam80 la-a911p\\zam80 la-a911p\\W25Q64BV_20211207_143049 zam80 la-a911p  uc2.BIN",
+    "file_name": "W25Q64BV_20211207_143049 zam80 la-a911p  uc2.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x600028",
+            "0x620028",
+            "0x650028",
+            "0x690028",
+            "0x6a0028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5010"
+        ],
+        "AMI BIOS": [
+            "0x600b17",
+            "0x60611b",
+            "0x620b17",
+            "0x626721",
+            "0x695d94",
+            "0x696058",
+            "0x69609f",
+            "0x69620f",
+            "0x696369",
+            "0x69651e",
+            "0x696565",
+            "0x6966d5",
+            "0x6968c8",
+            "0x69690f",
+            "0x696a7f",
+            "0x696bd9",
+            "0x6973f0",
+            "0x697437",
+            "0x6975a7",
+            "0x697701",
+            "0x698548",
+            "0x69858f",
+            "0x6986ff",
+            "0x698859",
+            "0x74fd44"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

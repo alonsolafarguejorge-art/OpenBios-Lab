@@ -1,0 +1,48 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:02.039635",
+    "file_path": "E:\\Bios Asus\\Asus_X540MA_REV_2.0_CeleronN4000_Model-X543MA-GQ635T.bin",
+    "file_name": "Asus_X540MA_REV_2.0_CeleronN4000_Model-X543MA-GQ635T.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0xa5028",
+            "0xa6028",
+            "0xe08a5",
+            "0xe09fd",
+            "0xe0ea7",
+            "0xee718",
+            "0xf995b",
+            "0x120028",
+            "0x120b63",
+            "0x178dae",
+            "0x248028",
+            "0x413028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5a3fb",
+            "0x61705",
+            "0x6172b",
+            "0x6921f",
+            "0x77f000"
+        ],
+        "AMI BIOS": [
+            "0xcf3e3",
+            "0xd9738",
+            "0xd9d70",
+            "0xd9dc0",
+            "0x17d1d5",
+            "0x1d5de3",
+            "0x248701",
+            "0x248f7b",
+            "0x24df7e",
+            "0x433411"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:07.534541",
+    "file_path": "E:\\Bios Toshiba\\Toshiba Satellite S45t-ASP4207SL PSKHAM, PSKHAP, PSKHAU, PSKHEP BIOS version 1.20\\4MB.ROM",
+    "file_name": "4MB.ROM",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x184028",
+            "0x1c4028",
+            "0x390028",
+            "0x3c1978",
+            "0x3c1ac1",
+            "0x3c5800",
+            "0x3d2b82",
+            "0x3ff750"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x1843ce"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

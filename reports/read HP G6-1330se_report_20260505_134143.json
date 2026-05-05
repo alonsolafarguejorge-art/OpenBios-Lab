@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:43.041404",
+    "file_path": "E:\\read HP G6-1330se.bin",
+    "file_name": "read HP G6-1330se.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x190028",
+            "0x3a1028",
+            "0x3b3769",
+            "0x3b3b67",
+            "0x3cf03f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x3df30e",
+            "0x3df4ee"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

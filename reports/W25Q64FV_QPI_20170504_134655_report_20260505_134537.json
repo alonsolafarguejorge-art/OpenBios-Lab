@@ -1,0 +1,40 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:37.052235",
+    "file_path": "E:\\Bios Dell\\Dell Inspiron 14 5452 LA-C571P\\W25Q64FV_QPI_20170504_134655.BIN",
+    "file_name": "W25Q64FV_QPI_20170504_134655.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x310028",
+            "0x330028",
+            "0x351028",
+            "0x3c1028",
+            "0x73b028",
+            "0x7e1028",
+            "0x7e3093",
+            "0x7e61a8",
+            "0x7f27dd"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x944de",
+            "0x310354",
+            "0x330354",
+            "0x3395ef",
+            "0x339636",
+            "0x3397a6",
+            "0x33992b",
+            "0x339fb4",
+            "0x7513c8"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:30.957165",
+    "file_path": "E:\\Bios Hp Compaq\\HP 15-0021LA EPK50  LA-G073P\\084AA   OK\\084AA.bin",
+    "file_name": "084AA.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x92028",
+            "0x94028",
+            "0x94cb0",
+            "0x95028",
+            "0x96805",
+            "0xa0985",
+            "0xa21a3",
+            "0xa751f",
+            "0xa7785",
+            "0xafef8",
+            "0xd6028",
+            "0xd81fa",
+            "0xdd14b",
+            "0x13c028",
+            "0x16222c",
+            "0x1c8028",
+            "0x1f4028",
+            "0x410028",
+            "0x658028",
+            "0x6da030"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5924a",
+            "0x60348",
+            "0x6036e",
+            "0x67aa5"
+        ],
+        "AMI BIOS": [
+            "0x110afb",
+            "0x11ae68",
+            "0x11bd28",
+            "0x11bd78",
+            "0x1803ae",
+            "0x18058e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

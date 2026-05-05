@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:14.773459",
+    "file_path": "E:\\wipro 7b1630 id- u40si2 wd sis (1).BIN",
+    "file_name": "wipro 7b1630 id- u40si2 wd sis (1).BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xeb841",
+            "0xeb875"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

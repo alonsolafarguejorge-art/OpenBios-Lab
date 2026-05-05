@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:32.493262",
+    "file_path": "E:\\Bios Dell\\Dell E6430 QAL81 la-7782p rev 1.0 a00\\Dell Latitude E6430 Clean Me.bin",
+    "file_name": "Dell Latitude E6430 Clean Me.bin",
+    "file_size_bytes": 12582912,
+    "file_size_mb": 12.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x600028",
+            "0x620028",
+            "0x650028",
+            "0xa00028",
+            "0xa2fe56",
+            "0xa2ff8c",
+            "0xa33c4d",
+            "0xa4419a",
+            "0xbff790"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5010"
+        ],
+        "AMI BIOS": [
+            "0x27c498",
+            "0xa2b88c",
+            "0xa2de64",
+            "0xa2f638",
+            "0xa70fec"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

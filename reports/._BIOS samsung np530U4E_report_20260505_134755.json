@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:55.659309",
+    "file_path": "E:\\Bios Samsung\\samsung np530U4E\\__MACOSX\\._BIOS samsung np530U4E.bin",
+    "file_name": "._BIOS samsung np530U4E.bin",
+    "file_size_bytes": 164,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

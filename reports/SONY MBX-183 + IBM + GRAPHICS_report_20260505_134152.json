@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:52.843141",
+    "file_path": "E:\\SONY MBX-183 + IBM + GRAPHICS.bin",
+    "file_name": "SONY MBX-183 + IBM + GRAPHICS.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x280028",
+            "0x3b0028",
+            "0x3c0028",
+            "0x3d0028",
+            "0x3d757d",
+            "0x3e99ea"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

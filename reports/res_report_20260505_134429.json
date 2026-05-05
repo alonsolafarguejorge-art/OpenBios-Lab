@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:29.973787",
+    "file_path": "E:\\Bios Lenovo IBM\\lenovo G475\\res.BIN",
+    "file_name": "res.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x4028",
+            "0x11028",
+            "0x11f028",
+            "0x185028",
+            "0x195028",
+            "0x19c028",
+            "0x1aa028",
+            "0x1deb83",
+            "0x1df116",
+            "0x1e28c3"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

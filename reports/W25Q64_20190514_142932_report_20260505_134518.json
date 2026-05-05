@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:18.444073",
+    "file_path": "E:\\Bios Asus\\AUS S551LB REV 2.1\\W25Q64_20190514_142932.BIN",
+    "file_name": "W25Q64_20190514_142932.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x210028",
+            "0x280028",
+            "0x730028",
+            "0x750028",
+            "0x7899a8",
+            "0x789af5",
+            "0x78ddec",
+            "0x7aa276",
+            "0x7ff770"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x2104ee"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

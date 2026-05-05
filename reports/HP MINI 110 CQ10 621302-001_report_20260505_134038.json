@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:38.267894",
+    "file_path": "E:\\HP MINI 110 CQ10 621302-001.BIN",
+    "file_name": "HP MINI 110 CQ10 621302-001.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x23028",
+            "0x1b0028",
+            "0x1c0028",
+            "0x1c9428",
+            "0x1cdd8b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

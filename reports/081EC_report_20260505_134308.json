@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:08.370044",
+    "file_path": "E:\\BIOS\\081EC\\081EC.bin",
+    "file_name": "081EC.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x244028",
+            "0x278030",
+            "0x33c028",
+            "0x67f028",
+            "0x71e028",
+            "0x71f028",
+            "0x728e63",
+            "0x7ec8b3"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x71e09e",
+            "0x71e27e",
+            "0x7eb746",
+            "0x7eb926"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

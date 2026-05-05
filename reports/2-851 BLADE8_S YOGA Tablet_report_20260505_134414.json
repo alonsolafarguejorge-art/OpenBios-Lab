@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:14.424610",
+    "file_path": "E:\\Bios Lenovo IBM\\2-851 BLADE8_S YOGA Tablet.bin",
+    "file_name": "2-851 BLADE8_S YOGA Tablet.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x500028",
+            "0x53e030",
+            "0x543028",
+            "0x5c8028",
+            "0x770028",
+            "0x777d43",
+            "0x7b0028",
+            "0x7e1028",
+            "0x7e2956"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x6dbe6c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

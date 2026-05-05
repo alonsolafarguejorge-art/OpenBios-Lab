@@ -1,0 +1,52 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:26.888171",
+    "file_path": "E:\\Bios Hp Compaq\\HP Pavilion All-in-One - 23-q110 - Dan61bmb6e0\\W25Q64FW_QPI_20180817_154439  bck up suricator.BIN",
+    "file_name": "W25Q64FW_QPI_20180817_154439  bck up suricator.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x37028",
+            "0x37844",
+            "0x57028",
+            "0x57844",
+            "0x187028",
+            "0x600028",
+            "0x600c28",
+            "0x602bbf",
+            "0x6ad38e",
+            "0x6ff55f",
+            "0x6ff59d",
+            "0x700028",
+            "0x700c28",
+            "0x702bbf",
+            "0x7ad38e",
+            "0x7ff55f",
+            "0x7ff59d"
+        ],
+        "AMI BIOS": [
+            "0x37225",
+            "0x379da",
+            "0x37dbc",
+            "0x3b2ab",
+            "0x3b2e9",
+            "0x57225",
+            "0x579da",
+            "0x57dbc",
+            "0x5b2ab",
+            "0x5b2e9",
+            "0x3dff79",
+            "0x6b176b",
+            "0x6b1a6b",
+            "0x7b176b",
+            "0x7b1a6b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

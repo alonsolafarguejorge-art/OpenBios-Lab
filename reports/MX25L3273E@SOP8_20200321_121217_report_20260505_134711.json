@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:11.595069",
+    "file_path": "E:\\Bios Hp Compaq\\hp envy m6-n11d3x OK\\MX25L3273E@SOP8_20200321_121217.BIN",
+    "file_name": "MX25L3273E@SOP8_20200321_121217.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x23028",
+            "0x4f030",
+            "0x53028",
+            "0x330028",
+            "0x331028",
+            "0x3b7d6b",
+            "0x3b8393",
+            "0x3be213"
+        ],
+        "AMI BIOS": [
+            "0x33009e",
+            "0x33027e",
+            "0x3d59be",
+            "0x3d5b9e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

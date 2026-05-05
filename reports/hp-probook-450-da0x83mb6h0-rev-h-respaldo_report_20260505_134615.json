@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:15.014409",
+    "file_path": "E:\\Bios Hp Compaq\\hp-probook-450-da0x83mb6h0-rev-h-respaldo.BIN",
+    "file_name": "hp-probook-450-da0x83mb6h0-rev-h-respaldo.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x75d028",
+            "0xb10028",
+            "0xb51028",
+            "0xc0c028",
+            "0xc418a3",
+            "0xc48640",
+            "0xd13fe3",
+            "0xd375df",
+            "0xda8028",
+            "0xe63028",
+            "0xe988a3",
+            "0xe9f640",
+            "0xf6afe3",
+            "0xf8e5df",
+            "0xffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

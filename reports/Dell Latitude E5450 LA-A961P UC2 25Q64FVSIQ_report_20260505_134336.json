@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:36.447679",
+    "file_path": "E:\\BIOS\\E7450 LA-A961P\\Dell Latitude E5450 LA-A961P Bios\\Dell Latitude E5450 LA-A961P UC2 25Q64FVSIQ.BIN",
+    "file_name": "Dell Latitude E5450 LA-A961P UC2 25Q64FVSIQ.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x280028",
+            "0x2a0028",
+            "0x2a1fdd",
+            "0x2a59d2",
+            "0x2a5b0b",
+            "0x2a8217",
+            "0x2a825e",
+            "0x2ac840",
+            "0x373e60",
+            "0x3ffa6b"
+        ],
+        "AMI BIOS": [
+            "0x34cc81",
+            "0x36a11d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:55.844763",
+    "file_path": "E:\\Acer aspire E1-510 + Z5WE3 LA-A621P +SINGLE CPU CHIP.bin",
+    "file_name": "Acer aspire E1-510 + Z5WE3 LA-A621P +SINGLE CPU CHIP.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x53e02f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x58a81d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

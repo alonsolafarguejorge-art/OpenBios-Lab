@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:00.288459",
+    "file_path": "E:\\Digilite DL-H61M-VG4 + i3.bin",
+    "file_name": "Digilite DL-H61M-VG4 + i3.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1a0028",
+            "0x1c0028",
+            "0x360028",
+            "0x3a982b",
+            "0x3a9974",
+            "0x3ad362",
+            "0x3bb1ca",
+            "0x3fd7b0",
+            "0x3fe028",
+            "0x3ffee0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x180396",
+            "0x18058d",
+            "0x1a0396",
+            "0x1a0935",
+            "0x3e5834",
+            "0x3e8adc"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

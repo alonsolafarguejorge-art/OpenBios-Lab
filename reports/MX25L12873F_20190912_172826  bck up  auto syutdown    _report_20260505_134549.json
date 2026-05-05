@@ -1,0 +1,46 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:49.799614",
+    "file_path": "E:\\Bios Dell\\Dell Latitude E5470 0VJ1G LA-C831P BIOS\\MX25L12873F_20190912_172826  bck up  auto syutdown    .BIN",
+    "file_name": "MX25L12873F_20190912_172826  bck up  auto syutdown    .BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x700028",
+            "0x760028",
+            "0x7d0028",
+            "0x810028",
+            "0x820028",
+            "0xdf0028",
+            "0xe40028",
+            "0xe40ffe",
+            "0xe43497",
+            "0xedbb12",
+            "0xee4153",
+            "0xee83da",
+            "0xefd8cf",
+            "0xf02953",
+            "0xf8cb33",
+            "0xfffd85"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x701334",
+            "0x701cf6",
+            "0x70ac61",
+            "0x761334",
+            "0x761cf6",
+            "0x793abb",
+            "0xee6dcd",
+            "0xf34020"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

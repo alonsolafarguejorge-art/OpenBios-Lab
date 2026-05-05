@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:48.692613",
+    "file_path": "E:\\BIOS\\LA-K032P\\Inspiron 3501\u200b LA-K032P test ok\\LA-K032P REV.1.0 UC5 .BIN",
+    "file_name": "LA-K032P REV.1.0 UC5 .BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x2f1000",
+            "0x2f2000"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

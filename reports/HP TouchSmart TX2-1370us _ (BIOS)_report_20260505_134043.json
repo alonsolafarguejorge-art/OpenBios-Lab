@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:43.094231",
+    "file_path": "E:\\HP TouchSmart TX2-1370us _ (BIOS).bin",
+    "file_name": "HP TouchSmart TX2-1370us _ (BIOS).bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x14028",
+            "0xc0028",
+            "0xd0028",
+            "0xd9028",
+            "0xe6028",
+            "0xf632a",
+            "0xf9942"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

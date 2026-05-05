@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:11.364541",
+    "file_path": "E:\\VMG5301_200ABIW0b6.bin",
+    "file_name": "VMG5301_200ABIW0b6.bin",
+    "file_size_bytes": 9860188,
+    "file_size_mb": 9.4,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x964367"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

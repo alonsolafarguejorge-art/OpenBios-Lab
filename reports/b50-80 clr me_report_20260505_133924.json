@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:24.193273",
+    "file_path": "E:\\b50-80 clr me.bin",
+    "file_name": "b50-80 clr me.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2bc028",
+            "0x5c0028",
+            "0x5f4030",
+            "0x6c0028",
+            "0x6c7add",
+            "0x6d7eca"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Insyde BIOS": [
+            "0x20016a",
+            "0x20216a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:40.838274",
+    "file_path": "E:\\BIOS\\GA-F2A68HM-DS2 (rev. 1.0) rev. 1.1\\2A68HMS2.F2d.bin",
+    "file_name": "2A68HMS2.F2d.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x70028",
+            "0x700028",
+            "0x704878",
+            "0x705052",
+            "0x70519d",
+            "0x707b37"
+        ],
+        "AMI BIOS": [
+            "0x3030d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

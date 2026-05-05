@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:08.884556",
+    "file_path": "E:\\E531 VILE2 NM-A044 Rev 1.0 U6  Thinkpad.BIN",
+    "file_name": "E531 VILE2 NM-A044 Rev 1.0 U6  Thinkpad.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x2b0028",
+            "0x311028",
+            "0x340028",
+            "0x346af8",
+            "0x35df0c",
+            "0x35df36",
+            "0x3bd48f"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

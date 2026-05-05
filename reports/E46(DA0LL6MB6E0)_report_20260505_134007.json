@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:07.804590",
+    "file_path": "E:\\E46(DA0LL6MB6E0).BIN",
+    "file_name": "E46(DA0LL6MB6E0).BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x43132"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

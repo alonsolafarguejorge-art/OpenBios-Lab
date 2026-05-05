@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:56.998484",
+    "file_path": "E:\\Bios Samsung\\Samsung Samsung R439 NP-R439L Suzhou-ML BA41-01230A Rev MP1.3\\__MACOSX\\._Samsung NP-R480-JAB1US (Suzhou-MI BA41-01230A).bin",
+    "file_name": "._Samsung NP-R480-JAB1US (Suzhou-MI BA41-01230A).bin",
+    "file_size_bytes": 212,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

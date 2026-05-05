@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:29.396292",
+    "file_path": "E:\\Hp 15-r078TU + SR1YW + ZSO50 LA- A994P  + 25Q64FV.bin",
+    "file_name": "Hp 15-r078TU + SR1YW + ZSO50 LA- A994P  + 25Q64FV.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

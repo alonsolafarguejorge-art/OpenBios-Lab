@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:46.463749",
+    "file_path": "E:\\Bios Hp Compaq\\Hp _G6-2103tu CPU i5_ DA0R33MB6F0 _ REV F_ R33_ GREEN\\Hp _G6-2103tu CPU i5_ DA0R33MB6F0 _ REV F_ R33_ GREEN.rar.bin",
+    "file_name": "Hp _G6-2103tu CPU i5_ DA0R33MB6F0 _ REV F_ R33_ GREEN.rar.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1d0028",
+            "0x380028",
+            "0x397b53",
+            "0x398184",
+            "0x39c18f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x3dec86",
+            "0x3dee66"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

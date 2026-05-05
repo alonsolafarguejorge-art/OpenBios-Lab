@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:39.279755",
+    "file_path": "E:\\100-14IBY LA-C771P AIVP1 AIVP2 REV 1.0 EC.bin",
+    "file_name": "100-14IBY LA-C771P AIVP1 AIVP2 REV 1.0 EC.bin",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Insyde BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Insyde BIOS": [
+            "0x16a",
+            "0x216a"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

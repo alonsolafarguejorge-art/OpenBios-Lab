@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:42.527984",
+    "file_path": "E:\\Bios Acer\\Aspire A315-31  QUANTA ZAJ Z8P Z8PA\\QUANTA ZAJ Z8P Z8PA EJ14 Bulbasaur_AP(Z8P) MB schematic_Ramp 2017.03.24 Schematics\\vinafix.com_ECROM ITE.bin",
+    "file_name": "vinafix.com_ECROM ITE.bin",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

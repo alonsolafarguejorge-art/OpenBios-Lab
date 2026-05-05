@@ -1,0 +1,44 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:51.062842",
+    "file_path": "E:\\Bios Lenovo IBM\\ThinkCentre M72z - PIH61F _TOPEKA_10124-3\\W25Q64BV_20211207_135728.BIN",
+    "file_name": "W25Q64BV_20211207_135728.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x420028",
+            "0x440028",
+            "0x740028",
+            "0x77eb43",
+            "0x77ec8c",
+            "0x78196f",
+            "0x78faca",
+            "0x7ff770"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x401cc0",
+            "0x401d07",
+            "0x401e77",
+            "0x401fde",
+            "0x4029ba",
+            "0x421cc0",
+            "0x421d07",
+            "0x421e77",
+            "0x421fde",
+            "0x422cc9",
+            "0x7a9b28",
+            "0x7ac2dc",
+            "0x7af6ac"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

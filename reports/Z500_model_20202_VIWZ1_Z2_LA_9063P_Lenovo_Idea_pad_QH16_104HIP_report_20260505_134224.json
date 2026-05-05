@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:24.936658",
+    "file_path": "E:\\Z500_model_20202_VIWZ1_Z2_LA_9063P_Lenovo_Idea_pad_QH16_104HIP.bin",
+    "file_name": "Z500_model_20202_VIWZ1_Z2_LA_9063P_Lenovo_Idea_pad_QH16_104HIP.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x10e028",
+            "0x13c030",
+            "0x140028",
+            "0x161c85",
+            "0x16204e",
+            "0x163153",
+            "0x163661"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

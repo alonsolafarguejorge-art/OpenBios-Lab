@@ -1,0 +1,61 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:48.448677",
+    "file_path": "E:\\Bios Hp Compaq\\HP 18-5010la All-in-One Desktop BIOS\\LAP_8017.bin",
+    "file_name": "LAP_8017.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x330028",
+            "0x380028",
+            "0x3d0028",
+            "0x724028",
+            "0x74c548",
+            "0x74c58f",
+            "0x74c7ff",
+            "0x74c827",
+            "0x764028",
+            "0x78c548",
+            "0x78c58f",
+            "0x78c7ff",
+            "0x78c827",
+            "0x7a4028",
+            "0x7a64e3",
+            "0x7a9294",
+            "0x7a93cd",
+            "0x7a9608",
+            "0x7a9630",
+            "0x7baef1",
+            "0x7baf19",
+            "0x7c3528",
+            "0x7d1692",
+            "0x7d2028",
+            "0x7d44e3",
+            "0x7d7294",
+            "0x7d73cd",
+            "0x7d7608",
+            "0x7d7630",
+            "0x7e8ef1",
+            "0x7e8f19",
+            "0x7f1528",
+            "0x7ff692"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x330286",
+            "0x7c7613",
+            "0x7c7913",
+            "0x7f5613",
+            "0x7f5913"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

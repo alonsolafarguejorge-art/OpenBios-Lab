@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:40.735354",
+    "file_path": "E:\\dell 1420 (with GPS)HBM.BIN",
+    "file_name": "dell 1420 (with GPS)HBM.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x1001c",
+            "0x14dbb",
+            "0x17c2b"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

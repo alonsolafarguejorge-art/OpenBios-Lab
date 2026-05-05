@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:53.574183",
+    "file_path": "E:\\Bios Samsung\\SAMSUNG NP-RV411 BA41-01435A\\MX25L3206E_20191001_160956.BIN",
+    "file_name": "MX25L3206E_20191001_160956.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x4010"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

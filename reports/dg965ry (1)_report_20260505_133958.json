@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:58.821091",
+    "file_path": "E:\\dg965ry (1).BIN",
+    "file_name": "dg965ry (1).BIN",
+    "file_size_bytes": 1048577,
+    "file_size_mb": 1.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x35028",
+            "0x45028",
+            "0x55028",
+            "0xf0028",
+            "0xf705a",
+            "0xf708f",
+            "0xf8ff3",
+            "0xf910b"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3000",
+            "0x6a7c",
+            "0xdacc",
+            "0x1106c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

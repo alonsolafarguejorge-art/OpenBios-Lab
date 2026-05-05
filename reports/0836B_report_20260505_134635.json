@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:35.246164",
+    "file_path": "E:\\Bios Hp Compaq\\hp 15-cb001la  DAG75AMBAD0\\0836B.bin",
+    "file_name": "0836B.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x256028",
+            "0x298030",
+            "0x34d028",
+            "0x649028",
+            "0x6da028",
+            "0x6df789",
+            "0x6fbde6"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x7cabce",
+            "0x7cadae"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

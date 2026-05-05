@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:05.133140",
+    "file_path": "E:\\ASROCK N73PV-HD720p REV 3.04 OK.bin",
+    "file_name": "ASROCK N73PV-HD720p REV 3.04 OK.bin",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x6ffea",
+            "0x78040",
+            "0x7804c",
+            "0x783d8"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

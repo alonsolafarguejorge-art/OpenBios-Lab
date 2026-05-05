@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:13.776576",
+    "file_path": "E:\\FUJITSU- LM10W.rom",
+    "file_name": "FUJITSU- LM10W.rom",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x7325e",
+            "0x732df"
+        ],
+        "Phoenix BIOS": [
+            "0x7358d",
+            "0x735c1"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

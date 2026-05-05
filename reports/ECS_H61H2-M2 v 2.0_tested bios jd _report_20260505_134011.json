@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:11.670352",
+    "file_path": "E:\\ECS_H61H2-M2 v 2.0_tested bios jd .BIN",
+    "file_name": "ECS_H61H2-M2 v 2.0_tested bios jd .BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x200028",
+            "0x220028",
+            "0x240028",
+            "0x780028",
+            "0x7afbc2",
+            "0x7b369c",
+            "0x7c0d6a",
+            "0x7ff7b0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x20038b",
+            "0x201bfc",
+            "0x22038b",
+            "0x221c06",
+            "0x7ddb80",
+            "0x7e1674"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

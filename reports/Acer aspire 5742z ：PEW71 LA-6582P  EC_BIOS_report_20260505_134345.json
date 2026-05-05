@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:45.549220",
+    "file_path": "E:\\BIOS\\LA-6582P\\Acer aspire 5742z \uff1aPEW71 LA-6582P  EC_BIOS\\Acer aspire 5742z \uff1aPEW71 LA-6582P  EC_BIOS.BIN",
+    "file_name": "Acer aspire 5742z \uff1aPEW71 LA-6582P  EC_BIOS.BIN",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

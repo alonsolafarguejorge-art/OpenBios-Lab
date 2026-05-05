@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:56.984765",
+    "file_path": "E:\\Bios Lenovo IBM\\Yoga 710-14ISK Laptop (ideapad) LA-D471P\\__MACOSX\\._UC3.bin",
+    "file_name": "._UC3.bin",
+    "file_size_bytes": 212,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

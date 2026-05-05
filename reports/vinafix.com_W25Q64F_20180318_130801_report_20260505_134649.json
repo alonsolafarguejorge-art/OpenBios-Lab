@@ -1,0 +1,69 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:49.441271",
+    "file_path": "E:\\Bios Hp Compaq\\HP 19-2113w All-in-One - IPPBT-PT\\vinafix.com_W25Q64F_20180318_130801.BIN",
+    "file_name": "vinafix.com_W25Q64F_20180318_130801.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x320028",
+            "0x320a04",
+            "0x340028",
+            "0x340a04",
+            "0x370028",
+            "0x3b0028",
+            "0x3c0028",
+            "0x718028",
+            "0x73e4b8",
+            "0x73e4ff",
+            "0x73e7bd",
+            "0x73e7e5",
+            "0x752028",
+            "0x7784b8",
+            "0x7784ff",
+            "0x7787bd",
+            "0x7787e5",
+            "0x78c028",
+            "0x78e503",
+            "0x7912b4",
+            "0x7913ed",
+            "0x791686",
+            "0x7916ae",
+            "0x7a2b40",
+            "0x7a2b68",
+            "0x7aa718",
+            "0x7c567a",
+            "0x7c6028",
+            "0x7c8503",
+            "0x7cb2b4",
+            "0x7cb3ed",
+            "0x7cb686",
+            "0x7cb6ae",
+            "0x7dcb40",
+            "0x7dcb68",
+            "0x7e4718",
+            "0x7ff67a"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x320269",
+            "0x320beb",
+            "0x340269",
+            "0x340beb",
+            "0x3be0c7",
+            "0x7ad653",
+            "0x7ad953",
+            "0x7e7653",
+            "0x7e7953"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

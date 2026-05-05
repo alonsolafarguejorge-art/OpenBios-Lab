@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:02.596318",
+    "file_path": "E:\\toshiba satellite a300.BIN",
+    "file_name": "toshiba satellite a300.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x14028",
+            "0xc0028",
+            "0xd0028",
+            "0xe0028",
+            "0xe9028",
+            "0xee028",
+            "0xf623a",
+            "0xfa163"
+        ],
+        "Insyde BIOS": [
+            "0x108e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

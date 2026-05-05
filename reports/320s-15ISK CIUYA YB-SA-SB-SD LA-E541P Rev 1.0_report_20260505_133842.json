@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:42.300240",
+    "file_path": "E:\\320s-15ISK CIUYA YB-SA-SB-SD LA-E541P Rev 1.0.BIN",
+    "file_name": "320s-15ISK CIUYA YB-SA-SB-SD LA-E541P Rev 1.0.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2bd028",
+            "0x5b6028",
+            "0x608030",
+            "0x6c0028",
+            "0x6c6489",
+            "0x6e2c71"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Insyde BIOS": [
+            "0x20016a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

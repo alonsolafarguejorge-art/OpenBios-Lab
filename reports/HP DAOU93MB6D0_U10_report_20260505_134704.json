@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:04.643042",
+    "file_path": "E:\\Bios Hp Compaq\\HP DAOU93MB6D0\\HP DAOU93MB6D0_U10.BIN",
+    "file_name": "HP DAOU93MB6D0_U10.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x13028",
+            "0x3f030",
+            "0x43028",
+            "0x356028",
+            "0x357028",
+            "0x3c73c3",
+            "0x3c79eb",
+            "0x3cc5e3",
+            "0x3ccb06"
+        ],
+        "AMI BIOS": [
+            "0x35609e",
+            "0x35627e",
+            "0x3e513e",
+            "0x3e531e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

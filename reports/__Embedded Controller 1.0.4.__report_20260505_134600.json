@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:00.960126",
+    "file_path": "E:\\Bios Dell\\Inspiron 14 7460 - 7560\\LBE_OutPut\\__Embedded Controller 1.0.4._.bin",
+    "file_name": "__Embedded Controller 1.0.4._.bin",
+    "file_size_bytes": 327680,
+    "file_size_mb": 0.31,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file"
+    ]
+}

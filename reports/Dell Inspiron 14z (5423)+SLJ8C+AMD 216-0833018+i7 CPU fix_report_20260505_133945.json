@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:45.193831",
+    "file_path": "E:\\Dell Inspiron 14z (5423)+SLJ8C+AMD 216-0833018+i7 CPU fix.bin",
+    "file_name": "Dell Inspiron 14z (5423)+SLJ8C+AMD 216-0833018+i7 CPU fix.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1a4028",
+            "0x1c4028",
+            "0x1e5028",
+            "0x740028",
+            "0x76e210",
+            "0x76e359",
+            "0x771f99",
+            "0x77ed9a",
+            "0x7ff6b0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x1a440c",
+            "0x1a4982",
+            "0x1c440c",
+            "0x1c4982"
+        ],
+        "Insyde BIOS": [
+            "0x180160"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

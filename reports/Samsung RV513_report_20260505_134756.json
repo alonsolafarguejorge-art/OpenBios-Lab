@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:56.803222",
+    "file_path": "E:\\Bios Samsung\\Samsung RV513 BA41-01649A SCALA2 15 15 D1 REV 1.0\\Samsung RV513.BIN",
+    "file_name": "Samsung RV513.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x10028",
+            "0x20028",
+            "0x30028",
+            "0x190028",
+            "0x19119c",
+            "0x1924c2"
+        ],
+        "AMI BIOS": [
+            "0x1101",
+            "0x10278",
+            "0x1043d",
+            "0x10a67",
+            "0x20278",
+            "0x2043d",
+            "0x20a67",
+            "0xdb9ca"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

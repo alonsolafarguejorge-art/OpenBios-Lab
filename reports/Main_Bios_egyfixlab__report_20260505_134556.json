@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:56.874773",
+    "file_path": "E:\\Bios Dell\\DELL XPS 13-L321X da0d13mbcd1\\Main_Bios_egyfixlab_.BIN",
+    "file_name": "Main_Bios_egyfixlab_.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x330028",
+            "0x380028",
+            "0x389028",
+            "0x390470",
+            "0x3951ff",
+            "0x395229",
+            "0x3a639c",
+            "0x3a63c6",
+            "0x3d75d2"
+        ],
+        "Phoenix BIOS": [
+            "0x3fff0c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

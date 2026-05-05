@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:48.623318",
+    "file_path": "E:\\1555 (DAOFM8MB8EO).BIN",
+    "file_name": "1555 (DAOFM8MB8EO).BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x9c0bb",
+            "0x1e97b7"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

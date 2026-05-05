@@ -1,0 +1,57 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:38.464453",
+    "file_path": "E:\\Bios Acer\\Acer V5-531 Petra Uma 11324-1\\W25Q64_20190206_143722bckup.BIN",
+    "file_name": "W25Q64_20190206_143722bckup.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1e8028",
+            "0x620028",
+            "0x700028",
+            "0x709f38",
+            "0x72256c",
+            "0x722596",
+            "0x768eff"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Phoenix BIOS": [
+            "0x182703",
+            "0x182736",
+            "0x1827a6",
+            "0x1827d9",
+            "0x18299e",
+            "0x1829d1",
+            "0x643966",
+            "0x643999",
+            "0x643a09",
+            "0x643a3c",
+            "0x643c01",
+            "0x643c34",
+            "0x662266",
+            "0x662299",
+            "0x662309",
+            "0x66233c",
+            "0x662501",
+            "0x662534",
+            "0x704656",
+            "0x704689",
+            "0x7046f9",
+            "0x70472c",
+            "0x7048f1",
+            "0x704924"
+        ],
+        "Insyde BIOS": [
+            "0x6e8074"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

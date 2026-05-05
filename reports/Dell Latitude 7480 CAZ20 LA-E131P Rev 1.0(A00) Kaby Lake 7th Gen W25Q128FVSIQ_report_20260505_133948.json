@@ -1,0 +1,45 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:48.722447",
+    "file_path": "E:\\Dell Latitude 7480 CAZ20 LA-E131P Rev 1.0(A00) Kaby Lake 7th Gen W25Q128FVSIQ.BIN",
+    "file_name": "Dell Latitude 7480 CAZ20 LA-E131P Rev 1.0(A00) Kaby Lake 7th Gen W25Q128FVSIQ.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x700028",
+            "0x750028",
+            "0x7b0028",
+            "0x810028",
+            "0x821028",
+            "0x861028",
+            "0x871028",
+            "0xce0028",
+            "0xde0028",
+            "0xe90028",
+            "0xe93570",
+            "0xf1dddd",
+            "0xf2db43",
+            "0xf5718b",
+            "0xf5f410",
+            "0xfff5a5"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x5c196b",
+            "0x7514c3",
+            "0x7532c9",
+            "0x7b14c3",
+            "0x7b32c9",
+            "0xf29cad",
+            "0xf62fe3"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

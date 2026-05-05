@@ -1,0 +1,37 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:25.761614",
+    "file_path": "E:\\Bios Hp Compaq\\HP Pavilion 15R  15G - Compal ZSO51 LA-A996P DIS\\HP 15-G006ER_ZS051_la-a996p_rev4.0_25q64_U3.BIN",
+    "file_name": "HP 15-G006ER_ZS051_la-a996p_rev4.0_25q64_U3.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1b0a14",
+            "0x1dc4a8",
+            "0x1f0224",
+            "0x7417fc",
+            "0x7427dc",
+            "0x7999d3",
+            "0x799fef",
+            "0x79edab",
+            "0x79f2bf"
+        ],
+        "AMI BIOS": [
+            "0x6e3f4b",
+            "0x74186e",
+            "0x741a4a",
+            "0x7b6d46",
+            "0x7b6f22"
+        ],
+        "Insyde BIOS": [
+            "0x114",
+            "0x7f0310"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

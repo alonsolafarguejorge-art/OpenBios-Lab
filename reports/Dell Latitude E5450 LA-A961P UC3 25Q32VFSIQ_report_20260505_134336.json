@@ -1,0 +1,51 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:36.582534",
+    "file_path": "E:\\BIOS\\E7450 LA-A961P\\Dell Latitude E5450 LA-A961P Bios\\Dell Latitude E5450 LA-A961P UC3 25Q32VFSIQ.BIN",
+    "file_name": "Dell Latitude E5450 LA-A961P UC3 25Q32VFSIQ.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x600028",
+            "0x620028",
+            "0x650028",
+            "0x690028",
+            "0x6a0028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5010"
+        ],
+        "AMI BIOS": [
+            "0x600b17",
+            "0x605cab",
+            "0x620b17",
+            "0x625cad",
+            "0x695d7c",
+            "0x696040",
+            "0x696087",
+            "0x6961f7",
+            "0x696351",
+            "0x696506",
+            "0x69654d",
+            "0x6966bd",
+            "0x6968b0",
+            "0x6968f7",
+            "0x696a67",
+            "0x696bc1",
+            "0x6973d8",
+            "0x69741f",
+            "0x69758f",
+            "0x6976e9",
+            "0x698530",
+            "0x698577",
+            "0x6986e7",
+            "0x698841"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

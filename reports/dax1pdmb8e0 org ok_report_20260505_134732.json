@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:32.331330",
+    "file_path": "E:\\Bios Hp Compaq\\hp pavillion gaming 15-ak005la  dax1pdmb8e0\\dax1pdmb8e0 org ok.bin",
+    "file_name": "dax1pdmb8e0 org ok.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x25a028",
+            "0x274030",
+            "0x2fe028",
+            "0x6b0028",
+            "0x6ba173",
+            "0x77c4ac"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x77b226",
+            "0x77b406"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

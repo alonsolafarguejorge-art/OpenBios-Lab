@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:54.455643",
+    "file_path": "E:\\INTEL DH87MC OK.bin",
+    "file_name": "INTEL DH87MC OK.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1a0028",
+            "0x1c0028",
+            "0x240028",
+            "0x260028",
+            "0x270028",
+            "0x780028",
+            "0x7a7c77",
+            "0x7a7dc4",
+            "0x7ad238",
+            "0x7be1c1",
+            "0x7ff750"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x1821ec",
+            "0x1a21ec",
+            "0x7eea04",
+            "0x7f0f14"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

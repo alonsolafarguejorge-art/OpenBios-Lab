@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:13.404598",
+    "file_path": "E:\\Bios Hp Compaq\\HP G4-R13(DA0R13MB6E0 REV.E).BIN",
+    "file_name": "HP G4-R13(DA0R13MB6E0 REV.E).BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x190028",
+            "0x3a1028",
+            "0x3b30c1",
+            "0x3b35b2",
+            "0x3ce663"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x37be16",
+            "0x3dbb86",
+            "0x3dbd66"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

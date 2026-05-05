@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:00.802562",
+    "file_path": "E:\\BIOS\\s300 VIUS3VIUS3 LA-8951P\\s400-la-8951p-bkzin-ok-i3\\s400-la-8951p-bkzin-ok-i3\\25x16cv.BIN",
+    "file_name": "25x16cv.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x110028",
+            "0x116028",
+            "0x140028",
+            "0x15f39c",
+            "0x15f78f",
+            "0x160c53"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

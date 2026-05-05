@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:46.853582",
+    "file_path": "E:\\Bios Acer\\BIOS_Acer_P11.A4_A_A\\ROM\\P11-A4.BIN",
+    "file_name": "P11-A4.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x50028",
+            "0x320028",
+            "0x340028",
+            "0x37eb83",
+            "0x37ecd0",
+            "0x382e62",
+            "0x3916ce",
+            "0x3ff810"
+        ],
+        "AMI BIOS": [
+            "0x579",
+            "0xe1128",
+            "0x37852c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

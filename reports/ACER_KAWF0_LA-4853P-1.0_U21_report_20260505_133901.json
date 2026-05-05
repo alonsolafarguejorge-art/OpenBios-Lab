@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:01.201717",
+    "file_path": "E:\\ACER_KAWF0_LA-4853P-1.0_U21.bin",
+    "file_name": "ACER_KAWF0_LA-4853P-1.0_U21.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x24028",
+            "0x25028",
+            "0xc0028",
+            "0xe0028",
+            "0xf0ed8",
+            "0xf4ebe"
+        ],
+        "AMI BIOS": [
+            "0xfc96c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

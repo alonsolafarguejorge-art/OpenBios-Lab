@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:59.581591",
+    "file_path": "E:\\BIOS\\EN25QH32@SOP8_20200314_191807  LENOVO GARNICA.BIN",
+    "file_name": "EN25QH32@SOP8_20200314_191807  LENOVO GARNICA.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x53028",
+            "0x337028",
+            "0x365030",
+            "0x36b028",
+            "0x3d9577",
+            "0x3d9929",
+            "0x3dc4eb",
+            "0x3dca0e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

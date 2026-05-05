@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:07.212704",
+    "file_path": "E:\\Asus K52F _ (Intel - Intel) _ (BIOS).bin",
+    "file_name": "Asus K52F _ (Intel - Intel) _ (BIOS).bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x210028",
+            "0x220028",
+            "0x370028",
+            "0x3e0af5"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x210338",
+            "0x2115cf"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:02.868367",
+    "file_path": "E:\\Toshiba satellite C640.FD",
+    "file_name": "Toshiba satellite C640.FD",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x196028",
+            "0x351028",
+            "0x361028",
+            "0x374791",
+            "0x3749a0",
+            "0x38f52b"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2010"
+        ],
+        "Insyde BIOS": [
+            "0x18108e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

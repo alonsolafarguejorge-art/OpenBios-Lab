@@ -1,0 +1,64 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:04.919130",
+    "file_path": "E:\\BIOS\\GD25Q128B@WSON8_20211125_181339   marcos plaza.BIN",
+    "file_name": "GD25Q128B@WSON8_20211125_181339   marcos plaza.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0xb8028",
+            "0xba028",
+            "0xbacb0",
+            "0xbb028",
+            "0xc113f",
+            "0xc1297",
+            "0xc1732",
+            "0xc6fc4",
+            "0xd0406",
+            "0xdc29c",
+            "0xfb028",
+            "0xfd35c",
+            "0x10222a",
+            "0x161028",
+            "0x161b6c",
+            "0x16af31",
+            "0x181a8f",
+            "0x1a0a38",
+            "0x1a6bb2",
+            "0x1e1028",
+            "0x783028",
+            "0xbee028",
+            "0xc0e028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5a32e",
+            "0x61582",
+            "0x615a8",
+            "0x6906b",
+            "0xeff000"
+        ],
+        "AMI BIOS": [
+            "0xb80a5",
+            "0xfb0a5",
+            "0x12bb0f",
+            "0x135e68",
+            "0x1364a0",
+            "0x1364f0",
+            "0x1b1a3d",
+            "0x1c231b",
+            "0x1c261b",
+            "0x1e10a5",
+            "0x783795",
+            "0xbee759",
+            "0xbf01b9",
+            "0xc0e759",
+            "0xc101b9"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

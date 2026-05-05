@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:18.099195",
+    "file_path": "E:\\Bios Hp Compaq\\HP 1000-1118TX 6050A2493101-MB-A02\\HP 2000-2d62sr 6050a2493101-mb-a02\\__MACOSX\\._1MB.bin",
+    "file_name": "._1MB.bin",
+    "file_size_bytes": 164,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

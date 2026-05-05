@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:53.724877",
+    "file_path": "E:\\Dell XPS L501x  Service Tag No 2JC78BS .bin",
+    "file_name": "Dell XPS L501x  Service Tag No 2JC78BS .bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Phoenix BIOS": [
+            "0x1c0938",
+            "0x200849",
+            "0x29f4b7",
+            "0x29f4ea"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

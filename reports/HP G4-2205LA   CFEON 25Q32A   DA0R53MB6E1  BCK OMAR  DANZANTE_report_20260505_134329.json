@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:29.670735",
+    "file_path": "E:\\BIOS\\DA0R53MB6E1 REVE\\HP G4-2205LA   CFEON 25Q32A   DA0R53MB6E1  BCK OMAR  DANZANTE.BIN",
+    "file_name": "HP G4-2205LA   CFEON 25Q32A   DA0R53MB6E1  BCK OMAR  DANZANTE.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x31028",
+            "0x5f030",
+            "0x61028",
+            "0x380028",
+            "0x381028",
+            "0x3d97e3",
+            "0x3d9dfa",
+            "0x3deab7"
+        ],
+        "AMI BIOS": [
+            "0x38009e",
+            "0x38027e",
+            "0x3f537e",
+            "0x3f555e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

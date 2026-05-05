@@ -1,0 +1,21 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:45.391184",
+    "file_path": "E:\\dell inspiron 1300.BIN",
+    "file_name": "dell inspiron 1300.BIN",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x1c",
+            "0x4ce6",
+            "0x71ea"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

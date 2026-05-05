@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:20.142979",
+    "file_path": "E:\\Bios Lenovo IBM\\IDEAPAD 310-15ISK\\Lenovo IdeaPad 310-15ISK 510-15ISK CG411 CG511 NM-A751 Discrite Rev 1.0 Bios Bin\\Lenovo IdeaPad 310-15ISK 510-15ISK CG411 CG511 NM-A751 Discrite r1.0\\ECROM it8586e.bin",
+    "file_name": "ECROM it8586e.bin",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

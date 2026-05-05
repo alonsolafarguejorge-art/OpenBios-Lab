@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:01.144971",
+    "file_path": "E:\\Toshiba C855d + 6050a2509701-mb-a02 AMD Green.bin",
+    "file_name": "Toshiba C855d + 6050a2509701-mb-a02 AMD Green.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x42028",
+            "0x173028",
+            "0x183028",
+            "0x1bfcc2",
+            "0x1bff85",
+            "0x1c2b0a"
+        ],
+        "Insyde BIOS": [
+            "0x108e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

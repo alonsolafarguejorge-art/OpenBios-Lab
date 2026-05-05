@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:46.508998",
+    "file_path": "E:\\Bios Acer\\Aspire ZC-700G AIO - IPMBW-BR\\W25Q64FWXXXG@VSOP8_20200305_124150.BIN",
+    "file_name": "W25Q64FWXXXG@VSOP8_20200305_124150.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x320028",
+            "0x350028",
+            "0x3a0028",
+            "0x3a5028",
+            "0x73b028",
+            "0x7e1028",
+            "0x7e3173",
+            "0x7e5d28",
+            "0x7f270c"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x300410",
+            "0x30c8f6",
+            "0x30d8f9",
+            "0x30e976",
+            "0x30fc9f",
+            "0x31130e",
+            "0x3122e9",
+            "0x31332b",
+            "0x320410"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

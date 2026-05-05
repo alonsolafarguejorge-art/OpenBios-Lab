@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:03.972844",
+    "file_path": "E:\\Bios Asus\\ASUS C423N  C223NA REV 2.2\\Asus Chromebook C423N c223na rev 2.2\\W25Q40.BIN",
+    "file_name": "W25Q40.BIN",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

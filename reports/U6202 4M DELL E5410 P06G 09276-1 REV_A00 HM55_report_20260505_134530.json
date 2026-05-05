@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:30.486240",
+    "file_path": "E:\\Bios Dell\\Dell DELL E5410 HM55 08276-1\\U6202 4M DELL E5410 P06G 09276-1 REV_A00 HM55.BIN",
+    "file_name": "U6202 4M DELL E5410 P06G 09276-1 REV_A00 HM55.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2001c",
+            "0x40024",
+            "0x38001c"
+        ],
+        "AMI BIOS": [
+            "0xc0c",
+            "0x10c04"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:12.525401",
+    "file_path": "E:\\ESPRIMO mobile V5535 v1.13 (2).ROM",
+    "file_name": "ESPRIMO mobile V5535 v1.13 (2).ROM",
+    "file_size_bytes": 1051446,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xf3568",
+            "0xf359c"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

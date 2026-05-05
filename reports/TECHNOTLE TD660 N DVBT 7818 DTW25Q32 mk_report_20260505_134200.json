@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:00.010658",
+    "file_path": "E:\\TECHNOTLE TD660 N DVBT 7818 DTW25Q32 mk.bin",
+    "file_name": "TECHNOTLE TD660 N DVBT 7818 DTW25Q32 mk.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

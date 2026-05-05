@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:08.144549",
+    "file_path": "E:\\Bios Toshiba\\Toshiba Toshiba Satellite C40C40tC45C45t (PSCDAxPSCDCxPSCD2xPSCD4xPSCD6x)\\8mb  OK  .bin",
+    "file_name": "8mb  OK  .bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1a2028",
+            "0x764028",
+            "0x78e030",
+            "0x792028",
+            "0x7acb3f",
+            "0x7acf1e",
+            "0x7aee7b"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

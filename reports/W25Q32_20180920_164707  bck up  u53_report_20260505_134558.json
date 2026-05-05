@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:58.115345",
+    "file_path": "E:\\Bios Dell\\dell-latitude-e6230-la-7731p\\DELL E6230 la-7731p rev 1.0\\W25Q32_20180920_164707  bck up  u53.BIN",
+    "file_name": "W25Q32_20180920_164707  bck up  u53.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x200028",
+            "0x22fe56",
+            "0x22ff8c",
+            "0x233c4d",
+            "0x24415a",
+            "0x3ff790"
+        ],
+        "AMI BIOS": [
+            "0x22b88c",
+            "0x22de64",
+            "0x22f638",
+            "0x270fec"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

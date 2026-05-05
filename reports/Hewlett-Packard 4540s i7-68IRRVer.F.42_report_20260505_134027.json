@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:27.687188",
+    "file_path": "E:\\Hewlett-Packard 4540s i7-68IRRVer.F.42.rom",
+    "file_name": "Hewlett-Packard 4540s i7-68IRRVer.F.42.rom",
+    "file_size_bytes": 5242880,
+    "file_size_mb": 5.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x3c0028",
+            "0x400028",
+            "0x470028",
+            "0x4bbf1d",
+            "0x4bf070"
+        ],
+        "AMI BIOS": [
+            "0x4542a2"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

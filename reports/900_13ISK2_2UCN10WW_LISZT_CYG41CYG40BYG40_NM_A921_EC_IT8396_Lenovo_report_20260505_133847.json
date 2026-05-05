@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:47.062800",
+    "file_path": "E:\\900_13ISK2_2UCN10WW_LISZT_CYG41CYG40BYG40_NM_A921_EC_IT8396_Lenovo.bin",
+    "file_name": "900_13ISK2_2UCN10WW_LISZT_CYG41CYG40BYG40_NM_A921_EC_IT8396_Lenovo.bin",
+    "file_size_bytes": 196608,
+    "file_size_mb": 0.19,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

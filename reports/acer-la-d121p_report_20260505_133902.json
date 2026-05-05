@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:02.107730",
+    "file_path": "E:\\acer-la-d121p.BIN",
+    "file_name": "acer-la-d121p.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x176028",
+            "0x726028",
+            "0x754030",
+            "0x75b028",
+            "0x7b21cc",
+            "0x7b2581",
+            "0x7ba0de"
+        ],
+        "Insyde BIOS": [
+            "0x171008"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:02.763143",
+    "file_path": "E:\\Bios Asus\\Asus ASUS GL552JX\\vinafix.com_ASUS ROG GL552JX IT8585E ECROM.bin",
+    "file_name": "vinafix.com_ASUS ROG GL552JX IT8585E ECROM.bin",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x10028"
+        ],
+        "AMI BIOS": [
+            "0x104d6"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file"
+    ]
+}

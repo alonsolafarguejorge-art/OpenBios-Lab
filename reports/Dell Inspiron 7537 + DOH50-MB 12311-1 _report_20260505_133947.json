@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:47.389329",
+    "file_path": "E:\\Dell Inspiron 7537 + DOH50-MB 12311-1 .ROM",
+    "file_name": "Dell Inspiron 7537 + DOH50-MB 12311-1 .ROM",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1a0028",
+            "0x622028",
+            "0x6cf028",
+            "0x720028",
+            "0x783c14",
+            "0x79e6d0",
+            "0x79e6fa",
+            "0x7a292f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Insyde BIOS": [
+            "0x180160"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

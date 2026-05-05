@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:31.034357",
+    "file_path": "E:\\Bios Hp Compaq\\HP Pavilion TouchSmart 23-f330et All-in-One BIOS IPIVB-AT\\HP PAVILLION TOUCH SMART 23-f330et all-in-one IPIVB-AT REV1.02 bios _IPIVB-AT\\BK.TESTAR.PM25LD512.EC.ITE8519E-CXA.BIN",
+    "file_name": "BK.TESTAR.PM25LD512.EC.ITE8519E-CXA.BIN",
+    "file_size_bytes": 65536,
+    "file_size_mb": 0.06,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:56.854148",
+    "file_path": "E:\\Bios Samsung\\Samsung Samsung R439 NP-R439L Suzhou-ML BA41-01230A Rev MP1.3\\Samsung NP-R480-JAB1US (Suzhou-MI BA41-01230A).bin",
+    "file_name": "Samsung NP-R480-JAB1US (Suzhou-MI BA41-01230A).bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x4010"
+        ],
+        "Phoenix BIOS": [
+            "0x255eb9",
+            "0x2ca221",
+            "0x2cb4d7",
+            "0x2dd355",
+            "0x3ef4cd"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

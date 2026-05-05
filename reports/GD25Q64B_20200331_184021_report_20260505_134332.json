@@ -1,0 +1,60 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:32.456201",
+    "file_path": "E:\\BIOS\\DAN91CMB6D0\\GD25Q64B_20200331_184021.BIN",
+    "file_name": "GD25Q64B_20200331_184021.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x140028",
+            "0x141840",
+            "0x160028",
+            "0x161840",
+            "0x180028",
+            "0x6c0028",
+            "0x6c4ce0",
+            "0x6c4e32",
+            "0x6c9799",
+            "0x75fd7e",
+            "0x75fd8f",
+            "0x75fda0",
+            "0x75fdb1",
+            "0x760028",
+            "0x764ce0",
+            "0x764e32",
+            "0x769799",
+            "0x7ffd7e",
+            "0x7ffd8f",
+            "0x7ffda0",
+            "0x7ffdb1"
+        ],
+        "AMI BIOS": [
+            "0x14020c",
+            "0x1419e0",
+            "0x141dd4",
+            "0x141e6f",
+            "0x142033",
+            "0x144019",
+            "0x16020c",
+            "0x1619e0",
+            "0x161dd4",
+            "0x161e6f",
+            "0x162033",
+            "0x164019",
+            "0x3180b8",
+            "0x7382e4",
+            "0x73f67b",
+            "0x73f97b",
+            "0x7d82e4",
+            "0x7df67b",
+            "0x7df97b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:59.980476",
+    "file_path": "E:\\Bios Hp Compaq\\hp aio model 24-x02 DAN75BMB6E0 rev e\\W25Q64FV_QPI_20190829_115820.BIN",
+    "file_name": "W25Q64FV_QPI_20190829_115820.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x37028",
+            "0x57028",
+            "0x287028",
+            "0x600028",
+            "0x60036e",
+            "0x600baf",
+            "0x60269f",
+            "0x6f3004",
+            "0x6ff4ea",
+            "0x700028",
+            "0x70036e",
+            "0x700baf",
+            "0x70269f",
+            "0x7f3004",
+            "0x7ff4ea"
+        ],
+        "AMI BIOS": [
+            "0x3726b",
+            "0x3c730",
+            "0x5726b",
+            "0x5c321",
+            "0x53a217",
+            "0x6f7e23",
+            "0x6f8123",
+            "0x7f7e23",
+            "0x7f8123"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

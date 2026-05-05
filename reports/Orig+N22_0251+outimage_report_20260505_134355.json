@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:55.825449",
+    "file_path": "E:\\BIOS\\PRODESK 600  G2\\HP ProDesk 600 G2\\Orig+N22_0251+outimage.bin",
+    "file_name": "Orig+N22_0251+outimage.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x709028",
+            "0xb98028",
+            "0xbd9028",
+            "0xc8d028",
+            "0xc8f577",
+            "0xc95e80",
+            "0xd3b04b",
+            "0xd57638",
+            "0xdec028",
+            "0xea0028",
+            "0xea2577",
+            "0xea8e80",
+            "0xf4e04b",
+            "0xf6a638",
+            "0xffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

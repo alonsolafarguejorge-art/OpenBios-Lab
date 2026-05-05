@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:32.049520",
+    "file_path": "E:\\Bios Dell\\Dell e5540 PLYTA LA-A101P REV1.0\\3 bios file version\\dell e5540 PLYTA LA-A101P REV1.0.rar_U1.bin",
+    "file_name": "dell e5540 PLYTA LA-A101P REV1.0.rar_U1.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x600028",
+            "0x620028",
+            "0x690028",
+            "0x6f0028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5010"
+        ],
+        "AMI BIOS": [
+            "0x605129",
+            "0x605a6f",
+            "0x625129",
+            "0x625a6f"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

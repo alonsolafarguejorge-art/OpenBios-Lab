@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:53.761398",
+    "file_path": "E:\\INTEL DH61BF I3 INTEL SINGLE CHIP 25L32.bin",
+    "file_name": "INTEL DH61BF I3 INTEL SINGLE CHIP 25L32.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x185028",
+            "0x1a5028",
+            "0x1c5028",
+            "0x200028",
+            "0x240028",
+            "0x3c0028",
+            "0x3c4055",
+            "0x3c419e",
+            "0x3c948f",
+            "0x3d705a",
+            "0x3ff6d0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x18655b",
+            "0x1a655b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

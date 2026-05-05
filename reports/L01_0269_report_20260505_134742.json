@@ -1,0 +1,40 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:42.083012",
+    "file_path": "E:\\Bios Hp Compaq\\HP ProDesk 600 G1 Small Form Factor PC\\L01_0269.BIN",
+    "file_name": "L01_0269.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x5e0028",
+            "0xe90028",
+            "0xeb0028",
+            "0xeb02b2",
+            "0xee7d6f",
+            "0xee7ebc",
+            "0xf08350",
+            "0xf50028",
+            "0xf502b2",
+            "0xf87d6f",
+            "0xf87ebc",
+            "0xfa8350",
+            "0xff0028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x58053f",
+            "0xf36c04",
+            "0xf3a784",
+            "0xfd6c04",
+            "0xfda784"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:29.197034",
+    "file_path": "E:\\Bios Acer\\ACER 5  A515-51-59JS  C5V01 LA-E891P\\Acer Aspire A315-53 C5V01 LA-E891P Bios + EC\\Acer Aspire A315-53 C5V01 LA-E891P UC3.bin",
+    "file_name": "Acer Aspire A315-53 C5V01 LA-E891P UC3.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x280028",
+            "0x2a0028",
+            "0x2a1fcd",
+            "0x2a59c2",
+            "0x2a5afb",
+            "0x2a8207",
+            "0x2a824e",
+            "0x2ac830",
+            "0x363a30",
+            "0x3ffa6b"
+        ],
+        "AMI BIOS": [
+            "0x349c81",
+            "0x35a11d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

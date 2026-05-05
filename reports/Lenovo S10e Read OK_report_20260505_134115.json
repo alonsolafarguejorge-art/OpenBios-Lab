@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:15.015925",
+    "file_path": "E:\\Lenovo S10e Read OK.bin",
+    "file_name": "Lenovo S10e Read OK.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xeb675"
+        ],
+        "Phoenix BIOS": [
+            "0xebec8",
+            "0xebefc",
+            "0xf1030"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

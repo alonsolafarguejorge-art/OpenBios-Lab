@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:03.820697",
+    "file_path": "E:\\dv6 wd amd2007+ati9042 (1).BIN",
+    "file_name": "dv6 wd amd2007+ati9042 (1).BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x22028",
+            "0x1a0028",
+            "0x1b0028",
+            "0x1c57c8",
+            "0x1c910a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

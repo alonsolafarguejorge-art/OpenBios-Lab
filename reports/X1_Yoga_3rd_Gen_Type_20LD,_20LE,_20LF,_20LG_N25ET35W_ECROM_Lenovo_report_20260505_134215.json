@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:15.143255",
+    "file_path": "E:\\X1_Yoga_3rd_Gen_Type_20LD,_20LE,_20LF,_20LG_N25ET35W_ECROM_Lenovo.bin",
+    "file_name": "X1_Yoga_3rd_Gen_Type_20LD,_20LE,_20LF,_20LG_N25ET35W_ECROM_Lenovo.bin",
+    "file_size_bytes": 262144,
+    "file_size_mb": 0.25,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

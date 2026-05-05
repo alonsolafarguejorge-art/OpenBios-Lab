@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:31.622548",
+    "file_path": "E:\\BIOS\\DAAX1JMB8C0\\HP G62-100 F36_BID03651_Intel Processors\\1484F36_1MB.bin",
+    "file_name": "1484F36_1MB.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x20028",
+            "0xd0028",
+            "0xd8028",
+            "0xe3028",
+            "0xf3028",
+            "0xfa616",
+            "0xfc07a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

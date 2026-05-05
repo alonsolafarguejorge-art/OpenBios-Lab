@@ -1,0 +1,21 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:30.182585",
+    "file_path": "E:\\N68-VS3 FX.ROM",
+    "file_name": "N68-VS3 FX.ROM",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xdffea",
+            "0xf0040",
+            "0xf004c",
+            "0xf0378"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

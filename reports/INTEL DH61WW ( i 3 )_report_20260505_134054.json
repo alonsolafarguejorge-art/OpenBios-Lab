@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:54.099330",
+    "file_path": "E:\\INTEL DH61WW ( i 3 ).BIN",
+    "file_name": "INTEL DH61WW ( i 3 ).BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x185028",
+            "0x195028",
+            "0x1a5028",
+            "0x1c5028",
+            "0x3c0028",
+            "0x3da5e1",
+            "0x3dc548"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x1858bc",
+            "0x1958bc"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

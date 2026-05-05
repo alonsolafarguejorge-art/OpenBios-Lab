@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:07.238766",
+    "file_path": "E:\\Bios Dell\\Dell Optiplex 9010_o\\Dell_Optiplex_9010_MX25L3206E_LA0602_D01U_Original.bin",
+    "file_name": "Dell_Optiplex_9010_MX25L3206E_LA0602_D01U_Original.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x32fdea",
+            "0x32ff20",
+            "0x333852",
+            "0x34409a",
+            "0x3ff730"
+        ],
+        "AMI BIOS": [
+            "0x32b53c",
+            "0x32da74",
+            "0x32f248",
+            "0x36de14"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

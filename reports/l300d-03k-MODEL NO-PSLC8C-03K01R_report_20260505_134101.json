@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:01.341685",
+    "file_path": "E:\\l300d-03k-MODEL NO-PSLC8C-03K01R.rom",
+    "file_name": "l300d-03k-MODEL NO-PSLC8C-03K01R.rom",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1d028",
+            "0xc0028",
+            "0xc9028",
+            "0xd2028",
+            "0xdb028",
+            "0xe8028",
+            "0xf6b4c",
+            "0xf9755"
+        ],
+        "Insyde BIOS": [
+            "0x108e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

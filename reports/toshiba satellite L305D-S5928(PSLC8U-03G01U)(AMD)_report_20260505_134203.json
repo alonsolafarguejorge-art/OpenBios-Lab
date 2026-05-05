@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:03.654796",
+    "file_path": "E:\\toshiba satellite L305D-S5928(PSLC8U-03G01U)(AMD).bin",
+    "file_name": "toshiba satellite L305D-S5928(PSLC8U-03G01U)(AMD).bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1d028",
+            "0xc0028",
+            "0xc9028",
+            "0xd2028",
+            "0xdb028",
+            "0xe8028",
+            "0xf6b4c",
+            "0xf9a55"
+        ],
+        "Insyde BIOS": [
+            "0x108e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:25.218717",
+    "file_path": "E:\\M4A88T-M-ASUS-2403.ROM",
+    "file_name": "M4A88T-M-ASUS-2403.ROM",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x1af4b5",
+            "0x1cffea",
+            "0x1e0000",
+            "0x1f004c",
+            "0x1f040c",
+            "0x1f1103"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

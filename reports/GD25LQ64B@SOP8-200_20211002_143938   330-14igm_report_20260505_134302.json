@@ -1,0 +1,50 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:02.275249",
+    "file_path": "E:\\BIOS\\GD25LQ64B@SOP8-200_20211002_143938   330-14igm.BIN",
+    "file_name": "GD25LQ64B@SOP8-200_20211002_143938   330-14igm.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x93028",
+            "0x95028",
+            "0x95cb0",
+            "0x96028",
+            "0x97805",
+            "0xa1745",
+            "0xa2f55",
+            "0xa842f",
+            "0xa8695",
+            "0xb027b",
+            "0xd7028",
+            "0xd91fa",
+            "0xde14b",
+            "0x13d028",
+            "0x165651",
+            "0x1c9028",
+            "0x485028",
+            "0x6f4028",
+            "0x776030"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5a3f1",
+            "0x6164a",
+            "0x61670",
+            "0x69164",
+            "0x77f000"
+        ],
+        "AMI BIOS": [
+            "0x1116b3",
+            "0x11ba20",
+            "0x11c8e0",
+            "0x11c930",
+            "0x5cbbb5"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

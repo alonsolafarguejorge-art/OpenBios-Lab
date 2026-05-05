@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:03.577857",
+    "file_path": "E:\\DV5-Intel_Part_No[1][1]._482868_.BIN",
+    "file_name": "DV5-Intel_Part_No[1][1]._482868_.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x20028",
+            "0xd0028",
+            "0xd8028",
+            "0xe3028",
+            "0xef028",
+            "0xf5827",
+            "0xf7b32"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:28.419339",
+    "file_path": "E:\\Bios Lenovo IBM\\lenovo flex\\lenovo bm5338 rev 1.6\\bm5338 rev1.6.BIN",
+    "file_name": "bm5338 rev1.6.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x500028",
+            "0x53e030",
+            "0x550028",
+            "0x5a0028",
+            "0x770028",
+            "0x783771",
+            "0x783a1e",
+            "0x7d0028",
+            "0x7d16ec"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

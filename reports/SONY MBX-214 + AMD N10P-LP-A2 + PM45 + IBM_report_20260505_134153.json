@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:53.044931",
+    "file_path": "E:\\SONY MBX-214 + AMD N10P-LP-A2 + PM45 + IBM.bin",
+    "file_name": "SONY MBX-214 + AMD N10P-LP-A2 + PM45 + IBM.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x10028",
+            "0x20028",
+            "0x30028",
+            "0x1c0028"
+        ],
+        "AMI BIOS": [
+            "0x101ed",
+            "0x12d67",
+            "0x201ed"
+        ],
+        "Insyde BIOS": [
+            "0x160"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

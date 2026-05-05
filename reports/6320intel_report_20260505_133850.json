@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:50.366131",
+    "file_path": "E:\\6320intel.bin",
+    "file_name": "6320intel.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x1d037"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

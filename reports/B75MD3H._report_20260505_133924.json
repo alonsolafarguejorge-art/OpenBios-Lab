@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:24.330563",
+    "file_path": "E:\\B75MD3H..BIN",
+    "file_name": "B75MD3H..BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x500028",
+            "0x540028",
+            "0x740028",
+            "0x773c08",
+            "0x7743b3",
+            "0x7744fc",
+            "0x778055",
+            "0x79b4ee",
+            "0x7ff390"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x500588",
+            "0x7c2360",
+            "0x7c56b4"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

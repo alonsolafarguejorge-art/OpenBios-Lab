@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:27.106103",
+    "file_path": "E:\\BIOSTAR_H55A+ Ver. 6.3.BIN",
+    "file_name": "BIOSTAR_H55A+ Ver. 6.3.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x1affea",
+            "0x1c0000",
+            "0x1f0040",
+            "0x1f004c",
+            "0x1f03f8"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

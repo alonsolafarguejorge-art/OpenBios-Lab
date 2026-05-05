@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:01.406098",
+    "file_path": "E:\\BIOS\\GD25LQ64B@SOP8-200_20210520_135508  C260 PWD CHAMUCO.BIN",
+    "file_name": "GD25LQ64B@SOP8-200_20210520_135508  C260 PWD CHAMUCO.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x33e030",
+            "0x350028",
+            "0x3a4028",
+            "0x740028",
+            "0x751348",
+            "0x7515fe",
+            "0x7d9028",
+            "0x7da722"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

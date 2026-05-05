@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:40.457869",
+    "file_path": "E:\\Bios Acer\\Acer-Gateway Acer M5-583 Quanta ZRQ\\V5-573G_DAZRQMB18F0_RE\\__MACOSX\\V5-573G_DAZRQMB18F0_RE.F\\._v5_4MB.BIN",
+    "file_name": "._v5_4MB.BIN",
+    "file_size_bytes": 212,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

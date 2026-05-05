@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:15.744760",
+    "file_path": "E:\\X52F OK.BIN",
+    "file_name": "X52F OK.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x210028",
+            "0x220028",
+            "0x370028",
+            "0x3e09a5"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x210338"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

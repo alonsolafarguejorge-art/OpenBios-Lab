@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:46.280614",
+    "file_path": "E:\\Dell Inspiron 1545+ddr2.rom",
+    "file_name": "Dell Inspiron 1545+ddr2.rom",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x5001c",
+            "0x54e68",
+            "0x57a70",
+            "0xfa737",
+            "0x129141",
+            "0x1291cc",
+            "0x13630f",
+            "0x13639c"
+        ],
+        "Insyde BIOS": [
+            "0x4074"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

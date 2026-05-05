@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:54.709462",
+    "file_path": "E:\\Sony SVF142C1WW + DA0HK8MB6E0 HK8 SLJ8E + I3 + 25Q64FV ok.bin",
+    "file_name": "Sony SVF142C1WW + DA0HK8MB6E0 HK8 SLJ8E + I3 + 25Q64FV ok.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x520028",
+            "0x6f2028",
+            "0x772028",
+            "0x79c030",
+            "0x7a0028",
+            "0x7baa65",
+            "0x7bae3a",
+            "0x7bc58b"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

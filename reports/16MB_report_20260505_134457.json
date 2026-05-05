@@ -1,0 +1,40 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:57.588027",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo ThinkPad T480s ET481 NM-B471 Rev 1\\Lenovo ThinkPad T480s ET481 NM-B471 Rev 1\\16MB.bin",
+    "file_name": "16MB.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x800028",
+            "0x8a0028",
+            "0x970028",
+            "0xd30028",
+            "0xde0028",
+            "0xdf0028",
+            "0xea0028",
+            "0xeadde3",
+            "0xf883c6",
+            "0xf88448",
+            "0xf88510",
+            "0xf8a0a1",
+            "0xf8a651",
+            "0xfa907f",
+            "0xfa90ac",
+            "0xfe0028",
+            "0xfe1ab9"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x5c196b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

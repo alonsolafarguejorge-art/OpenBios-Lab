@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:41.504080",
+    "file_path": "E:\\Bios Acer\\Acer_Aspire_E5_575_Quanta_ZAA2_DAZAAMB16E0\\ACER F5_573G_DAZAAMB16E0 REV E IO BACKUP\\vinafix_com_F5_573G_DAZAAMB16E0.BIN",
+    "file_name": "vinafix_com_F5_573G_DAZAAMB16E0.BIN",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

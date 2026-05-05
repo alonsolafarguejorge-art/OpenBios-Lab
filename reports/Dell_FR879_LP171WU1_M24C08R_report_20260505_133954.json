@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:54.527342",
+    "file_path": "E:\\Dell_FR879_LP171WU1_M24C08R.bin",
+    "file_name": "Dell_FR879_LP171WU1_M24C08R.bin",
+    "file_size_bytes": 1024,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

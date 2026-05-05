@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:19.748611",
+    "file_path": "E:\\GA-H61M-S rev. 1.0.bin",
+    "file_name": "GA-H61M-S rev. 1.0.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1c0028",
+            "0x360028",
+            "0x393f4e",
+            "0x394099",
+            "0x397bf8",
+            "0x3b60c6",
+            "0x3ff330"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x18057f"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

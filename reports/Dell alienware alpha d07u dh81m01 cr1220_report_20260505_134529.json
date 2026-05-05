@@ -1,0 +1,47 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:29.015750",
+    "file_path": "E:\\Bios Dell\\Dell Alienware Alpha & Alienware Steam Machine D07U DH81M01\\Dell alienware alpha d07u dh81m01 cr1220.BIN",
+    "file_name": "Dell alienware alpha d07u dh81m01 cr1220.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x210028",
+            "0x230028",
+            "0x260028",
+            "0x42fbc8",
+            "0x660028",
+            "0x680028",
+            "0x6bda47",
+            "0x6bdb94",
+            "0x6c23e8",
+            "0x6e0956",
+            "0x7ff7d0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x210558",
+            "0x210a21",
+            "0x2132cb",
+            "0x213312",
+            "0x213482",
+            "0x2154f9",
+            "0x230558",
+            "0x230ee3",
+            "0x23432a",
+            "0x234371",
+            "0x2344e1",
+            "0x2366db",
+            "0x24a425",
+            "0x24ec76"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

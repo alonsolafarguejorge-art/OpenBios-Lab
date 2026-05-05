@@ -1,0 +1,37 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:00.916950",
+    "file_path": "E:\\BIos Apple\\Macbook A1342 K84 MLB 051-7982 820-2567-A\\K84.bin",
+    "file_name": "K84.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x1530",
+            "0x59cc",
+            "0x5b13",
+            "0x6dec",
+            "0x12736",
+            "0x40028",
+            "0x41530",
+            "0x459cc",
+            "0x45b13",
+            "0x46dec",
+            "0x52736",
+            "0x80028",
+            "0xa4028",
+            "0xa6028",
+            "0xa8028",
+            "0xae028",
+            "0xb4028",
+            "0x3fc028",
+            "0x3fc996"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

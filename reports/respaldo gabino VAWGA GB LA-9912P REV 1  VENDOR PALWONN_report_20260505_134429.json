@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:29.493542",
+    "file_path": "E:\\Bios Lenovo IBM\\LENOVO G405 AMD E1\\respaldo gabino VAWGA GB LA-9912P REV 1  VENDOR PALWONN.BIN",
+    "file_name": "respaldo gabino VAWGA GB LA-9912P REV 1  VENDOR PALWONN.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x525e0",
+            "0x330a14",
+            "0x35e468",
+            "0x3643a4",
+            "0x3d1a7b",
+            "0x3d1e25",
+            "0x3d4993",
+            "0x3d4eaa"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

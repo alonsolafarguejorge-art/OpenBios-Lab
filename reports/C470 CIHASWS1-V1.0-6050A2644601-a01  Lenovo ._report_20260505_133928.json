@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:28.388243",
+    "file_path": "E:\\C470 CIHASWS1-V1.0-6050A2644601-a01  Lenovo ..BIN",
+    "file_name": "C470 CIHASWS1-V1.0-6050A2644601-a01  Lenovo ..BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x450028",
+            "0x720028",
+            "0x740028",
+            "0x7952fe",
+            "0x79544b",
+            "0x799b2f",
+            "0x7b7956",
+            "0x7ff790"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x404503",
+            "0x738035",
+            "0x7e3270",
+            "0x7e6254",
+            "0x7e9cac"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

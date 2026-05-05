@@ -1,0 +1,37 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:57.478017",
+    "file_path": "E:\\BIOS\\Quanta G51A DAG51AMB6C0\\W25Q64_20190907_144942  hp 14 pwd.BIN",
+    "file_name": "W25Q64_20190907_144942  hp 14 pwd.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x27028",
+            "0x5c0028",
+            "0x5e0028",
+            "0x700028",
+            "0x700d5d",
+            "0x702f7f",
+            "0x733041"
+        ],
+        "AMI BIOS": [
+            "0x5c043b",
+            "0x5c073e",
+            "0x5c09ad",
+            "0x5c0a7b",
+            "0x5e043b",
+            "0x5e073e",
+            "0x5e09ad",
+            "0x5e0a7b",
+            "0x72e3a0",
+            "0x79b283",
+            "0x79b583"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

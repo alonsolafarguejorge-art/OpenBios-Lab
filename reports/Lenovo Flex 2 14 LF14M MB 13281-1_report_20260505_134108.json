@@ -1,0 +1,56 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:08.167699",
+    "file_path": "E:\\Lenovo Flex 2 14 LF14M MB 13281-1.BIN",
+    "file_name": "Lenovo Flex 2 14 LF14M MB 13281-1.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x240028",
+            "0x6c5028",
+            "0x710028",
+            "0x758028",
+            "0x7bd754",
+            "0x7daf20",
+            "0x7daf4a",
+            "0x7de05f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Phoenix BIOS": [
+            "0x6e9ec6",
+            "0x6e9ef9",
+            "0x6e9f69",
+            "0x6e9f9c",
+            "0x6ea161",
+            "0x6ea194",
+            "0x711e37",
+            "0x711e6a",
+            "0x711eda",
+            "0x711f0d",
+            "0x7120d2",
+            "0x712105",
+            "0x761ca7",
+            "0x7623f7",
+            "0x762ff7",
+            "0x79cd69",
+            "0x79dc79",
+            "0x79e41d",
+            "0x7a0bf9",
+            "0x7a3cab",
+            "0x7a408b",
+            "0x7b352d",
+            "0x7ff767"
+        ],
+        "Insyde BIOS": [
+            "0x208074"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

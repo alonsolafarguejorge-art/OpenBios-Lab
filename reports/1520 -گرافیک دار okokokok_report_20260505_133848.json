@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:48.397905",
+    "file_path": "E:\\1520 -\u06af\u0631\u0627\u0641\u06cc\u06a9 \u062f\u0627\u0631 okokokok.bin",
+    "file_name": "1520 -\u06af\u0631\u0627\u0641\u06cc\u06a9 \u062f\u0627\u0631 okokokok.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

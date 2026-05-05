@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:17.518439",
+    "file_path": "E:\\Bios Hp Compaq\\HP MINI 110\\HP MINI 110-3019LA\\MAIN BIOS.BIN",
+    "file_name": "MAIN BIOS.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x23028",
+            "0x1b0028",
+            "0x1c0028",
+            "0x1c939b",
+            "0x1cdceb"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

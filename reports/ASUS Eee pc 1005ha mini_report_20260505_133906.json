@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:06.333906",
+    "file_path": "E:\\ASUS Eee pc 1005ha mini.BIN",
+    "file_name": "ASUS Eee pc 1005ha mini.BIN",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x5d1d",
+            "0x5d67",
+            "0x137f5",
+            "0x6bfea",
+            "0x7036c"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

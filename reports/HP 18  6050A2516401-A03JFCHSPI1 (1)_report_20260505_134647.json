@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:47.624907",
+    "file_path": "E:\\Bios Hp Compaq\\HP 18  6050A2516401-A03JFCHSPI1   CPU E1-1200  18-1000cl 18-1100cx 18-1200cx\\HP 18  6050A2516401-A03JFCHSPI1 (1).BIN",
+    "file_name": "HP 18  6050A2516401-A03JFCHSPI1 (1).BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x40028",
+            "0x60028",
+            "0x80028",
+            "0x380028",
+            "0x381f32",
+            "0x38207f",
+            "0x385dcb"
+        ],
+        "AMI BIOS": [
+            "0x401e3",
+            "0x5f495",
+            "0x601e3",
+            "0x63ae0"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

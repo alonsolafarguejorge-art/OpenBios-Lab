@@ -1,0 +1,59 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:18.984462",
+    "file_path": "E:\\Bios Asus\\Vivo AiO V220IC\\V220IC-ASUS-0404.CAP",
+    "file_name": "V220IC-ASUS-0404.CAP",
+    "file_size_bytes": 16779264,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x280828",
+            "0x2d0828",
+            "0x310828",
+            "0x3110e8",
+            "0xba0828",
+            "0xc00828",
+            "0xd00828",
+            "0xe00828",
+            "0xe044c3",
+            "0xe0adad",
+            "0xe0d0c7",
+            "0xe93a3b",
+            "0xe9b891",
+            "0xea739a",
+            "0xeb99be",
+            "0xebe084",
+            "0xf0057d",
+            "0xf00828",
+            "0xf044c3",
+            "0xf0adad",
+            "0xf0d0c7",
+            "0xf93a3b",
+            "0xf9b891",
+            "0xfa739a",
+            "0xfb99be",
+            "0xfbe084",
+            "0x100057d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1810"
+        ],
+        "AMI BIOS": [
+            "0x281692",
+            "0x5b99f1",
+            "0xe1f3c9",
+            "0xea3dc1",
+            "0xed6160",
+            "0xeeac1a",
+            "0xf1f3c9",
+            "0xfa3dc1",
+            "0xfd6160",
+            "0xfeac1a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

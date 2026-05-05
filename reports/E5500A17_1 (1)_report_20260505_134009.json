@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:09.348454",
+    "file_path": "E:\\E5500A17_1 (1).rom",
+    "file_name": "E5500A17_1 (1).rom",
+    "file_size_bytes": 1572864,
+    "file_size_mb": 1.5,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x69e06",
+            "0x6bc2e"
+        ],
+        "Phoenix BIOS": [
+            "0x2001c",
+            "0x253c6",
+            "0x28471"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

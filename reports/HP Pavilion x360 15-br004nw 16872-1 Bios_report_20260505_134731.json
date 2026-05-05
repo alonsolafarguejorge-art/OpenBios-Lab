@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:31.298421",
+    "file_path": "E:\\Bios Hp Compaq\\HP Pavilion x360 15-br004nw 16872-1 Bios\\HP Pavilion x360 15-br004nw 16872-1 Bios.bin",
+    "file_name": "HP Pavilion x360 15-br004nw 16872-1 Bios.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x244028",
+            "0x286030",
+            "0x332028",
+            "0x645028",
+            "0x6db028",
+            "0x6e0889",
+            "0x6fcdc2"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x7cd516",
+            "0x7cd6f6"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

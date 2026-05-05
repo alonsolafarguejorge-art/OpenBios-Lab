@@ -1,0 +1,52 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:29.245416",
+    "file_path": "E:\\BIOS\\DA0LV6MB6F0\\W25Q128BV@WSON8_20210923_170516  lalo plaza.BIN",
+    "file_name": "W25Q128BV@WSON8_20210923_170516  lalo plaza.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x860028",
+            "0x8b9028",
+            "0x8e9028",
+            "0x9b9028",
+            "0xde2028",
+            "0xe22028",
+            "0xe32028",
+            "0xec0028",
+            "0xec49e3",
+            "0xf90346",
+            "0xf903c8",
+            "0xf90490",
+            "0xf928a1",
+            "0xf92edb",
+            "0xfabeff",
+            "0xfabf2c",
+            "0xfe0028",
+            "0xfe19ab"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Phoenix BIOS": [
+            "0x861a24",
+            "0x861a57",
+            "0x861ac7",
+            "0x861afa",
+            "0x861cbf",
+            "0x861cf2",
+            "0xbe2bdc",
+            "0xbe2c0f",
+            "0xbe2c7f",
+            "0xbe2cb2",
+            "0xbe2e77",
+            "0xbe2eaa"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

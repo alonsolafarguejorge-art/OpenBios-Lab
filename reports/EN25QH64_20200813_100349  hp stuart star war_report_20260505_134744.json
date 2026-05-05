@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:44.002548",
+    "file_path": "E:\\Bios Hp Compaq\\hp stuart star wa\\EN25QH64_20200813_100349  hp stuart star war.BIN",
+    "file_name": "EN25QH64_20200813_100349  hp stuart star war.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x240028",
+            "0x274030",
+            "0x2ee028",
+            "0x68d028",
+            "0x72f028",
+            "0x730028",
+            "0x7384a8",
+            "0x7c8ac9"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x72f09e",
+            "0x72f27e",
+            "0x7c795e",
+            "0x7c7b3e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

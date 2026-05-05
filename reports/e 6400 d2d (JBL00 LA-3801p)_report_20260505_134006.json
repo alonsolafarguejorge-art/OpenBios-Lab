@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:06.538962",
+    "file_path": "E:\\e 6400 d2d (JBL00 LA-3801p).bin",
+    "file_name": "e 6400 d2d (JBL00 LA-3801p).bin",
+    "file_size_bytes": 4194305,
+    "file_size_mb": 4.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x28001c",
+            "0x285aab",
+            "0x288b5e"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

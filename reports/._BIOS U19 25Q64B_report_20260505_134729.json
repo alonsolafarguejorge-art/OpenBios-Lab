@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:29.589116",
+    "file_path": "E:\\Bios Hp Compaq\\HP Pavilion P6622 - MS-7613\\__MACOSX\\._BIOS U19 25Q64B.bin",
+    "file_name": "._BIOS U19 25Q64B.bin",
+    "file_size_bytes": 212,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

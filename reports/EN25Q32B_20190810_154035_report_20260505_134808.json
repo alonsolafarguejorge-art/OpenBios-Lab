@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:08.431228",
+    "file_path": "E:\\Bios Toshiba\\Toshiba VDKTE LA-9869P TOSHIBA SATELLITE L40D   Toshiba Satellite L40DS40Dt (PSKJAM-PSKJAP-PSKJAU)\\EN25Q32B_20190810_154035.BIN",
+    "file_name": "EN25Q32B_20190810_154035.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x40028",
+            "0x60028",
+            "0x90028",
+            "0x350028",
+            "0x3527f0",
+            "0x35293d",
+            "0x356dc3"
+        ],
+        "AMI BIOS": [
+            "0x40222",
+            "0x405f9",
+            "0x44a5e",
+            "0x60222",
+            "0x605f9",
+            "0x64544",
+            "0x3d0870",
+            "0x3d2c74"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

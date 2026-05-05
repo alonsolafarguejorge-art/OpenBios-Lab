@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:53.636670",
+    "file_path": "E:\\sony MBX-269 SVE151G12W.bin",
+    "file_name": "sony MBX-269 SVE151G12W.bin",
+    "file_size_bytes": 8388672,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x520028",
+            "0x710028",
+            "0x740028",
+            "0x7563dd",
+            "0x7567bc",
+            "0x757f3b"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

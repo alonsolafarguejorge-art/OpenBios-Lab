@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:04.332673",
+    "file_path": "E:\\Bios Hp Compaq\\HP CQ43-306AU CHICAGO_BR_HPC MV_MB_V2 OK\\CQ43-306AU CHICAGO_BR_HPC MV_MB_V2 OK.BIN",
+    "file_name": "CQ43-306AU CHICAGO_BR_HPC MV_MB_V2 OK.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x22028",
+            "0x31028",
+            "0x180028",
+            "0x1b5bb1",
+            "0x1b5fcb",
+            "0x1ba4f7"
+        ],
+        "AMI BIOS": [
+            "0x1cc636",
+            "0x1cc816"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:18.923670",
+    "file_path": "E:\\ASUS_E402YA_JD_BIOS.BIN",
+    "file_name": "ASUS_E402YA_JD_BIOS.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x60028",
+            "0x1a0028",
+            "0x1b0028",
+            "0x680028",
+            "0x680ae0",
+            "0x6826b3",
+            "0x6b9096"
+        ],
+        "AMI BIOS": [
+            "0x60241"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

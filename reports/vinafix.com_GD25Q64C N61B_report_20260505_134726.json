@@ -1,0 +1,52 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:26.598969",
+    "file_path": "E:\\Bios Hp Compaq\\HP Pavilion All-in-One - 23-q110 - Dan61bmb6e0\\vinafix.com_GD25Q64C N61B.BIN",
+    "file_name": "vinafix.com_GD25Q64C N61B.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x30028",
+            "0x30848",
+            "0x50028",
+            "0x50848",
+            "0x180028",
+            "0x600028",
+            "0x600c38",
+            "0x602bd7",
+            "0x68c0f6",
+            "0x6fef8f",
+            "0x6fefcd",
+            "0x700028",
+            "0x700c38",
+            "0x702bd7",
+            "0x78c0f6",
+            "0x7fef8f",
+            "0x7fefcd"
+        ],
+        "AMI BIOS": [
+            "0x30229",
+            "0x309e6",
+            "0x30dc8",
+            "0x342ff",
+            "0x3435b",
+            "0x50229",
+            "0x509e6",
+            "0x50dc8",
+            "0x542ff",
+            "0x5435b",
+            "0x3c928d",
+            "0x690063",
+            "0x690363",
+            "0x790063",
+            "0x790363"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

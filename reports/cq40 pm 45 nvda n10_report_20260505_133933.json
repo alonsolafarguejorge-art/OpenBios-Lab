@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:33.764687",
+    "file_path": "E:\\cq40 pm 45 nvda n10.BIN",
+    "file_name": "cq40 pm 45 nvda n10.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x22028",
+            "0xc4028",
+            "0xd6028",
+            "0xe1c28",
+            "0xf1828",
+            "0xf8f61",
+            "0xfb666"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

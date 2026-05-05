@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:33.857025",
+    "file_path": "E:\\cq40-327tu + JAL50 LA-4101P + IBM + DDR2 OK.FD",
+    "file_name": "cq40-327tu + JAL50 LA-4101P + IBM + DDR2 OK.FD",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x24028",
+            "0xc4028",
+            "0xd6028",
+            "0xe1c28",
+            "0xf1828",
+            "0xf8f81",
+            "0xfb686"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

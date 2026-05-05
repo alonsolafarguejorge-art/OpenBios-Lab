@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:07.153011",
+    "file_path": "E:\\BIOS\\VAL91 La-9932p\\EN25Q32(4K BIT OTP)_20200109_181247.BIN",
+    "file_name": "EN25Q32(4K BIT OTP)_20200109_181247.BIN",
+    "file_size_bytes": 4194816,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x32e528",
+            "0x32e671",
+            "0x3321b7",
+            "0x357daa",
+            "0x3ff790"
+        ],
+        "AMI BIOS": [
+            "0x329ca4",
+            "0x32c2fc",
+            "0x32da90",
+            "0x3904a4"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

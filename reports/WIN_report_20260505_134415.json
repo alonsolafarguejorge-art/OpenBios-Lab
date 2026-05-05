@@ -1,0 +1,43 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:15.727256",
+    "file_path": "E:\\Bios Lenovo IBM\\100-14IBD Laptop (ideapad)\\e0cn63ww_LBE OutPut\\app\\E0CN63WW\\WIN.fd",
+    "file_name": "WIN.fd",
+    "file_size_bytes": 10105280,
+    "file_size_mb": 9.64,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x29cc38",
+            "0x5b3c38",
+            "0x5e7c40",
+            "0x6c0c38",
+            "0x6c7672",
+            "0x6d752a",
+            "0x9a02e8"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1c20"
+        ],
+        "AMI BIOS": [
+            "0x2cd5b3",
+            "0x33ce79"
+        ],
+        "Insyde BIOS": [
+            "0x800c3f",
+            "0x802ff4",
+            "0x8031a3",
+            "0x80322a",
+            "0x803669",
+            "0x8036de",
+            "0x80372a",
+            "0x8090ef",
+            "0x80924e",
+            "0x80ba79"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

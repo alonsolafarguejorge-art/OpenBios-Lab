@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:51.193994",
+    "file_path": "E:\\A07_1721.rom",
+    "file_name": "A07_1721.rom",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x1001c",
+            "0x15007",
+            "0x17c9c"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

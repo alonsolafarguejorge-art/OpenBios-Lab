@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:42.700196",
+    "file_path": "E:\\dell 6400 with nvidea 7300.BIN",
+    "file_name": "dell 6400 with nvidea 7300.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x2001c",
+            "0x24ded",
+            "0x277cf"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:42.043710",
+    "file_path": "E:\\r23 without akhilesh_pic bios.bin",
+    "file_name": "r23 without akhilesh_pic bios.bin",
+    "file_size_bytes": 2097154,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x23028",
+            "0x51028",
+            "0x180028",
+            "0x1b93a9",
+            "0x1b99be",
+            "0x1be707"
+        ],
+        "AMI BIOS": [
+            "0x1d21b6",
+            "0x1d2396"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

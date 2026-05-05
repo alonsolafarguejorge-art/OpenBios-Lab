@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:21.581686",
+    "file_path": "E:\\Bios Lenovo IBM\\Legion Y720-15IKB Laptop (Lenovo) Machine Type 80VR BIOS 7th NM-B163 REV 0.3\\Y720-15IKB NM-B163  REV 0.3 (N17E-G1-A1)\\W25Q32_20190114_114833_uc7.BIN",
+    "file_name": "W25Q32_20190114_114833_uc7.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

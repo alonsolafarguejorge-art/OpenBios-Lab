@@ -1,0 +1,45 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:15.020626",
+    "file_path": "E:\\BIOS\\A1502\\M\u0430\u0441\u0432\u043e\u043e\u043a Pro a1502 emc 2678 820-3536-a.bin",
+    "file_name": "M\u0430\u0441\u0432\u043e\u043e\u043a Pro a1502 emc 2678 820-3536-a.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1028",
+            "0x190028",
+            "0x330028",
+            "0x360028",
+            "0x5e0028",
+            "0x5f0028",
+            "0x600028",
+            "0x610028",
+            "0x640028",
+            "0x649801",
+            "0x6a51a1",
+            "0x6ba8e6",
+            "0x6bad7e",
+            "0x6c352b",
+            "0x6f0028",
+            "0x6f9801",
+            "0x7551a1",
+            "0x76a8e6",
+            "0x76ad7e",
+            "0x77352b",
+            "0x7a0028",
+            "0x7da028",
+            "0x7da870",
+            "0x7fa028",
+            "0x7fa870"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

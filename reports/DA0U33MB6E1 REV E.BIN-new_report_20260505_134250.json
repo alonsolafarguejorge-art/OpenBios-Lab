@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:50.638682",
+    "file_path": "E:\\Bin\\DA0U33MB6E1 REV E.BIN-new.bin",
+    "file_name": "DA0U33MB6E1 REV E.BIN-new.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1ae030",
+            "0x1d0028",
+            "0x380028",
+            "0x381028",
+            "0x39ea3b",
+            "0x39f06e",
+            "0x3a3033"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x38009e",
+            "0x38027e",
+            "0x3ef956",
+            "0x3efb36"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

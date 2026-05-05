@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:33.268101",
+    "file_path": "E:\\Bios Hp Compaq\\HP 15-ay001nx - BDL50 LA-D702P REV 1.0\\W25Q64FW_QPI_20180718_175726  BCK UP.BIN",
+    "file_name": "W25Q64FW_QPI_20180718_175726  BCK UP.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x20e028",
+            "0x24c030",
+            "0x260028",
+            "0x2d0028",
+            "0x76d028",
+            "0x7c0770",
+            "0x7d0028",
+            "0x7d1a17"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x38bb7e",
+            "0x7bf536",
+            "0x7bf716"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

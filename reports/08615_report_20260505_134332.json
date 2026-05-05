@@ -1,0 +1,44 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:32.111336",
+    "file_path": "E:\\BIOS\\DAG7BFMB8D0\\08615.bin",
+    "file_name": "08615.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2e028",
+            "0x7c0028",
+            "0xad0028",
+            "0xad0ff0",
+            "0xad2d65",
+            "0xb3ba6a",
+            "0xb62d1a",
+            "0xbffd00",
+            "0xbffd69",
+            "0xbffda3",
+            "0xbffdce",
+            "0xed0028",
+            "0xed0ff0",
+            "0xed2d65",
+            "0xf3ba6a",
+            "0xf62d1a",
+            "0xfffd00",
+            "0xfffd69",
+            "0xfffda3",
+            "0xfffdce"
+        ],
+        "AMI BIOS": [
+            "0x7c02c6",
+            "0xb69003",
+            "0xb69303",
+            "0xf69003",
+            "0xf69303"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

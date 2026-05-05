@@ -1,0 +1,53 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:36.420215",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo S130-14IGM GLK_MB_LPDDR4_V10\\Lenovo S130-14IGM GLK_MB_LPDDR4_V10\\Lenovo S130-14IGM GLK_MB_LPDDR4_V10  OK    .bin",
+    "file_name": "Lenovo S130-14IGM GLK_MB_LPDDR4_V10  OK    .bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x93028",
+            "0x95853",
+            "0x9e10d",
+            "0x9e1ca",
+            "0x9f86d",
+            "0xa2a09",
+            "0xa2b96",
+            "0xa2e95",
+            "0xa6565",
+            "0xa67b4",
+            "0xaf5d6",
+            "0xb69dd",
+            "0xb6fec",
+            "0xc9028",
+            "0xcb3bf",
+            "0xd0a9c",
+            "0x12f028",
+            "0x131028",
+            "0x131cb0",
+            "0x372028",
+            "0x3a1028",
+            "0x3bf028",
+            "0x59b028",
+            "0x5ab028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5a32e",
+            "0x61582",
+            "0x615a8",
+            "0x6906b"
+        ],
+        "AMI BIOS": [
+            "0x108a03",
+            "0x1121cc",
+            "0x112800",
+            "0x112850"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

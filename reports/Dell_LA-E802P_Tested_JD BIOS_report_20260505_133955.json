@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:55.912016",
+    "file_path": "E:\\Dell_LA-E802P_Tested_JD BIOS.bin",
+    "file_name": "Dell_LA-E802P_Tested_JD BIOS.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x244028",
+            "0x286030",
+            "0x364028",
+            "0x657028",
+            "0x6f2028",
+            "0x6f6a89",
+            "0x713a72"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x7eed86",
+            "0x7eef66"
+        ],
+        "Insyde BIOS": [
+            "0x21000a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

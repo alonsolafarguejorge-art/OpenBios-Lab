@@ -1,0 +1,43 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:48.674350",
+    "file_path": "E:\\Bios Hp Compaq\\HP 19-2000 All-in-One Desktop PC series\\DAI_8008.bin",
+    "file_name": "DAI_8008.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x40028",
+            "0x80028",
+            "0x2c0028",
+            "0x2c4581",
+            "0x2c46d3",
+            "0x2c8a22",
+            "0x35feae",
+            "0x35febf",
+            "0x35fed0",
+            "0x35fee1",
+            "0x360028",
+            "0x364581",
+            "0x3646d3",
+            "0x368a22",
+            "0x3ffeae",
+            "0x3ffebf",
+            "0x3ffed0",
+            "0x3ffee1"
+        ],
+        "AMI BIOS": [
+            "0x40257",
+            "0x34849b",
+            "0x34879b",
+            "0x3e849b",
+            "0x3e879b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:19.889576",
+    "file_path": "E:\\x550ep.BIN",
+    "file_name": "x550ep.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x90028",
+            "0x340028",
+            "0x3453b8",
+            "0x345505",
+            "0x3496fa"
+        ],
+        "AMI BIOS": [
+            "0x301f4",
+            "0x306d2",
+            "0x37f1e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

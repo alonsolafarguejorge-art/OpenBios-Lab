@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:22.056590",
+    "file_path": "E:\\Bios Lenovo IBM\\lenovo  g400s\\W25Q64BV_20210730_145901  betito.BIN",
+    "file_name": "W25Q64BV_20210730_145901  betito.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x385028",
+            "0x393028",
+            "0x70e028",
+            "0x73c030",
+            "0x740028",
+            "0x75c505",
+            "0x75c8ce",
+            "0x75d9d3",
+            "0x75dee1"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x3e1ac0"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

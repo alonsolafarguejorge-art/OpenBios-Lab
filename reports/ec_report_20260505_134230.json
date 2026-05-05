@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:30.484252",
+    "file_path": "E:\\Bios Acer\\ACER AS4741 AS4741G AS4750 AS4750G WISTRON HM42-CP JE40-CP 09920-1 91.4GW01.001\\AS4741G JE40-CP\\ec.bin",
+    "file_name": "ec.bin",
+    "file_size_bytes": 131088,
+    "file_size_mb": 0.13,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:50.036183",
+    "file_path": "E:\\Bios Dell\\Dell Latitude E5470 la-c813p rev3.0\\Dell Latitude E5470 la-c813p rev3.0 1.4.7.BIN",
+    "file_name": "Dell Latitude E5470 la-c813p rev3.0 1.4.7.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x700028",
+            "0x760028",
+            "0x7c0028",
+            "0x7d0028",
+            "0x810028",
+            "0x820028",
+            "0xdf0028",
+            "0xe40028",
+            "0xe40ffe",
+            "0xe43497",
+            "0xedbad2",
+            "0xee4113",
+            "0xee839a",
+            "0xefd88f",
+            "0xf02910",
+            "0xf8cad3",
+            "0xfffd85"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x701334",
+            "0xee6d8d",
+            "0xf33fc0"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

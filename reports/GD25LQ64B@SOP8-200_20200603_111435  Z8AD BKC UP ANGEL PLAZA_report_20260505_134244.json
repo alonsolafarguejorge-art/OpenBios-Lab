@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:44.674625",
+    "file_path": "E:\\Bios Acer\\Aspire ES1-431 - Z8AD\\GD25LQ64B@SOP8-200_20200603_111435  Z8AD BKC UP ANGEL PLAZA.BIN",
+    "file_name": "GD25LQ64B@SOP8-200_20200603_111435  Z8AD BKC UP ANGEL PLAZA.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x408028",
+            "0x455028",
+            "0x493030",
+            "0x4f7028",
+            "0x545028",
+            "0x748028",
+            "0x7739d4",
+            "0x7c3028",
+            "0x7e1028",
+            "0x7e2a17"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Insyde BIOS": [
+            "0x538008"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:00.565350",
+    "file_path": "E:\\Toshiba  ESAC(L) REV 2.1A done.BIN",
+    "file_name": "Toshiba  ESAC(L) REV 2.1A done.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x37028",
+            "0x1a7028",
+            "0x680028",
+            "0x680cb3",
+            "0x682d87",
+            "0x6b0e15"
+        ],
+        "AMI BIOS": [
+            "0x37258"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

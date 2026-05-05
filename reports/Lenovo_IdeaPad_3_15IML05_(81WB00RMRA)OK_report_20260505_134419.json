@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:19.470119",
+    "file_path": "E:\\Bios Lenovo IBM\\ideapad 3-14IML05 Laptop\\nm-c781\\Lenovo_IdeaPad_3_15IML05_(81WB00RMRA)OK.BIN",
+    "file_name": "Lenovo_IdeaPad_3_15IML05_(81WB00RMRA)OK.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x5be028",
+            "0x61e030",
+            "0x677028",
+            "0xb30028",
+            "0xc70028",
+            "0xce0028",
+            "0xd50028",
+            "0xd6bed0",
+            "0xdd0028",
+            "0xe1cd40",
+            "0xed0028",
+            "0xed5028",
+            "0xed73c9",
+            "0xf38084",
+            "0xfc1028",
+            "0xfc2b53",
+            "0xffbde2",
+            "0xfff2c0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2000"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

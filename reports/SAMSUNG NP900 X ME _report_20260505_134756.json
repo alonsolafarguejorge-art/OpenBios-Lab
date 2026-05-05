@@ -1,0 +1,51 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:56.179045",
+    "file_path": "E:\\Bios Samsung\\SAMSUNG NP900X4D-A03MX  BA41-02037A BA41-02038A MODEL AMOR2-14 REV 1.1  OK\\SAMSUNG NP900 X ME .BIN",
+    "file_name": "SAMSUNG NP900 X ME .BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x518028",
+            "0x6f0028",
+            "0x730028",
+            "0x760028",
+            "0x767a30",
+            "0x781fe4",
+            "0x78200e",
+            "0x7d1937"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x5938d2"
+        ],
+        "Phoenix BIOS": [
+            "0x7031cd",
+            "0x703200",
+            "0x703270",
+            "0x7032a3",
+            "0x703468",
+            "0x70349b",
+            "0x732a53",
+            "0x732a86",
+            "0x732af6",
+            "0x732b29",
+            "0x732cee",
+            "0x732d21",
+            "0x7469dd",
+            "0x746a10",
+            "0x746a80",
+            "0x746ab3",
+            "0x746c78",
+            "0x746cab"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

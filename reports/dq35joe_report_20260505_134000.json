@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:00.960090",
+    "file_path": "E:\\dq35joe.rom",
+    "file_name": "dq35joe.rom",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x280028",
+            "0x2c0028",
+            "0x2d0028",
+            "0x3f0028",
+            "0x3f7eeb",
+            "0x3f7f5c",
+            "0x3fa1d0",
+            "0x3fa324"
+        ],
+        "Intel Flash Descriptor": [
+            "0xe010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:18.450099",
+    "file_path": "E:\\Asus Z97-A Done.bin",
+    "file_name": "Asus Z97-A Done.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1c0028",
+            "0x1f0028",
+            "0x220028",
+            "0x600028",
+            "0x66beca",
+            "0x66c01b",
+            "0x6700a3",
+            "0x686899",
+            "0x6ff440",
+            "0x700028",
+            "0x76beca",
+            "0x76c01b",
+            "0x7700a3",
+            "0x786899",
+            "0x7ff440"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x5aafa",
+            "0x180935",
+            "0x39a283",
+            "0x3a6350",
+            "0x67d1b1",
+            "0x6dc354",
+            "0x6dfe5c",
+            "0x77d1b1",
+            "0x7dc354",
+            "0x7dfe5c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

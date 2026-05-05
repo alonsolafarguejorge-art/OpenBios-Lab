@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:00.531294",
+    "file_path": "E:\\Bios Dell\\Inspiron 14 7460 - 7560\\MainPart.BIN",
+    "file_name": "MainPart.BIN",
+    "file_size_bytes": 1507328,
+    "file_size_mb": 1.44,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x3a08",
+            "0x9646f",
+            "0xa8f21",
+            "0xb16d3",
+            "0xb9528",
+            "0x16fd85"
+        ],
+        "AMI BIOS": [
+            "0x9f1c5"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

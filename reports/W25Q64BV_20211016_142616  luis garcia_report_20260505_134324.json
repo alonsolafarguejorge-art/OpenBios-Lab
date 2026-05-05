@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:24.689351",
+    "file_path": "E:\\BIOS\\Bucks Uma MB 16872-1 448.0c204.0011\\W25Q64BV_20211016_142616  luis garcia.BIN",
+    "file_name": "W25Q64BV_20211016_142616  luis garcia.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x244028",
+            "0x286030",
+            "0x332028",
+            "0x645028",
+            "0x6db028",
+            "0x6e0a09",
+            "0x6fccc2"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x7cbc3e",
+            "0x7cbe1e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

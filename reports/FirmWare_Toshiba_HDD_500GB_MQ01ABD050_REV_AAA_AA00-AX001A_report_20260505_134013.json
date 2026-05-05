@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:13.163070",
+    "file_path": "E:\\FirmWare_Toshiba_HDD_500GB_MQ01ABD050_REV_AAA_AA00-AX001A.BIN",
+    "file_name": "FirmWare_Toshiba_HDD_500GB_MQ01ABD050_REV_AAA_AA00-AX001A.BIN",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

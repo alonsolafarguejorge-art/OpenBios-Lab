@@ -1,0 +1,21 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:05.516504",
+    "file_path": "E:\\tplink TD-W8951ND.BIN",
+    "file_name": "tplink TD-W8951ND.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x6e6a6",
+            "0x70e1d",
+            "0x70f94",
+            "0x1922a5"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

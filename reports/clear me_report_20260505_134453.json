@@ -1,0 +1,37 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:53.514083",
+    "file_path": "E:\\Bios Lenovo IBM\\ThinkPad S2 DA0PS8MB8G0 REV G\\clear me.bin",
+    "file_name": "clear me.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x850028",
+            "0x8f0028",
+            "0x970028",
+            "0xe00028",
+            "0xe20028",
+            "0xe30028",
+            "0xee0028",
+            "0xf3842e",
+            "0xfb751f",
+            "0xfb75a8",
+            "0xfb766e",
+            "0xfbafae",
+            "0xfbb4c6",
+            "0xfcf7da",
+            "0xfcf807",
+            "0xfe0028",
+            "0xfe1b4d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:49.066853",
+    "file_path": "E:\\BIOS\\Lanix Neuron Flex PX85116C rev 2.1\\build.bin",
+    "file_name": "build.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x420028",
+            "0x441028",
+            "0x471028",
+            "0x6ee028",
+            "0x756028",
+            "0x7e1028",
+            "0x7e248c",
+            "0x7e4b9b",
+            "0x7e87cc",
+            "0x7fa6da",
+            "0x7fadb8"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x4002d8",
+            "0x400656",
+            "0x411312",
+            "0x412d9a",
+            "0x412de1",
+            "0x412f51",
+            "0x4202d8",
+            "0x420656",
+            "0x431312",
+            "0x432d9a",
+            "0x432de1",
+            "0x432f51"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

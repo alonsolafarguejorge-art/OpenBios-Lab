@@ -1,0 +1,37 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:44.427115",
+    "file_path": "E:\\dell inspirion N5110(i5 2nd+HM67+AMD N12P-GE-A1).bin",
+    "file_name": "dell inspirion N5110(i5 2nd+HM67+AMD N12P-GE-A1).bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1b0028",
+            "0x1c0028",
+            "0x1d0028",
+            "0x3a0028",
+            "0x3bcb1b",
+            "0x3be03b",
+            "0x3c863a",
+            "0x3ff5b0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x1b035d",
+            "0x1b0570",
+            "0x1c035d",
+            "0x1c0570"
+        ],
+        "Insyde BIOS": [
+            "0x180160"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

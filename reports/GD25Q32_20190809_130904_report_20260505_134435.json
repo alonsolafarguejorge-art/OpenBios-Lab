@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:35.238079",
+    "file_path": "E:\\Bios Lenovo IBM\\LENOVO IDEAPAD Z410  AILZA NM-A181 REV 1.0\\GD25Q32_20190809_130904.BIN",
+    "file_name": "GD25Q32_20190809_130904.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x3028",
+            "0xa6028",
+            "0x2ce028",
+            "0x2fc030",
+            "0x300028",
+            "0x32e90d",
+            "0x32ece2",
+            "0x330d9f"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

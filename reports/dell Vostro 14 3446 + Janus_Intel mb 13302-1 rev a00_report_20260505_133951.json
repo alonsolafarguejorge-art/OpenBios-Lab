@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:51.955402",
+    "file_path": "E:\\dell Vostro 14 3446 + Janus_Intel mb 13302-1 rev a00.rom",
+    "file_name": "dell Vostro 14 3446 + Janus_Intel mb 13302-1 rev a00.rom",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1a4028",
+            "0x1e5028",
+            "0x4062e8",
+            "0x6c0028",
+            "0x6e0028",
+            "0x73017e",
+            "0x7302cb",
+            "0x732dc2",
+            "0x750956",
+            "0x7ff710"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x1a45ba",
+            "0x398800",
+            "0x6d8035",
+            "0x72ba04",
+            "0x72eb7c",
+            "0x789a44"
+        ],
+        "Insyde BIOS": [
+            "0x180160"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

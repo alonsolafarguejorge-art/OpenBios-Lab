@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:36.584794",
+    "file_path": "E:\\Bios Acer\\Acer E5-511G Compal LA-B211P Z5WAL UMA\\__MACOSX\\._ext 2509 Z5WAL LA-B211P r.1 W25Q64FW.bin",
+    "file_name": "._ext 2509 Z5WAL LA-B211P r.1 W25Q64FW.bin",
+    "file_size_bytes": 212,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:33.904615",
+    "file_path": "E:\\Bios Acer\\Acer Aspire VN7-571 571G Wistron Hades 840M 14205-12\\W25Q64FV_20200310_175453  BCK UP.BIN",
+    "file_name": "W25Q64FV_20200310_175453  BCK UP.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x443028",
+            "0x6ce028",
+            "0x6fc030",
+            "0x700028",
+            "0x723d5d",
+            "0x724135",
+            "0x7293a7"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Insyde BIOS": [
+            "0x408074"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

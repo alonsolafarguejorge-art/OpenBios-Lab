@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:18.943663",
+    "file_path": "E:\\GA-B85m-D3H REV 2.1  OK.FD",
+    "file_name": "GA-B85m-D3H REV 2.1  OK.FD",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1c0028",
+            "0x340028",
+            "0x37a35a",
+            "0x37ab72",
+            "0x37acbd",
+            "0x37ef44",
+            "0x3b8e2a",
+            "0x3ff3b0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x180828",
+            "0x3ee234",
+            "0x3f0774"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

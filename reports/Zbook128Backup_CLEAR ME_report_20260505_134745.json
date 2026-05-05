@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:45.882936",
+    "file_path": "E:\\Bios Hp Compaq\\HP ZBook 17 G3 Mobile Workstation LA-C381P\\Zbook128Backup_CLEAR ME.bin",
+    "file_name": "Zbook128Backup_CLEAR ME.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x749028",
+            "0xab4028",
+            "0xaf5028",
+            "0xbbc028",
+            "0xbbeb77",
+            "0xc7a84b",
+            "0xc9cb7e",
+            "0xd7a028",
+            "0xe41028",
+            "0xe43b77",
+            "0xeff84b",
+            "0xf21b7e",
+            "0xffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

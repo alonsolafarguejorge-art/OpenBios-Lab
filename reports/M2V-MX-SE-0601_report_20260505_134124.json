@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:24.894355",
+    "file_path": "E:\\M2V-MX-SE-0601.ROM",
+    "file_name": "M2V-MX-SE-0601.ROM",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x6074c",
+            "0x6b4a5",
+            "0x6bfea",
+            "0x7037c"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

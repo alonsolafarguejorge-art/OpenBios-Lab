@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:05.017471",
+    "file_path": "E:\\BIOS\\GD25Q32_20190806_192550  HP 15 AZUL BCK UP.BIN",
+    "file_name": "GD25Q32_20190806_192550  HP 15 AZUL BCK UP.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x68028"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

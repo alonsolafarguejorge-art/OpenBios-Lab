@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:41.313505",
+    "file_path": "E:\\dell 1525 DS2 intel  07211 ok.bin",
+    "file_name": "dell 1525 DS2 intel  07211 ok.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x4001c",
+            "0x44e78",
+            "0x47d01"
+        ],
+        "Insyde BIOS": [
+            "0x4074"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:38.755497",
+    "file_path": "E:\\hp mini 2133 ok.bin",
+    "file_name": "hp mini 2133 ok.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x17134",
+            "0x17140",
+            "0x1f6f5",
+            "0x1f7f5",
+            "0x20255",
+            "0x221d1",
+            "0x221d9",
+            "0x443b2",
+            "0x45a4e",
+            "0x45a96",
+            "0x45ab9",
+            "0x52195",
+            "0x5b9eb",
+            "0x5cabc",
+            "0xdffea",
+            "0xf0040",
+            "0xf0368"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

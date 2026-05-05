@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:07.211283",
+    "file_path": "E:\\Bios Hp Compaq\\HP EliteBook 840 - 6050A2637901-MB-A02\\HP_6050A2637901_ec.bin",
+    "file_name": "HP_6050A2637901_ec.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x13e028",
+            "0x1b04c8"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

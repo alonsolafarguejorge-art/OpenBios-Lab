@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:45.893443",
+    "file_path": "E:\\DELL INSPIRON 1520 GM.bin",
+    "file_name": "DELL INSPIRON 1520 GM.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x1001c",
+            "0x14d60",
+            "0x17be2",
+            "0x11001c",
+            "0x114df7",
+            "0x117c78"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

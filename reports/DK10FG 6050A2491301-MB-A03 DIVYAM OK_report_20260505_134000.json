@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:00.402702",
+    "file_path": "E:\\DK10FG 6050A2491301-MB-A03 DIVYAM OK.bin",
+    "file_name": "DK10FG 6050A2491301-MB-A03 DIVYAM OK.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x199028",
+            "0x340028",
+            "0x370028",
+            "0x38cdb6",
+            "0x38d09a",
+            "0x38f326"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2010"
+        ],
+        "Insyde BIOS": [
+            "0x18108e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

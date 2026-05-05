@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:02.863144",
+    "file_path": "E:\\Bios Dell\\inspiron 5593 fdi45 la-j092p\\la-j092p\\XM25QH64A@SOIC8-la-j092pUC5.BIN",
+    "file_name": "XM25QH64A@SOIC8-la-j092pUC5.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x3b4000"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

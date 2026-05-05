@@ -1,0 +1,21 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:00.249906",
+    "file_path": "E:\\thinkpad R 61 with hem (1).BIN",
+    "file_name": "thinkpad R 61 with hem (1).BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x1000",
+            "0x8a7c",
+            "0x76c0c",
+            "0x7f18c"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

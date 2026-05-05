@@ -1,0 +1,52 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:13.302925",
+    "file_path": "E:\\Bios Hp Compaq\\HP ENVY TouchSmart 23se-d309 All-in-One - IPSHB-LA (Larkspur)\\LAR_8004.bin",
+    "file_name": "LAR_8004.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x430028",
+            "0x480028",
+            "0x6a0028",
+            "0x6c0028",
+            "0x6ff04b",
+            "0x6ff19d",
+            "0x7035a7",
+            "0x711556",
+            "0x75f6b0",
+            "0x75fe6e",
+            "0x75fe7f",
+            "0x75fe90",
+            "0x75fea1",
+            "0x760028",
+            "0x79f04b",
+            "0x79f19d",
+            "0x7a35a7",
+            "0x7b1556",
+            "0x7ff6b0",
+            "0x7ffe6e",
+            "0x7ffe7f",
+            "0x7ffe90",
+            "0x7ffea1"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x43050c",
+            "0x69e067",
+            "0x7467cb",
+            "0x746acb",
+            "0x7e67cb",
+            "0x7e6acb"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:56.418454",
+    "file_path": "E:\\Bios Samsung\\SAMSUNG NT905S3G-KSQB PETRA-13 BA41-02277A REV 1.1\\915S3G BA41-02277A REV 1.0    1.1\\W25Q32_20190925_130609.BIN",
+    "file_name": "W25Q32_20190925_130609.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x50028",
+            "0x80028",
+            "0xe0028",
+            "0x120028",
+            "0x360028",
+            "0x3d4d50",
+            "0x3d4eba",
+            "0x3d9323"
+        ],
+        "AMI BIOS": [
+            "0x1101",
+            "0x301b9",
+            "0x305d5",
+            "0x501b9",
+            "0x505d5",
+            "0x3e9e40",
+            "0x3ebdc4"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

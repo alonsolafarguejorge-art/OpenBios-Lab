@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:46.483708",
+    "file_path": "E:\\Bios Hp Compaq\\Hp _G6-2103tu CPU i5_ DA0R33MB6F0 _ REV F_ R33_ GREEN\\G4 R33\\HP G4 QUANTA DA0R33MB6F0  EC BIOS OK.BIN",
+    "file_name": "HP G4 QUANTA DA0R33MB6F0  EC BIOS OK.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x76028",
+            "0xf0028"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

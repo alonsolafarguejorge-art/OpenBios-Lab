@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:08.798733",
+    "file_path": "E:\\Bios Toshiba\\TOSHIBA_U940_LA_9161P_VCUAA_BIOS\\U940_PSU6SE_UH3_25Q32BV.bin",
+    "file_name": "U940_PSU6SE_UH3_25Q32BV.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x184028",
+            "0x1a4028",
+            "0x1c4028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x1843b6",
+            "0x18804e",
+            "0x189fc6",
+            "0x18d0fb",
+            "0x18e1fb",
+            "0x19184b",
+            "0x19294b",
+            "0x1a43b6",
+            "0x1a8070",
+            "0x1b12a4",
+            "0x1b23a4"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

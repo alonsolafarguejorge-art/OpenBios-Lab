@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:59.863106",
+    "file_path": "E:\\Bios Toshiba\\satellite a305 pt10s-6050a2169401-mb-a02 psag0u\\W25X80_20190530_124153.BIN",
+    "file_name": "W25X80_20190530_124153.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x14028",
+            "0xc0028",
+            "0xd0028",
+            "0xe0028",
+            "0xe9028",
+            "0xee028",
+            "0xf623a",
+            "0xfa163"
+        ],
+        "Insyde BIOS": [
+            "0x108e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

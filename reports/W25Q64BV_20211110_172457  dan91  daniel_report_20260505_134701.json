@@ -1,0 +1,64 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:01.196617",
+    "file_path": "E:\\Bios Hp Compaq\\HP All-in-One 20 DAN91AMB6D0\\W25Q64BV_20211110_172457  dan91  daniel.BIN",
+    "file_name": "W25Q64BV_20211110_172457  dan91  daniel.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x200028",
+            "0x241028",
+            "0x242b61",
+            "0x261028",
+            "0x262ac6",
+            "0x292028",
+            "0x2e2028",
+            "0x680028",
+            "0x720028",
+            "0x7c0028",
+            "0x7c3b0f",
+            "0x7cd8a9",
+            "0x7cd96b",
+            "0x7cd993",
+            "0x7ce896",
+            "0x7df052",
+            "0x7df40b",
+            "0x7e0028",
+            "0x7e3b0f",
+            "0x7ed8a9",
+            "0x7ed96b",
+            "0x7ed993",
+            "0x7ee896",
+            "0x7ff052",
+            "0x7ff40b"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x1225bc",
+            "0x241346",
+            "0x242e1d",
+            "0x243246",
+            "0x24341b",
+            "0x2441d5",
+            "0x261346",
+            "0x262d82",
+            "0x263451",
+            "0x263626",
+            "0x26442b",
+            "0x35ed48",
+            "0x59d21a",
+            "0x7d330b",
+            "0x7d360b",
+            "0x7f330b",
+            "0x7f360b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

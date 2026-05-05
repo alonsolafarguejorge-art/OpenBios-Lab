@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:27.112660",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo C365  6050A2594901\\24_02_U306.BIN\\24_02_U306.BIN",
+    "file_name": "24_02_U306.BIN",
+    "file_size_bytes": 256,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:52.986846",
+    "file_path": "E:\\BIOS\\optiplex 9020m\\MX25L3205@SOIC16_20210331_143855.BIN",
+    "file_name": "MX25L3205@SOIC16_20210331_143855.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x32f65e",
+            "0x32f7a7",
+            "0x33307e",
+            "0x355956",
+            "0x3ff770"
+        ],
+        "AMI BIOS": [
+            "0x32a8cc",
+            "0x32cea4",
+            "0x32e638",
+            "0x38b0dc"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

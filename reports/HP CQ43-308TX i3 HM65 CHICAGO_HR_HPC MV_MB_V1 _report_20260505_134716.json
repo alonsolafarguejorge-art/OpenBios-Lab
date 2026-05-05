@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:16.426419",
+    "file_path": "E:\\Bios Hp Compaq\\HP HP 430 431 CQ43 CHICAGO_HR_HPC MV_MB_V1\\HP CQ43-308TX i3 HM65 CHICAGO_HR_HPC MV_MB_V1 .BIN",
+    "file_name": "HP CQ43-308TX i3 HM65 CHICAGO_HR_HPC MV_MB_V1 .BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x183028",
+            "0x193028",
+            "0x3a1028",
+            "0x3b3b4b",
+            "0x3b3f50",
+            "0x3cf6af"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x3df99e",
+            "0x3dfb7e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

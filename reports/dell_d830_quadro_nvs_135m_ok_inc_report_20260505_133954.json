@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:54.328259",
+    "file_path": "E:\\dell_d830_quadro_nvs_135m_ok_inc.bin",
+    "file_name": "dell_d830_quadro_nvs_135m_ok_inc.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x1001c",
+            "0x151fe",
+            "0x1840b"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

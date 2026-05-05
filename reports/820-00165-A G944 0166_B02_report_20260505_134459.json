@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:59.146632",
+    "file_path": "E:\\BIos Apple\\A1466\\A1466 820-00165-02 2015\\820-00165-A_G944_0166_B02.BIN\\820-00165-A G944 0166_B02.BIN",
+    "file_name": "820-00165-A G944 0166_B02.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1028",
+            "0x190028",
+            "0x300028",
+            "0x550028",
+            "0x560028",
+            "0x570028",
+            "0x5a0028",
+            "0x5ab437",
+            "0x5b72e1",
+            "0x5cd98a",
+            "0x63e16f",
+            "0x6a0028",
+            "0x6ab437",
+            "0x6b72e1",
+            "0x6cd98a",
+            "0x73e16f",
+            "0x7a0028",
+            "0x7da028",
+            "0x7fa028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

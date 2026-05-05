@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:14.750745",
+    "file_path": "E:\\lenovo s10  r.bin",
+    "file_name": "lenovo s10  r.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xeb8ad"
+        ],
+        "Phoenix BIOS": [
+            "0xebf13",
+            "0xebf47",
+            "0xf1030"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

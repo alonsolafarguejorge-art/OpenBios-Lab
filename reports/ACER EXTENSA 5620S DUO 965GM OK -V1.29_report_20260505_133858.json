@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:58.842834",
+    "file_path": "E:\\ACER EXTENSA 5620S DUO 965GM OK -V1.29.rom",
+    "file_name": "ACER EXTENSA 5620S DUO 965GM OK -V1.29.rom",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xec432",
+            "0xec466"
+        ],
+        "Insyde BIOS": [
+            "0x4074"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:27.612127",
+    "file_path": "E:\\MSI CR400 ONLY NVIDIA.BIN",
+    "file_name": "MSI CR400 ONLY NVIDIA.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x10028",
+            "0xd0028"
+        ],
+        "AMI BIOS": [
+            "0x131",
+            "0x24c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

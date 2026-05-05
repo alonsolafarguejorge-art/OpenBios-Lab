@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:05.709225",
+    "file_path": "E:\\BIOS\\TPN1119 240 G4  SKITTL1-6050A2730001-MB-A01\\clear me.bin",
+    "file_name": "clear me.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x254028",
+            "0x288030",
+            "0x30d028",
+            "0x720028",
+            "0x726ca8",
+            "0x7b895c"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x7b77d6",
+            "0x7b79b6"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

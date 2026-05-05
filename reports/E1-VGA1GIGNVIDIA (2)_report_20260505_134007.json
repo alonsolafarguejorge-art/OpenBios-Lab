@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:07.542241",
+    "file_path": "E:\\E1-VGA1GIGNVIDIA (2).rom",
+    "file_name": "E1-VGA1GIGNVIDIA (2).rom",
+    "file_size_bytes": 6291456,
+    "file_size_mb": 6.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x4028",
+            "0x513028",
+            "0x53d030",
+            "0x540028",
+            "0x55d2fe",
+            "0x55d6dd",
+            "0x55e76b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

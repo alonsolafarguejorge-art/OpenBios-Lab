@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:41.798571",
+    "file_path": "E:\\DELL 2310 ALL IN ONE.BIN",
+    "file_name": "DELL 2310 ALL IN ONE.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x210028",
+            "0x220028",
+            "0x3a0028",
+            "0x3cc65d",
+            "0x3cde4f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2101e0"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

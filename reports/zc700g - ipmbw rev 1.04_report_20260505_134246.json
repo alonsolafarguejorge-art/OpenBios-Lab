@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:46.634395",
+    "file_path": "E:\\Bios Acer\\Aspire ZC-700G AIO - IPMBW-BR\\zc700g - ipmbw rev 1.04.bin",
+    "file_name": "zc700g - ipmbw rev 1.04.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x320028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x944de",
+            "0x406034",
+            "0x409034",
+            "0x40a034",
+            "0x492034",
+            "0x7d9d58"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

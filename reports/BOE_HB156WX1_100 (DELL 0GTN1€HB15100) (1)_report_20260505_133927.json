@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:27.220980",
+    "file_path": "E:\\BOE_HB156WX1_100 (DELL 0GTN1\u20acHB15100) (1).bin",
+    "file_name": "BOE_HB156WX1_100 (DELL 0GTN1\u20acHB15100) (1).bin",
+    "file_size_bytes": 256,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

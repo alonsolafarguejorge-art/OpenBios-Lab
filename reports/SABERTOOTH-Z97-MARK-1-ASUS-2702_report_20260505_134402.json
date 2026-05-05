@@ -1,0 +1,47 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:02.391932",
+    "file_path": "E:\\BIOS\\SABERTOOTH-Z97-MARK-1-ASUS-2702\\SABERTOOTH-Z97-MARK-1-ASUS-2702.CAP",
+    "file_name": "SABERTOOTH-Z97-MARK-1-ASUS-2702.CAP",
+    "file_size_bytes": 8390656,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180828",
+            "0x1c0828",
+            "0x1f0828",
+            "0x220828",
+            "0x600828",
+            "0x66dbea",
+            "0x66dd3b",
+            "0x671d48",
+            "0x688609",
+            "0x6ffd60",
+            "0x700828",
+            "0x76dbea",
+            "0x76dd3b",
+            "0x771d48",
+            "0x788609",
+            "0x7ffd60"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3810"
+        ],
+        "AMI BIOS": [
+            "0x5b2fa",
+            "0x181157",
+            "0x3afc38",
+            "0x67e693",
+            "0x6ddee4",
+            "0x6e19ec",
+            "0x77e693",
+            "0x7ddee4",
+            "0x7e19ec"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

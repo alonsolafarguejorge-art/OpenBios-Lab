@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:15.376113",
+    "file_path": "E:\\Lenovo S340-15IWL Type 81N8_LA-H101P_JD_BIOS_TESTED.ROM",
+    "file_name": "Lenovo S340-15IWL Type 81N8_LA-H101P_JD_BIOS_TESTED.ROM",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x6bd028",
+            "0x9f7028",
+            "0xa39030",
+            "0xaa0028",
+            "0xb60028",
+            "0xe00028",
+            "0xe1e77f",
+            "0xe1fdd5",
+            "0xe60028",
+            "0xeae01f",
+            "0xf30028",
+            "0xf35028",
+            "0xf3701d",
+            "0xf9234d",
+            "0xfc0028",
+            "0xfc182f",
+            "0xffca12",
+            "0xffeeae"
+        ],
+        "Intel Flash Descriptor": [
+            "0x20f000"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

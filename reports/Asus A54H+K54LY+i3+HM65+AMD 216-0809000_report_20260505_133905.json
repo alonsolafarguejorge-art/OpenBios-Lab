@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:05.944850",
+    "file_path": "E:\\Asus A54H+K54LY+i3+HM65+AMD 216-0809000.bin",
+    "file_name": "Asus A54H+K54LY+i3+HM65+AMD 216-0809000.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x210028",
+            "0x230028",
+            "0x370028",
+            "0x3e8946"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2102d3",
+            "0x211972"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

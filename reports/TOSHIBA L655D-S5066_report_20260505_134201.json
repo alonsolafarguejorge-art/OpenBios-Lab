@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:01.658508",
+    "file_path": "E:\\TOSHIBA L655D-S5066.bin",
+    "file_name": "TOSHIBA L655D-S5066.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x12028",
+            "0x196028",
+            "0x1a6028",
+            "0x1ad028",
+            "0x1ba028",
+            "0x1eef56",
+            "0x1ef65c",
+            "0x1f2e23"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:37.807175",
+    "file_path": "E:\\Bios Acer\\ACER V5 SERIES  ZQY    DAZRQMB18F0  REV F\\W25Q32_20181004_171146  BCK UP HUITZI.BIN",
+    "file_name": "W25Q32_20181004_171146  BCK UP HUITZI.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x80028",
+            "0x2ce028",
+            "0x2fc030",
+            "0x300028",
+            "0x32b84d",
+            "0x32bc22",
+            "0x33170b"
+        ],
+        "Insyde BIOS": [
+            "0x3c008"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

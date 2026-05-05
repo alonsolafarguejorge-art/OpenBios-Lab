@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:13.577705",
+    "file_path": "E:\\ASUS X55C X55VD CPU ONBORD SLJ8E.bin",
+    "file_name": "ASUS X55C X55VD CPU ONBORD SLJ8E.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x210028",
+            "0x280028",
+            "0x764028",
+            "0x793405",
+            "0x793555",
+            "0x7954e5",
+            "0x7a2b7f",
+            "0x7ff710"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x21036f",
+            "0x211c4e",
+            "0x3c3d74"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

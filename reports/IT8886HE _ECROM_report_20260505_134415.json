@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:15.908952",
+    "file_path": "E:\\Bios Lenovo IBM\\110-15IBR Laptop (ideapad) CG420 NM-A805 Rev 1.0\\IT8886HE _ECROM.bin",
+    "file_name": "IT8886HE _ECROM.bin",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

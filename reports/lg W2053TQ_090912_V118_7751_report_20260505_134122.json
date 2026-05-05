@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:22.717536",
+    "file_path": "E:\\lg W2053TQ_090912_V118_7751.bin",
+    "file_name": "lg W2053TQ_090912_V118_7751.bin",
+    "file_size_bytes": 229376,
+    "file_size_mb": 0.22,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

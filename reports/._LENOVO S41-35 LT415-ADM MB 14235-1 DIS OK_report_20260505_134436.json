@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:36.787850",
+    "file_path": "E:\\Bios Lenovo IBM\\LENOVO S41-75 S41-35 LT415-AMD MB 14235-1\\__MACOSX\\._LENOVO S41-35 LT415-ADM MB 14235-1 DIS OK.bin",
+    "file_name": "._LENOVO S41-35 LT415-ADM MB 14235-1 DIS OK.bin",
+    "file_size_bytes": 217,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

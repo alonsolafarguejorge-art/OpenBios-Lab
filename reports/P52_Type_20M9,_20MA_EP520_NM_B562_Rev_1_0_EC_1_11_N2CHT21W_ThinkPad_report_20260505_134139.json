@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:39.168724",
+    "file_path": "E:\\P52_Type_20M9,_20MA_EP520_NM_B562_Rev_1_0_EC_1_11_N2CHT21W_ThinkPad.bin",
+    "file_name": "P52_Type_20M9,_20MA_EP520_NM_B562_Rev_1_0_EC_1_11_N2CHT21W_ThinkPad.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

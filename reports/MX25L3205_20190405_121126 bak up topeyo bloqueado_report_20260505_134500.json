@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:00.984722",
+    "file_path": "E:\\BIos Apple\\Macbook A1342 K84 MLB 051-7982 820-2567-A\\MX25L3205_20190405_121126 bak up topeyo bloqueado.BIN",
+    "file_name": "MX25L3205_20190405_121126 bak up topeyo bloqueado.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x1540",
+            "0x725c",
+            "0x73a3",
+            "0x86ff",
+            "0x143ae",
+            "0x40028",
+            "0x41540",
+            "0x4725c",
+            "0x473a3",
+            "0x486ff",
+            "0x543ae",
+            "0x80028",
+            "0xa4028",
+            "0xa6028",
+            "0xa8028",
+            "0xae028",
+            "0xb4028",
+            "0x3fc028",
+            "0x3fc9d6"
+        ],
+        "AMI BIOS": [
+            "0x1a3979",
+            "0x1dc5eb"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

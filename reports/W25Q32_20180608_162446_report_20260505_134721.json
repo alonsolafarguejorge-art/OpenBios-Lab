@@ -1,0 +1,47 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:21.701099",
+    "file_path": "E:\\Bios Hp Compaq\\HP PARA LION\\W25Q32_20180608_162446.BIN",
+    "file_name": "W25Q32_20180608_162446.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x30028",
+            "0x50028",
+            "0x80028",
+            "0x300028",
+            "0x301fab",
+            "0x3020fd",
+            "0x30676a",
+            "0x37fede",
+            "0x37feef",
+            "0x37ff00",
+            "0x37ff11",
+            "0x380028",
+            "0x381fab",
+            "0x3820fd",
+            "0x38676a",
+            "0x3ffede",
+            "0x3ffeef",
+            "0x3fff00",
+            "0x3fff11"
+        ],
+        "AMI BIOS": [
+            "0x301ea",
+            "0x34815",
+            "0x501ea",
+            "0x54815",
+            "0x35793b",
+            "0x357c3b",
+            "0x3d793b",
+            "0x3d7c3b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

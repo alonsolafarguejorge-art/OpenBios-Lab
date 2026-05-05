@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:43.199703",
+    "file_path": "E:\\Bios Acer\\ASPIRE AXC-730-MO12\\N25Q128A11B@VDFPN8 8X6_20210511_152051   ACER AXC-730-MO12.BIN",
+    "file_name": "N25Q128A11B@VDFPN8 8X6_20210511_152051   ACER AXC-730-MO12.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x84468",
+            "0x85468",
+            "0xb8137",
+            "0xc6103",
+            "0xd1504",
+            "0x782028",
+            "0x784028",
+            "0xb47028",
+            "0xb4d028",
+            "0xb6d028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x58ebd",
+            "0xeff000"
+        ],
+        "AMI BIOS": [
+            "0x94720",
+            "0xb4d7a5",
+            "0xb51456",
+            "0xb51cc4",
+            "0xb634c9",
+            "0xb6d7a5",
+            "0xb71344",
+            "0xb71bb2"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

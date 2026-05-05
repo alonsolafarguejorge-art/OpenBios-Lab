@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:18.092249",
+    "file_path": "E:\\Bios Lenovo IBM\\IBM-Lenovo E440-AILE1 NM-A151 REV.1.0\\vinafix.com_ThinkPad Edge E440  - NM-A151 IT8586E.BIN",
+    "file_name": "vinafix.com_ThinkPad Edge E440  - NM-A151 IT8586E.BIN",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

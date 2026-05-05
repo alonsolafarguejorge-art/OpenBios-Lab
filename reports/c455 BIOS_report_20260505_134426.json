@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:26.831552",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo C355 BIOS CFT3S VER1.0\\vinafix.com_6050A2579601\\c455 BIOS.BIN",
+    "file_name": "c455 BIOS.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x50028",
+            "0x80028",
+            "0x340028",
+            "0x344be0",
+            "0x344d2d",
+            "0x349422"
+        ],
+        "AMI BIOS": [
+            "0x30475",
+            "0x31bc4",
+            "0x50475",
+            "0x51bc4"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

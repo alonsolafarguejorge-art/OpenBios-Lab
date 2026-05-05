@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:17.834197",
+    "file_path": "E:\\BIOS\\BIOS RECIENTES\\L490.bin",
+    "file_name": "L490.bin",
+    "file_size_bytes": 237568,
+    "file_size_mb": 0.23,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

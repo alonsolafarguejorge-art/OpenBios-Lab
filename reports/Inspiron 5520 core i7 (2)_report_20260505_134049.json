@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:49.018680",
+    "file_path": "E:\\Inspiron 5520 core i7 (2).rom",
+    "file_name": "Inspiron 5520 core i7 (2).rom",
+    "file_size_bytes": 4718592,
+    "file_size_mb": 4.5,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x22028",
+            "0x380028",
+            "0x3b0030",
+            "0x3c0028",
+            "0x3e19b5",
+            "0x3e1da8",
+            "0x3e2e13",
+            "0x3e3321"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

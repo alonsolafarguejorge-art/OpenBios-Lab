@@ -1,0 +1,21 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:56.493596",
+    "file_path": "E:\\Sony VPCEE25FX   - BIOS (1).rom",
+    "file_name": "Sony VPCEE25FX   - BIOS (1).rom",
+    "file_size_bytes": 1703936,
+    "file_size_mb": 1.62,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x10028",
+            "0x186028",
+            "0x196028",
+            "0x19d028"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

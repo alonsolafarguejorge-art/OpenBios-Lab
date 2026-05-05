@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:06.541734",
+    "file_path": "E:\\Bios Toshiba\\TOSHIBA SATELLITE L55D-C5204R PSKXNU-00RNC1 DA0BLTMB8F0 REV F\\EN25QH64_20190327_190952.BIN",
+    "file_name": "EN25QH64_20190327_190952.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1a4028",
+            "0x5cb028",
+            "0x5f9030",
+            "0x600028",
+            "0x602c03",
+            "0x678426"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

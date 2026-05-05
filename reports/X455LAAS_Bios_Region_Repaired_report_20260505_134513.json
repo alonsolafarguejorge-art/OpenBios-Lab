@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:13.638913",
+    "file_path": "E:\\Bios Asus\\Asus X455LD 2.1\\X455LAAS_Bios_Region_Repaired.Bin",
+    "file_name": "X455LAAS_Bios_Region_Repaired.Bin",
+    "file_size_bytes": 6291456,
+    "file_size_mb": 6.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x10028",
+            "0x80028",
+            "0x530028",
+            "0x550028",
+            "0x58ad10",
+            "0x58ae5d",
+            "0x58f159",
+            "0x59daa6",
+            "0x5ff770"
+        ],
+        "AMI BIOS": [
+            "0x10524"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

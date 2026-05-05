@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:19.249158",
+    "file_path": "E:\\Asus_K53U.bin",
+    "file_name": "Asus_K53U.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0xa0028",
+            "0xa709b",
+            "0xa83bc"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:28.681092",
+    "file_path": "E:\\Bios Lenovo IBM\\lenovo fp4crzst v1.0  6050A2741901 A01\\GD25Q64_20190528_130637.BIN",
+    "file_name": "GD25Q64_20190528_130637.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x50028",
+            "0x180028",
+            "0x3dcc70",
+            "0x680028",
+            "0x680c35",
+            "0x68291f",
+            "0x6b6e83"
+        ],
+        "AMI BIOS": [
+            "0x30354",
+            "0x32ae5",
+            "0x32b2c",
+            "0x32c9c",
+            "0x33292",
+            "0x36d7a",
+            "0x50354",
+            "0x52ae5",
+            "0x52b2c",
+            "0x52c9c",
+            "0x53292",
+            "0x570f5"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

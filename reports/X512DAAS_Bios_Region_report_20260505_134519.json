@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:19.818352",
+    "file_path": "E:\\Bios Asus\\vivobook 15 f512 amd\\X512DAAS_Bios_Region.bin",
+    "file_name": "X512DAAS_Bios_Region.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x2f1028",
+            "0x2f1908",
+            "0x600028",
+            "0x602028",
+            "0x602dff",
+            "0x604878",
+            "0x66df6f"
+        ],
+        "AMI BIOS": [
+            "0x203"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

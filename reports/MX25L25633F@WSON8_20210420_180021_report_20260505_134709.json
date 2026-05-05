@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:09.188609",
+    "file_path": "E:\\Bios Hp Compaq\\HP EliteBook x360 1030 G3 DA0Y0PMBAF0 REV F password\\MX25L25633F@WSON8_20210420_180021.BIN",
+    "file_name": "MX25L25633F@WSON8_20210420_180021.BIN",
+    "file_size_bytes": 33554432,
+    "file_size_mb": 32.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1624028",
+            "0x1636028",
+            "0x1af6028",
+            "0x1b47028",
+            "0x1c42028",
+            "0x1c6dda3",
+            "0x1c73b40",
+            "0x1d494e3",
+            "0x1da3028",
+            "0x1e9e028",
+            "0x1ec9da3",
+            "0x1ecfb40",
+            "0x1fa54e3",
+            "0x1ffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

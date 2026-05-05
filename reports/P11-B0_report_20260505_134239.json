@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:39.301764",
+    "file_path": "E:\\Bios Acer\\Acer Z1-621 DAUI2HMB6B0 BIOS UI2H\\BIOS_Acer_P11.B0_A_A\\Rom\\P11-B0.bin",
+    "file_name": "P11-B0.bin",
+    "file_size_bytes": 10105296,
+    "file_size_mb": 9.64,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x500ce8",
+            "0x53ecf0",
+            "0x550ce8",
+            "0x59ace8",
+            "0x5a6ce8",
+            "0x770ce8",
+            "0x78738d",
+            "0x7e1ce8",
+            "0x7e3696",
+            "0x9a02e8"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1cd0"
+        ],
+        "Insyde BIOS": [
+            "0x5a2cc8",
+            "0x800cef",
+            "0x803b98",
+            "0x803ff9",
+            "0x80406e",
+            "0x8040ba",
+            "0x80c0d1"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

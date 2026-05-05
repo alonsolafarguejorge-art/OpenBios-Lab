@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:59.042204",
+    "file_path": "E:\\BIOS\\RV411 RV511-A55 BA41-01433A BA41-01432A BA41-01434A BA41-01435A\\W25Q32BV_20200130_184636.BIN",
+    "file_name": "W25Q32BV_20200130_184636.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x4010"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

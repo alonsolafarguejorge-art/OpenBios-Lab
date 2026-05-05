@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:37.445297",
+    "file_path": "E:\\Bios Acer\\ACER SWITCH 3\\Main_Bios_egyfixlab.BIN",
+    "file_name": "Main_Bios_egyfixlab.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x87468",
+            "0x88468",
+            "0x89bcb",
+            "0x97edf",
+            "0x9801f",
+            "0x98286",
+            "0xe2468",
+            "0xe807e",
+            "0x388028",
+            "0x3d6028",
+            "0x5db028",
+            "0x619030"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5c857",
+            "0x63945",
+            "0x6396b",
+            "0x6b061"
+        ],
+        "AMI BIOS": [
+            "0xcc778"
+        ],
+        "Insyde BIOS": [
+            "0x3c9008"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:03.725191",
+    "file_path": "E:\\Bios Toshiba\\Toshiba Satellite C55-B LA-B303P ZBWAA\\LA-B303P  SR1W2_KB9012\\ec v170   OK.ROM",
+    "file_name": "ec v170   OK.ROM",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

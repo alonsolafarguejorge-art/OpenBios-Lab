@@ -1,0 +1,46 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:53.373556",
+    "file_path": "E:\\Bin\\Macbook13_EMC2554.bin",
+    "file_name": "Macbook13_EMC2554.bin",
+    "file_size_bytes": 8388942,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x190028",
+            "0x330028",
+            "0x360028",
+            "0x600028",
+            "0x610028",
+            "0x620028",
+            "0x630028",
+            "0x650028",
+            "0x670028",
+            "0x6a0028",
+            "0x6a20e4",
+            "0x6a6c5b",
+            "0x6b3848",
+            "0x6e8967",
+            "0x6fbefb",
+            "0x6fc36e",
+            "0x70626d",
+            "0x740028",
+            "0x7420e4",
+            "0x746c5b",
+            "0x753848",
+            "0x788967",
+            "0x79befb",
+            "0x79c36e",
+            "0x7a626d",
+            "0x7e0028",
+            "0x7e060b",
+            "0x7f0028",
+            "0x7f060b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

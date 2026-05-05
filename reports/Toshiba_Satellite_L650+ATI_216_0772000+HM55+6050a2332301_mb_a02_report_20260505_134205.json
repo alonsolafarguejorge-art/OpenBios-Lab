@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:05.107345",
+    "file_path": "E:\\Toshiba_Satellite_L650+ATI_216_0772000+HM55+6050a2332301_mb_a02.bin",
+    "file_name": "Toshiba_Satellite_L650+ATI_216_0772000+HM55+6050a2332301_mb_a02.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x282028",
+            "0x390028",
+            "0x3a0028",
+            "0x3afa72",
+            "0x3b4ef5"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

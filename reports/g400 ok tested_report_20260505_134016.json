@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:16.407810",
+    "file_path": "E:\\g400 ok tested.BIN",
+    "file_name": "g400 ok tested.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xebdc2"
+        ],
+        "Phoenix BIOS": [
+            "0xec4e9",
+            "0xec51d"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

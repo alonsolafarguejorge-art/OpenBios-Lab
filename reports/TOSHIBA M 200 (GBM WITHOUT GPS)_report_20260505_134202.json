@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:02.124625",
+    "file_path": "E:\\TOSHIBA M 200 (GBM WITHOUT GPS).BIN",
+    "file_name": "TOSHIBA M 200 (GBM WITHOUT GPS).BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xeb9ae"
+        ],
+        "Phoenix BIOS": [
+            "0xec0e4",
+            "0xec118"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

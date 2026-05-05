@@ -1,0 +1,42 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:38.073855",
+    "file_path": "E:\\Bios Dell\\DELL INSPIRON 15 5000 AAL12  LA-C142P REV 1.0 A00 VENDOR GCE TOUCH\\W25Q64FV(QPI)_20200928_150916.BIN",
+    "file_name": "W25Q64FV(QPI)_20200928_150916.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x18b028",
+            "0x1cb028",
+            "0x20b028",
+            "0x680028",
+            "0x680bfd",
+            "0x6828c7",
+            "0x6b5abb"
+        ],
+        "AMI BIOS": [
+            "0x18b24a",
+            "0x18d632",
+            "0x18d679",
+            "0x18d7e9",
+            "0x18dee1",
+            "0x18df1f",
+            "0x18e03c",
+            "0x1cb24a",
+            "0x1cd632",
+            "0x1cd679",
+            "0x1cd7e9",
+            "0x1cdd4c",
+            "0x1cdd8a",
+            "0x1cdea7",
+            "0x6a9298",
+            "0x6ad678"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

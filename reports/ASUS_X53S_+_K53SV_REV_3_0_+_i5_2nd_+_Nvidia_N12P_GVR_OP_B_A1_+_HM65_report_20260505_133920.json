@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:20.226363",
+    "file_path": "E:\\ASUS_X53S_+_K53SV_REV_3_0_+_i5_2nd_+_Nvidia_N12P_GVR_OP_B_A1_+_HM65.bin",
+    "file_name": "ASUS_X53S_+_K53SV_REV_3_0_+_i5_2nd_+_Nvidia_N12P_GVR_OP_B_A1_+_HM65.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x210028",
+            "0x230028",
+            "0x370028",
+            "0x3e6b11"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2102c6",
+            "0x2109ac"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

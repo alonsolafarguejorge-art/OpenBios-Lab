@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:20.429503",
+    "file_path": "E:\\GA-H81M-S rev. 2.x.bin",
+    "file_name": "GA-H81M-S rev. 2.x.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1c0028",
+            "0x360028",
+            "0x39a648",
+            "0x39a793",
+            "0x39e2b5",
+            "0x3d83ba",
+            "0x3ff3b0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x1807ff",
+            "0x20b6fe"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

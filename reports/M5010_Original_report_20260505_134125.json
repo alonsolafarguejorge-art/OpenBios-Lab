@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:25.816417",
+    "file_path": "E:\\M5010_Original.bin",
+    "file_name": "M5010_Original.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x50028",
+            "0x60028",
+            "0x1b0028",
+            "0x1b1bfe",
+            "0x1b2f5a"
+        ],
+        "AMI BIOS": [
+            "0x3028e",
+            "0x30cf1",
+            "0x5028e",
+            "0x50f4d",
+            "0x94e28"
+        ],
+        "Insyde BIOS": [
+            "0x4074"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

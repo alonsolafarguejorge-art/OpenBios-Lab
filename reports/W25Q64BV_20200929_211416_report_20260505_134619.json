@@ -1,0 +1,53 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:19.304375",
+    "file_path": "E:\\Bios Hp Compaq\\HP 13-4010LA\\W25Q64BV_20200929_211416.BIN",
+    "file_name": "W25Q64BV_20200929_211416.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x220028",
+            "0x260028",
+            "0x6f0028",
+            "0x700028",
+            "0x700bff",
+            "0x7027fb",
+            "0x70d79b",
+            "0x79060e",
+            "0x7ffa63"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2205f3",
+            "0x223bde",
+            "0x2249e7",
+            "0x225127",
+            "0x228985",
+            "0x6cb167",
+            "0x6cb187",
+            "0x6cb2e7",
+            "0x6cb307",
+            "0x6cb327",
+            "0x6cb347",
+            "0x6cb367",
+            "0x6cb407",
+            "0x6cb5c7",
+            "0x6cb787",
+            "0x6cb947",
+            "0x6cbb07",
+            "0x6cbcc7",
+            "0x6cbe27",
+            "0x7a1135",
+            "0x7b04cb",
+            "0x7b07cb"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

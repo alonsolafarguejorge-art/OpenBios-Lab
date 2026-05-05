@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:59.594004",
+    "file_path": "E:\\acer mini.BIN",
+    "file_name": "acer mini.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x20028",
+            "0xc0028",
+            "0xd0028",
+            "0xe0028",
+            "0xe5479",
+            "0xeceec"
+        ],
+        "Insyde BIOS": [
+            "0x1a0"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

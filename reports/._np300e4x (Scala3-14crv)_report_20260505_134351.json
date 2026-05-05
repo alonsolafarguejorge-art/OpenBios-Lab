@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:51.996175",
+    "file_path": "E:\\BIOS\\np300e4x (Scala3-14crv).BIN\\__MACOSX\\._np300e4x (Scala3-14crv).BIN",
+    "file_name": "._np300e4x (Scala3-14crv).BIN",
+    "file_size_bytes": 212,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:31.716585",
+    "file_path": "E:\\Bios Dell\\Dell e5540 PLYTA LA-A101P REV1.0\\E5540 VAW50 LA-A101P REV.1.0(A00)_Clear me.BIN",
+    "file_name": "E5540 VAW50 LA-A101P REV.1.0(A00)_Clear me.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x600028",
+            "0x620028",
+            "0x690028",
+            "0x6f0028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5010"
+        ],
+        "AMI BIOS": [
+            "0x604226",
+            "0x604c74",
+            "0x6241fe",
+            "0x624c4c",
+            "0x6a8035",
+            "0x6f06bf"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

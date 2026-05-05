@@ -1,0 +1,37 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:52.375875",
+    "file_path": "E:\\Bios Lenovo IBM\\THINKPAD L470\\THINKPAD L470D L470 NM-B021 VER2.0.BIN",
+    "file_name": "THINKPAD L470D L470 NM-B021 VER2.0.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x800028",
+            "0x8a0028",
+            "0x970028",
+            "0xda0028",
+            "0xde0028",
+            "0xdf0028",
+            "0xea0028",
+            "0xeac2e3",
+            "0xf803c6",
+            "0xf80448",
+            "0xf80510",
+            "0xf820a1",
+            "0xf82654",
+            "0xfa0e7f",
+            "0xfa0eac",
+            "0xfe0028",
+            "0xfe1ab9"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:53.385364",
+    "file_path": "E:\\Bios Hp Compaq\\HP 240  G4 SKITTL10-6050A2730601-MB-A01 SR29H\\BCK UP CLIENTE 2 HP G4 240 CORE I3.BIN",
+    "file_name": "BCK UP CLIENTE 2 HP G4 240 CORE I3.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x254028",
+            "0x288030",
+            "0x30d028",
+            "0x71f028",
+            "0x720028",
+            "0x7274a8",
+            "0x7ba0f7"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x71f09e",
+            "0x71f27e",
+            "0x7b8ece",
+            "0x7b90ae"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

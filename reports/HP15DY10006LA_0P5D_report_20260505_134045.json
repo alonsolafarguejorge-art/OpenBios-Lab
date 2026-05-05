@@ -1,0 +1,70 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:45.309199",
+    "file_path": "E:\\HP15DY10006LA_0P5D.bin",
+    "file_name": "HP15DY10006LA_0P5D.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x425028",
+            "0x465028",
+            "0x4a0028",
+            "0x4d0028",
+            "0x500028",
+            "0xaa0028",
+            "0xb40028",
+            "0xb40098",
+            "0xbd0028",
+            "0xbd6028",
+            "0xc36bad",
+            "0xc40028",
+            "0xc40824",
+            "0xc410e4",
+            "0xc42e9e",
+            "0xc58681",
+            "0xc6e177",
+            "0xc7bfd6",
+            "0xcfe1a7",
+            "0xcffe60",
+            "0xcffe88",
+            "0xd00028",
+            "0xda0028",
+            "0xe40028",
+            "0xe40098",
+            "0xed0028",
+            "0xed6028",
+            "0xf36bad",
+            "0xf40028",
+            "0xf40824",
+            "0xf410e4",
+            "0xf42e9e",
+            "0xf58681",
+            "0xf6e177",
+            "0xf7bfd6",
+            "0xffe1a7",
+            "0xfffe60",
+            "0xfffe88"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2000"
+        ],
+        "AMI BIOS": [
+            "0x4a18dc",
+            "0x4ae9a8",
+            "0x4d18dc",
+            "0x4de9a8",
+            "0xc81d7b",
+            "0xc8207b",
+            "0xc8c2bc",
+            "0xf81d7b",
+            "0xf8207b",
+            "0xf8c2bc"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

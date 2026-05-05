@@ -1,0 +1,21 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:13.740573",
+    "file_path": "E:\\ASUS X59GL NVIDIA 8200M G-207.rom",
+    "file_name": "ASUS X59GL NVIDIA 8200M G-207.rom",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xcffea",
+            "0xf0040",
+            "0xf004c",
+            "0xf03ee"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

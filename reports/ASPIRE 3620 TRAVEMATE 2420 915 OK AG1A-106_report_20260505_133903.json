@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:03.625403",
+    "file_path": "E:\\ASPIRE 3620 TRAVEMATE 2420 915 OK AG1A-106.ROM",
+    "file_name": "ASPIRE 3620 TRAVEMATE 2420 915 OK AG1A-106.ROM",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x75d3a",
+            "0x75d6f"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

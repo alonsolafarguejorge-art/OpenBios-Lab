@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:12.764946",
+    "file_path": "E:\\F-700 (MCP 67MV-A2).BIN",
+    "file_name": "F-700 (MCP 67MV-A2).BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xf5363",
+            "0xf5398",
+            "0xf8030"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

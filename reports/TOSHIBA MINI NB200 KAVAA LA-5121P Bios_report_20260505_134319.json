@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:19.493011",
+    "file_path": "E:\\BIOS\\BIOS RECIENTES\\BIOS TOSHIBA MINI NB200 KAVAA LA-5121P Bios\\TOSHIBA MINI NB200 KAVAA LA-5121P Bios.BIN",
+    "file_name": "TOSHIBA MINI NB200 KAVAA LA-5121P Bios.BIN",
+    "file_size_bytes": 1052710,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xebdba"
+        ],
+        "Phoenix BIOS": [
+            "0xec1df",
+            "0xec213"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

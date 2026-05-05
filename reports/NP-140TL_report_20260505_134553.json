@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:53.387540",
+    "file_path": "E:\\Bios Dell\\DELL NP-140TL BIOS\\NP-140TL.BIN",
+    "file_name": "NP-140TL.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x331028",
+            "0x335dcd",
+            "0x631028",
+            "0xc75028",
+            "0xc8b028",
+            "0xccd030",
+            "0xd00028",
+            "0xd04e4d"
+        ],
+        "AMI BIOS": [
+            "0x284299"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

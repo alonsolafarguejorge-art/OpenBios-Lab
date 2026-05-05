@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:37.056427",
+    "file_path": "E:\\D945GCPE tested ok.BIN",
+    "file_name": "D945GCPE tested ok.BIN",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x8028",
+            "0xc028",
+            "0x70028",
+            "0x76c74",
+            "0x76ca5",
+            "0x7c9d1",
+            "0x7cae9"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file"
+    ]
+}

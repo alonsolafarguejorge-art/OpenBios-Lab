@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:18.862493",
+    "file_path": "E:\\GA-B75M-D3H.bin",
+    "file_name": "GA-B75M-D3H.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x500028",
+            "0x540028",
+            "0x740028",
+            "0x78f630",
+            "0x78fd37",
+            "0x78fe80",
+            "0x7939a2",
+            "0x7b6196",
+            "0x7ff4b0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x278498",
+            "0x50053f"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

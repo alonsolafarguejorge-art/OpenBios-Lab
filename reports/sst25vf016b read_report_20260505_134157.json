@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:57.693034",
+    "file_path": "E:\\sst25vf016b read.bin",
+    "file_name": "sst25vf016b read.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x10028",
+            "0x21028",
+            "0x190028",
+            "0x1cabfe",
+            "0x1d12e0"
+        ],
+        "AMI BIOS": [
+            "0x184366"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

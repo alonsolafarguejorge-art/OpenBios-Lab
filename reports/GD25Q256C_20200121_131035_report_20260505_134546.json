@@ -1,0 +1,51 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:46.867659",
+    "file_path": "E:\\Bios Dell\\DELL latitude 5400 chino pwd\\GD25Q256C_20200121_131035.BIN",
+    "file_name": "GD25Q256C_20200121_131035.BIN",
+    "file_size_bytes": 33554432,
+    "file_size_mb": 32.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1000028",
+            "0x1060028",
+            "0x10c0028",
+            "0x10d1028",
+            "0x1111028",
+            "0x1121028",
+            "0x1171028",
+            "0x17c1028",
+            "0x1d20028",
+            "0x1e20028",
+            "0x1f10028",
+            "0x1f17944",
+            "0x1f28424",
+            "0x1f54fd0",
+            "0x1f61a32",
+            "0x1f77987",
+            "0x1fdcc6e",
+            "0x1ffed06"
+        ],
+        "Intel Flash Descriptor": [
+            "0x104000"
+        ],
+        "AMI BIOS": [
+            "0x8288c9",
+            "0x829973",
+            "0x829993",
+            "0x829ac3",
+            "0x829ae3",
+            "0x829b0d",
+            "0x10018f3",
+            "0x1005b25",
+            "0x10618f3",
+            "0x1065b25",
+            "0x1fe089b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

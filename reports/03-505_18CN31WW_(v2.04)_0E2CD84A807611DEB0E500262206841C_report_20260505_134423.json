@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:23.757128",
+    "file_path": "E:\\Bios Lenovo IBM\\lenovo 3000 g550 KIWA7 KIWA8 la-5082p\\03-505_18CN31WW_(v2.04)_0E2CD84A807611DEB0E500262206841C.bin",
+    "file_name": "03-505_18CN31WW_(v2.04)_0E2CD84A807611DEB0E500262206841C.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

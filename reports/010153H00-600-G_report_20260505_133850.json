@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:50.886219",
+    "file_path": "E:\\010153H00-600-G.bin",
+    "file_name": "010153H00-600-G.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x23028",
+            "0x1b0028",
+            "0x1c0028",
+            "0x1c9153",
+            "0x1cd838"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

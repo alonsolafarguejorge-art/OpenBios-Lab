@@ -1,0 +1,56 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:45.379359",
+    "file_path": "E:\\Bios Hp Compaq\\HP TPN-Q194 DAG3AAMBAF0\\W25Q64.BIN",
+    "file_name": "W25Q64.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x23a028",
+            "0x25a028",
+            "0x27a028",
+            "0x640028",
+            "0x680028",
+            "0x68e942",
+            "0x710028",
+            "0x710cd8",
+            "0x71271d",
+            "0x735625",
+            "0x79f35f",
+            "0x7ff385"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x238127",
+            "0x240e85",
+            "0x244434",
+            "0x2459bc",
+            "0x246d64",
+            "0x2482c0",
+            "0x249668",
+            "0x24ac0c",
+            "0x24bfb4",
+            "0x24d46b",
+            "0x24e813",
+            "0x250e0a",
+            "0x2521b2",
+            "0x2547a9",
+            "0x255b51",
+            "0x258148",
+            "0x2594f0",
+            "0x25fd49",
+            "0x26329c",
+            "0x7b7003",
+            "0x7b7303",
+            "0x7b8871"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

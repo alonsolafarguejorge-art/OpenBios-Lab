@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:05.208677",
+    "file_path": "E:\\ASROCK_H81M-S1 PLUS REV 1.00.BIN",
+    "file_name": "ASROCK_H81M-S1 PLUS REV 1.00.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1c1028",
+            "0x35f028",
+            "0x360028",
+            "0x39c2ac",
+            "0x39c3f9",
+            "0x3a05db",
+            "0x3c0476",
+            "0x3fd810",
+            "0x3fe028",
+            "0x3ffee0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x1804fc",
+            "0x3f05a4",
+            "0x3f2b04"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

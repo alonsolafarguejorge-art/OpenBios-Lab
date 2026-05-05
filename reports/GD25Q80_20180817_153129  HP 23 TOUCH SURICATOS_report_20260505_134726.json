@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:26.354069",
+    "file_path": "E:\\Bios Hp Compaq\\HP Pavilion All-in-One - 23-q110 - Dan61bmb6e0\\GD25Q80_20180817_153129  HP 23 TOUCH SURICATOS.BIN",
+    "file_name": "GD25Q80_20180817_153129  HP 23 TOUCH SURICATOS.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

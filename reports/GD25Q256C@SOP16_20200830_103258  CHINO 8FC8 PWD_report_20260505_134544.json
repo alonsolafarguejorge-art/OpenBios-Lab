@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:44.649850",
+    "file_path": "E:\\Bios Dell\\DELL latitude 5400 chino pwd\\GD25Q256C@SOP16_20200830_103258  CHINO 8FC8 PWD.BIN",
+    "file_name": "GD25Q256C@SOP16_20200830_103258  CHINO 8FC8 PWD.BIN",
+    "file_size_bytes": 33554432,
+    "file_size_mb": 32.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x104000"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

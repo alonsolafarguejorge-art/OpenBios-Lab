@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:00.799360",
+    "file_path": "E:\\Bios Toshiba\\TOSHIBA C845D-SP4186RM PART NO. PSCB6M DABY7DMB8C0 REV C\\W25Q32V@SOIC8_20200616_95213  MARIO PELI ROJO.BIN",
+    "file_name": "W25Q32V@SOIC8_20200616_95213  MARIO PELI ROJO.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x34f028",
+            "0x37d030",
+            "0x383028",
+            "0x3bfe67",
+            "0x3c0223",
+            "0x3c258b",
+            "0x3c2ab1"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

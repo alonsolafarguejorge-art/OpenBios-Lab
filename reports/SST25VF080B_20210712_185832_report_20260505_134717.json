@@ -1,0 +1,21 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:17.384509",
+    "file_path": "E:\\Bios Hp Compaq\\HP MINI 110\\SST25VF080B_20210712_185832.BIN",
+    "file_name": "SST25VF080B_20210712_185832.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xdffea",
+            "0xf0040",
+            "0xf004c",
+            "0xf0378"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

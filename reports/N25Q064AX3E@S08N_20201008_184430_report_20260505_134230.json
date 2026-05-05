@@ -1,0 +1,40 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:30.325976",
+    "file_path": "E:\\Bios Acer\\ACER AIO Z3-615 Madrid23 MB 13094-1\\N25Q064AX3E@S08N_20201008_184430.BIN",
+    "file_name": "N25Q064AX3E@S08N_20201008_184430.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x420028",
+            "0x450028",
+            "0x60e0e8",
+            "0x720028",
+            "0x740028",
+            "0x775d13",
+            "0x775e60",
+            "0x779ffa",
+            "0x799356",
+            "0x7ff7f0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x4005c5",
+            "0x401e7d",
+            "0x4205c5",
+            "0x421e7d",
+            "0x638a2e",
+            "0x7cf4d4",
+            "0x7d23f4"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

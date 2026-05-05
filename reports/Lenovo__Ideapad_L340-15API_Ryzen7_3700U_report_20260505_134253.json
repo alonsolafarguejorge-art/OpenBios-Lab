@@ -1,0 +1,61 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:53.251607",
+    "file_path": "E:\\Bin\\Lenovo__Ideapad_L340-15API_Ryzen7_3700U.bin",
+    "file_name": "Lenovo__Ideapad_L340-15API_Ryzen7_3700U.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x3a0028",
+            "0x3f0028",
+            "0x420028",
+            "0x430028",
+            "0x730028",
+            "0x7324ab",
+            "0x739dc3",
+            "0x7ace96",
+            "0x7acf18",
+            "0x7acfe0",
+            "0x7b0c27",
+            "0x7b1266",
+            "0x7ba7ff",
+            "0x7ba82c",
+            "0x7ba854"
+        ],
+        "Phoenix BIOS": [
+            "0x7ac734",
+            "0x7acdb4",
+            "0x7ae334",
+            "0x7ae8a4",
+            "0x7b0764",
+            "0x7b36e8",
+            "0x7b447c",
+            "0x7b5784",
+            "0x7b6094",
+            "0x7b6ec8",
+            "0x7b7aa4",
+            "0x7b8844",
+            "0x7ba764",
+            "0x7bb2d4",
+            "0x7bd11c",
+            "0x7bdc44",
+            "0x7bec08",
+            "0x7bf684",
+            "0x7bfd14",
+            "0x7c0584",
+            "0x7c0c04",
+            "0x7c10b4",
+            "0x7c14b4",
+            "0x7c1af8",
+            "0x7c2ac8",
+            "0x7c3014",
+            "0x7fd270"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

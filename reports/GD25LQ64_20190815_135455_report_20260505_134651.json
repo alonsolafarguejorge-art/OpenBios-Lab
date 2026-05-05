@@ -1,0 +1,43 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:51.126898",
+    "file_path": "E:\\Bios Hp Compaq\\HP 20 DAN97CMB6D0 REV D\\GD25LQ64_20190815_135455.BIN",
+    "file_name": "GD25LQ64_20190815_135455.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x37028",
+            "0x57028",
+            "0x187028",
+            "0x600028",
+            "0x60036e",
+            "0x600baf",
+            "0x60269f",
+            "0x6bc084",
+            "0x6ffc9a",
+            "0x700028",
+            "0x70036e",
+            "0x700baf",
+            "0x70269f",
+            "0x7bc084",
+            "0x7ffc9a"
+        ],
+        "AMI BIOS": [
+            "0x37267",
+            "0x38920",
+            "0x57267",
+            "0x58920",
+            "0x43a91b",
+            "0x6c1a03",
+            "0x6c1d03",
+            "0x7c1a03",
+            "0x7c1d03"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

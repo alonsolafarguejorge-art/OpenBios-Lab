@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:52.027977",
+    "file_path": "E:\\A520-DA0QU5MB8C0-N13M-GE2-AIO-A1-U22 Lenovo.BIN",
+    "file_name": "A520-DA0QU5MB8C0-N13M-GE2-AIO-A1-U22 Lenovo.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

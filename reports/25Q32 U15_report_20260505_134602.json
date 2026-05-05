@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:02.026960",
+    "file_path": "E:\\Bios Dell\\INSPIRON 2020\\25Q32 U15.BIN",
+    "file_name": "25Q32 U15.BIN",
+    "file_size_bytes": 4194320,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x310028",
+            "0x330028",
+            "0x350028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x310475",
+            "0x310b4f",
+            "0x330475",
+            "0x330b4f"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

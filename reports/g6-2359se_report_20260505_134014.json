@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:14.451893",
+    "file_path": "E:\\g6-2359se.bin",
+    "file_name": "g6-2359se.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x31028",
+            "0x5f030",
+            "0x61028",
+            "0x380028",
+            "0x381028",
+            "0x3bdf03",
+            "0x3be51a",
+            "0x3c2b13"
+        ],
+        "AMI BIOS": [
+            "0x38009e",
+            "0x38027e",
+            "0x3da18e",
+            "0x3da36e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

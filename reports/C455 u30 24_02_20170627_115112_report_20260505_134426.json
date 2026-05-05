@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:26.636982",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo C355 BIOS CFT3S VER1.0\\C455 u30 24_02_20170627_115112.BIN\\C455 u30 24_02_20170627_115112.BIN",
+    "file_name": "C455 u30 24_02_20170627_115112.BIN",
+    "file_size_bytes": 256,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

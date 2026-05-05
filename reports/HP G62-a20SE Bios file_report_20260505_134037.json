@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:37.473711",
+    "file_path": "E:\\HP G62-a20SE Bios file.bin",
+    "file_name": "HP G62-a20SE Bios file.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x202028",
+            "0x351028",
+            "0x361028",
+            "0x36fa8f",
+            "0x3a29bb"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

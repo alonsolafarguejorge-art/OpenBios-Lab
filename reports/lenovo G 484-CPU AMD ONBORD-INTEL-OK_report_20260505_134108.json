@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:08.727411",
+    "file_path": "E:\\lenovo G 484-CPU AMD ONBORD-INTEL-OK.bin",
+    "file_name": "lenovo G 484-CPU AMD ONBORD-INTEL-OK.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x41028",
+            "0x351028",
+            "0x37f030",
+            "0x383028",
+            "0x3bf0bb",
+            "0x3bf477",
+            "0x3c2283",
+            "0x3c279a"
+        ],
+        "Insyde BIOS": [
+            "0x114"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

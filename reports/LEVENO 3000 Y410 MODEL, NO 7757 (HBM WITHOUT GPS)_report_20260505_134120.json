@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:20.577775",
+    "file_path": "E:\\LEVENO 3000 Y410 MODEL, NO 7757 (HBM WITHOUT GPS).BIN",
+    "file_name": "LEVENO 3000 Y410 MODEL, NO 7757 (HBM WITHOUT GPS).BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xec62a",
+            "0xec65e"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:59.528200",
+    "file_path": "E:\\Bios Sony\\SVE14118FXW SVE141D11L - QUANTA HK6\\SONY SVE14118FXW SVE141D11L - #1 - QUANTA HK6 - FW CKSUM 683778B9 - W25Q64FVS.bin",
+    "file_name": "SONY SVE14118FXW SVE141D11L - #1 - QUANTA HK6 - FW CKSUM 683778B9 - W25Q64FVS.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x520028",
+            "0x710028",
+            "0x740028",
+            "0x7563dd",
+            "0x7567bc",
+            "0x757f3b"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

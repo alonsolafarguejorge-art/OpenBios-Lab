@@ -1,0 +1,57 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:21.272377",
+    "file_path": "E:\\Bios Lenovo IBM\\ideapad 330s-15arr\\W25Q64FV(QPI)_20210324_151445  lenovo ideapad 330s-15arr.BIN",
+    "file_name": "W25Q64FV(QPI)_20210324_151445  lenovo ideapad 330s-15arr.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x340028",
+            "0x390028",
+            "0x3e0028",
+            "0x6e0028",
+            "0x6e1d32",
+            "0x6e92b3",
+            "0x754e86",
+            "0x754f08",
+            "0x754fd0",
+            "0x7583ed",
+            "0x758a0c",
+            "0x760bff",
+            "0x760c2c",
+            "0x760c54"
+        ],
+        "Phoenix BIOS": [
+            "0x75478a",
+            "0x754daa",
+            "0x75632a",
+            "0x757fa2",
+            "0x75ae5e",
+            "0x75bbe2",
+            "0x75cdda",
+            "0x75d65a",
+            "0x75e42a",
+            "0x75ec2a",
+            "0x760b5a",
+            "0x761846",
+            "0x76368e",
+            "0x7641ba",
+            "0x76518e",
+            "0x765bda",
+            "0x7663da",
+            "0x766afa",
+            "0x7671aa",
+            "0x7677aa",
+            "0x767baa",
+            "0x76814e",
+            "0x76900a",
+            "0x7fd6c6"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

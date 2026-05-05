@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:55.684379",
+    "file_path": "E:\\Bios Dell\\DELL PRECISION 3520\\dell Precision 3520\\LBE_OutPut\\__Breckenridge-H 1.19.4._.bin",
+    "file_name": "__Breckenridge-H 1.19.4._.bin",
+    "file_size_bytes": 9743549,
+    "file_size_mb": 9.29,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

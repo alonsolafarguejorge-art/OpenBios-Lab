@@ -1,0 +1,40 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:44.556815",
+    "file_path": "E:\\Bios Lenovo IBM\\LENOVO X1 CARBON LOVO\\X1 CARBON 14282-2M LRV1 MB 16M  210219.bin",
+    "file_name": "X1 CARBON 14282-2M LRV1 MB 16M  210219.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x800028",
+            "0x8a0028",
+            "0x990028",
+            "0xdd0028",
+            "0xe00028",
+            "0xe10028",
+            "0xec0028",
+            "0xf1c6ae",
+            "0xf9bb9f",
+            "0xf9bc28",
+            "0xf9bcee",
+            "0xf9ee2e",
+            "0xf9f346",
+            "0xfb98da",
+            "0xfb9907",
+            "0xfe0028",
+            "0xfe1c96"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x1eb9cc"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:15.558810",
+    "file_path": "E:\\Bios Hp Compaq\\Hp_Compaq_6300_Pro_SFF_Ok.bin",
+    "file_name": "Hp_Compaq_6300_Pro_SFF_Ok.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0xaf0028",
+            "0xeb0028",
+            "0xeb0373",
+            "0xef4f93",
+            "0xef50dc",
+            "0xf0615c",
+            "0xf50028",
+            "0xf50373",
+            "0xf94f93",
+            "0xf950dc",
+            "0xfa615c",
+            "0xff0028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0xa903df",
+            "0xf37894",
+            "0xf3b22c",
+            "0xfd7894",
+            "0xfdb22c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

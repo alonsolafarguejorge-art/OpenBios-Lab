@@ -1,0 +1,37 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:14.577119",
+    "file_path": "E:\\Bios Hp Compaq\\hp fpp55 LA-G07JP\\W25Q128FWXXXG@SOIC8_20220112_123729  barbas  video ok  BID085EA  .BIN",
+    "file_name": "W25Q128FWXXXG@SOIC8_20220112_123729  barbas  video ok  BID085EA  .BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0xaf028",
+            "0x101030",
+            "0x180028",
+            "0x580028",
+            "0xa80028",
+            "0xa82ad9",
+            "0xb66cf2",
+            "0xe70028",
+            "0xe72ad9",
+            "0xf56cf2",
+            "0xfff028"
+        ],
+        "AMI BIOS": [
+            "0xb2d7d6",
+            "0xb2d9b6",
+            "0xf1d7d6",
+            "0xf1d9b6"
+        ],
+        "Insyde BIOS": [
+            "0x6100a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

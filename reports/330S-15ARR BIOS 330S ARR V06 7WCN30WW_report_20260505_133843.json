@@ -1,0 +1,58 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:43.216980",
+    "file_path": "E:\\330S-15ARR BIOS 330S ARR V06 7WCN30WW.bin",
+    "file_name": "330S-15ARR BIOS 330S ARR V06 7WCN30WW.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x310028",
+            "0x360028",
+            "0x3b0028",
+            "0x400028",
+            "0x700028",
+            "0x701d42",
+            "0x7092c3",
+            "0x774f96",
+            "0x775018",
+            "0x7750e0",
+            "0x7784ed",
+            "0x778b0c",
+            "0x780cff",
+            "0x780d2c",
+            "0x780d54"
+        ],
+        "Phoenix BIOS": [
+            "0x774934",
+            "0x774eb4",
+            "0x776434",
+            "0x7780ac",
+            "0x77af68",
+            "0x77bcec",
+            "0x77cf04",
+            "0x77d764",
+            "0x77e534",
+            "0x77ed34",
+            "0x780c64",
+            "0x781950",
+            "0x783798",
+            "0x7842c4",
+            "0x785298",
+            "0x785ce4",
+            "0x7864e4",
+            "0x786c04",
+            "0x787284",
+            "0x787734",
+            "0x787b34",
+            "0x788158",
+            "0x789014",
+            "0x7fd6b0"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

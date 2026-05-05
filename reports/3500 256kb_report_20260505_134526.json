@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:26.187473",
+    "file_path": "E:\\Bios Dell\\Dell 3500 DIS-OK\\3500 256kb.bin",
+    "file_name": "3500 256kb.bin",
+    "file_size_bytes": 262144,
+    "file_size_mb": 0.25,
+    "bios_type": "Insyde BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Insyde BIOS": [
+            "0x4074"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

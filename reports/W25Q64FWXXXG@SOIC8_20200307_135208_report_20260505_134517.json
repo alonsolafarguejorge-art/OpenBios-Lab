@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:17.720559",
+    "file_path": "E:\\Bios Asus\\Asus-X555QG rev2.0\\W25Q64FWXXXG@SOIC8_20200307_135208.BIN",
+    "file_name": "W25Q64FWXXXG@SOIC8_20200307_135208.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x57028",
+            "0x297028",
+            "0x2a7028"
+        ],
+        "AMI BIOS": [
+            "0x57218"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

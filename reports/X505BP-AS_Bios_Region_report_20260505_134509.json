@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:09.600785",
+    "file_path": "E:\\Bios Asus\\ASUS VivoBook 15 X505BP BIOS\\X505BP-AS_Bios_Region.bin",
+    "file_name": "X505BP-AS_Bios_Region.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x57028",
+            "0x197028",
+            "0x5e0028",
+            "0x5e0b3f",
+            "0x5e260d",
+            "0x63a750"
+        ],
+        "AMI BIOS": [
+            "0x57213"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

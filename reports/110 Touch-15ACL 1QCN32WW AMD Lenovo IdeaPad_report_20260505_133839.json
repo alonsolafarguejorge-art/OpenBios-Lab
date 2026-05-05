@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:39.707276",
+    "file_path": "E:\\110 Touch-15ACL 1QCN32WW AMD Lenovo IdeaPad.Bin",
+    "file_name": "110 Touch-15ACL 1QCN32WW AMD Lenovo IdeaPad.Bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2ed028",
+            "0x5ed028",
+            "0x64d028",
+            "0x680028",
+            "0x6c0028",
+            "0x700028",
+            "0x704561",
+            "0x7609d4",
+            "0x780740",
+            "0x78076a"
+        ],
+        "Phoenix BIOS": [
+            "0x5f0365",
+            "0x5f0398",
+            "0x5f0408",
+            "0x5f043b",
+            "0x5f0600",
+            "0x5f0633"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

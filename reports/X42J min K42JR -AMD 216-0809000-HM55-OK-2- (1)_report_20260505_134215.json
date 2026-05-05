@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:15.231694",
+    "file_path": "E:\\X42J min K42JR -AMD 216-0809000-HM55-OK-2- (1).bin",
+    "file_name": "X42J min K42JR -AMD 216-0809000-HM55-OK-2- (1).bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x210028",
+            "0x220028",
+            "0x340028",
+            "0x3cde0a"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2102dc",
+            "0x2116c0"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

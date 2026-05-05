@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:28.777471",
+    "file_path": "E:\\Bios Lenovo IBM\\lenovo fp4crzst v1.0  6050A2741901 A01\\__MACOSX\\._8MB.bin",
+    "file_name": "._8MB.bin",
+    "file_size_bytes": 217,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

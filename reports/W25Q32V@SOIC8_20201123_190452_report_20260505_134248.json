@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:48.472277",
+    "file_path": "E:\\Bios Acer\\Gateway ZX4970 - IPISB-AG\\W25Q32V@SOIC8_20201123_190452.BIN",
+    "file_name": "W25Q32V@SOIC8_20201123_190452.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x200028",
+            "0x210028",
+            "0x220028",
+            "0x3a0028",
+            "0x3ba7f0",
+            "0x3bbc54",
+            "0x3c920f",
+            "0x3ff7f0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x2001bf",
+            "0x2007f9",
+            "0x20096e",
+            "0x2101bf",
+            "0x2107f9",
+            "0x21096e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

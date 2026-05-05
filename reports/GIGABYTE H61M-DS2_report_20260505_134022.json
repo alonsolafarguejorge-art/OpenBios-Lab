@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:22.309831",
+    "file_path": "E:\\GIGABYTE H61M-DS2.BIN",
+    "file_name": "GIGABYTE H61M-DS2.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1c0028",
+            "0x360028",
+            "0x393ca8",
+            "0x394489",
+            "0x3945d4",
+            "0x3989aa",
+            "0x3babae",
+            "0x3ff330"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x18057e",
+            "0x218a57"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

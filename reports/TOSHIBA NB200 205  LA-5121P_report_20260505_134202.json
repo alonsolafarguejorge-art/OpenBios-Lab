@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:02.314816",
+    "file_path": "E:\\TOSHIBA NB200 205  LA-5121P.BIN",
+    "file_name": "TOSHIBA NB200 205  LA-5121P.BIN",
+    "file_size_bytes": 1054150,
+    "file_size_mb": 1.01,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xebdba"
+        ],
+        "Phoenix BIOS": [
+            "0xec1df",
+            "0xec213"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:09.633740",
+    "file_path": "E:\\BIOS\\workin bios NSBW140X MB  V1.0  micromax\\W25Q64FV(QPI)_20211108_123506.BIN",
+    "file_name": "W25Q64FV(QPI)_20211108_123506.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x320028",
+            "0x350028",
+            "0x3a3028",
+            "0x575938",
+            "0x73b028",
+            "0x7e1028",
+            "0x7e31ab",
+            "0x7e5f78",
+            "0x7f2865"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x300399",
+            "0x303681",
+            "0x304779",
+            "0x320399",
+            "0x323681",
+            "0x324779",
+            "0x751348"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:24.731206",
+    "file_path": "E:\\BIOS\\c200 cipts v2.2\\Pm25LD020 U37.BIN",
+    "file_name": "Pm25LD020 U37.BIN",
+    "file_size_bytes": 262144,
+    "file_size_mb": 0.25,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

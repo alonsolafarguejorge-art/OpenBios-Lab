@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:25.297985",
+    "file_path": "E:\\B350AM4-M2_Ryzen3000_V1.0a.ROM",
+    "file_name": "B350AM4-M2_Ryzen3000_V1.0a.ROM",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x37028",
+            "0x89f028",
+            "0x8a00e8",
+            "0xd00028",
+            "0xd02028",
+            "0xd02e18",
+            "0xd04898",
+            "0xde83f2"
+        ],
+        "AMI BIOS": [
+            "0x3732c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

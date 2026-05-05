@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:39.851077",
+    "file_path": "E:\\PCG-71811W-VPCEH26EN.ROM",
+    "file_name": "PCG-71811W-VPCEH26EN.ROM",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x218028",
+            "0x351028",
+            "0x361028",
+            "0x37203f",
+            "0x37224e",
+            "0x38b9cb"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

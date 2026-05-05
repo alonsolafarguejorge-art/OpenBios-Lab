@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:25.417346",
+    "file_path": "E:\\BIOS\\C5030 13138-1 PIBoardweIIFC5030\\8U8.BIN",
+    "file_name": "8U8.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x200028",
+            "0x220028",
+            "0x250028",
+            "0x6f0028",
+            "0x700028",
+            "0x700adf",
+            "0x702647",
+            "0x70ce68",
+            "0x784c78",
+            "0x7ffa63"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x200ce8",
+            "0x220cc9",
+            "0x79330d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

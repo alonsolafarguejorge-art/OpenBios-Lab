@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:33.490804",
+    "file_path": "E:\\Bios Lenovo IBM\\LENOVO IDEAPAD 120S-14IAP\\GD25LQ64B@SOP8-200_20201207_183356.BIN",
+    "file_name": "GD25LQ64B@SOP8-200_20201207_183356.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x89468",
+            "0x8a468",
+            "0x8cb9d",
+            "0x95a4c",
+            "0x95d31",
+            "0x16d0e8",
+            "0x1a40e8",
+            "0x3810e8",
+            "0x3ca0e8",
+            "0x4580e8"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5d964",
+            "0x64ba7",
+            "0x64bcd",
+            "0x6c3d2",
+            "0x6ff000"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

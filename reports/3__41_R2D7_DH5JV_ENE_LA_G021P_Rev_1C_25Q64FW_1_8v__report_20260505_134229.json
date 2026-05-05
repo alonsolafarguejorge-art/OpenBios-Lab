@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:29.559928",
+    "file_path": "E:\\Bios Acer\\ACER A315-41 LA-G021P\\Acer_Aspire A315 DH5JV_ENE_LA_G021P_Rev_1C\\3__41_R2D7_DH5JV_ENE_LA_G021P_Rev_1C_25Q64FW_1_8v_.bin",
+    "file_name": "3__41_R2D7_DH5JV_ENE_LA_G021P_Rev_1C_25Q64FW_1_8v_.bin",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

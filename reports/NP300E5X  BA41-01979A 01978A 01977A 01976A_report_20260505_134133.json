@@ -1,0 +1,42 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:33.605156",
+    "file_path": "E:\\NP300E5X  BA41-01979A 01978A 01977A 01976A.BIN",
+    "file_name": "NP300E5X  BA41-01979A 01978A 01977A 01976A.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x510028",
+            "0x6f0028",
+            "0x730028",
+            "0x760028",
+            "0x767818",
+            "0x77b73c",
+            "0x77b766",
+            "0x7c952f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Phoenix BIOS": [
+            "0x70318c",
+            "0x7031bf",
+            "0x70322f",
+            "0x703262",
+            "0x703427",
+            "0x70345a",
+            "0x7327f1",
+            "0x732824",
+            "0x732894",
+            "0x7328c7",
+            "0x732a8c",
+            "0x732abf"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:53.768841",
+    "file_path": "E:\\Bios Dell\\Dell OptiPlex 3020M PIH81R  Dogfish_Entry 13124-1\\MX25L6473_20191221_162239    luis garcia.BIN",
+    "file_name": "MX25L6473_20191221_162239    luis garcia.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x80",
+            "0x20080",
+            "0x40080",
+            "0x50080",
+            "0x90080",
+            "0xf0080",
+            "0x500080",
+            "0x52f255",
+            "0x52f39e",
+            "0x532c86",
+            "0x5559ae",
+            "0x5ff7c8"
+        ],
+        "AMI BIOS": [
+            "0x52a7cc",
+            "0x52cda4",
+            "0x52e538",
+            "0x57dccc"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

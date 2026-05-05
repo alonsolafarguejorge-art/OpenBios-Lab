@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:33.396078",
+    "file_path": "E:\\Bios Hp Compaq\\HP 15-BF002AX BDL51 LA-D713P\\HP C126 BDL51 LA-D713P REV 2.0 AMD.BIN",
+    "file_name": "HP C126 BDL51 LA-D713P REV 2.0 AMD.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x7b028",
+            "0xa9030",
+            "0xfe028",
+            "0x6df028",
+            "0x6e1b14",
+            "0x6f79f6"
+        ],
+        "AMI BIOS": [
+            "0x791146",
+            "0x791326"
+        ],
+        "Insyde BIOS": [
+            "0x5100a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

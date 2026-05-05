@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:39.980737",
+    "file_path": "E:\\Bios Hp Compaq\\HP ProBook 455 G5 AMD DAX9AAMB6E0\\probook 455 g5-DAX9AAMB6E0 .bin",
+    "file_name": "probook 455 g5-DAX9AAMB6E0 .bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x21028",
+            "0x30028",
+            "0x70028",
+            "0x6c2028",
+            "0x6d4028",
+            "0xba9028",
+            "0xbf756e",
+            "0xbff0a0",
+            "0xc062e2",
+            "0xdfe028",
+            "0xe4c56e",
+            "0xe540a0",
+            "0xe5b2e2",
+            "0xffe028"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

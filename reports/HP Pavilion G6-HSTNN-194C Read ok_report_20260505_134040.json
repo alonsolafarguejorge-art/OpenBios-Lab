@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:40.133295",
+    "file_path": "E:\\HP Pavilion G6-HSTNN-194C Read ok.bin",
+    "file_name": "HP Pavilion G6-HSTNN-194C Read ok.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x12028",
+            "0x40028",
+            "0x180028",
+            "0x1ba8a9",
+            "0x1bacc3",
+            "0x1bf7af"
+        ],
+        "AMI BIOS": [
+            "0x1d384e",
+            "0x1d3a2e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

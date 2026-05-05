@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:23.758198",
+    "file_path": "E:\\Bios Hp Compaq\\Hp 14-b109wm\\018F9F1D1.bin",
+    "file_name": "018F9F1D1.bin",
+    "file_size_bytes": 5736448,
+    "file_size_mb": 5.47,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

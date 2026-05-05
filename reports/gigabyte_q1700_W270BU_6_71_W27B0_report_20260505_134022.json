@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:22.594929",
+    "file_path": "E:\\gigabyte_q1700_W270BU_6_71_W27B0.BIN",
+    "file_name": "gigabyte_q1700_W270BU_6_71_W27B0.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x10028",
+            "0x20028",
+            "0x30028",
+            "0x1b0028",
+            "0x1b0adb",
+            "0x1b1dfc"
+        ],
+        "AMI BIOS": [
+            "0x10285",
+            "0x10414",
+            "0x20285",
+            "0x20414",
+            "0x140355",
+            "0x140577"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

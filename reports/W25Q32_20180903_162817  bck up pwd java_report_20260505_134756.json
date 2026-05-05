@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:56.579689",
+    "file_path": "E:\\Bios Samsung\\Samsung QMLE4 LA-8863P LA-8864P Samsung NP355V5C\\W25Q32_20180903_162817  bck up pwd java.BIN",
+    "file_name": "W25Q32_20180903_162817  bck up pwd java.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x50028",
+            "0x80028",
+            "0x380028",
+            "0x38163c",
+            "0x381cad",
+            "0x381e15",
+            "0x38417b"
+        ],
+        "AMI BIOS": [
+            "0x301e5",
+            "0x308a9",
+            "0x501e5",
+            "0x508a9",
+            "0x3cd29c",
+            "0x3d055c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

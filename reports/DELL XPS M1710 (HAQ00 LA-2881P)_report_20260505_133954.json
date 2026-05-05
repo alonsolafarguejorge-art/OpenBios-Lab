@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:54.056055",
+    "file_path": "E:\\DELL XPS M1710 (HAQ00 LA-2881P).BIN",
+    "file_name": "DELL XPS M1710 (HAQ00 LA-2881P).BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x2001c",
+            "0x24e06",
+            "0x277f0"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:19.447774",
+    "file_path": "E:\\Bios Asus\\Vivo AiO V220IC\\W25Q128BV@WSON8_20201005_152025.BIN",
+    "file_name": "W25Q128BV@WSON8_20201005_152025.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x280028",
+            "0x2d0028",
+            "0x310028",
+            "0x3108e8",
+            "0xba0028",
+            "0xc00028",
+            "0xd00028",
+            "0xe00028",
+            "0xe03cc3",
+            "0xe0a5ad",
+            "0xe0c8c7",
+            "0xe9323b",
+            "0xe9b091",
+            "0xea6b9a",
+            "0xeb91be",
+            "0xebd884",
+            "0xeffd7d",
+            "0xf00028",
+            "0xf03cc3",
+            "0xf0a5ad",
+            "0xf0c8c7",
+            "0xf9323b",
+            "0xf9b091",
+            "0xfa6b9a",
+            "0xfb91be",
+            "0xfbd884",
+            "0xfffd7d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x280e92",
+            "0x5b91f1",
+            "0xe1ebc9",
+            "0xea35c1",
+            "0xed5960",
+            "0xeea41a",
+            "0xf1ebc9",
+            "0xfa35c1",
+            "0xfd5960",
+            "0xfea41a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

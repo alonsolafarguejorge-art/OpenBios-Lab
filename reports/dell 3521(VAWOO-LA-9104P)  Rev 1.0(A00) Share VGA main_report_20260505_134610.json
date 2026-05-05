@@ -1,0 +1,21 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:10.030665",
+    "file_path": "E:\\Bios Dell\\Dell_Inspiron_3521_VAW00_LA_9104P_Rev_1_0A00_UMA_Bios_&_EC_&_KBC_Probado\\Dell Inspiron 3521 VAWOO LA-9104P Rev 1.0(A00) UMA Bios & EC & KBC\\Dell Inspiron 3521 VAWOO LA-9104P Rev 1.0(A00) Bios + EC + KBC\\dell 3521(VAWOO-LA-9104P)  Rev 1.0(A00) Share VGA main.bin",
+    "file_name": "dell 3521(VAWOO-LA-9104P)  Rev 1.0(A00) Share VGA main.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1a2028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

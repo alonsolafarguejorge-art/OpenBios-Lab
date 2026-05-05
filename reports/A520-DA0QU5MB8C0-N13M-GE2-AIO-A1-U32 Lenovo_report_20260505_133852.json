@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:52.159712",
+    "file_path": "E:\\A520-DA0QU5MB8C0-N13M-GE2-AIO-A1-U32 Lenovo.BIN",
+    "file_name": "A520-DA0QU5MB8C0-N13M-GE2-AIO-A1-U32 Lenovo.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x420028",
+            "0x450028",
+            "0x760028",
+            "0x78d840",
+            "0x78d989",
+            "0x790554",
+            "0x79d04a",
+            "0x7ff770"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x4004ea",
+            "0x4204ea"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

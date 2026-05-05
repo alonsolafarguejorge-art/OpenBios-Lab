@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:26.305384",
+    "file_path": "E:\\Bios Hp Compaq\\HP Pavilion 20-b323w All-in-One BIOS AABRZ-AB REV 1.02\\W25Q32_20190801_113845 AABRZ-AB rev 1.02 BARUSH BCK UP  OK .BIN",
+    "file_name": "W25Q32_20190801_113845 AABRZ-AB rev 1.02 BARUSH BCK UP  OK .BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x40028",
+            "0x60028",
+            "0x80028",
+            "0x380028",
+            "0x38158d",
+            "0x3816da",
+            "0x385165"
+        ],
+        "AMI BIOS": [
+            "0x40208",
+            "0x60208"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

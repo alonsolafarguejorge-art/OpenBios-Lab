@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:07.855298",
+    "file_path": "E:\\Bios Hp Compaq\\HP EliteBook 840 G5 Notebook PC\\Q78_011600.bin",
+    "file_name": "Q78_011600.bin",
+    "file_size_bytes": 24258144,
+    "file_size_mb": 23.13,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x624248",
+            "0x636248",
+            "0xaf6248",
+            "0xb47248",
+            "0xc42248",
+            "0xc865c3",
+            "0xc8c360",
+            "0xd5bc83",
+            "0xda3248",
+            "0xe9e248",
+            "0xee25c3",
+            "0xee8360",
+            "0xfb7c83",
+            "0xffe248"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1000250"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

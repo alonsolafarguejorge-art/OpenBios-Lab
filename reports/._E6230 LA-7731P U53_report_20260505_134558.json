@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:58.280399",
+    "file_path": "E:\\Bios Dell\\dell-latitude-e6230-la-7731p\\__MACOSX\\._E6230 LA-7731P U53.bin",
+    "file_name": "._E6230 LA-7731P U53.bin",
+    "file_size_bytes": 212,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

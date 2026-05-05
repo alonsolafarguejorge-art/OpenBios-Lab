@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:55.784460",
+    "file_path": "E:\\Bios Samsung\\Samsung NP900X4D  BA41-02037A 02038A  MODEL AMOR2-14 REV 1.1\\Samsung NP900X4D.bin",
+    "file_name": "Samsung NP900X4D.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x518028",
+            "0x700028",
+            "0x730028",
+            "0x760028",
+            "0x767740",
+            "0x76cb17",
+            "0x76cb41",
+            "0x77d1bc",
+            "0x77d1e6",
+            "0x7caba7"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

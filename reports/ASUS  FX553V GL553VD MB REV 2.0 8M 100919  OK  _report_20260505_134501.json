@@ -1,0 +1,44 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:01.579530",
+    "file_path": "E:\\Bios Asus\\ASUS  FX553V GL553VD MB REV 2.0 8M 100919  OK  .bin",
+    "file_name": "ASUS  FX553V GL553VD MB REV 2.0 8M 100919  OK  .bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x220028",
+            "0x240028",
+            "0x270028",
+            "0x280028",
+            "0x640028",
+            "0x6b0028",
+            "0x6bd657",
+            "0x740028",
+            "0x740d84",
+            "0x742a0f",
+            "0x751cd6",
+            "0x757685",
+            "0x7c509c",
+            "0x7d30fe",
+            "0x7ffd7d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x221101",
+            "0x226cfb",
+            "0x241101",
+            "0x246c8d",
+            "0x7d22e0",
+            "0x7d22f0",
+            "0x7d6281"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:19.782074",
+    "file_path": "E:\\LENOVO-b5070amdi3(V2.07).rom",
+    "file_name": "LENOVO-b5070amdi3(V2.07).rom",
+    "file_size_bytes": 6291456,
+    "file_size_mb": 6.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x212028",
+            "0x4ce028",
+            "0x4fc030",
+            "0x500028",
+            "0x532cfd",
+            "0x5330a8",
+            "0x534437"
+        ],
+        "Insyde BIOS": [
+            "0x16a",
+            "0x216a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

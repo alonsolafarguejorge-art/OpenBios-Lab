@@ -1,0 +1,52 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:27.762280",
+    "file_path": "E:\\Bios Dell\\Dell Alienware 17 R3 AAP21 LA-C912P Rev2.0 (A01)\\Alienware 15 R2_LA-C912P_Clear me.bin",
+    "file_name": "Alienware 15 R2_LA-C912P_Clear me.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x822028",
+            "0x872028",
+            "0xb1da98",
+            "0xda0028",
+            "0xe20028",
+            "0xe20b8d",
+            "0xe22e87",
+            "0xe77c0b",
+            "0xefc89b",
+            "0xf0ded2",
+            "0xf2573c",
+            "0xfffd7d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x8230c6",
+            "0xa55974",
+            "0xa55988",
+            "0xa559c6",
+            "0xa559d9",
+            "0xa59559",
+            "0xa5956e",
+            "0xa5964d",
+            "0xa59661",
+            "0xa5d0d7",
+            "0xa5d0ec",
+            "0xa5d1cb",
+            "0xa5d1df",
+            "0xa5ec3c",
+            "0xa5ec4f",
+            "0xf0b8fd",
+            "0xf268b9",
+            "0xf62656"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

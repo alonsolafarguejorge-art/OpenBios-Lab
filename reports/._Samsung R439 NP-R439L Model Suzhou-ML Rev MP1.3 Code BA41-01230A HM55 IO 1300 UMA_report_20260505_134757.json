@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:57.001965",
+    "file_path": "E:\\Bios Samsung\\Samsung Samsung R439 NP-R439L Suzhou-ML BA41-01230A Rev MP1.3\\__MACOSX\\._Samsung R439 NP-R439L Model Suzhou-ML Rev MP1.3 Code BA41-01230A HM55 IO 1300 UMA.bin",
+    "file_name": "._Samsung R439 NP-R439L Model Suzhou-ML Rev MP1.3 Code BA41-01230A HM55 IO 1300 UMA.bin",
+    "file_size_bytes": 164,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

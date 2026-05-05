@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:08.701942",
+    "file_path": "E:\\Bios Toshiba\\Toshiba ZRMAA ZEMAA LA-A481P LS-A481 LS-A482 TOSHIBA SATELLITE E55\\m40t-a - LA-A481P\\bios OK .rom",
+    "file_name": "bios OK .rom",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x420028",
+            "0x470028",
+            "0x720028",
+            "0x740028",
+            "0x795edd",
+            "0x79602a",
+            "0x798bb0",
+            "0x7b7476",
+            "0x7ff7b0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x4204ff",
+            "0x69ec21",
+            "0x69f03a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

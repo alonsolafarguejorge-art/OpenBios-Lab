@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:14.977456",
+    "file_path": "E:\\Bios Hp Compaq\\HP G4 G6 DA0R24MB6F0   R24 UMA-DIS\\G4  R24  25q16bvs   FCH AMD.bin",
+    "file_name": "G4  R24  25q16bvs   FCH AMD.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x23028",
+            "0x31028",
+            "0x180028",
+            "0x1b5d61",
+            "0x1b63ae",
+            "0x1bb48f"
+        ],
+        "AMI BIOS": [
+            "0x1ce34e",
+            "0x1ce52e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:53.467079",
+    "file_path": "E:\\Bios Samsung\\Samsung NP-RF510 VEYRON-EXT BA41-01374A\\samsung rf710 _ba41-01374a_25q32bv.rom",
+    "file_name": "samsung rf710 _ba41-01374a_25q32bv.rom",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Phoenix BIOS": [
+            "0x180938",
+            "0x199468"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

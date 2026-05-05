@@ -1,0 +1,56 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:20.225101",
+    "file_path": "E:\\Bios Hp Compaq\\HP 14 DA0P9CMB6C0 REV C\\HP 14 DA0P9CMB6C0 REV C\\HP 14 DA0P9CMB6C0 REV C  OK  .bin",
+    "file_name": "HP 14 DA0P9CMB6C0 REV C  OK  .bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x93028",
+            "0x95028",
+            "0x95cb0",
+            "0x96028",
+            "0x97805",
+            "0xa1765",
+            "0xa2f83",
+            "0xa82fa",
+            "0xa8560",
+            "0xb05f8",
+            "0xd7028",
+            "0xd91be",
+            "0xde016",
+            "0x13d028",
+            "0x161ed3",
+            "0x1c9028",
+            "0x1f5028",
+            "0x40f028",
+            "0x433ed3",
+            "0x49b028",
+            "0x6e3028",
+            "0x765030"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5a2f3",
+            "0x61512",
+            "0x61538",
+            "0x68d6f"
+        ],
+        "AMI BIOS": [
+            "0x10e6b3",
+            "0x118a30",
+            "0x119888",
+            "0x1198d8",
+            "0x185527",
+            "0x18570f",
+            "0x2ba4f9",
+            "0x457527",
+            "0x45770f"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

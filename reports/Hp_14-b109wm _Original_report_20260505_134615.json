@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:15.223322",
+    "file_path": "E:\\Bios Hp Compaq\\Hp_14-b109wm _Original.bin",
+    "file_name": "Hp_14-b109wm _Original.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1ae030",
+            "0x1d0028",
+            "0x380028",
+            "0x381028",
+            "0x39e97b",
+            "0x39efae",
+            "0x3a2f73"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x38009e",
+            "0x38027e",
+            "0x3ef896",
+            "0x3efa76"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

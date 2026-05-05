@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:46.187686",
+    "file_path": "E:\\dell inspiron 1545 2mb wd ibm.BIN",
+    "file_name": "dell inspiron 1545 2mb wd ibm.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x5001c",
+            "0x54e6a",
+            "0x57a72",
+            "0xfa743",
+            "0x12914d",
+            "0x1291d8",
+            "0x13631b",
+            "0x1363a8"
+        ],
+        "Insyde BIOS": [
+            "0x4074"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

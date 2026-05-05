@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:57.962196",
+    "file_path": "E:\\Bios Dell\\dell-latitude-e6230-la-7731p\\DELL E6230 la-7731p rev 1.0\\U52 8M.BIN",
+    "file_name": "U52 8M.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x600028",
+            "0x620028",
+            "0x650028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5010"
+        ],
+        "AMI BIOS": [
+            "0x27c498",
+            "0x602198",
+            "0x603399",
+            "0x622198",
+            "0x623399"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:05.351349",
+    "file_path": "E:\\TOSHINA SATELLITE L750 (PSK2YA-0L802S).bin",
+    "file_name": "TOSHINA SATELLITE L750 (PSK2YA-0L802S).bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x182028",
+            "0x351028",
+            "0x361028",
+            "0x3735ab",
+            "0x373afb",
+            "0x38e373"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

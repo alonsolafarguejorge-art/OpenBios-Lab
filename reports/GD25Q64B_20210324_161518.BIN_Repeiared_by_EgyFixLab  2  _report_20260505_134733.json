@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:33.547703",
+    "file_path": "E:\\Bios Hp Compaq\\hp pro x2 410 g1\\GD25Q64B_20210324_161518.BIN_Repeiared_by_EgyFixLab  2  .Bin",
+    "file_name": "GD25Q64B_20210324_161518.BIN_Repeiared_by_EgyFixLab  2  .Bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x46800c"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

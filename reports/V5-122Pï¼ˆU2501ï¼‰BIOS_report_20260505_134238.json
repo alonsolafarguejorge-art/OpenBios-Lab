@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:38.082659",
+    "file_path": "E:\\Bios Acer\\ACER V5-122P 12281-1\\V5-122P\u00ef\u00bc\u02c6U2501\u00ef\u00bc\u2030BIOS.bin",
+    "file_name": "V5-122P\u00ef\u00bc\u02c6U2501\u00ef\u00bc\u2030BIOS.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x53028",
+            "0x337028",
+            "0x365030",
+            "0x36b028",
+            "0x3dcfc5",
+            "0x3dd4b2",
+            "0x3dfbc3",
+            "0x3e00e6"
+        ],
+        "Insyde BIOS": [
+            "0x51008"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

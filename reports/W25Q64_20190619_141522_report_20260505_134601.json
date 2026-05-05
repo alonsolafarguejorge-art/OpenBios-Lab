@@ -1,0 +1,63 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:01.911551",
+    "file_path": "E:\\Bios Dell\\INSPIRON 15 IRIS HSWBDW 14216-1\\W25Q64_20190619_141522.BIN",
+    "file_name": "W25Q64_20190619_141522.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1e0028",
+            "0x200028",
+            "0x230028",
+            "0x270028",
+            "0x280028",
+            "0x680028",
+            "0x6a0028",
+            "0x6a2033",
+            "0x6a59f6",
+            "0x6a5b2f",
+            "0x6a824d",
+            "0x6a8294",
+            "0x6ac800",
+            "0x73e3a8",
+            "0x7ffa6b"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x1e0b17",
+            "0x200b17",
+            "0x275df4",
+            "0x2760b8",
+            "0x2760ff",
+            "0x27626f",
+            "0x2763c9",
+            "0x27657e",
+            "0x2765c5",
+            "0x276735",
+            "0x276928",
+            "0x27696f",
+            "0x276adf",
+            "0x276c39",
+            "0x277450",
+            "0x277497",
+            "0x277607",
+            "0x277761",
+            "0x2785a8",
+            "0x2785ef",
+            "0x27875f",
+            "0x2788b9",
+            "0x72f241"
+        ],
+        "Insyde BIOS": [
+            "0x1c0160"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

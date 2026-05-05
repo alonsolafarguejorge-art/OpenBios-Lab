@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:13.434883",
+    "file_path": "E:\\asus X55C (X55VD).bin",
+    "file_name": "asus X55C (X55VD).bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x210028",
+            "0x280028",
+            "0x764028",
+            "0x793425",
+            "0x793575",
+            "0x795505",
+            "0x7a2b9f",
+            "0x7ff710"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x21036f",
+            "0x2157f7"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:34.833189",
+    "file_path": "E:\\cq61intel ok.bin",
+    "file_name": "cq61intel ok.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x20028",
+            "0xd0028",
+            "0xd8028",
+            "0xe3028",
+            "0xef028",
+            "0xf589c",
+            "0xf7bb2"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

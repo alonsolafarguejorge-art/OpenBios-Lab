@@ -1,0 +1,54 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:30.313087",
+    "file_path": "E:\\Bios Hp Compaq\\HP Pavilion Touch 20-f291la All-in-One Desktop PC  AMPKB-CT\\W25Q32_20180904_175546  bck up jorge mreno.BIN",
+    "file_name": "W25Q32_20180904_175546  bck up jorge mreno.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x40028",
+            "0x60028",
+            "0x80028",
+            "0x2c0028",
+            "0x2c3eb3",
+            "0x2c4005",
+            "0x2c837a",
+            "0x35febe",
+            "0x35fecf",
+            "0x35fee0",
+            "0x35fef1",
+            "0x360028",
+            "0x363eb3",
+            "0x364005",
+            "0x36837a",
+            "0x3ffebe",
+            "0x3ffecf",
+            "0x3ffee0",
+            "0x3ffef1"
+        ],
+        "AMI BIOS": [
+            "0x4023a",
+            "0x41822",
+            "0x41a5c",
+            "0x49a13",
+            "0x4c5a6",
+            "0x4d661",
+            "0x5118f",
+            "0x6023a",
+            "0x60c0c",
+            "0x6c354",
+            "0x6cecc",
+            "0x34a9c3",
+            "0x34acc3",
+            "0x3ea9c3",
+            "0x3eacc3"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

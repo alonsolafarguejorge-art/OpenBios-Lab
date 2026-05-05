@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:57.443844",
+    "file_path": "E:\\Bios Dell\\DELL XPS13 L322X D13A REV D1 BIOS OK\\L322XA10_D13B.BIN\\L322XA10_D13B.BIN",
+    "file_name": "L322XA10_D13B.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x660028",
+            "0x6ef028",
+            "0x750028",
+            "0x756a70",
+            "0x76ecb4",
+            "0x76ecde",
+            "0x7bbd1f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Phoenix BIOS": [
+            "0x672e20",
+            "0x672e53",
+            "0x672ec3",
+            "0x672ef6",
+            "0x6730bb",
+            "0x6730ee"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

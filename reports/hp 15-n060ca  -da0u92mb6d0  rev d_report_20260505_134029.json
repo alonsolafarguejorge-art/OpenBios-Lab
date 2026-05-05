@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:29.120923",
+    "file_path": "E:\\hp 15-n060ca  -da0u92mb6d0  rev d.bin",
+    "file_name": "hp 15-n060ca  -da0u92mb6d0  rev d.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x12028",
+            "0x3e030",
+            "0x42028",
+            "0x2d6028",
+            "0x356028",
+            "0x357028",
+            "0x3c4fd3",
+            "0x3c560b",
+            "0x3c9f43",
+            "0x3ca466"
+        ],
+        "AMI BIOS": [
+            "0x3200c2",
+            "0x35609e",
+            "0x35627e",
+            "0x3e288e",
+            "0x3e2a6e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

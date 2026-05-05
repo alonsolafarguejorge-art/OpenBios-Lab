@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:19.660507",
+    "file_path": "E:\\GA-H61M-DS2 REV4.0.BIN",
+    "file_name": "GA-H61M-DS2 REV4.0.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1c0028",
+            "0x350028",
+            "0x383d82",
+            "0x3845cc",
+            "0x384717",
+            "0x388add",
+            "0x3abf1e",
+            "0x3ff330"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x18057d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

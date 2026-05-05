@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:35.486465",
+    "file_path": "E:\\P5Q-EM-DO-ASUS-1301.ROM",
+    "file_name": "P5Q-EM-DO-ASUS-1301.ROM",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x1b116d",
+            "0x1cbfc5",
+            "0x1cffea",
+            "0x1e0000",
+            "0x1f039c",
+            "0x1f1f84"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

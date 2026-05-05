@@ -1,0 +1,45 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:03.857840",
+    "file_path": "E:\\BIOS\\GD25Q128B@WSON8_20210622_181030   LA-F115P GUSTAVO.BIN",
+    "file_name": "GD25Q128B@WSON8_20210622_181030   LA-F115P GUSTAVO.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x700028",
+            "0x750028",
+            "0x7b0028",
+            "0x810028",
+            "0x821028",
+            "0x861028",
+            "0x871028",
+            "0xd80028",
+            "0xe50028",
+            "0xf00028",
+            "0xf064f3",
+            "0xf0e397",
+            "0xf51f78",
+            "0xfc343c",
+            "0xfd3da8",
+            "0xfff5a5"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x7514c4",
+            "0x757c0b",
+            "0x7b14c4",
+            "0x7b7c0b",
+            "0x7cead5",
+            "0xfd0625",
+            "0xfd757c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

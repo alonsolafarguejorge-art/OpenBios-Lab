@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:37.714932",
+    "file_path": "E:\\DA0BKXMB8D0 REV.D_16MB_JD BIOS.bin",
+    "file_name": "DA0BKXMB8D0 REV.D_16MB_JD BIOS.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x21028",
+            "0x7a8028",
+            "0x7a8908",
+            "0xadb38c",
+            "0xadb3c3",
+            "0xd00028"
+        ],
+        "AMI BIOS": [
+            "0x21210",
+            "0x9a2259",
+            "0xadd93d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

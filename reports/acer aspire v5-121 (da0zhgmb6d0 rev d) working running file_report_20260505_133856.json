@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:56.535035",
+    "file_path": "E:\\acer aspire v5-121 (da0zhgmb6d0 rev d) working running file.bin",
+    "file_name": "acer aspire v5-121 (da0zhgmb6d0 rev d) working running file.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x46028",
+            "0x351028",
+            "0x383028",
+            "0x3bf18b",
+            "0x3bf547",
+            "0x3c2dbb"
+        ],
+        "AMI BIOS": [
+            "0x15dcd7"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

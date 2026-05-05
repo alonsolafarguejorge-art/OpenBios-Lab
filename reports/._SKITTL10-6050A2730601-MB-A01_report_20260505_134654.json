@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:54.376333",
+    "file_path": "E:\\Bios Hp Compaq\\HP 240  G4 SKITTL10-6050A2730601-MB-A01 SR29H\\__MACOSX\\._SKITTL10-6050A2730601-MB-A01.BIN",
+    "file_name": "._SKITTL10-6050A2730601-MB-A01.BIN",
+    "file_size_bytes": 216,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

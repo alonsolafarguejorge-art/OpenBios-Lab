@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:13.883466",
+    "file_path": "E:\\w2052tq-S8-15808 W2x52TQ_TSUMO58_V190_000A_080331_master.bin",
+    "file_name": "w2052tq-S8-15808 W2x52TQ_TSUMO58_V190_000A_080331_master.bin",
+    "file_size_bytes": 262144,
+    "file_size_mb": 0.25,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

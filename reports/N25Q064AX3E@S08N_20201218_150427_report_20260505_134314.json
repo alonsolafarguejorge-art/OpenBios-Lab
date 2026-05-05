@@ -1,0 +1,50 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:14.621189",
+    "file_path": "E:\\BIOS\\820-2915-b\\N25Q064AX3E@S08N_20201218_150427.BIN",
+    "file_name": "N25Q064AX3E@S08N_20201218_150427.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x181028",
+            "0x490028",
+            "0x4b8028",
+            "0x682028",
+            "0x692028",
+            "0x695028",
+            "0x698028",
+            "0x6b8028",
+            "0x6d8028",
+            "0x700028",
+            "0x700aa5",
+            "0x70a3d0",
+            "0x71517f",
+            "0x72e4f6",
+            "0x72e8b1",
+            "0x732622",
+            "0x770028",
+            "0x770aa5",
+            "0x77a3d0",
+            "0x78517f",
+            "0x79e4f6",
+            "0x79e8b1",
+            "0x7a2622",
+            "0x7e0028",
+            "0x7e0415",
+            "0x7f0028",
+            "0x7f0415"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x571959"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

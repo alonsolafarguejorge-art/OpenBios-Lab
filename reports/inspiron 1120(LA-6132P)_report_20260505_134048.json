@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:48.841316",
+    "file_path": "E:\\inspiron 1120(LA-6132P).bin",
+    "file_name": "inspiron 1120(LA-6132P).bin",
+    "file_size_bytes": 2097154,
+    "file_size_mb": 2.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x1eb8d4",
+            "0x1eb907"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

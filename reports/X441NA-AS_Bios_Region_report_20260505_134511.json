@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:11.281182",
+    "file_path": "E:\\Bios Asus\\ASUS Vivobook Max X441NA\\X441NA-AS_Bios_Region.bin",
+    "file_name": "X441NA-AS_Bios_Region.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x8b468",
+            "0x8c468",
+            "0xc0887",
+            "0xcf7f6",
+            "0xdc414",
+            "0x3f2028",
+            "0x432028",
+            "0x434028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5c857",
+            "0x63945",
+            "0x6396b",
+            "0x6b061"
+        ],
+        "AMI BIOS": [
+            "0x9c258",
+            "0x3f266b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

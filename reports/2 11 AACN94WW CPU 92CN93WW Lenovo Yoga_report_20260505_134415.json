@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:15.080225",
+    "file_path": "E:\\Bios Lenovo IBM\\2 11 AACN94WW CPU 92CN93WW Lenovo Yoga.bin",
+    "file_name": "2 11 AACN94WW CPU 92CN93WW Lenovo Yoga.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x3dd028",
+            "0x480028",
+            "0x6ce028",
+            "0x6fc030",
+            "0x700028",
+            "0x7200d5",
+            "0x720480",
+            "0x7210a7"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

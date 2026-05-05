@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:47.121846",
+    "file_path": "E:\\Bios Acer\\BIOS_Acer_R01.B0_A_A\\ROM\\R01-B0.CAP",
+    "file_name": "R01-B0.CAP",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x182028",
+            "0x2d1048",
+            "0x740028",
+            "0x7459ac",
+            "0x745af9",
+            "0x749c97"
+        ],
+        "AMI BIOS": [
+            "0x302a7",
+            "0x7b19bc"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:50.635712",
+    "file_path": "E:\\Dell Optiplex 7050_16MB .BIN",
+    "file_name": "Dell Optiplex 7050_16MB .BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x700028",
+            "0x740028",
+            "0x791028",
+            "0x7d1028",
+            "0x7e1028",
+            "0xd70028",
+            "0xd80028",
+            "0xe50028",
+            "0xe50808",
+            "0xf08028",
+            "0xf0b59f",
+            "0xf3aba3",
+            "0xfa08b2",
+            "0xfb8a85",
+            "0xfff505"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x5c196b",
+            "0x701601",
+            "0x7069c6",
+            "0x741601",
+            "0x7469a4",
+            "0xfb3bcd",
+            "0xfe60b9"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

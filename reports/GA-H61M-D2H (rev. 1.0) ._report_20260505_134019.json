@@ -1,0 +1,21 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:19.490571",
+    "file_path": "E:\\GA-H61M-D2H (rev. 1.0) ..bin",
+    "file_name": "GA-H61M-D2H (rev. 1.0) ..bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x74217"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

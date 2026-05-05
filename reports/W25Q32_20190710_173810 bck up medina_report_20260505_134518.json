@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:18.200521",
+    "file_path": "E:\\Bios Asus\\Asus_X550ZE_204\\W25Q32_20190710_173810 bck up medina.BIN",
+    "file_name": "W25Q32_20190710_173810 bck up medina.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x40028",
+            "0x98028",
+            "0x348028",
+            "0x34d355",
+            "0x34d4a4",
+            "0x34fd41"
+        ],
+        "AMI BIOS": [
+            "0x40209"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:16.979579",
+    "file_path": "E:\\BIOS\\AN515-54-78E9EH50F LA-H431P\\W25Q80DW@SOIC8-200_20220105_193008.BIN",
+    "file_name": "W25Q80DW@SOIC8-200_20220105_193008.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

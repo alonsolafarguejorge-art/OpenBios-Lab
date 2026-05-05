@@ -1,0 +1,49 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:57.966932",
+    "file_path": "E:\\BIOS\\Quanta G94A\\W25Q64_20190610_191120.BIN",
+    "file_name": "W25Q64_20190610_191120.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2a028",
+            "0x3c0028",
+            "0x3e0028",
+            "0x4e0028",
+            "0x4e0d3d",
+            "0x4e3be9",
+            "0x53ab06",
+            "0x5f637e",
+            "0x60fd40",
+            "0x60fd68",
+            "0x60fda3",
+            "0x60fdce",
+            "0x6d0028",
+            "0x6d0d3d",
+            "0x6d3be9",
+            "0x72ab06",
+            "0x7e637e",
+            "0x7ffd40",
+            "0x7ffd68",
+            "0x7ffda3",
+            "0x7ffdce"
+        ],
+        "AMI BIOS": [
+            "0x5127",
+            "0x3c02d3",
+            "0x3c404b",
+            "0x3e02d3",
+            "0x3e404b",
+            "0x5fbb3b",
+            "0x5fbe3b",
+            "0x7ebb3b",
+            "0x7ebe3b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

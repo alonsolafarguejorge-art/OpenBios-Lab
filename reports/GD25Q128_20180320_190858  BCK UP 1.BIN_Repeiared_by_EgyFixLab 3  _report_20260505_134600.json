@@ -1,0 +1,42 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:00.768419",
+    "file_path": "E:\\Bios Dell\\Inspiron 14 7460 - 7560\\2\\GD25Q128_20180320_190858  BCK UP 1.BIN_Repeiared_by_EgyFixLab 3  .Bin",
+    "file_name": "GD25Q128_20180320_190858  BCK UP 1.BIN_Repeiared_by_EgyFixLab 3  .Bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x496720",
+            "0x49a100",
+            "0x52f5c4",
+            "0x54252b",
+            "0x54b192",
+            "0x552fe7",
+            "0x60cc0b",
+            "0x60d363",
+            "0x711eb3",
+            "0xc490ad",
+            "0xc59356",
+            "0xc99dfa",
+            "0xcab34c",
+            "0xd0c342",
+            "0xd6d338",
+            "0xdbebb5"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010",
+            "0xe0ece5"
+        ],
+        "AMI BIOS": [
+            "0x53831a",
+            "0x9f1e9b",
+            "0xd0d783"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:16.145931",
+    "file_path": "E:\\X131E AMD U18  DALI2AMB8E0.BIN",
+    "file_name": "X131E AMD U18  DALI2AMB8E0.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x310028",
+            "0x340028",
+            "0x370028",
+            "0x376c38",
+            "0x38dedc",
+            "0x38df06",
+            "0x3c6f7f"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:31.729477",
+    "file_path": "E:\\Bios Hp Compaq\\HP Pavilion x360 17879-1b\\clear me  OK  .bin",
+    "file_name": "clear me  OK  .bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x244028",
+            "0x296030",
+            "0x323028",
+            "0x630028",
+            "0x6cc028",
+            "0x6d1a89",
+            "0x6eff42"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x4c6fe0",
+            "0x7c80b6",
+            "0x7c8296"
+        ],
+        "Insyde BIOS": [
+            "0x22000a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

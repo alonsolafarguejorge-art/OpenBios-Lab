@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:25.063535",
+    "file_path": "E:\\M4A78-ASUS-2301.ROM",
+    "file_name": "M4A78-ASUS-2301.ROM",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xacf45",
+            "0xdbfea",
+            "0xe0000",
+            "0xf004c",
+            "0xf03ec",
+            "0xf11b7",
+            "0xf11c3"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

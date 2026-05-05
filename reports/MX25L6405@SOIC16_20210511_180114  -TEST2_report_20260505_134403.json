@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:03.850236",
+    "file_path": "E:\\BIOS\\SPITFIRE\\MX25L6405@SOIC16_20210511_180114  -TEST2.BIN",
+    "file_name": "MX25L6405@SOIC16_20210511_180114  -TEST2.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0xff028",
+            "0x5ec028",
+            "0x6a0028",
+            "0x6a2577",
+            "0x74964b",
+            "0x76597e",
+            "0x7fe028"
+        ],
+        "AMI BIOS": [
+            "0x2caf51"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

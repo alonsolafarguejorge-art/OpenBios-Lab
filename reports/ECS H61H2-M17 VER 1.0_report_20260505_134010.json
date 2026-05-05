@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:10.899848",
+    "file_path": "E:\\ECS H61H2-M17 VER 1.0.BIN",
+    "file_name": "ECS H61H2-M17 VER 1.0.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x200028",
+            "0x250028",
+            "0x780028",
+            "0x7c2f35",
+            "0x7c3082",
+            "0x7c72a7",
+            "0x7d4cb6",
+            "0x7ff7b0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2003f2",
+            "0x251c29"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

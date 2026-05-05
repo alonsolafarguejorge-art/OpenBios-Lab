@@ -1,0 +1,42 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:58.123180",
+    "file_path": "E:\\BIos Apple\\A1278  820-2879-b  mcp89   EMC 2351 BCK UP  CORE 2 DUO.BIN",
+    "file_name": "A1278  820-2879-b  mcp89   EMC 2351 BCK UP  CORE 2 DUO.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x10fa",
+            "0x76c3",
+            "0x78a3",
+            "0x8fbd",
+            "0x1641f",
+            "0x40028",
+            "0x410fa",
+            "0x476c3",
+            "0x478a3",
+            "0x48fbd",
+            "0x5641f",
+            "0x80028",
+            "0xa4028",
+            "0xa6028",
+            "0xa8028",
+            "0xae028",
+            "0xb4028",
+            "0xc4028",
+            "0x3fc028",
+            "0x3fc236"
+        ],
+        "AMI BIOS": [
+            "0x290ae1",
+            "0x2e464b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

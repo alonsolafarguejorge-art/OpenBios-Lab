@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:53.043141",
+    "file_path": "E:\\Bios Samsung\\Samsung 530U_Lotus-14R - Rev 1.1\\MX25L6406E_20190201_184038  bck up.BIN",
+    "file_name": "MX25L6406E_20190201_184038  bck up.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x518028",
+            "0x710028",
+            "0x730028",
+            "0x760028",
+            "0x767750",
+            "0x76caa7",
+            "0x76cad1",
+            "0x77d054",
+            "0x77d07e",
+            "0x7ca69f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

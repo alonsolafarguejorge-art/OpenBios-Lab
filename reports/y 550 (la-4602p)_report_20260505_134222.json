@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:22.880554",
+    "file_path": "E:\\y 550 (la-4602p).BIN",
+    "file_name": "y 550 (la-4602p).BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xbed10"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

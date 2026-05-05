@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:41.246544",
+    "file_path": "E:\\Bios Hp Compaq\\hp 15-da0009la  LA-G07DP\\Disco extra\u00edble\\W25Q128BV@WSON8_20201014_183721  HP MIGUEL MAC.BIN",
+    "file_name": "W25Q128BV@WSON8_20201014_183721  HP MIGUEL MAC.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x73c028",
+            "0xb76028",
+            "0xbc7028",
+            "0xc82028",
+            "0xc84523",
+            "0xc8b1c0",
+            "0xd4cf63",
+            "0xd6b999",
+            "0xde3028",
+            "0xe9e028",
+            "0xea0523",
+            "0xea71c0",
+            "0xf68f63",
+            "0xf87999",
+            "0xffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x78c531",
+            "0x829a95"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

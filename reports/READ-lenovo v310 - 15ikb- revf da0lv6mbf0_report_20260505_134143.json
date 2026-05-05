@@ -1,0 +1,66 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:43.520177",
+    "file_path": "E:\\READ-lenovo v310 - 15ikb- revf da0lv6mbf0.bin",
+    "file_name": "READ-lenovo v310 - 15ikb- revf da0lv6mbf0.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x830028",
+            "0x8b9028",
+            "0x9a9028",
+            "0xe00028",
+            "0xe40028",
+            "0xe50028",
+            "0xee0028",
+            "0xee6663",
+            "0xfb95c6",
+            "0xfb9648",
+            "0xfb9710",
+            "0xfbc8a1",
+            "0xfbcdb9",
+            "0xfd14ff",
+            "0xfd152c",
+            "0xfe0028",
+            "0xfe1aaa"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Phoenix BIOS": [
+            "0xbdb61e",
+            "0xbdb651",
+            "0xbdb6c1",
+            "0xbdb6f4",
+            "0xbdb8b9",
+            "0xbdb8ec",
+            "0xe28314",
+            "0xe28814",
+            "0xfba7a4",
+            "0xfbad34",
+            "0xfbb664",
+            "0xfbc0f4",
+            "0xfc0494",
+            "0xfc0e68",
+            "0xfc3264",
+            "0xfc4104",
+            "0xfc4e68",
+            "0xfc5864",
+            "0xfc6894",
+            "0xfc6fdc",
+            "0xfc7794",
+            "0xfc8294",
+            "0xfc8654",
+            "0xfd1104",
+            "0xfd1b44",
+            "0xfd39f8",
+            "0xfd449c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

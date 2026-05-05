@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:22.772018",
+    "file_path": "E:\\LG_LP156WH1(TL)(C1)_Emachines_640G.bin",
+    "file_name": "LG_LP156WH1(TL)(C1)_Emachines_640G.bin",
+    "file_size_bytes": 256,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

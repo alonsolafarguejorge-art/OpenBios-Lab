@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:23.715733",
+    "file_path": "E:\\Bios Lenovo IBM\\LENOVO 300-14IBR BMWC1 BMWC2 NM-A471 REV_2.0\\300-14IBR Laptop\\c9cn47ww_LBE OutPut\\app\\C9CN47WW\\IFLASH_DRV_IMG_Extracted.BIN",
+    "file_name": "IFLASH_DRV_IMG_Extracted.BIN",
+    "file_size_bytes": 8888264,
+    "file_size_mb": 8.48,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x308980",
+            "0x355980",
+            "0x393988",
+            "0x547980",
+            "0x767980",
+            "0x794e8c",
+            "0x7c0980",
+            "0x7e1980",
+            "0x7e326c"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1968"
+        ],
+        "Insyde BIOS": [
+            "0x800987",
+            "0x803919",
+            "0x803dc8",
+            "0x803e3d",
+            "0x803e89",
+            "0x80c003",
+            "0x80c5b7"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

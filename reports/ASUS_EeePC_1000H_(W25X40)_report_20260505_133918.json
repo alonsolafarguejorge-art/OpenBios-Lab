@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:18.991925",
+    "file_path": "E:\\ASUS_EeePC_1000H_(W25X40).bin",
+    "file_name": "ASUS_EeePC_1000H_(W25X40).bin",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x4d2d",
+            "0x4d77",
+            "0x137f5",
+            "0x6bfea",
+            "0x7036c"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

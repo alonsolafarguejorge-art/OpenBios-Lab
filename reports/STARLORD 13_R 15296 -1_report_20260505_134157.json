@@ -1,0 +1,44 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:57.963687",
+    "file_path": "E:\\STARLORD 13_R 15296 -1.BIN",
+    "file_name": "STARLORD 13_R 15296 -1.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x700028",
+            "0x740028",
+            "0x7a0028",
+            "0x800028",
+            "0x811028",
+            "0x851028",
+            "0x861028",
+            "0xd50028",
+            "0xdf0028",
+            "0xf10028",
+            "0xf1100e",
+            "0xf12e0d",
+            "0xf35d13",
+            "0xfb2a43",
+            "0xfdbef1",
+            "0xfe3204",
+            "0xfffd85"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x741426",
+            "0x743676",
+            "0x7a1426",
+            "0x7a3676",
+            "0xfbdfc5"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

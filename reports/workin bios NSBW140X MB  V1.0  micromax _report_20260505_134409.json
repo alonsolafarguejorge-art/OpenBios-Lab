@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:09.751827",
+    "file_path": "E:\\BIOS\\workin bios NSBW140X MB  V1.0  micromax\\workin bios NSBW140X MB  V1.0  micromax .bin",
+    "file_name": "workin bios NSBW140X MB  V1.0  micromax .bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x350028",
+            "0x3a3028",
+            "0x576320",
+            "0x73b028",
+            "0x7e1028",
+            "0x7e318b",
+            "0x7e5e78",
+            "0x7f2785"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x300398",
+            "0x303155",
+            "0x30470e",
+            "0x33312c",
+            "0x751328"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

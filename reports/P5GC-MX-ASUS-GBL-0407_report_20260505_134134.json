@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:34.970883",
+    "file_path": "E:\\P5GC-MX-ASUS-GBL-0407.ROM",
+    "file_name": "P5GC-MX-ASUS-GBL-0407.ROM",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x7f3c1",
+            "0x88e95",
+            "0x9f382",
+            "0xebfea",
+            "0xf051a",
+            "0xf0eb0",
+            "0xf0ebc",
+            "0xf1ce1"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:38.483576",
+    "file_path": "E:\\Bios Acer\\acer z1-602 v1,04  5000-0005-6804   2015.0924.1000\\MX25L8006E_20200229_160856  u34 .BIN",
+    "file_name": "MX25L8006E_20200229_160856  u34 .BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

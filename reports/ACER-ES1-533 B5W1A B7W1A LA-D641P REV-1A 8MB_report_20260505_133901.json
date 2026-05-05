@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:01.973529",
+    "file_path": "E:\\ACER-ES1-533 B5W1A B7W1A LA-D641P REV-1A 8MB.bin",
+    "file_name": "ACER-ES1-533 B5W1A B7W1A LA-D641P REV-1A 8MB.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x7f468",
+            "0x80468",
+            "0x81bcb",
+            "0x8cfbf",
+            "0x8d181",
+            "0x388028",
+            "0x3d6028",
+            "0x3dbe03",
+            "0x456028",
+            "0x65b028",
+            "0x699030"
+        ],
+        "Intel Flash Descriptor": [
+            "0x4af8f"
+        ],
+        "AMI BIOS": [
+            "0xc2568",
+            "0x5ce6a5"
+        ],
+        "Insyde BIOS": [
+            "0x3c9008"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

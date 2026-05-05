@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:34.015119",
+    "file_path": "E:\\Bios Dell\\Dell G3 3579 3779  La-F612P Rev 1.0 ME CLEAN (1)\\Dell G3 3579 3779 1.8.0 ME_CLEAN\\Dell G3 3579 3779 1.8.0 EC.BIN",
+    "file_name": "Dell G3 3579 3779 1.8.0 EC.BIN",
+    "file_size_bytes": 327680,
+    "file_size_mb": 0.31,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file"
+    ]
+}

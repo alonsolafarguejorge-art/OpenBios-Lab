@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:51.228323",
+    "file_path": "E:\\DELL Studio 1555.ROM",
+    "file_name": "DELL Studio 1555.ROM",
+    "file_size_bytes": 2137622,
+    "file_size_mb": 2.04,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x9c0bb",
+            "0x2019ad"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

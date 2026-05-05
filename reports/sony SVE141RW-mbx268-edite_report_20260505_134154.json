@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:54.557196",
+    "file_path": "E:\\sony SVE141RW-mbx268-edite.bin",
+    "file_name": "sony SVE141RW-mbx268-edite.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x520028",
+            "0x710028",
+            "0x740028",
+            "0x7563dd",
+            "0x7567bc",
+            "0x757f3b"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

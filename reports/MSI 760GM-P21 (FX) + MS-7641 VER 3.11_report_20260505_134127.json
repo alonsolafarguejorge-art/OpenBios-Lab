@@ -1,0 +1,21 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:27.369293",
+    "file_path": "E:\\MSI 760GM-P21 (FX) + MS-7641 VER 3.11.bin",
+    "file_name": "MSI 760GM-P21 (FX) + MS-7641 VER 3.11.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x1dffea",
+            "0x1f0040",
+            "0x1f004c",
+            "0x1f0408"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:48.305698",
+    "file_path": "E:\\DELL Iris AMD MB 15276-1_TESTED.BIN",
+    "file_name": "DELL Iris AMD MB 15276-1_TESTED.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x44028",
+            "0x64028",
+            "0x185028",
+            "0x6eb028",
+            "0x6f00d7",
+            "0x6f0224",
+            "0x6f46c5"
+        ],
+        "AMI BIOS": [
+            "0x442c6",
+            "0x44703",
+            "0x4485e",
+            "0x46e34",
+            "0x642c6",
+            "0x64703",
+            "0x6485e",
+            "0x66e34",
+            "0x75b274"
+        ],
+        "Insyde BIOS": [
+            "0x160"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

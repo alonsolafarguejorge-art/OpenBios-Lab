@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:36.988135",
+    "file_path": "E:\\Bios Hp Compaq\\HP 15-d035dx OSAMU2_BT_HPC MV_MB_V1\\15-d088er main.BIN",
+    "file_name": "15-d088er main.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x438030",
+            "0x540028",
+            "0x584028",
+            "0x787028",
+            "0x788028",
+            "0x7b1fdb",
+            "0x7b25bc",
+            "0x7e1028",
+            "0x7e2722"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x78709e",
+            "0x78727e",
+            "0x7b140e",
+            "0x7b15ee"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

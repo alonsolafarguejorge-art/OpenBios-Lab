@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:20.626824",
+    "file_path": "E:\\X551CA REV 2.2 OK .BIN",
+    "file_name": "X551CA REV 2.2 OK .BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x210028",
+            "0x280028",
+            "0x764028",
+            "0x792d5d",
+            "0x792ead",
+            "0x794e3d",
+            "0x7a27a7",
+            "0x7ff710"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x210380"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

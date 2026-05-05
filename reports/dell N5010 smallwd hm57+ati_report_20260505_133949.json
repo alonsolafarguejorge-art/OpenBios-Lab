@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:49.646519",
+    "file_path": "E:\\dell N5010 smallwd hm57+ati.BIN",
+    "file_name": "dell N5010 smallwd hm57+ati.BIN",
+    "file_size_bytes": 262144,
+    "file_size_mb": 0.25,
+    "bios_type": "Insyde BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Insyde BIOS": [
+            "0x4074"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

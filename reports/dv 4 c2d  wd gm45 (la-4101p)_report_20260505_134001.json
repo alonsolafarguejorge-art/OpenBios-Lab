@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:01.775593",
+    "file_path": "E:\\dv 4 c2d  wd gm45 (la-4101p).bin",
+    "file_name": "dv 4 c2d  wd gm45 (la-4101p).bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x24028",
+            "0xc4028",
+            "0xd6028",
+            "0xe2028",
+            "0xf2028",
+            "0xf9079",
+            "0xfb6ee"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

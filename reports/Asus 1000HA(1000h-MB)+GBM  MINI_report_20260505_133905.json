@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:05.607231",
+    "file_path": "E:\\Asus 1000HA(1000h-MB)+GBM  MINI.bin",
+    "file_name": "Asus 1000HA(1000h-MB)+GBM  MINI.bin",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x4bef",
+            "0x4c39",
+            "0x137f5",
+            "0x6bfea",
+            "0x7036c"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

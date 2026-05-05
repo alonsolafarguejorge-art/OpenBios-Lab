@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:31.931338",
+    "file_path": "E:\\Bios Dell\\Dell e5540 PLYTA LA-A101P REV1.0\\W25Q64_20180824_132949  bck up.BIN",
+    "file_name": "W25Q64_20180824_132949  bck up.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x600028",
+            "0x620028",
+            "0x690028",
+            "0x6f0028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5010"
+        ],
+        "AMI BIOS": [
+            "0x603061",
+            "0x6039bd",
+            "0x623061",
+            "0x6239bd",
+            "0x6a8035"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

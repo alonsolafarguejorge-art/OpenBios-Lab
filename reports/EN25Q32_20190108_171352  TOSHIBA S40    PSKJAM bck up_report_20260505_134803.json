@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:03.120268",
+    "file_path": "E:\\Bios Toshiba\\toshiba s40 pskjam vinafix.com_BIOS.rom\\EN25Q32_20190108_171352  TOSHIBA S40    PSKJAM bck up.BIN",
+    "file_name": "EN25Q32_20190108_171352  TOSHIBA S40    PSKJAM bck up.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x40028",
+            "0x60028",
+            "0x90028",
+            "0x350028",
+            "0x3527f0",
+            "0x35293d",
+            "0x356dc3"
+        ],
+        "AMI BIOS": [
+            "0x40222",
+            "0x405f9",
+            "0x60222",
+            "0x605f9",
+            "0x3d0870",
+            "0x3d2c74"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

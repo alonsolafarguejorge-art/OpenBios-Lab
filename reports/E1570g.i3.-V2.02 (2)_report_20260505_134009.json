@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:09.127965",
+    "file_path": "E:\\E1570g.i3.-V2.02 (2).rom",
+    "file_name": "E1570g.i3.-V2.02 (2).rom",
+    "file_size_bytes": 6291456,
+    "file_size_mb": 6.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x3028",
+            "0x513028",
+            "0x53d030",
+            "0x540028",
+            "0x55d2de",
+            "0x55d6bd",
+            "0x55e74b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

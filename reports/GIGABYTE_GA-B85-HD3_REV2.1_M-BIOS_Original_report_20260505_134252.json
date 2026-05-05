@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:52.064678",
+    "file_path": "E:\\Bin\\GIGABYTE_GA-B85-HD3_REV2.1_M-BIOS_Original.bin",
+    "file_name": "GIGABYTE_GA-B85-HD3_REV2.1_M-BIOS_Original.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1a0028",
+            "0x1c0028",
+            "0x350028",
+            "0x38b341",
+            "0x38bb2d",
+            "0x38bc78",
+            "0x38fe7e",
+            "0x3c9dca",
+            "0x3ff3f0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x180817",
+            "0x1816ad",
+            "0x1a0817",
+            "0x1a16a5"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

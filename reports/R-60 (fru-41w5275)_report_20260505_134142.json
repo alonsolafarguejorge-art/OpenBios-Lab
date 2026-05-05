@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:42.250217",
+    "file_path": "E:\\R-60 (fru-41w5275).bin",
+    "file_name": "R-60 (fru-41w5275).bin",
+    "file_size_bytes": 2097218,
+    "file_size_mb": 2.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x1ec2ec",
+            "0x1ec33d"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

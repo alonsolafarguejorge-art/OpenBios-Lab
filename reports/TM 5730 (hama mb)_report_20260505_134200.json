@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:00.370824",
+    "file_path": "E:\\TM 5730 (hama mb).bin",
+    "file_name": "TM 5730 (hama mb).bin",
+    "file_size_bytes": 2097218,
+    "file_size_mb": 2.0,
+    "bios_type": "Insyde BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Insyde BIOS": [
+            "0x4074"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

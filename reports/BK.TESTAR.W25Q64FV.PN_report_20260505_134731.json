@@ -1,0 +1,65 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:31.164189",
+    "file_path": "E:\\Bios Hp Compaq\\HP Pavilion TouchSmart 23-f330et All-in-One BIOS IPIVB-AT\\HP PAVILLION TOUCH SMART 23-f330et all-in-one IPIVB-AT REV1.02 bios _IPIVB-AT\\BK.TESTAR.W25Q64FV.PN.BIN",
+    "file_name": "BK.TESTAR.W25Q64FV.PN.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x430028",
+            "0x450028",
+            "0x470028",
+            "0x6c0028",
+            "0x70936e",
+            "0x709a6c",
+            "0x709c09",
+            "0x70df37",
+            "0x71b462",
+            "0x75f5d0",
+            "0x75fe5e",
+            "0x75fe6f",
+            "0x75fe80",
+            "0x75fe91",
+            "0x760028",
+            "0x7a936e",
+            "0x7a9a6c",
+            "0x7a9c09",
+            "0x7adf37",
+            "0x7bb462",
+            "0x7ff5d0",
+            "0x7ffe5e",
+            "0x7ffe6f",
+            "0x7ffe80",
+            "0x7ffe91"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x430366",
+            "0x4337ec",
+            "0x436841",
+            "0x436888",
+            "0x4369f8",
+            "0x43bc29",
+            "0x43e7b8",
+            "0x43f9fd",
+            "0x4436df",
+            "0x450366",
+            "0x45426f",
+            "0x4542b6",
+            "0x454426",
+            "0x738ccb",
+            "0x738fcb",
+            "0x7d8ccb",
+            "0x7d8fcb"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

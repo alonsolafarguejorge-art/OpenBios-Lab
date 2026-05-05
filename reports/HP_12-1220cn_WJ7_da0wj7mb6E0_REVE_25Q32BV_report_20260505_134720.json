@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:20.177808",
+    "file_path": "E:\\Bios Hp Compaq\\hp omni 120 DAOWJ7MB6E0\\HP_12-1220cn_WJ7_da0wj7mb6E0_REVE_25Q32BV.ROM",
+    "file_name": "HP_12-1220cn_WJ7_da0wj7mb6E0_REVE_25Q32BV.ROM",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x20028",
+            "0x40028",
+            "0x60028",
+            "0x3a0028",
+            "0x3a1b5b",
+            "0x3a2dbb"
+        ],
+        "AMI BIOS": [
+            "0x20293",
+            "0x40293",
+            "0x41f4b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

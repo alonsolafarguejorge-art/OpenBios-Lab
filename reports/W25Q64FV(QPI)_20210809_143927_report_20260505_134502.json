@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:02.169673",
+    "file_path": "E:\\Bios Asus\\ASUS  A441NA\\W25Q64FV(QPI)_20210809_143927.BIN",
+    "file_name": "W25Q64FV(QPI)_20210809_143927.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x8a468",
+            "0x8b468",
+            "0xbf887",
+            "0xce7f6",
+            "0xdb414",
+            "0x3f2028",
+            "0x412028",
+            "0x432028",
+            "0x434028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5b5aa",
+            "0x62681",
+            "0x626a7",
+            "0x6941a",
+            "0x77f000"
+        ],
+        "AMI BIOS": [
+            "0x9b250",
+            "0x34daa3",
+            "0x3f266a",
+            "0x3fdcbd",
+            "0x41266a",
+            "0x41dcbd"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

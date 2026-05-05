@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:23.658054",
+    "file_path": "E:\\Bios Hp Compaq\\Hp 14-b109wm\\018F9F1D0.bin",
+    "file_name": "018F9F1D0.bin",
+    "file_size_bytes": 5736448,
+    "file_size_mb": 5.47,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x41c60b"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

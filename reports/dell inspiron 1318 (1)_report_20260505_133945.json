@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:45.449842",
+    "file_path": "E:\\dell inspiron 1318 (1).BIN",
+    "file_name": "dell inspiron 1318 (1).BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x1001c",
+            "0x14dae",
+            "0x17c08"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

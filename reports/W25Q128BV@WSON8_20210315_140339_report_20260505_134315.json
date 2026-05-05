@@ -1,0 +1,45 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:15.493814",
+    "file_path": "E:\\BIOS\\AAZ80 LA-C881P\\W25Q128BV@WSON8_20210315_140339.BIN",
+    "file_name": "W25Q128BV@WSON8_20210315_140339.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x700028",
+            "0x760028",
+            "0x7d0028",
+            "0x810028",
+            "0x820028",
+            "0xdf0028",
+            "0xe40028",
+            "0xe40ffe",
+            "0xe43497",
+            "0xede69a",
+            "0xee68fe",
+            "0xeeac3a",
+            "0xf03af5",
+            "0xf08724",
+            "0xf91473",
+            "0xfffd85"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x701334",
+            "0x701c87",
+            "0x761334",
+            "0x761c87",
+            "0x852707",
+            "0xee962d",
+            "0xf39dc0"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

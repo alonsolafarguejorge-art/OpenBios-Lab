@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:25.384080",
+    "file_path": "E:\\M4N68T-M-LE-V2-ASUS-0902.ROM",
+    "file_name": "M4N68T-M-LE-V2-ASUS-0902.ROM",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xda05",
+            "0x3c553",
+            "0xdbfea",
+            "0xe0000",
+            "0xf03bc",
+            "0xf10f0"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

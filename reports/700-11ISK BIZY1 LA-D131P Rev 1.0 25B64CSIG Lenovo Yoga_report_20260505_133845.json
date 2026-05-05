@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:45.380502",
+    "file_path": "E:\\700-11ISK BIZY1 LA-D131P Rev 1.0 25B64CSIG Lenovo Yoga.bin",
+    "file_name": "700-11ISK BIZY1 LA-D131P Rev 1.0 25B64CSIG Lenovo Yoga.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2bc028",
+            "0x580028",
+            "0x5b4030",
+            "0x6c0028",
+            "0x6c8c62",
+            "0x6dcab4"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Insyde BIOS": [
+            "0x20016a",
+            "0x20216a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

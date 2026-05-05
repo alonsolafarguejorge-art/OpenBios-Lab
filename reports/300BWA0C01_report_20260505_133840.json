@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:40.819670",
+    "file_path": "E:\\300BWA0C01.bin",
+    "file_name": "300BWA0C01.bin",
+    "file_size_bytes": 3341330,
+    "file_size_mb": 3.19,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

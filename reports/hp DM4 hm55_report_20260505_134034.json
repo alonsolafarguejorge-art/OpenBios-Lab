@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:34.735666",
+    "file_path": "E:\\hp DM4 hm55.BIN",
+    "file_name": "hp DM4 hm55.BIN",
+    "file_size_bytes": 4196352,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x201028",
+            "0x351028",
+            "0x361028",
+            "0x36f3db",
+            "0x3748ba"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

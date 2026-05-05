@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:04.272068",
+    "file_path": "E:\\Bios Toshiba\\Toshiba Satellite C850 DK10F 6050A2541801-MB-A02\\W25Q64_20190722_130213   toshiba ricardo mac.BIN",
+    "file_name": "W25Q64_20190722_130213   toshiba ricardo mac.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x319028",
+            "0x742028",
+            "0x76c030",
+            "0x770028",
+            "0x78b98e",
+            "0x78bc72",
+            "0x78df9e"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2010"
+        ],
+        "Insyde BIOS": [
+            "0x30108e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

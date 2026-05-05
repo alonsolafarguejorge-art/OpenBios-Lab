@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:45.837948",
+    "file_path": "E:\\hp630 wd hm55.bin",
+    "file_name": "hp630 wd hm55.bin",
+    "file_size_bytes": 4194368,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x203028",
+            "0x213028",
+            "0x3a1028",
+            "0x3af804",
+            "0x3b0e72",
+            "0x3b5f5f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x3f41fe",
+            "0x3f43de"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:55.400501",
+    "file_path": "E:\\Acer aspire 8510t.bin",
+    "file_name": "Acer aspire 8510t.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x4e028",
+            "0x50028",
+            "0x1d0028",
+            "0x1d91a5",
+            "0x1e718f"
+        ],
+        "Insyde BIOS": [
+            "0x4074"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

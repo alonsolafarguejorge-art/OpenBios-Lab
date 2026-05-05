@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:29.305881",
+    "file_path": "E:\\Bios Hp Compaq\\hp 14m-dw0023dx\\New Bios.BIN",
+    "file_name": "New Bios.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1d13d",
+            "0x40028",
+            "0x40834",
+            "0x410f4",
+            "0x42ec5",
+            "0x592a1",
+            "0x6f2eb",
+            "0x7cc3e",
+            "0xfe187",
+            "0xffe40",
+            "0xffe68"
+        ],
+        "AMI BIOS": [
+            "0x8256b",
+            "0x8286b",
+            "0x8bac9"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

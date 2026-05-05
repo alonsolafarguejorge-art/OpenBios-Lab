@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:16.813351",
+    "file_path": "E:\\Bios Hp Compaq\\elite book 2560p 6050a2400201-mb-a02\\__MACOSX\\._HP 2560P 6050A2400201.BIN",
+    "file_name": "._HP 2560P 6050A2400201.BIN",
+    "file_size_bytes": 212,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

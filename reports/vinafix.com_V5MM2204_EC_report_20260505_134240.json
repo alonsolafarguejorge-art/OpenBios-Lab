@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:40.723147",
+    "file_path": "E:\\Bios Acer\\Acer-Gateway Compal LA-A021P Acer R7-572\\V5MM2204 LA-A021P\\vinafix.com_V5MM2204_EC.bin",
+    "file_name": "vinafix.com_V5MM2204_EC.bin",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

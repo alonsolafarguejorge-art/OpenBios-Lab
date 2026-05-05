@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:21.957674",
+    "file_path": "E:\\GIGABYTE GA-8I845GV.bin",
+    "file_name": "GIGABYTE GA-8I845GV.bin",
+    "file_size_bytes": 393216,
+    "file_size_mb": 0.38,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

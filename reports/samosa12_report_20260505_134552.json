@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:52.961307",
+    "file_path": "E:\\Bios Dell\\Dell mini 1018 1012 compal la-6501p la-5732P pim10 Nim10\\samosa12.rom",
+    "file_name": "samosa12.rom",
+    "file_size_bytes": 2101478,
+    "file_size_mb": 2.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x1ec523",
+            "0x1ec556"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

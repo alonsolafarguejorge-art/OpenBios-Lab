@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:40.946029",
+    "file_path": "E:\\dell 1440 with ibm.BIN",
+    "file_name": "dell 1440 with ibm.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x5001c",
+            "0x54e05",
+            "0x579ee",
+            "0xf7e14",
+            "0x12681e",
+            "0x1268a9",
+            "0x1339ec",
+            "0x133a79"
+        ],
+        "Insyde BIOS": [
+            "0x4074"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

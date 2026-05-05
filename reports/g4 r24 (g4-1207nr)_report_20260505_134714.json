@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:14.898647",
+    "file_path": "E:\\Bios Hp Compaq\\HP G4\\g4 r24 (g4-1207nr).bin",
+    "file_name": "g4 r24 (g4-1207nr).bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x23028",
+            "0x31028",
+            "0x180028",
+            "0x1b6399",
+            "0x1b67b3",
+            "0x1bb6ef"
+        ],
+        "AMI BIOS": [
+            "0x1ced2e",
+            "0x1cef0e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

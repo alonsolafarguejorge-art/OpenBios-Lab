@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:28.544495",
+    "file_path": "E:\\C560 CIH81S LA-A061P Rev 1A N14MGE2BNB N25Q064A.BIN",
+    "file_name": "C560 CIH81S LA-A061P Rev 1A N14MGE2BNB N25Q064A.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x431028",
+            "0x6cd028",
+            "0x6fb030",
+            "0x700028",
+            "0x72f299",
+            "0x72f66e",
+            "0x730e03"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

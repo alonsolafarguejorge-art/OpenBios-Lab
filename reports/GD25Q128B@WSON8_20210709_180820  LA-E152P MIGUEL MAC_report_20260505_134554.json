@@ -1,0 +1,45 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:54.706397",
+    "file_path": "E:\\Bios Dell\\DELL PRECISION 3520\\dell Precision 3520\\GD25Q128B@WSON8_20210709_180820  LA-E152P MIGUEL MAC.BIN",
+    "file_name": "GD25Q128B@WSON8_20210709_180820  LA-E152P MIGUEL MAC.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x700028",
+            "0x750028",
+            "0x7b0028",
+            "0x810028",
+            "0x821028",
+            "0x861028",
+            "0x871028",
+            "0xd50028",
+            "0xe50028",
+            "0xf00028",
+            "0xf03570",
+            "0xf8cc77",
+            "0xf9da4b",
+            "0xfc7173",
+            "0xfcf3f8",
+            "0xfff5a5"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x5c196b",
+            "0x7514c3",
+            "0x7532b1",
+            "0x7b14c3",
+            "0x7b32b1",
+            "0xf99bb5",
+            "0xfd2fcb"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

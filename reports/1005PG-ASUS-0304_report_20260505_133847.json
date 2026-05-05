@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:47.843245",
+    "file_path": "E:\\1005PG-ASUS-0304.ROM",
+    "file_name": "1005PG-ASUS-0304.ROM",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x596a",
+            "0x59b4",
+            "0x10000",
+            "0x15315",
+            "0x63fea",
+            "0x68000",
+            "0x7038c"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

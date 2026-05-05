@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:10.089301",
+    "file_path": "E:\\Bios Asus\\ASUS VivoBook 15 X510UR\\W25Q64BV_20210626_180515 asus  510ur mario pelirojo_Repaired.Bin",
+    "file_name": "W25Q64BV_20210626_180515 asus  510ur mario pelirojo_Repaired.Bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x220028",
+            "0x250028",
+            "0x610028",
+            "0x6a0028",
+            "0x6ae65a",
+            "0x720028",
+            "0x720b67",
+            "0x7225a5",
+            "0x734ff6",
+            "0x73dcb2",
+            "0x7a0cab",
+            "0x7ff385"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2210fb",
+            "0x7174f9",
+            "0x733db1",
+            "0x7b0beb"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

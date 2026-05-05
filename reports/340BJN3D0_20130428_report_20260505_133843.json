@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:43.265329",
+    "file_path": "E:\\340BJN3D0_20130428.bin",
+    "file_name": "340BJN3D0_20130428.bin",
+    "file_size_bytes": 1492076,
+    "file_size_mb": 1.42,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

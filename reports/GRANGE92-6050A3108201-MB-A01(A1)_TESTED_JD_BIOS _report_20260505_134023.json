@@ -1,0 +1,58 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:23.023678",
+    "file_path": "E:\\GRANGE92-6050A3108201-MB-A01(A1)_TESTED_JD_BIOS .bin",
+    "file_name": "GRANGE92-6050A3108201-MB-A01(A1)_TESTED_JD_BIOS .bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x3cb028",
+            "0x436028",
+            "0x4ba030",
+            "0x4be028",
+            "0x88e028",
+            "0xac0028",
+            "0xadab60",
+            "0xb00028",
+            "0xb44670",
+            "0xbc0028",
+            "0xc38028",
+            "0xc3d028",
+            "0xc3f27b",
+            "0xc9cb28",
+            "0xd2d028",
+            "0xd2eaa4",
+            "0xd4c060",
+            "0xd4c278",
+            "0xd70028",
+            "0xd8ab60",
+            "0xdb0028",
+            "0xdf4670",
+            "0xe70028",
+            "0xee8028",
+            "0xeed028",
+            "0xeef27b",
+            "0xf4cb28",
+            "0xfdd028",
+            "0xfdeaa4",
+            "0xffc060",
+            "0xffc278",
+            "0xffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2000"
+        ],
+        "AMI BIOS": [
+            "0xb5dd6e",
+            "0xb5df4e",
+            "0xe0dd6e",
+            "0xe0df4e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

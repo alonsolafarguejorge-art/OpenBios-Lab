@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:37.899552",
+    "file_path": "E:\\DA0R33MB6E0 REV E CE.BIN",
+    "file_name": "DA0R33MB6E0 REV E CE.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x76028",
+            "0xf0028"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

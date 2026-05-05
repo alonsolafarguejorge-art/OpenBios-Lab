@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:12.441974",
+    "file_path": "E:\\BIOS\\X550LC 2.0\\W25Q64_20190205_161903bckup - copia.BIN",
+    "file_name": "W25Q64_20190205_161903bckup - copia.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x210028",
+            "0x280028",
+            "0x750028",
+            "0x789990",
+            "0x789add",
+            "0x78ddd4",
+            "0x7aa276",
+            "0x7ff770"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x2104e7",
+            "0x216174"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

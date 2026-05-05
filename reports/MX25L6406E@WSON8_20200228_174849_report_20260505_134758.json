@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:58.926614",
+    "file_path": "E:\\Bios Sony\\SONY SVT131A11W (SVT131A11L) MBX-265 Z30UL S1206-1\\MX25L6406E@WSON8_20200228_174849.BIN",
+    "file_name": "MX25L6406E@WSON8_20200228_174849.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1a4028",
+            "0x714028",
+            "0x73e030",
+            "0x740028",
+            "0x75f285",
+            "0x75f69c",
+            "0x760e3b"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2085a9"
+        ],
+        "Insyde BIOS": [
+            "0x188074"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

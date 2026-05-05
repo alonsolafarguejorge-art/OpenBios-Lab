@@ -1,0 +1,40 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:56.130129",
+    "file_path": "E:\\Bios Dell\\Dell Vostro 3583 EDI73 LA-G711P Rev 1.0 (A00)\\EDI73 LA-G711P Rev 1.0 (A00).BIN",
+    "file_name": "EDI73 LA-G711P Rev 1.0 (A00).BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x460028",
+            "0x4c0028",
+            "0x4d0028",
+            "0x511028",
+            "0x521028",
+            "0xd20028",
+            "0xe20028",
+            "0xf10028",
+            "0xf17934",
+            "0xf28424",
+            "0xf53b54",
+            "0xf5fa56",
+            "0xf735df",
+            "0xfd6c96",
+            "0xffed06"
+        ],
+        "Intel Flash Descriptor": [
+            "0x52000"
+        ],
+        "AMI BIOS": [
+            "0x4017af",
+            "0xfda8ff"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

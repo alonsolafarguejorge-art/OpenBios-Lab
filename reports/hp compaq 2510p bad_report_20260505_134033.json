@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:33.189683",
+    "file_path": "E:\\hp compaq 2510p bad.bin",
+    "file_name": "hp compaq 2510p bad.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x1000",
+            "0x8a7c",
+            "0x76c0c",
+            "0x7f218"
+        ],
+        "AMI BIOS": [
+            "0x31e2a9"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

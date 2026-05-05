@@ -1,0 +1,42 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:24.667531",
+    "file_path": "E:\\H81M-C-asus (1).bin",
+    "file_name": "H81M-C-asus (1).bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1c0028",
+            "0x1f0028",
+            "0x200028",
+            "0x240028",
+            "0x600028",
+            "0x655199",
+            "0x6552e6",
+            "0x657836",
+            "0x679ea9",
+            "0x6ff410",
+            "0x700028",
+            "0x755199",
+            "0x7552e6",
+            "0x757836",
+            "0x779ea9",
+            "0x7ff410"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x1809af",
+            "0x6c255c",
+            "0x7c255c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

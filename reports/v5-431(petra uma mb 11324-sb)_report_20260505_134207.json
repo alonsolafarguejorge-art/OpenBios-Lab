@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:07.778893",
+    "file_path": "E:\\v5-431(petra uma mb 11324-sb).BIN",
+    "file_name": "v5-431(petra uma mb 11324-sb).BIN",
+    "file_size_bytes": 8388672,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1e8028",
+            "0x620028",
+            "0x700028",
+            "0x707858",
+            "0x70ca1f",
+            "0x70ca49",
+            "0x71acb4",
+            "0x71acde",
+            "0x765a5f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Insyde BIOS": [
+            "0x6e8074"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

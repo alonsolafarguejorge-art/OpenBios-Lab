@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:41.105978",
+    "file_path": "E:\\HP Probook 4545s.bin",
+    "file_name": "HP Probook 4545s.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x21028",
+            "0x240028",
+            "0x280028",
+            "0x310028",
+            "0x369f8d",
+            "0x36e630"
+        ],
+        "AMI BIOS": [
+            "0x3045e3"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

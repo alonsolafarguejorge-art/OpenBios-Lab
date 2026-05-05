@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:53.324236",
+    "file_path": "E:\\Bios Samsung\\Samsung NP-N150-JP0ARU BLOOMINGTON-DDR3 BA41-01400A\\__MACOSX\\._Bloomington (BA41-01400A) Rev MP1.1.bin",
+    "file_name": "._Bloomington (BA41-01400A) Rev MP1.1.bin",
+    "file_size_bytes": 216,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

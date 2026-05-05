@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:50.671848",
+    "file_path": "E:\\dell pp19s bios.bin",
+    "file_name": "dell pp19s bios.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xebc75"
+        ],
+        "Phoenix BIOS": [
+            "0xec2d8",
+            "0xec30c"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

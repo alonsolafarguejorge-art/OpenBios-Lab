@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:57.045603",
+    "file_path": "E:\\Bios Samsung\\Samsung SAMSUNG RV415 AMD\\GD25Q16_20190416_130949-AMD.BIN",
+    "file_name": "GD25Q16_20190416_130949-AMD.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x10028",
+            "0x20028",
+            "0x1a0028",
+            "0x1a119c",
+            "0x1a24c2"
+        ],
+        "AMI BIOS": [
+            "0x1101",
+            "0x10278",
+            "0x1043d",
+            "0x106ca"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

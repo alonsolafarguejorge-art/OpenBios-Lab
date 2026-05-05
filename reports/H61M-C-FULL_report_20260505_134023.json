@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:23.911772",
+    "file_path": "E:\\H61M-C-FULL.BIN",
+    "file_name": "H61M-C-FULL.BIN",
+    "file_size_bytes": 8390656,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180828",
+            "0x1f0828",
+            "0x230828",
+            "0x680828",
+            "0x700828",
+            "0x780828",
+            "0x7824c5",
+            "0x78263b",
+            "0x784941",
+            "0x792432",
+            "0x7bfe35",
+            "0x7c0828",
+            "0x7c24c5",
+            "0x7c263b",
+            "0x7c4941",
+            "0x7d2432",
+            "0x7ffe35"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1810"
+        ],
+        "AMI BIOS": [
+            "0x181194",
+            "0x42aa57"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:35.756223",
+    "file_path": "E:\\d270 (da0ze7mb6d0).BIN",
+    "file_name": "d270 (da0ze7mb6d0).BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x25028"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:49.144647",
+    "file_path": "E:\\INSPIRON 5521-3521-I7-GEFORS-SMALL-OK-1.bin",
+    "file_name": "INSPIRON 5521-3521-I7-GEFORS-SMALL-OK-1.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x100028",
+            "0x130030",
+            "0x140028",
+            "0x163b97",
+            "0x163f8a",
+            "0x16573b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

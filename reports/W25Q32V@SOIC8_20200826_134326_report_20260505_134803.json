@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:03.445562",
+    "file_path": "E:\\Bios Toshiba\\Toshiba Satellite C40D (PSCJ6x)\\W25Q32V@SOIC8_20200826_134326.BIN",
+    "file_name": "W25Q32V@SOIC8_20200826_134326.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x34f028",
+            "0x37d030",
+            "0x383028",
+            "0x3c053f",
+            "0x3c08fb",
+            "0x3c2c53",
+            "0x3c3179"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

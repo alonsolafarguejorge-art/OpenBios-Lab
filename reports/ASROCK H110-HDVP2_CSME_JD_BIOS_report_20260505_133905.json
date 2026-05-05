@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:05.107102",
+    "file_path": "E:\\ASROCK H110-HDVP2_CSME_JD_BIOS.BIN",
+    "file_name": "ASROCK H110-HDVP2_CSME_JD_BIOS.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x200028",
+            "0x244028",
+            "0x660028",
+            "0x6a0028",
+            "0x6a0d0d",
+            "0x6a2ef2",
+            "0x6af60a",
+            "0x6ce03d",
+            "0x6d2998",
+            "0x70d643",
+            "0x784d73",
+            "0x78cb1b",
+            "0x7fdce5",
+            "0x7fe028",
+            "0x7ffebf"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x200e2f",
+            "0x704508"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

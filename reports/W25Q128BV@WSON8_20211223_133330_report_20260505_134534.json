@@ -1,0 +1,44 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:34.473769",
+    "file_path": "E:\\Bios Dell\\Dell G3 3579 3779  La-F612P Rev 1.0 ME CLEAN (1)\\Dell G3 3579 3779 1.8.0 ME_CLEAN\\W25Q128BV@WSON8_20211223_133330.BIN",
+    "file_name": "W25Q128BV@WSON8_20211223_133330.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x700028",
+            "0x750028",
+            "0x7b0028",
+            "0x810028",
+            "0x821028",
+            "0x861028",
+            "0x871028",
+            "0xd40028",
+            "0xe40028",
+            "0xf10028",
+            "0xf17934",
+            "0xf28421",
+            "0xf5c91b",
+            "0xf6a9bd",
+            "0xfcdf53",
+            "0xffed06"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2000"
+        ],
+        "AMI BIOS": [
+            "0x75177e",
+            "0x75930b",
+            "0x7b177e",
+            "0x7b930b",
+            "0xfca86d",
+            "0xfd19de"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

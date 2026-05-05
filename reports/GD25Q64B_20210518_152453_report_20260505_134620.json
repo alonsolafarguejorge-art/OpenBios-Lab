@@ -1,0 +1,47 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:20.090820",
+    "file_path": "E:\\Bios Hp Compaq\\HP 14 DA0P9CMB6C0 REV C\\GD25Q64B_20210518_152453.BIN",
+    "file_name": "GD25Q64B_20210518_152453.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0xa5028",
+            "0xa7cb0",
+            "0xa8028",
+            "0xa9805",
+            "0xb3765",
+            "0xb4f9c",
+            "0xba37a",
+            "0xba5e0",
+            "0xc26f8",
+            "0xe9028",
+            "0xeb1be",
+            "0xf0016",
+            "0x14f028",
+            "0x173ed3",
+            "0x1db028",
+            "0x207028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5a3f1",
+            "0x6164a",
+            "0x61670",
+            "0x69164"
+        ],
+        "AMI BIOS": [
+            "0x12079b",
+            "0x12aae0",
+            "0x12b930",
+            "0x12b980",
+            "0x197527",
+            "0x19770f"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

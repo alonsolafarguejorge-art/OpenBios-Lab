@@ -1,0 +1,46 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:50.427411",
+    "file_path": "E:\\Bios Hp Compaq\\HP 20 da0n69mb6e0\\HP All-in-One -20-e003la (ENERGY STAR) Quanta N69 DA0N69MB6E0 bios\\ICE_A008.bin",
+    "file_name": "ICE_A008.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x140028",
+            "0x180028",
+            "0x6c0028",
+            "0x6c4ce0",
+            "0x6c4e32",
+            "0x6c9194",
+            "0x75fd7e",
+            "0x75fd8f",
+            "0x75fda0",
+            "0x75fdb1",
+            "0x760028",
+            "0x764ce0",
+            "0x764e32",
+            "0x769194",
+            "0x7ffd7e",
+            "0x7ffd8f",
+            "0x7ffda0",
+            "0x7ffdb1"
+        ],
+        "AMI BIOS": [
+            "0x1401f9",
+            "0x3065dd",
+            "0x733b6c",
+            "0x73a2d3",
+            "0x73a5d3",
+            "0x7d3b6c",
+            "0x7da2d3",
+            "0x7da5d3"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

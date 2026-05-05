@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:25.699632",
+    "file_path": "E:\\Bios Dell\\dell 3048    13048-1 tigris  70MRT$CA\\13048-1 tigris  OK.BIN",
+    "file_name": "13048-1 tigris  OK.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x200028",
+            "0x220028",
+            "0x250028",
+            "0x290028",
+            "0x2f0028",
+            "0x700028",
+            "0x73172d",
+            "0x731876",
+            "0x73515e",
+            "0x757956",
+            "0x7ff770"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x204843",
+            "0x22971e",
+            "0x72cca4",
+            "0x72f27c",
+            "0x730a10",
+            "0x77faa4"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

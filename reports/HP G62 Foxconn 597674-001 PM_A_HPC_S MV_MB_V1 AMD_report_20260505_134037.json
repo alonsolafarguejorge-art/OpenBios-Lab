@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:37.341895",
+    "file_path": "E:\\HP G62 Foxconn 597674-001 PM_A_HPC_S MV_MB_V1 AMD.bin",
+    "file_name": "HP G62 Foxconn 597674-001 PM_A_HPC_S MV_MB_V1 AMD.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x13028",
+            "0x186028",
+            "0x196028",
+            "0x19d028",
+            "0x1aa028",
+            "0x1dedec",
+            "0x1df63c",
+            "0x1e2bd3"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:08.260487",
+    "file_path": "E:\\Bios Hp Compaq\\HP EliteBook 850 G3 6050A2892401-MB-A01\\BACKUP MX25L64 SERIE 5CG7271R5K.bin",
+    "file_name": "BACKUP MX25L64 SERIE 5CG7271R5K.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0xff028",
+            "0x5a8028",
+            "0x663028",
+            "0x665677",
+            "0x66ca80",
+            "0x719d4b",
+            "0x73bdb8",
+            "0x7fe028"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

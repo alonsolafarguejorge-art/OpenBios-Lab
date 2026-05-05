@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:47.668217",
+    "file_path": "E:\\Dell Inspiron N4030_M5010_N5010-A07.rom",
+    "file_name": "Dell Inspiron N4030_M5010_N5010-A07.rom",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x170028",
+            "0x180028",
+            "0x1acd0e",
+            "0x1ae033"
+        ],
+        "AMI BIOS": [
+            "0x1701e9",
+            "0x170372"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

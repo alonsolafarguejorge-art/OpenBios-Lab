@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:46.198975",
+    "file_path": "E:\\Bios Hp Compaq\\hp 15-p042 DAY23AMB6C0-OK.bin\\__MACOSX\\._hp 15-p042 DAY23AMB6C0-OK.bin",
+    "file_name": "._hp 15-p042 DAY23AMB6C0-OK.bin",
+    "file_size_bytes": 213,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:15.898899",
+    "file_path": "E:\\ASUS X509FA_TESTED.BIN",
+    "file_name": "ASUS X509FA_TESTED.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x940028",
+            "0x970028",
+            "0xbd9d9b",
+            "0xbdba1a",
+            "0xd50028",
+            "0xde0028",
+            "0xde86de",
+            "0xdf9d9e",
+            "0xe60028",
+            "0xe60098",
+            "0xf00028",
+            "0xf04028",
+            "0xf066ec",
+            "0xf52bb3",
+            "0xf60028",
+            "0xf95c76",
+            "0xf95de9",
+            "0xf97f32",
+            "0xfaac26",
+            "0xfaad45",
+            "0xfb6808",
+            "0xfc5a54",
+            "0xfd126c",
+            "0xffe94e",
+            "0xffecd0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2000"
+        ],
+        "AMI BIOS": [
+            "0x94156a",
+            "0xb23d88",
+            "0xbd2440",
+            "0xfda8c2"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

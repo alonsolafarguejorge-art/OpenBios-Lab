@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:55.079635",
+    "file_path": "E:\\Acer Aspire 5742G +HM55+NVIDIA N11P-GE-A1+LA-5893P.bin",
+    "file_name": "Acer Aspire 5742G +HM55+NVIDIA N11P-GE-A1+LA-5893P.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x280028",
+            "0x281028",
+            "0x390028",
+            "0x3a0028",
+            "0x3ad488",
+            "0x3b0dca"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

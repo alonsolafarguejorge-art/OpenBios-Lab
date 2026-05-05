@@ -1,0 +1,68 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:49.716613",
+    "file_path": "E:\\Bin\\Alienware_15_R2_P42F_AAP21_LA-C912P_REV2.0(A01)_clear.bin",
+    "file_name": "Alienware_15_R2_P42F_AAP21_LA-C912P_REV2.0(A01)_clear.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x822028",
+            "0x842028",
+            "0x872028",
+            "0xb30268",
+            "0xda0028",
+            "0xe20028",
+            "0xe20b8d",
+            "0xe22e87",
+            "0xe85d3b",
+            "0xf0add8",
+            "0xf1c43a",
+            "0xf33e9f",
+            "0xfffd7d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x8220f1",
+            "0x8224e8",
+            "0x823c97",
+            "0x826fdd",
+            "0x827024",
+            "0x827194",
+            "0x82bb2e",
+            "0x82dde2",
+            "0x8420f1",
+            "0x8424e8",
+            "0x843c97",
+            "0x846f9c",
+            "0x846fe3",
+            "0x847153",
+            "0x8506a7",
+            "0xa6231c",
+            "0xa62330",
+            "0xa6236e",
+            "0xa62381",
+            "0xa65f01",
+            "0xa65f16",
+            "0xa65ff5",
+            "0xa66009",
+            "0xa69a7f",
+            "0xa69a94",
+            "0xa69b73",
+            "0xa69b87",
+            "0xa6b5e4",
+            "0xa6b5f7",
+            "0xe749b8",
+            "0xf19e85",
+            "0xf35021",
+            "0xf71656"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

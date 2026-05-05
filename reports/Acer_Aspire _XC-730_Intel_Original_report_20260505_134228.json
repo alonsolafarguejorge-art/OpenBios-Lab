@@ -1,0 +1,44 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:28.204649",
+    "file_path": "E:\\Bios Acer\\Acer_Aspire _XC-730_Intel_Original.bin",
+    "file_name": "Acer_Aspire _XC-730_Intel_Original.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x86468",
+            "0x87468",
+            "0xb9ec5",
+            "0xc809b",
+            "0xd349c",
+            "0x782028",
+            "0x784028",
+            "0xb47028",
+            "0xb4d028",
+            "0xb6d028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5b50b",
+            "0x625d8",
+            "0x625fe",
+            "0x6937c",
+            "0xeff000"
+        ],
+        "AMI BIOS": [
+            "0x96720",
+            "0x237aa3",
+            "0xb4d7a5",
+            "0xb51c17",
+            "0xb534a7",
+            "0xb6d7a5",
+            "0xb71c17",
+            "0xb734a7"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

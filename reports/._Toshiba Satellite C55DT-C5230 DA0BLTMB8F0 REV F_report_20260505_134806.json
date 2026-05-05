@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:06.891741",
+    "file_path": "E:\\Bios Toshiba\\TOSHIBA SATELLITE L55D-C5204R PSKXNU-00RNC1 DA0BLTMB8F0 REV F\\__MACOSX\\._Toshiba Satellite C55DT-C5230 DA0BLTMB8F0 REV F.bin",
+    "file_name": "._Toshiba Satellite C55DT-C5230 DA0BLTMB8F0 REV F.bin",
+    "file_size_bytes": 212,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

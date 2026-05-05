@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:48.442928",
+    "file_path": "E:\\Dell LA-9982P me done.bin",
+    "file_name": "Dell LA-9982P me done.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x402028",
+            "0x6ce028",
+            "0x6fc030",
+            "0x700028",
+            "0x7311c3",
+            "0x731598",
+            "0x732e8b"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x437d11",
+            "0x5aa07d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

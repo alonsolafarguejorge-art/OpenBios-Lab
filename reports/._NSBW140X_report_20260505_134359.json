@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:59.765353",
+    "file_path": "E:\\BIOS\\S2-NSBW140X MB_V1\\__MACOSX\\._NSBW140X.BIN",
+    "file_name": "._NSBW140X.BIN",
+    "file_size_bytes": 216,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

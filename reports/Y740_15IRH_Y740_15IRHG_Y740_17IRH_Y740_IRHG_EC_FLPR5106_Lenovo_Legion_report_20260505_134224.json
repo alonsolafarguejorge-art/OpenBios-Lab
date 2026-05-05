@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:24.452645",
+    "file_path": "E:\\Y740_15IRH_Y740_15IRHG_Y740_17IRH_Y740_IRHG_EC_FLPR5106_Lenovo_Legion.bin",
+    "file_name": "Y740_15IRH_Y740_15IRHG_Y740_17IRH_Y740_IRHG_EC_FLPR5106_Lenovo_Legion.bin",
+    "file_size_bytes": 163840,
+    "file_size_mb": 0.16,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

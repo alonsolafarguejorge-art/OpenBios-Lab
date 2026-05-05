@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:14.782328",
+    "file_path": "E:\\Bios Hp Compaq\\hp-15-bd003tx-la-d704p-rev40-bid81ec-W25Q64-ME.BIN",
+    "file_name": "hp-15-bd003tx-la-d704p-rev40-bid81ec-W25Q64-ME.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x244028",
+            "0x278030",
+            "0x33c028",
+            "0x71f028",
+            "0x728e63",
+            "0x7ec933"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x7eb7c6",
+            "0x7eb9a6"
+        ],
+        "Insyde BIOS": [
+            "0x21000a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

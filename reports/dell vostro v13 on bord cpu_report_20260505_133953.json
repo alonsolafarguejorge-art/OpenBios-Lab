@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:53.213730",
+    "file_path": "E:\\dell vostro v13 on bord cpu.BIN",
+    "file_name": "dell vostro v13 on bord cpu.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x7348e",
+            "0x734c1"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

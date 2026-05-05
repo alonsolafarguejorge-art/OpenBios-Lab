@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:07.911308",
+    "file_path": "E:\\Bios Asus\\ASUS S300C Mainboard S300CA\\S300CA.305.BIN",
+    "file_name": "S300CA.305.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x210028",
+            "0x280028",
+            "0x764028",
+            "0x793d75",
+            "0x793ec5",
+            "0x795e55",
+            "0x7a389f",
+            "0x7ff710"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x210385"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

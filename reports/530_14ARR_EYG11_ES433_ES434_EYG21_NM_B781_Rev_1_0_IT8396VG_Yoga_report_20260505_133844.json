@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:44.812054",
+    "file_path": "E:\\530_14ARR_EYG11_ES433_ES434_EYG21_NM_B781_Rev_1_0_IT8396VG_Yoga.bin",
+    "file_name": "530_14ARR_EYG11_ES433_ES434_EYG21_NM_B781_Rev_1_0_IT8396VG_Yoga.bin",
+    "file_size_bytes": 196608,
+    "file_size_mb": 0.19,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

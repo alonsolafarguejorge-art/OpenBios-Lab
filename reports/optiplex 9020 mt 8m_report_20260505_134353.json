@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:53.387933",
+    "file_path": "E:\\BIOS\\optiplex 9020m\\optiplex 9020 mt 8m.BIN",
+    "file_name": "optiplex 9020 mt 8m.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x600028",
+            "0x620028",
+            "0x690028",
+            "0x6f0028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5010"
+        ],
+        "AMI BIOS": [
+            "0x6020cf",
+            "0x602a44",
+            "0x6220cf",
+            "0x622a44"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

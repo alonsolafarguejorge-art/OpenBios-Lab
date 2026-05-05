@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:52.080653",
+    "file_path": "E:\\sony ee read ok.rom",
+    "file_name": "sony ee read ok.rom",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x10028",
+            "0x186028",
+            "0x196028",
+            "0x19d028",
+            "0x1d187a",
+            "0x1d1f79",
+            "0x1d537b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

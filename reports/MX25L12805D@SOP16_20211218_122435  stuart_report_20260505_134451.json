@@ -1,0 +1,44 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:51.528994",
+    "file_path": "E:\\Bios Lenovo IBM\\thinkcentre m900 y mas\\MX25L12805D@SOP16_20211218_122435  stuart.BIN",
+    "file_name": "MX25L12805D@SOP16_20211218_122435  stuart.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x800028",
+            "0x820028",
+            "0x870028",
+            "0x8aa020",
+            "0xde0028",
+            "0xe80028",
+            "0xe80bdd",
+            "0xe8340f",
+            "0xeaab36",
+            "0xeb5973",
+            "0xf33113",
+            "0xf3b70c",
+            "0xf44b8a",
+            "0xf5c215",
+            "0xf6151e",
+            "0xfffd7d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x8011c4",
+            "0x803fb7",
+            "0x8211c4",
+            "0x82402d",
+            "0xe9bbf1",
+            "0xf41571"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

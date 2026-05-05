@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:30.157664",
+    "file_path": "E:\\BIOS\\DA0V08MB6D1\\Vostro 3460-A19.BIN",
+    "file_name": "Vostro 3460-A19.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x660028",
+            "0x6ef028",
+            "0x750028",
+            "0x756ad8",
+            "0x76d98c",
+            "0x76d9b6",
+            "0x7bb78f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Phoenix BIOS": [
+            "0x672e74",
+            "0x672ea7",
+            "0x672f17",
+            "0x672f4a",
+            "0x67310f",
+            "0x673142"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

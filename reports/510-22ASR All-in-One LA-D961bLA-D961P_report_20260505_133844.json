@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:44.148262",
+    "file_path": "E:\\510-22ASR All-in-One LA-D961bLA-D961P.BIN",
+    "file_name": "510-22ASR All-in-One LA-D961bLA-D961P.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x37028",
+            "0x287028",
+            "0x2b9298",
+            "0x600028",
+            "0x600c4d",
+            "0x602917",
+            "0x6336fc",
+            "0x63a47b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

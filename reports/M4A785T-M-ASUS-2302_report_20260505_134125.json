@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:25.341223",
+    "file_path": "E:\\M4A785T-M-ASUS-2302.ROM",
+    "file_name": "M4A785T-M-ASUS-2302.ROM",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xaf405",
+            "0xcffea",
+            "0xe0000",
+            "0xf004c",
+            "0xf040c",
+            "0xf1183",
+            "0xf118f"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

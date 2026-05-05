@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:57.200015",
+    "file_path": "E:\\k45d amd -da0xy1mb6e0 rev.e.bin",
+    "file_name": "k45d amd -da0xy1mb6e0 rev.e.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x50028",
+            "0x80028",
+            "0x380028",
+            "0x381a26",
+            "0x383ac1"
+        ],
+        "AMI BIOS": [
+            "0x301e4",
+            "0x3046b",
+            "0x3074a",
+            "0x30c6b",
+            "0x501e4",
+            "0x5046b",
+            "0x5074a",
+            "0x50c6b",
+            "0x171f99"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

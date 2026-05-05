@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:57.943710",
+    "file_path": "E:\\Bios Sony\\SONY PCG-5K2T DAGD1BMB8BO MBX-177A REV.B.BIN\\SONY PCG-5K2T DAGD1BMB8BO MBX-177A REV.B.BIN",
+    "file_name": "SONY PCG-5K2T DAGD1BMB8BO MBX-177A REV.B.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xebd3c",
+            "0xebd70"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

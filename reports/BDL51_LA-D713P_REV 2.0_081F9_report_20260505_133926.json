@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:26.175941",
+    "file_path": "E:\\BDL51_LA-D713P_REV 2.0_081F9.bin",
+    "file_name": "BDL51_LA-D713P_REV 2.0_081F9.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x7b028",
+            "0xa9030",
+            "0xfe028",
+            "0x500028",
+            "0x6de028",
+            "0x6df028",
+            "0x6e1b14",
+            "0x6f79f6"
+        ],
+        "AMI BIOS": [
+            "0x6de09e",
+            "0x6de27e",
+            "0x791146",
+            "0x791326"
+        ],
+        "Insyde BIOS": [
+            "0x5100a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

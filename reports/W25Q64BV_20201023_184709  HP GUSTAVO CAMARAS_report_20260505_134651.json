@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:51.852948",
+    "file_path": "E:\\Bios Hp Compaq\\HP 20 IPISB-AB REV 1.02\\W25Q64BV_20201023_184709  HP GUSTAVO CAMARAS.BIN",
+    "file_name": "W25Q64BV_20201023_184709  HP GUSTAVO CAMARAS.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x440028",
+            "0x460028",
+            "0x480028",
+            "0x6e0028",
+            "0x72a0c6",
+            "0x72a7b3",
+            "0x72a94b",
+            "0x72eae3",
+            "0x73bd9a",
+            "0x7ff6b0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x440374",
+            "0x45c60a",
+            "0x460374",
+            "0x466114",
+            "0x7649d4",
+            "0x767ecc"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

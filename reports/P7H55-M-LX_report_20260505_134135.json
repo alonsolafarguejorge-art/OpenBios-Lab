@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:35.828267",
+    "file_path": "E:\\P7H55-M-LX.bin",
+    "file_name": "P7H55-M-LX.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x10010"
+        ],
+        "AMI BIOS": [
+            "0x755895",
+            "0x79ffea",
+            "0x7b0000",
+            "0x7d432f",
+            "0x7d435f",
+            "0x7d438b",
+            "0x7d43bb",
+            "0x7d43d3",
+            "0x7d43ff",
+            "0x7d4427",
+            "0x7d445b",
+            "0x7d448f",
+            "0x7d44ff",
+            "0x7d4523",
+            "0x7f004c",
+            "0x7f03ec"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:43.721181",
+    "file_path": "E:\\hp_110-1047tu_571370.BIN",
+    "file_name": "hp_110-1047tu_571370.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xdffea",
+            "0xf0040",
+            "0xf004c",
+            "0xf0378"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

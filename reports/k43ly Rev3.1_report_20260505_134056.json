@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:56.583939",
+    "file_path": "E:\\k43ly Rev3.1.BIN",
+    "file_name": "k43ly Rev3.1.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x210028",
+            "0x230028",
+            "0x370028",
+            "0x3e9a9a"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2102d7",
+            "0x211b1d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

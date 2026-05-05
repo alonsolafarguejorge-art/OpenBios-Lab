@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:04.977792",
+    "file_path": "E:\\Bios Toshiba\\Toshiba Satellite L50-B - DA0BLKMB6E0\\__MACOSX\\._Satellite L50-B - DA0BLKMB6E0 REV.Ebin.bin",
+    "file_name": "._Satellite L50-B - DA0BLKMB6E0 REV.Ebin.bin",
+    "file_size_bytes": 120,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

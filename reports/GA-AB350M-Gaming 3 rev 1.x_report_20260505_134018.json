@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:18.577783",
+    "file_path": "E:\\GA-AB350M-Gaming 3 rev 1.x.bin",
+    "file_name": "GA-AB350M-Gaming 3 rev 1.x.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x37028",
+            "0x647028",
+            "0xd00028",
+            "0xd00b8c",
+            "0xd02662",
+            "0xe331df",
+            "0xe561ee"
+        ],
+        "AMI BIOS": [
+            "0x373cd"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:19.737053",
+    "file_path": "E:\\Bios Lenovo IBM\\IdeaPad 3-17ADA05 GS450 GS550 & GS750 NM-C821 Rev 1.0\\W25Q64FV(QPI)_20211124_132706.BIN",
+    "file_name": "W25Q64FV(QPI)_20211124_132706.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x310028",
+            "0x360028",
+            "0x390028",
+            "0x3a0028",
+            "0x730028",
+            "0x7320c9",
+            "0x73a9eb",
+            "0x7b02c1",
+            "0x7b0347",
+            "0x7b040f",
+            "0x7b2697",
+            "0x7b2cc4",
+            "0x7bdc7f",
+            "0x7bdcac",
+            "0x7bdcd4"
+        ],
+        "Phoenix BIOS": [
+            "0x7afed9",
+            "0x7b1109",
+            "0x7b1719",
+            "0x7b1ec9",
+            "0x7b6431",
+            "0x7b6ed1",
+            "0x7b7c61",
+            "0x7b9019",
+            "0x7b9f69",
+            "0x7bab31",
+            "0x7bb9a9",
+            "0x7bd889",
+            "0x7be4e9",
+            "0x7c0401",
+            "0x7c0ec5",
+            "0x7c1ee9",
+            "0x7c2ad1",
+            "0x7c3149",
+            "0x7c3979",
+            "0x7c40a9",
+            "0x7c4729",
+            "0x7c4b99",
+            "0x7c5039",
+            "0x7c6311",
+            "0x7c68d1",
+            "0x7ffe79"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

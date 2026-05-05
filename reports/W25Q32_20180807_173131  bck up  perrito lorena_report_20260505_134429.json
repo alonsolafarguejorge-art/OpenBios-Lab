@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:29.657766",
+    "file_path": "E:\\Bios Lenovo IBM\\LENOVO G405 AMD E1\\W25Q32_20180807_173131  bck up  perrito lorena.BIN",
+    "file_name": "W25Q32_20180807_173131  bck up  perrito lorena.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x53028",
+            "0x337028",
+            "0x365030",
+            "0x36b028",
+            "0x3d9477",
+            "0x3d9829",
+            "0x3dc3eb",
+            "0x3dc90e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

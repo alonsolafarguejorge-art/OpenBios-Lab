@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:14.055054",
+    "file_path": "E:\\Asus x202E rev 2.0+F202E.bin",
+    "file_name": "Asus x202E rev 2.0+F202E.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x210028",
+            "0x280028",
+            "0x764028",
+            "0x791f8d",
+            "0x7920dd",
+            "0x794091",
+            "0x7a17e7",
+            "0x7ff710"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x21038f",
+            "0x2104fa",
+            "0x7c5aac",
+            "0x7c8e2c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

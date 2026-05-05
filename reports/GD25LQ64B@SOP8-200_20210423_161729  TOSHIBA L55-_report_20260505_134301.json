@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:01.181266",
+    "file_path": "E:\\BIOS\\GD25LQ64B@SOP8-200_20210423_161729  TOSHIBA L55-.BIN",
+    "file_name": "GD25LQ64B@SOP8-200_20210423_161729  TOSHIBA L55-.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x500028",
+            "0x53e030",
+            "0x550028",
+            "0x5d0028",
+            "0x790028",
+            "0x7b9931",
+            "0x7b9bdc",
+            "0x7e1028",
+            "0x7e29b6"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

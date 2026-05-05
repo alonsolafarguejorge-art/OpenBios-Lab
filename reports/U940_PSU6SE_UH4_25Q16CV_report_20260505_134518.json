@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:18.750860",
+    "file_path": "E:\\Bios Asus\\TOSHIBA_U940_LA_9161P_VCUAA_BIOS - copia\\U940_PSU6SE_UH4_25Q16CV.bin",
+    "file_name": "U940_PSU6SE_UH4_25Q16CV.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x160028",
+            "0x190eb0",
+            "0x190ff9",
+            "0x194d38",
+            "0x1a209a",
+            "0x1ff750"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

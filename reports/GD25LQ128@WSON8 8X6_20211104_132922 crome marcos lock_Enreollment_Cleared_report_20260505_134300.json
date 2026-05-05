@@ -1,0 +1,50 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:00.863470",
+    "file_path": "E:\\BIOS\\GD25LQ128@WSON8 8X6_20211104_132922 crome marcos lock_Enreollment_Cleared.bin",
+    "file_name": "GD25LQ128@WSON8 8X6_20211104_132922 crome marcos lock_Enreollment_Cleared.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x25aca0",
+            "0x25f4f1",
+            "0x264ca2",
+            "0x2c1028",
+            "0x491120",
+            "0x495971",
+            "0x49b122",
+            "0x4f8028",
+            "0x911120",
+            "0x915971",
+            "0x91b122",
+            "0x978028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x6432e",
+            "0x6b582",
+            "0x6b5a8",
+            "0x7306b",
+            "0xf7f000"
+        ],
+        "AMI BIOS": [
+            "0x28ff84",
+            "0x28ffcd",
+            "0x290e3b",
+            "0x29c7e6",
+            "0x4c6404",
+            "0x4c644d",
+            "0x4c72bb",
+            "0x4d2c66",
+            "0x946404",
+            "0x94644d",
+            "0x9472bb",
+            "0x952c66"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

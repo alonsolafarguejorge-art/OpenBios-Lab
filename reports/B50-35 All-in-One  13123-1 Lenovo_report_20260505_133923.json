@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:23.905589",
+    "file_path": "E:\\B50-35 All-in-One  13123-1 Lenovo.BIN",
+    "file_name": "B50-35 All-in-One  13123-1 Lenovo.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x40028",
+            "0x60028",
+            "0x80028",
+            "0x700028",
+            "0x71787f",
+            "0x7179d0",
+            "0x71be5f"
+        ],
+        "AMI BIOS": [
+            "0x420fc",
+            "0x42374",
+            "0x620fc",
+            "0x62374",
+            "0x7ddfa8",
+            "0x7e06fc",
+            "0x7e35f4"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

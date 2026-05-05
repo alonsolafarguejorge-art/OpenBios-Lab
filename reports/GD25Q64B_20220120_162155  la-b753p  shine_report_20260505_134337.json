@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:37.140972",
+    "file_path": "E:\\BIOS\\Echo 15 17 nVidia - LA-B751P  LA-B753P\\Dell Alienware 17 R2-LA-B753P\\GD25Q64B_20220120_162155  la-b753p  shine.BIN",
+    "file_name": "GD25Q64B_20220120_162155  la-b753p  shine.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x204028",
+            "0x224028",
+            "0x245028",
+            "0x720028",
+            "0x721c8f",
+            "0x723853",
+            "0x72fdb8",
+            "0x798020",
+            "0x7ffa63"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2046a2",
+            "0x204991",
+            "0x205de2",
+            "0x205e29",
+            "0x205f99",
+            "0x2246a2",
+            "0x224991",
+            "0x225de2",
+            "0x225e29",
+            "0x225f99"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

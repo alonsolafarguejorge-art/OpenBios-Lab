@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:58.662872",
+    "file_path": "E:\\acer extansa 4630z.bin",
+    "file_name": "acer extansa 4630z.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x24028",
+            "0x25028",
+            "0x1bc028",
+            "0x1dc028",
+            "0x1e324b",
+            "0x1f0d0e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

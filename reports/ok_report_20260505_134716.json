@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:16.480703",
+    "file_path": "E:\\Bios Hp Compaq\\HP HP 430 431 CQ43 CHICAGO_HR_HPC MV_MB_V1\\chicago-mt-hpc mv-mb-v1\\ok.BIN",
+    "file_name": "ok.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x25028",
+            "0x35028",
+            "0x1c0028",
+            "0x1cb0e6",
+            "0x1cc3d0",
+            "0x1d156b"
+        ],
+        "AMI BIOS": [
+            "0x1e6626",
+            "0x1e6806"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

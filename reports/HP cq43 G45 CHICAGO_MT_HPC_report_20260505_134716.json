@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:16.346523",
+    "file_path": "E:\\Bios Hp Compaq\\HP HP 430 431 CQ43 CHICAGO_HR_HPC MV_MB_V1\\HP cq43 G45 CHICAGO_MT_HPC.bin",
+    "file_name": "HP cq43 G45 CHICAGO_MT_HPC.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x25028",
+            "0x35028",
+            "0x1c0028",
+            "0x1cb19e",
+            "0x1cc479",
+            "0x1d164b"
+        ],
+        "AMI BIOS": [
+            "0x1e6706",
+            "0x1e68e6"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

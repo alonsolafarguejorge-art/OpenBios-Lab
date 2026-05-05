@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:58.976359",
+    "file_path": "E:\\BIOS\\e6440 32_al91  LA-9932P_216-0841009.bin",
+    "file_name": "e6440 32_al91  LA-9932P_216-0841009.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x32c7b0",
+            "0x32c8f9",
+            "0x330432",
+            "0x35342a",
+            "0x3ff790"
+        ],
+        "AMI BIOS": [
+            "0x32800c",
+            "0x32a5e4",
+            "0x32bd58",
+            "0x38862c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

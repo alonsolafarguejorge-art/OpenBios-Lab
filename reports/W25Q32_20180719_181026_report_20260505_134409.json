@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:09.015832",
+    "file_path": "E:\\BIOS\\vinafix.com_Asus_X550ZE_204\\W25Q32_20180719_181026.BIN",
+    "file_name": "W25Q32_20180719_181026.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x40028",
+            "0x60028",
+            "0x98028",
+            "0x348028",
+            "0x34d355",
+            "0x34d4a4",
+            "0x34fd41"
+        ],
+        "AMI BIOS": [
+            "0x40209",
+            "0x404f1",
+            "0x40639",
+            "0x60209",
+            "0x604f1",
+            "0x60639"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

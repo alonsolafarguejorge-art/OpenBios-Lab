@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:35.662281",
+    "file_path": "E:\\BIOS\\DINERAMD-6050A2822801-MB-A01\\W25Q64_20190508_154305 bck up.BIN",
+    "file_name": "W25Q64_20190508_154305 bck up.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x7b028",
+            "0xa9030",
+            "0xade28",
+            "0x500028",
+            "0x750028",
+            "0x755114",
+            "0x76a415"
+        ],
+        "AMI BIOS": [
+            "0x7e09b6",
+            "0x7e0b96"
+        ],
+        "Insyde BIOS": [
+            "0x114"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

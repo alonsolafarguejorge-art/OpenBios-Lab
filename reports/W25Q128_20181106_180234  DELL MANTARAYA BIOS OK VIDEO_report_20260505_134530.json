@@ -1,0 +1,45 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:30.019574",
+    "file_path": "E:\\Bios Dell\\DELL CAP10 LA-E321P REV 1.0  A00\\W25Q128_20181106_180234  DELL MANTARAYA BIOS OK VIDEO.BIN",
+    "file_name": "W25Q128_20181106_180234  DELL MANTARAYA BIOS OK VIDEO.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x700028",
+            "0x760028",
+            "0x7c0028",
+            "0x7d1028",
+            "0x811028",
+            "0x821028",
+            "0xd50028",
+            "0xe50028",
+            "0xf00028",
+            "0xf03610",
+            "0xf8eea9",
+            "0xf9fc97",
+            "0xfc95db",
+            "0xfd1980",
+            "0xfff5a5"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x7014c7",
+            "0x701a0e",
+            "0x71959a",
+            "0x7614c7",
+            "0x761a0e",
+            "0x76c665",
+            "0xf9bddd",
+            "0xfd55f7"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

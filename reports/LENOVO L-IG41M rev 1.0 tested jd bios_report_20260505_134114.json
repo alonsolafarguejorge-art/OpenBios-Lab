@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:14.362833",
+    "file_path": "E:\\LENOVO L-IG41M rev 1.0 tested jd bios.bin",
+    "file_name": "LENOVO L-IG41M rev 1.0 tested jd bios.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xc2000",
+            "0xcffea",
+            "0xe0000",
+            "0xf0040",
+            "0xf03b8"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

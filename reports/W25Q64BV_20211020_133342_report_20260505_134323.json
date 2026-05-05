@@ -1,0 +1,50 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:23.673728",
+    "file_path": "E:\\BIOS\\BIOS RECIENTES\\SABERTOOTH-Z97-MARK-1-ASUS-2702\\W25Q64BV_20211020_133342.BIN",
+    "file_name": "W25Q64BV_20211020_133342.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1a0028",
+            "0x1c0028",
+            "0x1f0028",
+            "0x220028",
+            "0x600028",
+            "0x664aa2",
+            "0x664bf3",
+            "0x668bfb",
+            "0x67e111",
+            "0x6ff580",
+            "0x700028",
+            "0x764aa2",
+            "0x764bf3",
+            "0x768bfb",
+            "0x77e111",
+            "0x7ff580"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x1808e8",
+            "0x185182",
+            "0x1a08e8",
+            "0x1a514c",
+            "0x3a4838",
+            "0x673efc",
+            "0x6cfeb4",
+            "0x6d3604",
+            "0x773efc",
+            "0x7cfeb4",
+            "0x7d3604"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

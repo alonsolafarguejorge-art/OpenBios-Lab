@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:30.661281",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo G50-30 (Compal ACLU9ACLU0 NM-A311 rev1.0; Intel Pentium N3530\\BIOS-A7CN27WW_EC-A7EC27WW.bin",
+    "file_name": "BIOS-A7CN27WW_EC-A7EC27WW.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x43e030",
+            "0x450028",
+            "0x532028",
+            "0x750028",
+            "0x763bae",
+            "0x763ec3",
+            "0x7b0028",
+            "0x7b1722"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

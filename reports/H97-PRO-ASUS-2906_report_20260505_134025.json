@@ -1,0 +1,46 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:25.797149",
+    "file_path": "E:\\H97-PRO-ASUS-2906.bin",
+    "file_name": "H97-PRO-ASUS-2906.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x500028",
+            "0x540028",
+            "0x580028",
+            "0x5c0028",
+            "0xe00028",
+            "0xe7006a",
+            "0xe701bb",
+            "0xe74518",
+            "0xe8a681",
+            "0xeff430",
+            "0xf00028",
+            "0xf7006a",
+            "0xf701bb",
+            "0xf74518",
+            "0xf8a681",
+            "0xfff430"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x500919",
+            "0x75c6e0",
+            "0xe81dc5",
+            "0xee17a4",
+            "0xee5434",
+            "0xf81dc5",
+            "0xfe17a4",
+            "0xfe5434"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

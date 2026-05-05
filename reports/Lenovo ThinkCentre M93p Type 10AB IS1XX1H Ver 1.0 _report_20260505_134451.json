@@ -1,0 +1,43 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:51.302031",
+    "file_path": "E:\\Bios Lenovo IBM\\thinkcentre m900 y mas\\Lenovo ThinkCentre M93p Type 10AB IS1XX1H Ver 1.0 .bin",
+    "file_name": "Lenovo ThinkCentre M93p Type 10AB IS1XX1H Ver 1.0 .bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x800028",
+            "0x870028",
+            "0x8bafa8",
+            "0xde0028",
+            "0xe80028",
+            "0xe80b39",
+            "0xe825bf",
+            "0xea7130",
+            "0xeb129b",
+            "0xf1a112",
+            "0xf228a9",
+            "0xf4151a",
+            "0xf45d42",
+            "0xf4b2c4",
+            "0xfff9dd"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x8022b3",
+            "0x8080cc",
+            "0xcc8e93",
+            "0xe9c569",
+            "0xf3f859",
+            "0xf8ebbc"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

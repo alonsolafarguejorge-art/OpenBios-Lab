@@ -1,0 +1,69 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:42.766504",
+    "file_path": "E:\\Bios Lenovo IBM\\LENOVO X1 CARBON LMQ-1 MB 12298-2 48.4LY06.021\\LENOVO X1 CARBON.bin",
+    "file_name": "LENOVO X1 CARBON.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x6b1028",
+            "0x717028",
+            "0x740028",
+            "0x7c2614",
+            "0x7d9ad0",
+            "0x7d9afa",
+            "0x7dceaf"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "Phoenix BIOS": [
+            "0x79abf8",
+            "0x79ac40",
+            "0x79ac8c",
+            "0x79acc0",
+            "0x79ad10",
+            "0x79ad58",
+            "0x79ada8",
+            "0x79adf8",
+            "0x79ae48",
+            "0x79ae7c",
+            "0x79aeac",
+            "0x79aee4",
+            "0x79af20",
+            "0x79af70",
+            "0x79b05b",
+            "0x79b080",
+            "0x79b0bc",
+            "0x79b0fc",
+            "0x79b128",
+            "0x79b170",
+            "0x79b1a0",
+            "0x79b1e0",
+            "0x79b230",
+            "0x79b27c",
+            "0x79b2b0",
+            "0x79b308",
+            "0x79b360",
+            "0x79b3b4",
+            "0x79b3f0",
+            "0x79b438",
+            "0x79b480",
+            "0x79b4c0",
+            "0x79b4fc",
+            "0x79b530",
+            "0x79b57c",
+            "0x79b5b0",
+            "0x79b5f8",
+            "0x79b650",
+            "0x79b6c8"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

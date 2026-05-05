@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:00.333678",
+    "file_path": "E:\\Bios Toshiba\\SATELLITE L50DT  PSKMAM  CR10ADTG-6050A2556001-MB-A02\\TOSHIBA MARIANO IFLASH_BIOSIMG_Extracted.BIN",
+    "file_name": "TOSHIBA MARIANO IFLASH_BIOSIMG_Extracted.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x51028",
+            "0x333028",
+            "0x361030",
+            "0x367028",
+            "0x3d32d5",
+            "0x3d358e",
+            "0x3d6433",
+            "0x3d6981"
+        ],
+        "Insyde BIOS": [
+            "0x108e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

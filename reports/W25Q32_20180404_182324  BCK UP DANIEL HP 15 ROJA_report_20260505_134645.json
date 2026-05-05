@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:45.977055",
+    "file_path": "E:\\Bios Hp Compaq\\hp 15-p042 DAY23AMB6C0-OK.bin\\HP-15-P202NX PCH BIOS DAY23AMB6C0 Y23A\\W25Q32_20180404_182324  BCK UP DANIEL HP 15 ROJA.BIN",
+    "file_name": "W25Q32_20180404_182324  BCK UP DANIEL HP 15 ROJA.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2c0028",
+            "0x2e0028",
+            "0x300028",
+            "0x302b9f",
+            "0x302cec",
+            "0x3073b4"
+        ],
+        "AMI BIOS": [
+            "0x2c0263",
+            "0x2c2b5b",
+            "0x2c32e7",
+            "0x2e0263",
+            "0x2e0911",
+            "0x38bd64",
+            "0x38f18c",
+            "0x394343",
+            "0x394643"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

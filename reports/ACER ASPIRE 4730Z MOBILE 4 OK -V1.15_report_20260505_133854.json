@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:54.086274",
+    "file_path": "E:\\ACER ASPIRE 4730Z MOBILE 4 OK -V1.15.rom",
+    "file_name": "ACER ASPIRE 4730Z MOBILE 4 OK -V1.15.rom",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x24028",
+            "0x25028",
+            "0xc0028",
+            "0xe0028",
+            "0xe72a4",
+            "0xf3d92"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

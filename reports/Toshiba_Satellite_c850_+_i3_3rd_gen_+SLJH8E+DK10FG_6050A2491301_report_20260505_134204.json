@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:04.909364",
+    "file_path": "E:\\Toshiba_Satellite_c850_+_i3_3rd_gen_+SLJH8E+DK10FG_6050A2491301.bin",
+    "file_name": "Toshiba_Satellite_c850_+_i3_3rd_gen_+SLJH8E+DK10FG_6050A2491301.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x319028",
+            "0x742028",
+            "0x76c030",
+            "0x770028",
+            "0x78b98e",
+            "0x78bc72",
+            "0x78df9e"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2010"
+        ],
+        "Insyde BIOS": [
+            "0x30108e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

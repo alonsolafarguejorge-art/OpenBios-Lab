@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:11.514569",
+    "file_path": "E:\\ECS_B350AM4-M2_Original.bin",
+    "file_name": "ECS_B350AM4-M2_Original.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x37028",
+            "0x57028",
+            "0x607028",
+            "0x6080e8",
+            "0xd00028",
+            "0xd00b40",
+            "0xd02631",
+            "0xe3f0e6"
+        ],
+        "AMI BIOS": [
+            "0x372d6",
+            "0x37be4",
+            "0x572d6",
+            "0x57be4",
+            "0x2dcc99"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:00.703199",
+    "file_path": "E:\\toshiba a200 gbm{la-3661p.bin",
+    "file_name": "toshiba a200 gbm{la-3661p.bin",
+    "file_size_bytes": 1048595,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xebb24"
+        ],
+        "Phoenix BIOS": [
+            "0xec531",
+            "0xec565"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

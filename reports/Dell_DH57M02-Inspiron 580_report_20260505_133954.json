@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:54.462301",
+    "file_path": "E:\\Dell_DH57M02-Inspiron 580.BIN",
+    "file_name": "Dell_DH57M02-Inspiron 580.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x780000",
+            "0x782000",
+            "0x7affea",
+            "0x7c0000",
+            "0x7f0040",
+            "0x7f004c",
+            "0x7f049c"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

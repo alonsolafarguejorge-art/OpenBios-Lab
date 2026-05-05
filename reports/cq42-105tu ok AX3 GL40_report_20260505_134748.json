@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:48.343891",
+    "file_path": "E:\\Bios Hp Compaq\\HP-Compaq Nasir CQ42F OR AX35\\HP CQ42 GL40 AX3 da0ax3mb6c1 DDR3\\cq42-105tu ok AX3 GL40.BIN",
+    "file_name": "cq42-105tu ok AX3 GL40.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x20028",
+            "0xd0028",
+            "0xd8028",
+            "0xe3028",
+            "0xf3028",
+            "0xfa609",
+            "0xfc0ba"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

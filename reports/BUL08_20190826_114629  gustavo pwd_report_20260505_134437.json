@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:37.174667",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo t430 ok remove password\\BUL08_20190826_114629  gustavo pwd.BIN",
+    "file_name": "BUL08_20190826_114629  gustavo pwd.BIN",
+    "file_size_bytes": 1024,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

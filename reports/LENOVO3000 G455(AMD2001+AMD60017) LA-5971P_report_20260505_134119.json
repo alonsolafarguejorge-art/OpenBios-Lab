@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:19.584135",
+    "file_path": "E:\\LENOVO3000 G455(AMD2001+AMD60017) LA-5971P.bin",
+    "file_name": "LENOVO3000 G455(AMD2001+AMD60017) LA-5971P.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x24028",
+            "0x32028",
+            "0x1a0028",
+            "0x1b0028",
+            "0x1c56c9",
+            "0x1c868a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

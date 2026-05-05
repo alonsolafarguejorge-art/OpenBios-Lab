@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:38.963384",
+    "file_path": "E:\\P8P67-LE-ASUS-3801.ROM",
+    "file_name": "P8P67-LE-ASUS-3801.ROM",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1a0028",
+            "0x1a0088",
+            "0x390028",
+            "0x3cb927",
+            "0x3cdfd6",
+            "0x3cee54",
+            "0x3ceeaf",
+            "0x3db3e4",
+            "0x3ff6f0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x180718",
+            "0x1a0778"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

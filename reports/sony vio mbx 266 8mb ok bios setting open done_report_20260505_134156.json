@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:56.139602",
+    "file_path": "E:\\sony vio mbx 266 8mb ok bios setting open done.bin",
+    "file_name": "sony vio mbx 266 8mb ok bios setting open done.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1a4028",
+            "0x714028",
+            "0x73e030",
+            "0x740028",
+            "0x759a1d",
+            "0x759e34",
+            "0x75b5d3"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Insyde BIOS": [
+            "0x188074"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

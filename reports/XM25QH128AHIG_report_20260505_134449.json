@@ -1,0 +1,43 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:49.529971",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo_IdeaPad_S340_15IIL_MB_LA_H103P_Rev_1_0_XM25QH128AHIG_BIOS\\XM25QH128AHIG.bin",
+    "file_name": "XM25QH128AHIG.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x6bc028",
+            "0x71c030",
+            "0x775028",
+            "0xbd0028",
+            "0xc10028",
+            "0xca0028",
+            "0xd20028",
+            "0xd2a232",
+            "0xd32bf6",
+            "0xda0028",
+            "0xdd98a6",
+            "0xde0ec0",
+            "0xe80028",
+            "0xe88028",
+            "0xe8a1a4",
+            "0xeef535",
+            "0xfc1028",
+            "0xfc291f",
+            "0xffc32e",
+            "0xfff1da"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2000"
+        ],
+        "AMI BIOS": [
+            "0xa1f461"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

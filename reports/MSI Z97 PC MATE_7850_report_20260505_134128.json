@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:28.827964",
+    "file_path": "E:\\MSI Z97 PC MATE_7850.BIN",
+    "file_name": "MSI Z97 PC MATE_7850.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1d0028",
+            "0x6e0028",
+            "0x700028",
+            "0x760496",
+            "0x7605e7",
+            "0x7630b4",
+            "0x783dc8",
+            "0x7ff7b0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x1807bf",
+            "0x4443d0",
+            "0x7cd2ac",
+            "0x7d025c",
+            "0x7e8035"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

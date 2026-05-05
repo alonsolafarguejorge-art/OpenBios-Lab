@@ -1,0 +1,40 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:56.403628",
+    "file_path": "E:\\Dell_Latitude_7300 EDC30 LA-G861P v1.0.bin",
+    "file_name": "Dell_Latitude_7300 EDC30 LA-G861P v1.0.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x60028",
+            "0xc0028",
+            "0xd0028",
+            "0x111028",
+            "0x121028",
+            "0x171028",
+            "0x7c1028",
+            "0xce0028",
+            "0xd20028",
+            "0xe20028",
+            "0xf10028",
+            "0xf17984",
+            "0xf28447",
+            "0xf52ff0",
+            "0xf5ee31",
+            "0xf73de7",
+            "0xfd95d6",
+            "0xffed06"
+        ],
+        "AMI BIOS": [
+            "0x18f3",
+            "0xfdd203"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

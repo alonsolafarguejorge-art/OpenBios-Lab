@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:30.151268",
+    "file_path": "E:\\Bios Lenovo IBM\\lenovo G475\\LENOVO G575 LA-6757P ORIGINAL\\FCH OK.BIN",
+    "file_name": "FCH OK.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x4028",
+            "0x11028",
+            "0x11f028",
+            "0x185028",
+            "0x195028",
+            "0x19c028",
+            "0x1aa028",
+            "0x1dc403",
+            "0x1dc996",
+            "0x1e015b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

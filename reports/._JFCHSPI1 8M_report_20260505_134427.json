@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:27.767012",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo CIH61S1-1.0\\otros\\__MACOSX\\._JFCHSPI1 8M.BIN",
+    "file_name": "._JFCHSPI1 8M.BIN",
+    "file_size_bytes": 216,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

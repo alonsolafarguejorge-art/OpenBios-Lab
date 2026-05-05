@@ -1,0 +1,40 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:40.197103",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo ThinkPad T460S BT460 NM-A421 Rev 3.0\\W25Q128BV@WSON8_20211130_132515.BIN_Repeiared_by_EgyFixLab_ME_Cleared.BIN",
+    "file_name": "W25Q128BV@WSON8_20211130_132515.BIN_Repeiared_by_EgyFixLab_ME_Cleared.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x800028",
+            "0x8a0028",
+            "0x990028",
+            "0xdd0028",
+            "0xe00028",
+            "0xe10028",
+            "0xec0028",
+            "0xf1d2ae",
+            "0xfa119f",
+            "0xfa1228",
+            "0xfa12ee",
+            "0xfa442e",
+            "0xfa4a48",
+            "0xfc035a",
+            "0xfc0387",
+            "0xfe0028",
+            "0xfe1c96"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0xc00b5f"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

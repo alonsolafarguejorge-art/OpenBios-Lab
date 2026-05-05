@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:09.678385",
+    "file_path": "E:\\Lenovo G50-70_ZIWB2302_LA-B091P_DIS.ROM",
+    "file_name": "Lenovo G50-70_ZIWB2302_LA-B091P_DIS.ROM",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x412028",
+            "0x6ce028",
+            "0x6fc030",
+            "0x700028",
+            "0x732cfd",
+            "0x7330a8",
+            "0x734437"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x4ef7dc"
+        ],
+        "Insyde BIOS": [
+            "0x20016a",
+            "0x20216a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

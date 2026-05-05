@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:02.022707",
+    "file_path": "E:\\Bios Toshiba\\TOSHIBA DA0MTCMB8F0\\W25Q64_20191216_165407   TTT.BIN",
+    "file_name": "W25Q64_20191216_165407   TTT.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1a2028",
+            "0x764028",
+            "0x78e030",
+            "0x792028",
+            "0x7acb3f",
+            "0x7acf1e",
+            "0x7aee7b"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2b876a",
+            "0x320166"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

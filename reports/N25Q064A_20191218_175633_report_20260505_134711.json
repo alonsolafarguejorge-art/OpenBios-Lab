@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:11.376646",
+    "file_path": "E:\\Bios Hp Compaq\\HP ENVY 700-027c - H-Joshua-H61-uATX (Joshua)\\N25Q064A_20191218_175633.BIN",
+    "file_name": "N25Q064A_20191218_175633.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x7ff7b0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x7afa30",
+            "0x7b351c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:56.807366",
+    "file_path": "E:\\Bios Dell\\dell walzu\\W25Q128_20181120_190458  bck up.BIN",
+    "file_name": "W25Q128_20181120_190458  bck up.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x700028",
+            "0x750028",
+            "0x810028",
+            "0x821028",
+            "0x861028",
+            "0x871028",
+            "0xda0028",
+            "0xe90028",
+            "0xe90fee",
+            "0xe92ded",
+            "0xf2a0ac",
+            "0xf33f7c",
+            "0xfc2439",
+            "0xfca003",
+            "0xfffd85"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x751469",
+            "0x7536b9",
+            "0xf334f5"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

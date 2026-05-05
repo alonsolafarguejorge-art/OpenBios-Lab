@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:04.156684",
+    "file_path": "E:\\Bios Hp Compaq\\hp classmate notebook EF10MIX MB REV 02   PN 15BFU9-012000\\ECS Ef10mix\\EF10MIX 25X20CL-EC.bin",
+    "file_name": "EF10MIX 25X20CL-EC.bin",
+    "file_size_bytes": 262144,
+    "file_size_mb": 0.25,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

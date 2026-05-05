@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:07.126286",
+    "file_path": "E:\\Bios Toshiba\\Toshiba Satellite L755D - PSK4YE, PSK5PE DA0BLEMB6E0\\W25Q16_20190402_163956  bck up.BIN",
+    "file_name": "W25Q16_20190402_163956  bck up.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x16028",
+            "0x185028",
+            "0x195028",
+            "0x19c028",
+            "0x1ac028",
+            "0x1dfdad",
+            "0x1dffd5",
+            "0x1e314a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

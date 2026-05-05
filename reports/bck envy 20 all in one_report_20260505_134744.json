@@ -1,0 +1,42 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:44.408268",
+    "file_path": "E:\\Bios Hp Compaq\\HP Touchsmart Envy 20 AiO 6050A2516301\\bck envy 20 all in one.BIN",
+    "file_name": "bck envy 20 all in one.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x430028",
+            "0x450028",
+            "0x480028",
+            "0x760028",
+            "0x78e518",
+            "0x78e661",
+            "0x792155",
+            "0x79f762",
+            "0x7ff7b0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x430388",
+            "0x443090",
+            "0x443dc6",
+            "0x4462e6",
+            "0x448e06",
+            "0x44b2fb",
+            "0x44d3d7",
+            "0x44f5f7",
+            "0x450388",
+            "0x45519b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

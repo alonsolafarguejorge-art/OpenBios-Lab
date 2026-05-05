@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:12.047352",
+    "file_path": "E:\\Bios Asus\\ASUS VivoBook Pro 15 N580VD\\X580VD-AS_Bios_Region.bin",
+    "file_name": "X580VD-AS_Bios_Region.bin",
+    "file_size_bytes": 6291456,
+    "file_size_mb": 6.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x20028",
+            "0x50028",
+            "0x410028",
+            "0x4a0028",
+            "0x4b2d17",
+            "0x520028",
+            "0x520ba4",
+            "0x5234e7",
+            "0x535c2e",
+            "0x53ea6a",
+            "0x5ab5db",
+            "0x5ffd7d"
+        ],
+        "AMI BIOS": [
+            "0x210d3",
+            "0x51bc79",
+            "0x5339dd",
+            "0x5b9e0b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

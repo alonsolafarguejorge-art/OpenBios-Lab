@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:57.584069",
+    "file_path": "E:\\BIOS\\Quanta G51A DAG51AMB6C0\\W25Q64_20200120_142115  hp-av003la bck up video ok no entra sistema DAG51AMB6C0.BIN",
+    "file_name": "W25Q64_20200120_142115  hp-av003la bck up video ok no entra sistema DAG51AMB6C0.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x27028",
+            "0x5c0028",
+            "0x5e0028",
+            "0x700028",
+            "0x700d35",
+            "0x702f17",
+            "0x732bb9"
+        ],
+        "AMI BIOS": [
+            "0x127",
+            "0x287",
+            "0x2a7",
+            "0x2c7",
+            "0x5250c2",
+            "0x5c0293",
+            "0x5c0598",
+            "0x5c472b",
+            "0x5e0293",
+            "0x5e059a",
+            "0x5e472d",
+            "0x7edf9b",
+            "0x7ee29b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

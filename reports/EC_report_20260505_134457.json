@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:57.612498",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo ThinkPad T480s ET481 NM-B471 Rev 1\\Lenovo ThinkPad T480s ET481 NM-B471 Rev 1\\EC.bin",
+    "file_name": "EC.bin",
+    "file_size_bytes": 262144,
+    "file_size_mb": 0.25,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

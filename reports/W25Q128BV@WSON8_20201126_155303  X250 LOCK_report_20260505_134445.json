@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:45.252948",
+    "file_path": "E:\\Bios Lenovo IBM\\LENOVO X250 SILVER LOCK\\W25Q128BV@WSON8_20201126_155303  X250 LOCK.BIN",
+    "file_name": "W25Q128BV@WSON8_20201126_155303  X250 LOCK.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0xa00028",
+            "0xdf1028",
+            "0xea7028",
+            "0xed0028",
+            "0xed2286",
+            "0xf6b4af",
+            "0xf7e70f",
+            "0xf7e737"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

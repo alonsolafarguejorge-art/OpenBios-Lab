@@ -1,0 +1,49 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:03.412863",
+    "file_path": "E:\\Apple-MBP81.88Z.0047.B2C.1510261540.rom",
+    "file_name": "Apple-MBP81.88Z.0047.B2C.1510261540.rom",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x181028",
+            "0x490028",
+            "0x4b8028",
+            "0x682028",
+            "0x692028",
+            "0x695028",
+            "0x698028",
+            "0x6b8028",
+            "0x6d8028",
+            "0x700028",
+            "0x700aa5",
+            "0x70a13a",
+            "0x714a77",
+            "0x72dbfe",
+            "0x72dfb9",
+            "0x731d4a",
+            "0x770028",
+            "0x770aa5",
+            "0x77a13a",
+            "0x784a77",
+            "0x79dbfe",
+            "0x79dfb9",
+            "0x7a1d4a",
+            "0x7e0028",
+            "0x7e0415",
+            "0x7f0028",
+            "0x7f0415"
+        ],
+        "AMI BIOS": [
+            "0x1b5f38",
+            "0x2e7794",
+            "0x571649"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:11.225772",
+    "file_path": "E:\\BIOS\\X1 YOGA LOCK\\X1 YOGA LOCK_Patched\\X1 YOGA LOCK_Patched .BIN",
+    "file_name": "X1 YOGA LOCK_Patched .BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x800028",
+            "0x810028",
+            "0x8b0028",
+            "0x970028",
+            "0xd30028",
+            "0xde0028",
+            "0xdf0028",
+            "0xea0028",
+            "0xeae4e3",
+            "0xf883c6",
+            "0xf88448",
+            "0xf88510",
+            "0xf8a0a1",
+            "0xf8a651",
+            "0xfa97ff",
+            "0xfa982c",
+            "0xfe0028",
+            "0xfe1ab9"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0xbaf4c8"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

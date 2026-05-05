@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:17.030519",
+    "file_path": "E:\\Bios Lenovo IBM\\700-15ISK Laptop (ideapad) BIOS LOL SKL MB 15221-1M\\LOL SKL MB  15221-1_Clear me.BIN",
+    "file_name": "LOL SKL MB  15221-1_Clear me.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x800028",
+            "0x810028",
+            "0x8c0028",
+            "0x9b0028",
+            "0xe10028",
+            "0xe30028",
+            "0xe40028",
+            "0xee0028",
+            "0xf3682e",
+            "0xf9569f",
+            "0xf95728",
+            "0xf957fc",
+            "0xf990ae",
+            "0xf995c6",
+            "0xfab15a",
+            "0xfab187",
+            "0xfe0028",
+            "0xfe1f3c"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

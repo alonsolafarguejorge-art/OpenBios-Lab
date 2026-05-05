@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:07.902135",
+    "file_path": "E:\\E130 DA0LI2MB8H0 Rev H 4MB.BIN",
+    "file_name": "E130 DA0LI2MB8H0 Rev H 4MB.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x10028",
+            "0x2f0028",
+            "0x330028",
+            "0x360028",
+            "0x3669f0",
+            "0x37d91c",
+            "0x37d946",
+            "0x3e4f3f"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

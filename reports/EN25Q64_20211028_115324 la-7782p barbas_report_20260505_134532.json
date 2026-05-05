@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:32.823088",
+    "file_path": "E:\\Bios Dell\\Dell E6430 QAL81 la-7782p rev 1.0 a00\\EN25Q64_20211028_115324 la-7782p barbas.BIN",
+    "file_name": "EN25Q64_20211028_115324 la-7782p barbas.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x600028",
+            "0x620028",
+            "0x650028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5010"
+        ],
+        "AMI BIOS": [
+            "0x27c498",
+            "0x602917",
+            "0x603251",
+            "0x62486a",
+            "0x6251a4"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:26.844209",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo C355 BIOS CFT3S VER1.0\\vinafix.com_6050A2579601\\__MACOSX\\._c455 6050a2579601 a02 1m.BIN",
+    "file_name": "._c455 6050a2579601 a02 1m.BIN",
+    "file_size_bytes": 120,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

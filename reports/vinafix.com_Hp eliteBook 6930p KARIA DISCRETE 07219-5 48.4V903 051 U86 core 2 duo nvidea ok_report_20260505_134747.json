@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:47.960055",
+    "file_path": "E:\\Bios Hp Compaq\\HP-Compaq HP EliteBook 6930P Karia Discrete 07219\\vinafix.com_Hp eliteBook 6930p KARIA DISCRETE 07219-5 48.4V903 051 U86 core 2 duo nvidea ok.bin",
+    "file_name": "vinafix.com_Hp eliteBook 6930p KARIA DISCRETE 07219-5 48.4V903 051 U86 core 2 duo nvidea ok.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x290028",
+            "0x3a0028",
+            "0x3d0028",
+            "0x3d4b46",
+            "0x3ea00d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x3b42a5"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

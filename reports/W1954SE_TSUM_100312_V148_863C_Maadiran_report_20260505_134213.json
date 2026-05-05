@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:13.820079",
+    "file_path": "E:\\W1954SE_TSUM_100312_V148_863C_Maadiran.bin",
+    "file_name": "W1954SE_TSUM_100312_V148_863C_Maadiran.bin",
+    "file_size_bytes": 229376,
+    "file_size_mb": 0.22,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:36.904670",
+    "file_path": "E:\\Bios Acer\\Acer M5-583 Quanta ZRQ\\W25Q32_20181219_181406  bck up salsero.BIN",
+    "file_name": "W25Q32_20181219_181406  bck up salsero.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x80028",
+            "0x2ce028",
+            "0x2fc030",
+            "0x300028",
+            "0x32b44d",
+            "0x32b822",
+            "0x33130b"
+        ],
+        "Insyde BIOS": [
+            "0x3c008"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

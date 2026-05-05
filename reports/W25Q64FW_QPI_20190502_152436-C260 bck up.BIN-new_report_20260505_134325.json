@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:25.264161",
+    "file_path": "E:\\BIOS\\C260 All-in-One (Lenovo)\\W25Q64FW_QPI_20190502_152436-C260 bck up.BIN-new.bin",
+    "file_name": "W25Q64FW_QPI_20190502_152436-C260 bck up.BIN-new.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x33e030",
+            "0x350028",
+            "0x3a4028",
+            "0x740028",
+            "0x751348",
+            "0x7515fe",
+            "0x7d9028",
+            "0x7da722"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

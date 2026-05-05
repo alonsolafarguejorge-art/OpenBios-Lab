@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:01.292082",
+    "file_path": "E:\\TOSHIBA L300 INTL.BIN",
+    "file_name": "TOSHIBA L300 INTL.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x18028",
+            "0xc0028",
+            "0xd0028",
+            "0xe0028",
+            "0xe7634",
+            "0xf4b8d"
+        ],
+        "Insyde BIOS": [
+            "0x108e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

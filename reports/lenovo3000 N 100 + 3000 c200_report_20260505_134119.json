@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:19.650779",
+    "file_path": "E:\\lenovo3000 N 100 + 3000 c200.BIN",
+    "file_name": "lenovo3000 N 100 + 3000 c200.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xebda3"
+        ],
+        "Phoenix BIOS": [
+            "0xec138",
+            "0xec16c"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

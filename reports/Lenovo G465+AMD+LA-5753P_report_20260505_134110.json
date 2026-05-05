@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:10.477345",
+    "file_path": "E:\\Lenovo G465+AMD+LA-5753P.bin",
+    "file_name": "Lenovo G465+AMD+LA-5753P.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x25028",
+            "0x33028",
+            "0x199028",
+            "0x1a9028",
+            "0x1dddf2",
+            "0x1de525",
+            "0x1e1b7b"
+        ],
+        "AMI BIOS": [
+            "0xa7b39"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:28.107520",
+    "file_path": "E:\\msi h61m-p25(b3)  cpu core i3  -3245(ok).bin",
+    "file_name": "msi h61m-p25(b3)  cpu core i3  -3245(ok).bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x190028",
+            "0x1a0028",
+            "0x380028",
+            "0x3b3e26",
+            "0x3b3f6f",
+            "0x3b7c5d",
+            "0x3c4cea",
+            "0x3ff750"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x180429",
+            "0x181f28",
+            "0x190429",
+            "0x191f26",
+            "0x3e7edc",
+            "0x3eb17c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

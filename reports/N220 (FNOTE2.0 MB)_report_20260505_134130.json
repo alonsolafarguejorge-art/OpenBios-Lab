@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:30.489170",
+    "file_path": "E:\\N220 (FNOTE2.0 MB).bin",
+    "file_name": "N220 (FNOTE2.0 MB).bin",
+    "file_size_bytes": 1048577,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xebea8",
+            "0xebedc"
+        ],
+        "Insyde BIOS": [
+            "0x4074"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

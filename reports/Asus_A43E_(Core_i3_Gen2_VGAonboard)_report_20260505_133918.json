@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:18.707904",
+    "file_path": "E:\\Asus_A43E_(Core_i3_Gen2_VGAonboard).bin",
+    "file_name": "Asus_A43E_(Core_i3_Gen2_VGAonboard).bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x210028",
+            "0x230028",
+            "0x370028",
+            "0x3e8d9a"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2102c9",
+            "0x211a4d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

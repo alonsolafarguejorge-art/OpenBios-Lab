@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:34.827837",
+    "file_path": "E:\\Bios Acer\\acer da0zqxmb8e0\\R3-431T-C1PQ DA0ZQXMB8E0 REV E\\R3-431T-C1PQ DA0ZQXMB8E0 REV E  CON LOGO.bin",
+    "file_name": "R3-431T-C1PQ DA0ZQXMB8E0 REV E  CON LOGO.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x301028",
+            "0x6ce028",
+            "0x6fc030",
+            "0x700028",
+            "0x7234a5",
+            "0x72387d",
+            "0x725047"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

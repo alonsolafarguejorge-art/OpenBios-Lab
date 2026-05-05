@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:35.020344",
+    "file_path": "E:\\P5KPL-AM-IN-0507.ROM",
+    "file_name": "P5KPL-AM-IN-0507.ROM",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xc07c4",
+            "0xc1348",
+            "0xc7fb5",
+            "0xcffea",
+            "0xe0000",
+            "0xf038c",
+            "0xf1149",
+            "0xf1fab"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

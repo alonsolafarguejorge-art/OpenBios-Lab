@@ -1,0 +1,49 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:10.887709",
+    "file_path": "E:\\Bios Asus\\ASUS Vivobook 15 X512\\X512FLAS_Bios_Region.bin",
+    "file_name": "X512FLAS_Bios_Region.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x40028",
+            "0x70028",
+            "0x170028",
+            "0x3f0331",
+            "0x3f1fc2",
+            "0x450028",
+            "0x4e0028",
+            "0x4e86de",
+            "0x4f9d7e",
+            "0x560028",
+            "0x560098",
+            "0x600028",
+            "0x604028",
+            "0x6066ec",
+            "0x652c33",
+            "0x660028",
+            "0x695c76",
+            "0x695de9",
+            "0x697f32",
+            "0x6aa986",
+            "0x6aaaa5",
+            "0x6b5f88",
+            "0x6c5d74",
+            "0x6d15cc",
+            "0x6fe94e",
+            "0x6fecd0",
+            "0x700028"
+        ],
+        "AMI BIOS": [
+            "0x41568",
+            "0x2303f0",
+            "0x6dac00"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

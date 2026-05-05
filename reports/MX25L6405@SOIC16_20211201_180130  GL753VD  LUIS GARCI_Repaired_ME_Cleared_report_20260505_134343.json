@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:43.141057",
+    "file_path": "E:\\BIOS\\GL753VD\\MX25L6405@SOIC16_20211201_180130  GL753VD  LUIS GARCI_Repaired_ME_Cleared.BIN",
+    "file_name": "MX25L6405@SOIC16_20211201_180130  GL753VD  LUIS GARCI_Repaired_ME_Cleared.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x220028",
+            "0x280028",
+            "0x640028",
+            "0x6b0028",
+            "0x6bd657",
+            "0x740028",
+            "0x740d84",
+            "0x74365b",
+            "0x7529b6",
+            "0x758365",
+            "0x7c5d5c",
+            "0x7d3dbe",
+            "0x7ffd7d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x221101",
+            "0x7d2fa0",
+            "0x7d2fb0",
+            "0x7d6f41"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

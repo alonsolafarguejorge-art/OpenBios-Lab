@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:48.591041",
+    "file_path": "E:\\Bios Acer\\Gateway ZX4970 - IPISB-AG\\Acer Z3770 Z5770 Z5771_IPISB-AG 1.04\\EC\\25L4006E_UP_cpu_side.BIN",
+    "file_name": "25L4006E_UP_cpu_side.BIN",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

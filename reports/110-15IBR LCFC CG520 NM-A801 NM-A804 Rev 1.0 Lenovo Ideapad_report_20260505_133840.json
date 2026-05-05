@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:40.235082",
+    "file_path": "E:\\110-15IBR LCFC CG520 NM-A801 NM-A804 Rev 1.0 Lenovo Ideapad.BIN",
+    "file_name": "110-15IBR LCFC CG520 NM-A801 NM-A804 Rev 1.0 Lenovo Ideapad.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x308028",
+            "0x355028",
+            "0x393030",
+            "0x557028",
+            "0x767028",
+            "0x793944",
+            "0x7ab028",
+            "0x7ca028",
+            "0x7e1028",
+            "0x7f0028",
+            "0x7f1914"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

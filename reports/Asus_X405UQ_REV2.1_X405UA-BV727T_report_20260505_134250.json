@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:50.516507",
+    "file_path": "E:\\Bin\\Asus_X405UQ_REV2.1_X405UA-BV727T.bin",
+    "file_name": "Asus_X405UQ_REV2.1_X405UA-BV727T.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x220028",
+            "0x250028",
+            "0x610028",
+            "0x6a0028",
+            "0x6ae6f2",
+            "0x720028",
+            "0x720ba4",
+            "0x7234ef",
+            "0x735046",
+            "0x7400ba",
+            "0x7a4976",
+            "0x7ffd7d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2210f2",
+            "0x22a532",
+            "0x716d01",
+            "0x732c21",
+            "0x7b2112"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

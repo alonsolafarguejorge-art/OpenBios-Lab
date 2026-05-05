@@ -1,0 +1,21 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:30.399084",
+    "file_path": "E:\\Bios Acer\\ACER AS4741 AS4741G AS4750 AS4750G WISTRON HM42-CP JE40-CP 09920-1 91.4GW01.001\\MX25L3205_20190322_165619-bck up- tavo.BIN",
+    "file_name": "MX25L3205_20190322_165619-bck up- tavo.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Phoenix BIOS": [
+            "0x250010"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

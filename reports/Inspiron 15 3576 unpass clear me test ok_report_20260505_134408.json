@@ -1,0 +1,44 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:08.666906",
+    "file_path": "E:\\BIOS\\VegasTuris MLK KBL -R 17841-1 Inspiron 14 3476\\Inspiron 15 3576 unpass clear me test ok.bin",
+    "file_name": "Inspiron 15 3576 unpass clear me test ok.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x700028",
+            "0x740028",
+            "0x7a0028",
+            "0x800028",
+            "0x811028",
+            "0x851028",
+            "0x861028",
+            "0xd20028",
+            "0xdc0028",
+            "0xee0028",
+            "0xee3700",
+            "0xf10652",
+            "0xf840db",
+            "0xfa668b",
+            "0xfbebb0",
+            "0xfff5a5"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x7415e7",
+            "0x748698",
+            "0x7a15e7",
+            "0x7a8698",
+            "0x8c99c1",
+            "0xf93c3d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

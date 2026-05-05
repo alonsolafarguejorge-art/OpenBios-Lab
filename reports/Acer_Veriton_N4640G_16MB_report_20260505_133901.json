@@ -1,0 +1,51 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:01.517563",
+    "file_path": "E:\\Acer_Veriton_N4640G_16MB.BIN",
+    "file_name": "Acer_Veriton_N4640G_16MB.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0xa00028",
+            "0xa20028",
+            "0xa50028",
+            "0xa56028",
+            "0xa5f5f8",
+            "0xdd0028",
+            "0xea0028",
+            "0xeae742",
+            "0xf40028",
+            "0xf40b40",
+            "0xf42585",
+            "0xf607cd",
+            "0xfc3181",
+            "0xfff345"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0xebe60",
+            "0xa01292",
+            "0xa01841",
+            "0xa018b3",
+            "0xa05b4e",
+            "0xa16264",
+            "0xa18de8",
+            "0xa21292",
+            "0xa21841",
+            "0xa218b3",
+            "0xa27473",
+            "0xa33464",
+            "0xf21a89",
+            "0xf5633d",
+            "0xfd31e2"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:48.945354",
+    "file_path": "E:\\BIOS\\LANIX NEURON FLEX GM133C MB V31-TO\\GD25LQ64B@SOP8-200_20211206_171910   LANIX.BIN",
+    "file_name": "GD25LQ64B@SOP8-200_20211206_171910   LANIX.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0xa6028",
+            "0xa8028",
+            "0xa8cb0",
+            "0xa9028",
+            "0xa9ba7",
+            "0xa9c60",
+            "0xafc8f",
+            "0xafde7",
+            "0xb02a5",
+            "0xb68de",
+            "0xbfade",
+            "0xc9a7c",
+            "0xe9028",
+            "0xeb35c",
+            "0xf0252",
+            "0x14f028",
+            "0x14fb5c",
+            "0x158bb9",
+            "0x189220",
+            "0x18f294",
+            "0x1cf028",
+            "0x343028",
+            "0x5fe028",
+            "0x61e028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5a3f1",
+            "0x6164a",
+            "0x61670",
+            "0x69164",
+            "0x67f000"
+        ],
+        "AMI BIOS": [
+            "0xa60a5",
+            "0xe90a5",
+            "0x11a93f",
+            "0x124c98",
+            "0x1252d0",
+            "0x125320",
+            "0x1934a5",
+            "0x1cf0a5",
+            "0x3f64d4",
+            "0x5fe711",
+            "0x5fef29",
+            "0x601398",
+            "0x6013df",
+            "0x60154f",
+            "0x6016f7",
+            "0x61e711",
+            "0x61ef29",
+            "0x6214d4",
+            "0x62151b",
+            "0x62168b",
+            "0x621833"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

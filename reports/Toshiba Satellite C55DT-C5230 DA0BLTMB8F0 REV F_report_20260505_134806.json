@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:06.870728",
+    "file_path": "E:\\Bios Toshiba\\TOSHIBA SATELLITE L55D-C5204R PSKXNU-00RNC1 DA0BLTMB8F0 REV F\\Toshiba Satellite C55DT-C5230 DA0BLTMB8F0 REV F.bin",
+    "file_name": "Toshiba Satellite C55DT-C5230 DA0BLTMB8F0 REV F.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x174028",
+            "0x5bb028",
+            "0x5e9030",
+            "0x600028",
+            "0x602bc2",
+            "0x6a05b2"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

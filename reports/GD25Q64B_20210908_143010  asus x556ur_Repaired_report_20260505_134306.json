@@ -1,0 +1,42 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:06.312943",
+    "file_path": "E:\\BIOS\\GD25Q64B_20210908_143010  asus x556ur_Repaired.Bin",
+    "file_name": "GD25Q64B_20210908_143010  asus x556ur_Repaired.Bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x220028",
+            "0x240028",
+            "0x380028",
+            "0x390028",
+            "0x660028",
+            "0x6a0028",
+            "0x6a0b74",
+            "0x6a2f1b",
+            "0x6becbb",
+            "0x735d97",
+            "0x73dc51",
+            "0x745d52",
+            "0x75aa21",
+            "0x75f050",
+            "0x7ffd7d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x240e27",
+            "0x6b4ab9",
+            "0x743a01",
+            "0x78da80",
+            "0x7a4b17"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

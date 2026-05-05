@@ -1,0 +1,72 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:40.302205",
+    "file_path": "E:\\PRIME-B360M-D-ASUS-2416.bin",
+    "file_name": "PRIME-B360M-D-ASUS-2416.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x390028",
+            "0x410028",
+            "0x450028",
+            "0xb20028",
+            "0xb2676e",
+            "0xb39572",
+            "0xba0028",
+            "0xba676e",
+            "0xbb9572",
+            "0xc20028",
+            "0xc20098",
+            "0xca0028",
+            "0xca6028",
+            "0xca86ec",
+            "0xd0df3b",
+            "0xd90028",
+            "0xd90098",
+            "0xe10028",
+            "0xe16028",
+            "0xe186ec",
+            "0xe7df3b",
+            "0xf00028",
+            "0xf00c76",
+            "0xf02e7a",
+            "0xf2355c",
+            "0xf310c9",
+            "0xf3dc1a",
+            "0xf7e4af",
+            "0xf7ed48",
+            "0xf80028",
+            "0xf80c76",
+            "0xf82e7a",
+            "0xfa355c",
+            "0xfb10c9",
+            "0xfbdc1a",
+            "0xffe4af",
+            "0xffed48"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2000"
+        ],
+        "AMI BIOS": [
+            "0x3014d2",
+            "0x42ae1a",
+            "0x42b088",
+            "0x42b0ec",
+            "0x42b157",
+            "0x42b294",
+            "0x42b92e",
+            "0x42b940",
+            "0x42e31f",
+            "0x99a752",
+            "0xf68546",
+            "0xfe8546"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

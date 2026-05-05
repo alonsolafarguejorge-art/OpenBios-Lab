@@ -1,0 +1,60 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:56.047853",
+    "file_path": "E:\\Bios Hp Compaq\\HP 260 G1 DM Business 6050A2693001 PIPPIN rev.A\\W25Q64BV.BIN",
+    "file_name": "W25Q64BV.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x200028",
+            "0x220028",
+            "0x220c90",
+            "0x240028",
+            "0x240c90",
+            "0x270028",
+            "0x5f0028",
+            "0x600028",
+            "0x600ba9",
+            "0x602a67",
+            "0x60e39b",
+            "0x6948ce",
+            "0x6ff6c7",
+            "0x6ff703",
+            "0x6ffa43",
+            "0x700028",
+            "0x700ba9",
+            "0x702a67",
+            "0x70e39b",
+            "0x7948ce",
+            "0x7ff6c7",
+            "0x7ff703",
+            "0x7ffa43"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2205f4",
+            "0x221159",
+            "0x223ac3",
+            "0x2405f4",
+            "0x241159",
+            "0x243ac3",
+            "0x473ef1",
+            "0x473f05",
+            "0x473f31",
+            "0x473f44",
+            "0x568c90",
+            "0x6b3dd3",
+            "0x6b40d3",
+            "0x7b3dd3",
+            "0x7b40d3"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:20.725449",
+    "file_path": "E:\\LG 19EN33S_V1.44_5970_20130709_REV400.bin",
+    "file_name": "LG 19EN33S_V1.44_5970_20130709_REV400.bin",
+    "file_size_bytes": 393216,
+    "file_size_mb": 0.38,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

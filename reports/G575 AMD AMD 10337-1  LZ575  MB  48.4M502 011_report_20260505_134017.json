@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:17.737773",
+    "file_path": "E:\\G575 AMD AMD 10337-1  LZ575  MB  48.4M502 011.bin",
+    "file_name": "G575 AMD AMD 10337-1  LZ575  MB  48.4M502 011.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x20028",
+            "0x30028",
+            "0x190028",
+            "0x1a0028",
+            "0x1a7ce7",
+            "0x1a7d11",
+            "0x1b1354",
+            "0x1b137e",
+            "0x1e7d14"
+        ],
+        "Insyde BIOS": [
+            "0x8074"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

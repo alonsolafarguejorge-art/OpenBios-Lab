@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:03.956075",
+    "file_path": "E:\\Bios Asus\\ASUS C423N  C223NA REV 2.2\\Asus Chromebook C423N c223na rev 2.2\\W25Q128.BIN",
+    "file_name": "W25Q128.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x233ce0",
+            "0x238df0",
+            "0x23cce7",
+            "0x28d028",
+            "0x46ec60",
+            "0x473d70",
+            "0x477c67",
+            "0x4c8028",
+            "0x8eec60",
+            "0x8f3d70",
+            "0x8f7c67",
+            "0x948028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x645aa",
+            "0x6b681",
+            "0x6b6a7",
+            "0x7241a",
+            "0xf7f000"
+        ],
+        "AMI BIOS": [
+            "0x18baa3"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

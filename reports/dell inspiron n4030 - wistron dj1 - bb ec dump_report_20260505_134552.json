@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:52.997451",
+    "file_path": "E:\\Bios Dell\\DELL N4030\\dell inspiron n4030 - wistron dj1 - bb dump\\dell inspiron n4030 - wistron dj1 - bb ec dump.BIN",
+    "file_name": "dell inspiron n4030 - wistron dj1 - bb ec dump.BIN",
+    "file_size_bytes": 262144,
+    "file_size_mb": 0.25,
+    "bios_type": "Insyde BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Insyde BIOS": [
+            "0x4074"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

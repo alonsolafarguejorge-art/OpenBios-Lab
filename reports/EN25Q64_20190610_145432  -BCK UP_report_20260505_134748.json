@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:48.114337",
+    "file_path": "E:\\Bios Hp Compaq\\HP-Compaq HP Pavilion RT3290 ZS040 LA-A993P REV1.0\\EN25Q64_20190610_145432  -BCK UP.BIN",
+    "file_name": "EN25Q64_20190610_145432  -BCK UP.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x246028",
+            "0x272030",
+            "0x286028",
+            "0x6df028",
+            "0x6e0028",
+            "0x705cdd",
+            "0x7063c8",
+            "0x709e9f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x6df09e",
+            "0x6df27e",
+            "0x752336",
+            "0x752516"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

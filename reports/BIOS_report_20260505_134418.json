@@ -1,0 +1,52 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:18.808059",
+    "file_path": "E:\\Bios Lenovo IBM\\ideapad 3-14IML05 Laptop\\BIOS.fd",
+    "file_name": "BIOS.fd",
+    "file_size_bytes": 18072800,
+    "file_size_mb": 17.24,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2d0",
+            "0x6eca38",
+            "0x74ca40",
+            "0x7a5a38",
+            "0xc5ea38",
+            "0xd9ea38",
+            "0xe0ea38",
+            "0xe0ecd0",
+            "0xe7ea38",
+            "0xe9e4e0",
+            "0xefea38",
+            "0xf4b950",
+            "0xffea38",
+            "0x1003a38",
+            "0x1005dd9",
+            "0x1066a94",
+            "0x10efa38",
+            "0x10f1563",
+            "0x112a7f2",
+            "0x112dcd0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3aea10"
+        ],
+        "AMI BIOS": [
+            "0x81d418"
+        ],
+        "Insyde BIOS": [
+            "0x112ea3f",
+            "0x1131a13",
+            "0x1131efa",
+            "0x1131f6f",
+            "0x1131fbb",
+            "0x113aa5d",
+            "0x113b0a9"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:57.586065",
+    "file_path": "E:\\Bios Hp Compaq\\HP 640 G1  6050A256630\\W25Q128BV@WSON8_20201107_130156.BIN",
+    "file_name": "W25Q128BV@WSON8_20201107_130156.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x810028",
+            "0x851028",
+            "0xb21028",
+            "0xe5b028",
+            "0xeacd45",
+            "0xf4f028",
+            "0xfa0d45",
+            "0xffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

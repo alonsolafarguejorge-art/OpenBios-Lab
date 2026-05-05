@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:27.752893",
+    "file_path": "E:\\Bios Hp Compaq\\HP Pavilion Gaming - 15-ak - DAX1PDMB8E0 - X1PD\\vinafix.com_DAX1PDMB8E0 q159.bin",
+    "file_name": "vinafix.com_DAX1PDMB8E0 q159.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x240028",
+            "0x274030",
+            "0x2fe028",
+            "0x6b0028",
+            "0x6ba173",
+            "0x77caac"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x77b826",
+            "0x77ba06"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

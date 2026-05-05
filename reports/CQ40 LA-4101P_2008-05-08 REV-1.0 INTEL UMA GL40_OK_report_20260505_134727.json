@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:27.285070",
+    "file_path": "E:\\Bios Hp Compaq\\HP PAVILION CQ40 DV4 GM45 COMPAL JAL50 LA-4101P\\CQ40 LA-4101P_2008-05-08 REV-1.0 INTEL UMA GL40_OK.bin",
+    "file_name": "CQ40 LA-4101P_2008-05-08 REV-1.0 INTEL UMA GL40_OK.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x24028",
+            "0xc3028",
+            "0xd5028",
+            "0xe1028",
+            "0xf2028",
+            "0xf8531",
+            "0xfa88a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

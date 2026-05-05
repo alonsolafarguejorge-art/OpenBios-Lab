@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:13.157143",
+    "file_path": "E:\\LENOVO H50-50 DESKTOP.rom",
+    "file_name": "LENOVO H50-50 DESKTOP.rom",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x450028",
+            "0x720028",
+            "0x740028",
+            "0x781acc",
+            "0x781c19",
+            "0x785d75",
+            "0x7a64c6",
+            "0x7ff7f0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x7dd558",
+            "0x7df624",
+            "0x7e1ae4"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

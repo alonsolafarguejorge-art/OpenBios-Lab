@@ -1,0 +1,37 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:28.665687",
+    "file_path": "E:\\msi PH61A-P35(B3) .bin",
+    "file_name": "msi PH61A-P35(B3) .bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x190028",
+            "0x1a0028",
+            "0x380028",
+            "0x3b351e",
+            "0x3b3667",
+            "0x3b7355",
+            "0x3c4322",
+            "0x3ff710"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x180428",
+            "0x181e43",
+            "0x190428",
+            "0x191e43",
+            "0x3e6f4c",
+            "0x3ea1f4"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

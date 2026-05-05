@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:36.844478",
+    "file_path": "E:\\BIOS\\Echo 15 17 nVidia - LA-B751P  LA-B753P\\W25Q64FV@VSOP8-200_20200121_154702.BIN",
+    "file_name": "W25Q64FV@VSOP8-200_20200121_154702.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x204028",
+            "0x224028",
+            "0x245028",
+            "0x720028",
+            "0x721c8f",
+            "0x723853",
+            "0x72fdb8",
+            "0x798020",
+            "0x7ffa63"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2046a2",
+            "0x204971",
+            "0x206fec",
+            "0x207033",
+            "0x2071a3",
+            "0x2246a2",
+            "0x224971",
+            "0x226fec",
+            "0x227033",
+            "0x2271a3"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

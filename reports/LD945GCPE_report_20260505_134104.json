@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:04.173135",
+    "file_path": "E:\\LD945GCPE.bin",
+    "file_name": "LD945GCPE.bin",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x8028",
+            "0xc028",
+            "0x70028",
+            "0x76e23",
+            "0x76e54",
+            "0x7cb91",
+            "0x7cca9"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file"
+    ]
+}

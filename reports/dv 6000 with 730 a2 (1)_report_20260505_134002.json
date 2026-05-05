@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:02.408828",
+    "file_path": "E:\\dv 6000 with 730 a2 (1).BIN",
+    "file_name": "dv 6000 with 730 a2 (1).BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xec3a8",
+            "0xec3dc"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

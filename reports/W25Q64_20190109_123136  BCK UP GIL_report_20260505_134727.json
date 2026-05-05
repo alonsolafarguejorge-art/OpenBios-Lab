@@ -1,0 +1,40 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:27.130668",
+    "file_path": "E:\\Bios Hp Compaq\\HP Pavilion All-in-One - 23-q110 - Dan61bmb6e0\\W25Q64_20190109_123136  BCK UP GIL.BIN",
+    "file_name": "W25Q64_20190109_123136  BCK UP GIL.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x37028",
+            "0x187028",
+            "0x600028",
+            "0x600c28",
+            "0x602bbf",
+            "0x6adaee",
+            "0x6ff55f",
+            "0x6ff59d",
+            "0x700028",
+            "0x700c28",
+            "0x702bbf",
+            "0x7adaee",
+            "0x7ff55f",
+            "0x7ff59d"
+        ],
+        "AMI BIOS": [
+            "0x37225",
+            "0x3e14e1",
+            "0x6b1ecb",
+            "0x6b21cb",
+            "0x7b1ecb",
+            "0x7b21cb"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

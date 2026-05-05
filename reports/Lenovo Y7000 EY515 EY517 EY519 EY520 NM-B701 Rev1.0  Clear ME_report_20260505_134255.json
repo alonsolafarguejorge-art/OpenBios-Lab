@@ -1,0 +1,40 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:55.176736",
+    "file_path": "E:\\Bin\\Lenovo Y7000 EY515 EY517 EY519 EY520 NM-B701 Rev1.0 Clear ME\\Lenovo Y7000 EY515 EY517 EY519 EY520 NM-B701 Rev1.0  Clear ME.bin",
+    "file_name": "Lenovo Y7000 EY515 EY517 EY519 EY520 NM-B701 Rev1.0  Clear ME.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x6bd028",
+            "0xa40028",
+            "0xa74030",
+            "0xaa0028",
+            "0xb60028",
+            "0xe00028",
+            "0xe1dcb0",
+            "0xe60028",
+            "0xeae1c1",
+            "0xf30028",
+            "0xf35028",
+            "0xf3700e",
+            "0xf90ef9",
+            "0xfc0028",
+            "0xfc1844",
+            "0xffec98",
+            "0xfff37a"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2000"
+        ],
+        "AMI BIOS": [
+            "0x6d7b39"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

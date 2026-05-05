@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:09.090463",
+    "file_path": "E:\\Lenovo G50-45 OK (1).bin",
+    "file_name": "Lenovo G50-45 OK (1).bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x163028",
+            "0x206028",
+            "0x726028",
+            "0x754030",
+            "0x75b028",
+            "0x7b6003",
+            "0x7b63b8",
+            "0x7b90d6"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:02.166248",
+    "file_path": "E:\\Bios Toshiba\\Toshiba L510 PSLF8L-003001 6050A2250501-MB-A03\\W25X80_20181101_171303 bck up.BIN",
+    "file_name": "W25X80_20181101_171303 bck up.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x18028",
+            "0xd0028",
+            "0xe0028",
+            "0xe762e",
+            "0xf5c1d"
+        ],
+        "Insyde BIOS": [
+            "0x108e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:36.795314",
+    "file_path": "E:\\Bios Dell\\Dell Inspiron 14 5452 LA-C571P\\LA-C571P.rom",
+    "file_name": "LA-C571P.rom",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x310028",
+            "0x351028",
+            "0x3c1028",
+            "0x73b028",
+            "0x7e1028",
+            "0x7e3093",
+            "0x7e61a8",
+            "0x7f27dd"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x944de",
+            "0x310354",
+            "0x751068"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

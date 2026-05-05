@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:38.325020",
+    "file_path": "E:\\Bios Dell\\Dell Inspiron 15 5000 LA-B015P ZAVA1 ZAVC1 r10\\BCK UP CLIENTE.BIN",
+    "file_name": "BCK UP CLIENTE.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x222028",
+            "0x5c0028",
+            "0x5f4030",
+            "0x6c0028",
+            "0x6c7376",
+            "0x6d79dd"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

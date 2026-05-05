@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:52.562593",
+    "file_path": "E:\\acer  E1-571(Q5WV1   LA-7912P)Rev  .2.bin",
+    "file_name": "acer  E1-571(Q5WV1   LA-7912P)Rev  .2.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x13028",
+            "0x3d030",
+            "0x40028",
+            "0x642de",
+            "0x646bd",
+            "0x6574b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

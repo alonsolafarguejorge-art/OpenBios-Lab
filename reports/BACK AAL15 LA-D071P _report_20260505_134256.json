@@ -1,0 +1,48 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:56.890776",
+    "file_path": "E:\\BIOS\\BACK AAL15 LA-D071P .bin",
+    "file_name": "BACK AAL15 LA-D071P .bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x700028",
+            "0x741028",
+            "0x7a1028",
+            "0x811028",
+            "0x851028",
+            "0x861028",
+            "0xdf0028",
+            "0xe40028",
+            "0xe4100e",
+            "0xe434a7",
+            "0xf325f7",
+            "0xf57efa",
+            "0xf6e085",
+            "0xf74d3b",
+            "0xfffd45"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010",
+            "0x9000"
+        ],
+        "AMI BIOS": [
+            "0x7421a9",
+            "0x747223",
+            "0x7a21a9",
+            "0x7a7223",
+            "0x8757c7",
+            "0x88a3c7",
+            "0xe94800",
+            "0xf3ca65",
+            "0xf3ce61",
+            "0xfc0739"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

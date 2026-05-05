@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:11.679322",
+    "file_path": "E:\\BIOS\\x441nc rev 2.1.BIN\\W25Q64FV BC2 6666  .BIN",
+    "file_name": "W25Q64FV BC2 6666  .BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x84468",
+            "0x85468",
+            "0xb8caa",
+            "0xc7c0b",
+            "0xd3dae",
+            "0x3f2028",
+            "0x432028",
+            "0x434028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x58ebd"
+        ],
+        "AMI BIOS": [
+            "0x94de8",
+            "0x3f266d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

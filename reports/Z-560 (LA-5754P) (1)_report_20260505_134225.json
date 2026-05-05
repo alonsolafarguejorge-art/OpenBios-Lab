@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:25.261268",
+    "file_path": "E:\\Z-560 (LA-5754P) (1).BIN",
+    "file_name": "Z-560 (LA-5754P) (1).BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x25028",
+            "0x33028",
+            "0x199028",
+            "0x1a9028",
+            "0x1dde7a",
+            "0x1de5ad",
+            "0x1e1c03"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

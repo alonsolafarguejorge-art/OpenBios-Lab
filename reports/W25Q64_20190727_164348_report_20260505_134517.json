@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:17.462645",
+    "file_path": "E:\\Bios Asus\\ASUS X55A BIOS rev 2.1\\W25Q64_20190727_164348.BIN",
+    "file_name": "W25Q64_20190727_164348.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x210028",
+            "0x280028",
+            "0x764028",
+            "0x792b05",
+            "0x792c55",
+            "0x794cb3",
+            "0x7a231f",
+            "0x7ff710"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x21036f",
+            "0x210999"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

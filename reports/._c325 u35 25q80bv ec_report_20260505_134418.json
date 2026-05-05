@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:18.148683",
+    "file_path": "E:\\Bios Lenovo IBM\\IBM-Lenovo Lenovo C325 c225 DAOQUDMB6DO Quanta QUD\\DA0QUDMB6E0 REVE\\__MACOSX\\._c325 u35 25q80bv ec.bin",
+    "file_name": "._c325 u35 25q80bv ec.bin",
+    "file_size_bytes": 212,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

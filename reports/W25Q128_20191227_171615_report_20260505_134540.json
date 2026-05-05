@@ -1,0 +1,44 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:40.655671",
+    "file_path": "E:\\Bios Dell\\DELL INSPIRON 3481 EDI72 LA-G714P REV 10 Inspiron Vostro 3481, 3581, 3584, 3781\\W25Q128_20191227_171615.BIN",
+    "file_name": "W25Q128_20191227_171615.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x750028",
+            "0x7b0028",
+            "0x810028",
+            "0x821028",
+            "0x861028",
+            "0x871028",
+            "0xd80028",
+            "0xe50028",
+            "0xf00028",
+            "0xf072da",
+            "0xf183bf",
+            "0xf5c1d0",
+            "0xfce770",
+            "0xfdd1d0",
+            "0xfff5a5"
+        ],
+        "Intel Flash Descriptor": [
+            "0x51010"
+        ],
+        "AMI BIOS": [
+            "0x751617",
+            "0x7558a7",
+            "0x7b1617",
+            "0x7b8cc0",
+            "0x94c940",
+            "0xfd9a2d",
+            "0xfe0ac7"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:08.158874",
+    "file_path": "E:\\E440 AILE1 NM A151 Rev 1.0 U4M1.bin",
+    "file_name": "E440 AILE1 NM A151 Rev 1.0 U4M1.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x2b1028",
+            "0x317028",
+            "0x340028",
+            "0x3a7baf",
+            "0x3be68f",
+            "0x3be6b7",
+            "0x3c1dce"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

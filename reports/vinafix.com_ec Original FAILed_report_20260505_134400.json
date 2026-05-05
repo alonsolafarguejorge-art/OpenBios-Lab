@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:00.259039",
+    "file_path": "E:\\BIOS\\S20-00 All-in-One (Lenovo) AIA30 LA-C671P BIOS\\vinafix.com_ec Original FAILed.bin",
+    "file_name": "vinafix.com_ec Original FAILed.bin",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

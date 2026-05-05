@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:53.232077",
+    "file_path": "E:\\Acer 4820 ZQ1B_DA0ZQ1MB8F0 rev.f_HM55_UMA_SB.bin",
+    "file_name": "Acer 4820 ZQ1B_DA0ZQ1MB8F0 rev.f_HM55_UMA_SB.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x214028",
+            "0x34f028",
+            "0x351028",
+            "0x361028",
+            "0x370236",
+            "0x374e32"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

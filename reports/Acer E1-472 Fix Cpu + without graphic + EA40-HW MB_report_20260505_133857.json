@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:57.477284",
+    "file_path": "E:\\Acer E1-472 Fix Cpu + without graphic + EA40-HW MB.bin",
+    "file_name": "Acer E1-472 Fix Cpu + without graphic + EA40-HW MB.bin",
+    "file_size_bytes": 8389120,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x220028",
+            "0x288028",
+            "0x68c028",
+            "0x760028",
+            "0x7b0a14",
+            "0x7cb7d0",
+            "0x7cb7fa",
+            "0x7cf32f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:48.209407",
+    "file_path": "E:\\1370 W25Q64 Bios A6CN58WW YOGA3 PRO.ROM",
+    "file_name": "1370 W25Q64 Bios A6CN58WW YOGA3 PRO.ROM",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2ca028",
+            "0x5c0028",
+            "0x5f4030",
+            "0x6c0028",
+            "0x6c7776",
+            "0x6d75db"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

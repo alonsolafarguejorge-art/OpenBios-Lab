@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:53.903848",
+    "file_path": "E:\\acer 6292.bin",
+    "file_name": "acer 6292.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xecbe8",
+            "0xecc1d"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

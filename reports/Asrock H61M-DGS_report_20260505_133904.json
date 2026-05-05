@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:04.795509",
+    "file_path": "E:\\Asrock H61M-DGS.bin",
+    "file_name": "Asrock H61M-DGS.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1a0028",
+            "0x380028",
+            "0x3ad073",
+            "0x3ad1bc",
+            "0x3b0b8a",
+            "0x3be832",
+            "0x3ff7b0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x180381",
+            "0x3e9814",
+            "0x3ecab4"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

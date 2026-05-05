@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:30.040325",
+    "file_path": "E:\\Bios Lenovo IBM\\lenovo G475\\g475\\._G475-LA-6755P-AMD CPU-DIS-ICHROM.BIN",
+    "file_name": "._G475-LA-6755P-AMD CPU-DIS-ICHROM.BIN",
+    "file_size_bytes": 120,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:09.567431",
+    "file_path": "E:\\DAX8SFMB8B1 REV B TESTED OK\\DAX8SFMB8B1 REV B TESTED OK\\32MB READ BIOS .BIN",
+    "file_name": "32MB READ BIOS .BIN",
+    "file_size_bytes": 33554432,
+    "file_size_mb": 32.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0xc01028",
+            "0x1980028",
+            "0x1991028",
+            "0x1a12028",
+            "0x1b541d0",
+            "0x1c80028",
+            "0x1cdf028",
+            "0x1ce1441",
+            "0x1d89b0f",
+            "0x1d9f028",
+            "0x1e80028",
+            "0x1ed9318",
+            "0x1f1dfd4",
+            "0x1f272b0",
+            "0x1ff8a1a",
+            "0x1ffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x229000"
+        ],
+        "AMI BIOS": [
+            "0xfca951"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

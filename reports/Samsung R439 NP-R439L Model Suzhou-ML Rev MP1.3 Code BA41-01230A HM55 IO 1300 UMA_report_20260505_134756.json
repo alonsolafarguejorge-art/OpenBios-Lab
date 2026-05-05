@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:56.924552",
+    "file_path": "E:\\Bios Samsung\\Samsung Samsung R439 NP-R439L Suzhou-ML BA41-01230A Rev MP1.3\\Samsung R439 NP-R439L Model Suzhou-ML Rev MP1.3 Code BA41-01230A HM55 IO 1300 UMA.bin",
+    "file_name": "Samsung R439 NP-R439L Model Suzhou-ML Rev MP1.3 Code BA41-01230A HM55 IO 1300 UMA.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x4010"
+        ],
+        "Phoenix BIOS": [
+            "0x2004a9",
+            "0x2759f1",
+            "0x276ca7",
+            "0x288b25",
+            "0x399afd"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

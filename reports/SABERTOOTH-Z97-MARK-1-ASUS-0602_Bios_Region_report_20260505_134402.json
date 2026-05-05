@@ -1,0 +1,46 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:02.152368",
+    "file_path": "E:\\BIOS\\SABERTOOTH-Z97-MARK-1-ASUS-2702\\SABERTOOTH-Z97-MARK-1-ASUS-0602_Bios_Region.bin",
+    "file_name": "SABERTOOTH-Z97-MARK-1-ASUS-0602_Bios_Region.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1c0028",
+            "0x1f0028",
+            "0x220028",
+            "0x600028",
+            "0x664a9a",
+            "0x664beb",
+            "0x668bf3",
+            "0x67e109",
+            "0x6ff560",
+            "0x700028",
+            "0x764a9a",
+            "0x764beb",
+            "0x768bf3",
+            "0x77e109",
+            "0x7ff560"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x1808e8",
+            "0x3a4668",
+            "0x673ef4",
+            "0x6cf814",
+            "0x6d2f64",
+            "0x773ef4",
+            "0x7cf814",
+            "0x7d2f64"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

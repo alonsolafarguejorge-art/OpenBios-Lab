@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:11.904125",
+    "file_path": "E:\\BIOS\\6050A2560201-MB-A03\\W25Q128BV@WSON8_20210414_180535   RICARDO MACS.BIN",
+    "file_name": "W25Q128BV@WSON8_20210414_180535   RICARDO MACS.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x811028",
+            "0xae1028",
+            "0xdb0028",
+            "0xe5b028",
+            "0xeac6c5",
+            "0xf4f028",
+            "0xfa06c5",
+            "0xffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:39.501653",
+    "file_path": "E:\\DEL1312-V200AARW1b9_C0.bin",
+    "file_name": "DEL1312-V200AARW1b9_C0.bin",
+    "file_size_bytes": 7702330,
+    "file_size_mb": 7.35,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x33a92c"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

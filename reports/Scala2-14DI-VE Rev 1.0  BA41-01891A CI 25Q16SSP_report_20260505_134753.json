@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:53.611678",
+    "file_path": "E:\\Bios Samsung\\Samsung NP-RV415L-CD2 Scala2-14DI-VE Rev 1.0 BA41-01891A\\Scala2-14DI-VE Rev 1.0  BA41-01891A CI 25Q16SSP.BIN",
+    "file_name": "Scala2-14DI-VE Rev 1.0  BA41-01891A CI 25Q16SSP.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x10028",
+            "0x20028",
+            "0x30028",
+            "0x190028",
+            "0x19119c",
+            "0x1924c2"
+        ],
+        "AMI BIOS": [
+            "0x1101",
+            "0x10278",
+            "0x1043d",
+            "0x10a3f",
+            "0x20278",
+            "0x2043d",
+            "0x20a3f"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:32.128750",
+    "file_path": "E:\\Bios Dell\\Dell e5540 PLYTA LA-A101P REV1.0\\vinafix.com_Working CleanME WiFi and Ethernet Dell E5540 with greetings from Poland!\\E5540 VAW50 LA-A101P REV.1.0(A00) I5-4310U 25Q32FV.BIN",
+    "file_name": "E5540 VAW50 LA-A101P REV.1.0(A00) I5-4310U 25Q32FV.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x32e528",
+            "0x32e671",
+            "0x3321b7",
+            "0x358daa",
+            "0x3ff790"
+        ],
+        "AMI BIOS": [
+            "0x5ce08",
+            "0x329ca4",
+            "0x32c2fc",
+            "0x32da90",
+            "0x391544"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

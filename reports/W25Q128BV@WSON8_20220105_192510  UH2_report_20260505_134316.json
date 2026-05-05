@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:16.958100",
+    "file_path": "E:\\BIOS\\AN515-54-78E9EH50F LA-H431P\\W25Q128BV@WSON8_20220105_192510  UH2.BIN",
+    "file_name": "W25Q128BV@WSON8_20220105_192510  UH2.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x302028",
+            "0x372028",
+            "0x9d2028",
+            "0xa34030",
+            "0xaa0028",
+            "0xb60028",
+            "0xe00028",
+            "0xe1ae50",
+            "0xe60028",
+            "0xeb0641",
+            "0xf30028",
+            "0xf36028",
+            "0xf3805d",
+            "0xf93885",
+            "0xfc0028",
+            "0xfc182f",
+            "0xffc9d2",
+            "0xffee6e"
+        ],
+        "Intel Flash Descriptor": [
+            "0x20f000"
+        ],
+        "Insyde BIOS": [
+            "0x343008"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

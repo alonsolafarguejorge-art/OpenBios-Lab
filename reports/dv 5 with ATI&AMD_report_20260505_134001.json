@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:01.987581",
+    "file_path": "E:\\dv 5 with ATI&AMD.BIN",
+    "file_name": "dv 5 with ATI&AMD.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x12028",
+            "0x1c028",
+            "0xc0028",
+            "0xd0028",
+            "0xd9028",
+            "0xe5028",
+            "0xf4b1a",
+            "0xf75aa"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

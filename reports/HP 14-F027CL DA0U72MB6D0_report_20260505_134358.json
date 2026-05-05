@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:58.045293",
+    "file_path": "E:\\BIOS\\Quanta U72 rev1A  HP 14-F027CL DA0U72MB6D0\\HP 14-F027CL DA0U72MB6D0.BIN",
+    "file_name": "HP 14-F027CL DA0U72MB6D0.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x12028",
+            "0x3e030",
+            "0x42028",
+            "0x2d6028",
+            "0x356028",
+            "0x357028",
+            "0x3c4c93",
+            "0x3c52bb",
+            "0x3c9be3",
+            "0x3ca106"
+        ],
+        "AMI BIOS": [
+            "0x35609e",
+            "0x35627e",
+            "0x3e24c6",
+            "0x3e26a6"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:03.405138",
+    "file_path": "E:\\BIOS\\SPITFIRE\\MX25L12805D@SOP16_20210511_193441   111.BIN",
+    "file_name": "MX25L12805D@SOP16_20210511_193441   111.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x709028",
+            "0xb98028",
+            "0xbd9028",
+            "0xc8d028",
+            "0xc8f577",
+            "0xd426cb",
+            "0xd5e9fe",
+            "0xdec028",
+            "0xea0028",
+            "0xea2577",
+            "0xf556cb",
+            "0xf719fe",
+            "0xffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

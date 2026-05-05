@@ -1,0 +1,44 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:36.844438",
+    "file_path": "E:\\Bios Hp Compaq\\hp 15-cw100la\\W25Q128BV@WSON8_20211007_132336   hp lovo.BIN",
+    "file_name": "W25Q128BV@WSON8_20211007_132336   hp lovo.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2e028",
+            "0x7c0028",
+            "0xad0028",
+            "0xad0ff0",
+            "0xad2d65",
+            "0xb3b94a",
+            "0xb62bf2",
+            "0xbffd00",
+            "0xbffd69",
+            "0xbffda3",
+            "0xbffdce",
+            "0xed0028",
+            "0xed0ff0",
+            "0xed2d65",
+            "0xf3b94a",
+            "0xf62bf2",
+            "0xfffd00",
+            "0xfffd69",
+            "0xfffda3",
+            "0xfffdce"
+        ],
+        "AMI BIOS": [
+            "0x7c02c6",
+            "0xb68edb",
+            "0xb691db",
+            "0xf68edb",
+            "0xf691db"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

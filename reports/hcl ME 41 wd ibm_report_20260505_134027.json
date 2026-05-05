@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:27.237209",
+    "file_path": "E:\\hcl ME 41 wd ibm.BIN",
+    "file_name": "hcl ME 41 wd ibm.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x12028",
+            "0xc4028",
+            "0xce028",
+            "0xe0028",
+            "0xe6a6f",
+            "0xe895a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

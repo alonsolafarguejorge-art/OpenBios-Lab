@@ -1,0 +1,37 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:20.571215",
+    "file_path": "E:\\GA-H110M-DS2 rev. 1.x_.bin",
+    "file_name": "GA-H110M-DS2 rev. 1.x_.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x200028",
+            "0x290028",
+            "0x5d0028",
+            "0x680028",
+            "0x68d3da",
+            "0x700028",
+            "0x700b7d",
+            "0x70283f",
+            "0x708037",
+            "0x74357e",
+            "0x7cc06c",
+            "0x7ffd7d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x201539",
+            "0x7d91e5",
+            "0x7dc441"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

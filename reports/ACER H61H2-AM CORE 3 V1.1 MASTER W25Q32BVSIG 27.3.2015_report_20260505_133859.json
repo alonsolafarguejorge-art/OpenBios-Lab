@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:59.146952",
+    "file_path": "E:\\ACER H61H2-AM CORE 3 V1.1 MASTER W25Q32BVSIG 27.3.2015.BIN",
+    "file_name": "ACER H61H2-AM CORE 3 V1.1 MASTER W25Q32BVSIG 27.3.2015.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x200028",
+            "0x210028",
+            "0x220028",
+            "0x3a0028",
+            "0x3bad8e",
+            "0x3bc1a2",
+            "0x3cab48",
+            "0x3ff790"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x200220",
+            "0x2005ed",
+            "0x20091e",
+            "0x210220",
+            "0x2105ed",
+            "0x21091e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

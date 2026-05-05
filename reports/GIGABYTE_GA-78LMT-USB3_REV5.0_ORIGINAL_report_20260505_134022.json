@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:22.395233",
+    "file_path": "E:\\GIGABYTE_GA-78LMT-USB3_REV5.0_ORIGINAL.bin",
+    "file_name": "GIGABYTE_GA-78LMT-USB3_REV5.0_ORIGINAL.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

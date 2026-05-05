@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:24.278820",
+    "file_path": "E:\\H61M-P20 (G3) MS- 7788 VER 1.0.BIN",
+    "file_name": "H61M-P20 (G3) MS- 7788 VER 1.0.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1a0028",
+            "0x380028",
+            "0x3c438b",
+            "0x3c8084",
+            "0x3d53e6",
+            "0x3ff750"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x18040b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

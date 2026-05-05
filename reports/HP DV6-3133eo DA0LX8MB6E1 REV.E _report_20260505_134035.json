@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:35.562963",
+    "file_path": "E:\\HP DV6-3133eo DA0LX8MB6E1 REV.E .bin",
+    "file_name": "HP DV6-3133eo DA0LX8MB6E1 REV.E .bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x22028",
+            "0x186028",
+            "0x196028",
+            "0x19d028",
+            "0x1aa028",
+            "0x1e0237",
+            "0x1e09da",
+            "0x1e4b2b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:46.637431",
+    "file_path": "E:\\HP-DAY11AMB6E0-REV E CLean Me.bin",
+    "file_name": "HP-DAY11AMB6E0-REV E CLean Me.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x240028",
+            "0x274030",
+            "0x2ee028",
+            "0x730028",
+            "0x7376fb",
+            "0x7bf537"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x7be3f6",
+            "0x7be5d6"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

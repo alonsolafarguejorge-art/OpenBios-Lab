@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:47.725173",
+    "file_path": "E:\\945 gcnl intel org.BIN",
+    "file_name": "945 gcnl intel org.BIN",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x8028",
+            "0xc028",
+            "0x70028",
+            "0x76ede",
+            "0x76f0f",
+            "0x7cc51",
+            "0x7cd69"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file"
+    ]
+}

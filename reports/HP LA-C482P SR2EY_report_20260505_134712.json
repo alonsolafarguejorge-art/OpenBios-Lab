@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:12.105290",
+    "file_path": "E:\\Bios Hp Compaq\\HP ENVY Notebook - 13-d036tu - la-c482p\\HP LA-C482P SR2EY.BIN",
+    "file_name": "HP LA-C482P SR2EY.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x244028",
+            "0x278030",
+            "0x33c028",
+            "0x70f028",
+            "0x7185e3",
+            "0x7dbf66"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x57c1d3",
+            "0x7dae46",
+            "0x7db026"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

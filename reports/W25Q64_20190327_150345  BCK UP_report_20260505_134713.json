@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:13.186842",
+    "file_path": "E:\\Bios Hp Compaq\\HP Envy TouchSmart 15 15SBGV2D-6050A2548101 MB-A02\\W25Q64_20190327_150345  BCK UP.BIN",
+    "file_name": "W25Q64_20190327_150345  BCK UP.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x305028",
+            "0x32f030",
+            "0x333028",
+            "0x770028",
+            "0x771028",
+            "0x79e39d",
+            "0x79eaa1",
+            "0x7a1e57"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x77009e",
+            "0x77027e",
+            "0x7efa8e",
+            "0x7efc6e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

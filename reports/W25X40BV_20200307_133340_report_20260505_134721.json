@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:21.341052",
+    "file_path": "E:\\Bios Hp Compaq\\HP Omni 120-1050xt Quanta WJ5 (DA0WJ5MB6D0)\\W25X40BV_20200307_133340.BIN",
+    "file_name": "W25X40BV_20200307_133340.BIN",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

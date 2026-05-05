@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:56.956669",
+    "file_path": "E:\\ACER ChromeBook CP713 DA0ZSAMBAD0_Tested_100%JD Bios.bin",
+    "file_name": "ACER ChromeBook CP713 DA0ZSAMBAD0_Tested_100%JD Bios.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x26d028",
+            "0x270517",
+            "0x2c7cb3",
+            "0x2d1028",
+            "0x655028",
+            "0x658517",
+            "0x6afcb3",
+            "0x6b9028",
+            "0xd5c028",
+            "0xd5f517",
+            "0xdb6cb3",
+            "0xdc0028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x13b604",
+            "0x26c470",
+            "0x26c4a3",
+            "0x654470",
+            "0x6544a3",
+            "0xd5b5b0",
+            "0xd5b5e3"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

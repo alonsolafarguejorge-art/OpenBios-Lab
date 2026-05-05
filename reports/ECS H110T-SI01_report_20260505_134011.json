@@ -1,0 +1,40 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:11.265696",
+    "file_path": "E:\\ECS H110T-SI01.BIN",
+    "file_name": "ECS H110T-SI01.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1c0028",
+            "0x210028",
+            "0x219188",
+            "0x610028",
+            "0x6a0028",
+            "0x6b2d17",
+            "0x740028",
+            "0x740b9d",
+            "0x742887",
+            "0x75f12d",
+            "0x7ccf0a",
+            "0x7ffd85"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x1c11a4",
+            "0x34875c",
+            "0x728d69",
+            "0x754955",
+            "0x7d95ed",
+            "0x7dc234"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

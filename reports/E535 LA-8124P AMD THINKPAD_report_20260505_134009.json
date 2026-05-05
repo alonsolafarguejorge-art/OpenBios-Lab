@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:09.014668",
+    "file_path": "E:\\E535 LA-8124P AMD THINKPAD.bin",
+    "file_name": "E535 LA-8124P AMD THINKPAD.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x100028",
+            "0x300028",
+            "0x340028",
+            "0x370028",
+            "0x376aa0",
+            "0x38dcd4",
+            "0x38dcfe",
+            "0x3ec237"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

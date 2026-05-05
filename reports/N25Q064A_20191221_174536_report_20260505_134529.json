@@ -1,0 +1,48 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:29.144594",
+    "file_path": "E:\\Bios Dell\\Dell Alienware Alpha & Alienware Steam Machine D07U DH81M01\\N25Q064A_20191221_174536.BIN",
+    "file_name": "N25Q064A_20191221_174536.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x210028",
+            "0x230028",
+            "0x260028",
+            "0x474d88",
+            "0x660028",
+            "0x680028",
+            "0x6bea07",
+            "0x6beb54",
+            "0x6c33ad",
+            "0x6e1956",
+            "0x7ff7d0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x210558",
+            "0x210a40",
+            "0x214079",
+            "0x2140c0",
+            "0x214230",
+            "0x2162cc",
+            "0x230544",
+            "0x234667",
+            "0x2346ae",
+            "0x23481e",
+            "0x235620",
+            "0x2375c3",
+            "0x23afb2",
+            "0x23f304",
+            "0x4325df"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

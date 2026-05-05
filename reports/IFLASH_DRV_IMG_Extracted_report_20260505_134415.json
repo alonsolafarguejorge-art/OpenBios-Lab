@@ -1,0 +1,42 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:15.544222",
+    "file_path": "E:\\Bios Lenovo IBM\\100-14IBD Laptop (ideapad)\\e0cn63ww_LBE OutPut\\app\\E0CN63WW\\IFLASH_DRV_IMG_Extracted.BIN",
+    "file_name": "IFLASH_DRV_IMG_Extracted.BIN",
+    "file_size_bytes": 9936832,
+    "file_size_mb": 9.48,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x29c980",
+            "0x5b3980",
+            "0x5e7988",
+            "0x6c0980",
+            "0x6c73ba",
+            "0x6d7272"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1968"
+        ],
+        "AMI BIOS": [
+            "0x2cd2fb",
+            "0x33cbc1"
+        ],
+        "Insyde BIOS": [
+            "0x800987",
+            "0x802d3c",
+            "0x802eeb",
+            "0x802f72",
+            "0x8033b1",
+            "0x803426",
+            "0x803472",
+            "0x808e37",
+            "0x808f96",
+            "0x80b7c1"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

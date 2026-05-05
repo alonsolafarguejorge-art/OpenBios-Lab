@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:55.695162",
+    "file_path": "E:\\sony vgn-cs36gj.BIN",
+    "file_name": "sony vgn-cs36gj.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x14028",
+            "0xcc028",
+            "0xe0028",
+            "0xe806d",
+            "0xeb962"
+        ],
+        "AMI BIOS": [
+            "0x9783a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

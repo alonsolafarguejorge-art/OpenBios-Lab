@@ -1,0 +1,43 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:37.692846",
+    "file_path": "E:\\Bios Acer\\Acer Switch SW312-31 SW312-31 T8202_ Pcb _ MB _V6\\8MB.bin",
+    "file_name": "8MB.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x86468",
+            "0x87468",
+            "0x88bcb",
+            "0x96edf",
+            "0x9701f",
+            "0x97286",
+            "0xe1468",
+            "0xe707e",
+            "0x388028",
+            "0x3d6028",
+            "0x5db028",
+            "0x619030"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5b5aa",
+            "0x62681",
+            "0x626a7",
+            "0x6941a"
+        ],
+        "AMI BIOS": [
+            "0xcb778",
+            "0x25faa3",
+            "0x5b6f78"
+        ],
+        "Insyde BIOS": [
+            "0x3c9008"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

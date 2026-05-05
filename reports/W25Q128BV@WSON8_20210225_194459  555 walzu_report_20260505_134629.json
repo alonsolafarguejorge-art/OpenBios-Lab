@@ -1,0 +1,59 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:29.543234",
+    "file_path": "E:\\Bios Hp Compaq\\hp 14m-dw0023dx\\W25Q128BV@WSON8_20210225_194459  555 walzu.BIN",
+    "file_name": "W25Q128BV@WSON8_20210225_194459  555 walzu.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x483028",
+            "0x4e3028",
+            "0xb40028",
+            "0xb40098",
+            "0xbb0028",
+            "0xbb6028",
+            "0xbb8120",
+            "0xc1d13d",
+            "0xc40028",
+            "0xc40834",
+            "0xc410f4",
+            "0xc42ec5",
+            "0xc6f2eb",
+            "0xc7cc3e",
+            "0xcfe187",
+            "0xcffe40",
+            "0xcffe68",
+            "0xd00028",
+            "0xda0028",
+            "0xe40028",
+            "0xe40098",
+            "0xeb0028",
+            "0xf40028",
+            "0xf40834",
+            "0xf410f4",
+            "0xf592a1",
+            "0xffe187",
+            "0xfffe40",
+            "0xfffe68"
+        ],
+        "Intel Flash Descriptor": [
+            "0x392000"
+        ],
+        "AMI BIOS": [
+            "0x4838f9",
+            "0x4897b8",
+            "0x48c0e6",
+            "0x492a4f",
+            "0xc8bac9",
+            "0xf8256b",
+            "0xf8286b",
+            "0xf8bac9"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

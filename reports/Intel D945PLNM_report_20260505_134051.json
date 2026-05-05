@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:51.572184",
+    "file_path": "E:\\Intel D945PLNM.BIN",
+    "file_name": "Intel D945PLNM.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x10028",
+            "0x64028",
+            "0x66028",
+            "0xf0028",
+            "0xf5d66",
+            "0xf5d97",
+            "0xfca6c",
+            "0xfcb84"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:50.962187",
+    "file_path": "E:\\Bios Dell\\Dell Latitude E6220 6050A2428801\\dell e6220 u6621_Clear me.bin",
+    "file_name": "dell e6220 u6621_Clear me.bin",
+    "file_size_bytes": 8388672,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x620028",
+            "0x640028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5010"
+        ],
+        "AMI BIOS": [
+            "0x60128d",
+            "0x611271"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

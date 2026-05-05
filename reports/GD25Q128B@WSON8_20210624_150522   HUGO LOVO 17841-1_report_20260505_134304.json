@@ -1,0 +1,46 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:04.074237",
+    "file_path": "E:\\BIOS\\GD25Q128B@WSON8_20210624_150522   HUGO LOVO 17841-1.BIN",
+    "file_name": "GD25Q128B@WSON8_20210624_150522   HUGO LOVO 17841-1.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x700028",
+            "0x740028",
+            "0x7a0028",
+            "0x800028",
+            "0x811028",
+            "0x851028",
+            "0x861028",
+            "0xd20028",
+            "0xdc0028",
+            "0xee0028",
+            "0xee3700",
+            "0xf132b2",
+            "0xf86d9b",
+            "0xfa934b",
+            "0xfc1870",
+            "0xfff5a5"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x13b604",
+            "0x7415e7",
+            "0x747e80",
+            "0x74c0ae",
+            "0x7a15e7",
+            "0x7a7e80",
+            "0xa360f4",
+            "0xf968fd"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

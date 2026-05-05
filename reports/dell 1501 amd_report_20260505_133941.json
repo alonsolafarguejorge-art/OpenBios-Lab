@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:41.103407",
+    "file_path": "E:\\dell 1501 amd.BIN",
+    "file_name": "dell 1501 amd.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xeb010",
+            "0xeb044"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

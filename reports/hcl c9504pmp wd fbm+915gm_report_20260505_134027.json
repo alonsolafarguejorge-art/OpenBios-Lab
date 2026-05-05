@@ -1,0 +1,21 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:27.066301",
+    "file_path": "E:\\hcl c9504pmp wd fbm+915gm.BIN",
+    "file_name": "hcl c9504pmp wd fbm+915gm.BIN",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x5ffea",
+            "0x70040",
+            "0x70348"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

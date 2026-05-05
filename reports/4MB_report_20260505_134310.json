@@ -1,0 +1,43 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:10.653711",
+    "file_path": "E:\\BIOS\\6-71-W54S0-D03A W540SU1W545SU1\\4MB.bin",
+    "file_name": "4MB.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x10028",
+            "0x60028",
+            "0x2f0028",
+            "0x310028",
+            "0x3633e6",
+            "0x363533",
+            "0x3678ae",
+            "0x3846f6",
+            "0x3ff830"
+        ],
+        "AMI BIOS": [
+            "0x104e4",
+            "0x1f58d7",
+            "0x1f591e",
+            "0x1f5a8e",
+            "0x1f5be8",
+            "0x1f6a27",
+            "0x1f6a6e",
+            "0x1f6bde",
+            "0x1f6d38",
+            "0x3b6037",
+            "0x3b607e",
+            "0x3b61ee",
+            "0x3b6348",
+            "0x3b961c",
+            "0x3bbb7c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

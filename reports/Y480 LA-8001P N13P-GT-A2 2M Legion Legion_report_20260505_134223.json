@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:23.508989",
+    "file_path": "E:\\Y480 LA-8001P N13P-GT-A2 2M Legion Legion.BIN",
+    "file_name": "Y480 LA-8001P N13P-GT-A2 2M Legion Legion.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x110028",
+            "0x116028",
+            "0x140028",
+            "0x15f575",
+            "0x15f968",
+            "0x161023"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

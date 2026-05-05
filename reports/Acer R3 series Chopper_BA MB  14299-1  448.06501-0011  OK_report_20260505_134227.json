@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:27.891737",
+    "file_path": "E:\\Bios Acer\\Acer R3 series Chopper_BA MB  14299-1  448.06501-0011  OK.BIN",
+    "file_name": "Acer R3 series Chopper_BA MB  14299-1  448.06501-0011  OK.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x249028",
+            "0x296028",
+            "0x2d4030",
+            "0x3ad028",
+            "0x3fb028",
+            "0x72f028",
+            "0x75add4",
+            "0x7ab028",
+            "0x7adc17"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Insyde BIOS": [
+            "0x208074",
+            "0x3ee008"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

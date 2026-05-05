@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:42.797661",
+    "file_path": "E:\\rahul.BIN",
+    "file_name": "rahul.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xece11",
+            "0xece45"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

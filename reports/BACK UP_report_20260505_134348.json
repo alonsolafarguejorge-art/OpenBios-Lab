@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:48.812023",
+    "file_path": "E:\\BIOS\\LALO-A1534\\BACK UP.bin",
+    "file_name": "BACK UP.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1028",
+            "0x139028",
+            "0x169028",
+            "0x2c0028",
+            "0x510028",
+            "0x52ce92",
+            "0x539821",
+            "0x5b9e0b",
+            "0x648028",
+            "0x664e92",
+            "0x671821",
+            "0x6f1e0b",
+            "0x780028",
+            "0x7c0028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:27.113731",
+    "file_path": "E:\\Bios Dell\\Dell Alienware 13 - ZAP00 LA-A301P\\25Q64FV BF AW13 A04.BIN",
+    "file_name": "25Q64FV BF AW13 A04.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x204028",
+            "0x245028",
+            "0x720028",
+            "0x72141f",
+            "0x722efb",
+            "0x72dc45",
+            "0x792ee0",
+            "0x7ffa63"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2046a2"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

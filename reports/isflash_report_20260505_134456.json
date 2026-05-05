@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:56.605608",
+    "file_path": "E:\\Bios Lenovo IBM\\Yoga 300-11IBR Laptop (ideapad)\\c7cn31ww\\isflash.bin",
+    "file_name": "isflash.bin",
+    "file_size_bytes": 10113992,
+    "file_size_mb": 9.65,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x409228",
+            "0x456228",
+            "0x494230",
+            "0x52f228",
+            "0x72f228",
+            "0x75bb22",
+            "0x7c1228",
+            "0x7e2228",
+            "0x7e3b14",
+            "0x9a02c8"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2210"
+        ],
+        "Insyde BIOS": [
+            "0x80122f",
+            "0x804197",
+            "0x80461b",
+            "0x804690",
+            "0x8046dc",
+            "0x80c8b8"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:57.263111",
+    "file_path": "E:\\Bios Sony\\Sony BIOS VPCEG MBX-250 I3\\MX25L3206E_20190802_113348.BIN",
+    "file_name": "MX25L3206E_20190802_113348.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1c1028",
+            "0x1c3028",
+            "0x351028",
+            "0x361028",
+            "0x3729f7",
+            "0x372c42",
+            "0x38c7c3"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Insyde BIOS": [
+            "0x188074"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

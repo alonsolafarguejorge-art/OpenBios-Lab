@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:37.790223",
+    "file_path": "E:\\Bios Dell\\DELL INSPIRON 1440 INTEL\\DELL INSPIRON 1440 INTEL\u00d1.BIN",
+    "file_name": "DELL INSPIRON 1440 INTEL\u00d1.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x5001c",
+            "0x54e04",
+            "0x579ed",
+            "0xec1eb",
+            "0x11abf5",
+            "0x11ac80",
+            "0x127dc3",
+            "0x127e50"
+        ],
+        "Insyde BIOS": [
+            "0x4074"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

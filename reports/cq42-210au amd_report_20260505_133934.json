@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:34.323995",
+    "file_path": "E:\\cq42-210au amd.bin",
+    "file_name": "cq42-210au amd.bin",
+    "file_size_bytes": 2097922,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x22028",
+            "0x186028",
+            "0x196028",
+            "0x19d028",
+            "0x1aa028",
+            "0x1dfc6f",
+            "0x1e03fa",
+            "0x1e45c3"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

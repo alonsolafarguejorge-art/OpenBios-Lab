@@ -1,0 +1,21 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:39.266053",
+    "file_path": "E:\\P650R-T1v3-201512.bin",
+    "file_name": "P650R-T1v3-201512.bin",
+    "file_size_bytes": 1288130,
+    "file_size_mb": 1.23,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x36bcd",
+            "0x38741",
+            "0x387e7",
+            "0x41c4e"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:26.973597",
+    "file_path": "E:\\hasse -Q3C85 (1).rom",
+    "file_name": "hasse -Q3C85 (1).rom",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x12028",
+            "0xba028",
+            "0xc9028",
+            "0xd8028",
+            "0xdea70",
+            "0xe093a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

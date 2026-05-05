@@ -1,0 +1,37 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:28.242367",
+    "file_path": "E:\\C340 NQBIOS.bin",
+    "file_name": "C340 NQBIOS.bin",
+    "file_size_bytes": 8388672,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x380028",
+            "0x3d0028",
+            "0x740028",
+            "0x76d468",
+            "0x76d5b1",
+            "0x77028c",
+            "0x77e1b2",
+            "0x7ff6d0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x382cd9",
+            "0x382d20",
+            "0x382e90",
+            "0x3832b4",
+            "0x38a6a5",
+            "0x38a6ec",
+            "0x38a85c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

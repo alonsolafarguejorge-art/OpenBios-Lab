@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:29.722703",
+    "file_path": "E:\\BIOS\\DA0R53MB6E1 REVE\\HP_G4_DAOR53MB6E1.bin",
+    "file_name": "HP_G4_DAOR53MB6E1.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x31028",
+            "0x61028",
+            "0x380028",
+            "0x3d71d3",
+            "0x3d77e8",
+            "0x3dc367"
+        ],
+        "AMI BIOS": [
+            "0x3f2e9e",
+            "0x3f307e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

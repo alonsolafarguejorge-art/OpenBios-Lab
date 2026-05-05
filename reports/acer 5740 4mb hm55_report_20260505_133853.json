@@ -1,0 +1,21 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:53.736305",
+    "file_path": "E:\\acer 5740 4mb hm55.BIN",
+    "file_name": "acer 5740 4mb hm55.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Phoenix BIOS": [
+            "0x250010"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

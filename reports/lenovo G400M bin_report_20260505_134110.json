@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:10.240365",
+    "file_path": "E:\\lenovo G400M bin.BIN",
+    "file_name": "lenovo G400M bin.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xebdc9"
+        ],
+        "Phoenix BIOS": [
+            "0xec4f0",
+            "0xec524"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

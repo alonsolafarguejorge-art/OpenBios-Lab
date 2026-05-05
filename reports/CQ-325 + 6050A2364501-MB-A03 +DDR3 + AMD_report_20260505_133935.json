@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:35.305710",
+    "file_path": "E:\\CQ-325 + 6050A2364501-MB-A03 +DDR3 + AMD.bin",
+    "file_name": "CQ-325 + 6050A2364501-MB-A03 +DDR3 + AMD.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x10028",
+            "0x140028",
+            "0x160028",
+            "0x1a0028",
+            "0x1d45dc",
+            "0x1d53b0",
+            "0x1d9aa5"
+        ],
+        "AMI BIOS": [
+            "0x193a6c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

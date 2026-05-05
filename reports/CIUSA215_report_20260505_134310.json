@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:10.342161",
+    "file_path": "E:\\BIOS\\520S-14IKB\\app\\4QCN51WW\\CIUSA215.ROM",
+    "file_name": "CIUSA215.ROM",
+    "file_size_bytes": 9193568,
+    "file_size_mb": 8.77,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2d0",
+            "0x354338",
+            "0x64d338",
+            "0x69f340",
+            "0x757338",
+            "0x75d82e",
+            "0x77a263"
+        ],
+        "Intel Flash Descriptor": [
+            "0x98320"
+        ],
+        "Insyde BIOS": [
+            "0x29747a",
+            "0x89733f",
+            "0x89a2ea",
+            "0x89a7b5",
+            "0x89a82a",
+            "0x89a876",
+            "0x8a3061",
+            "0x8a3650",
+            "0x8a3d7a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

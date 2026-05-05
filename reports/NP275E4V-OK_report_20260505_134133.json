@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:33.449304",
+    "file_path": "E:\\NP275E4V-OK.bin",
+    "file_name": "NP275E4V-OK.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x80028",
+            "0x380028",
+            "0x38141c",
+            "0x381569",
+            "0x3836d5"
+        ],
+        "AMI BIOS": [
+            "0x1101",
+            "0x301e2",
+            "0x33cee",
+            "0x3d3310",
+            "0x3d652c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

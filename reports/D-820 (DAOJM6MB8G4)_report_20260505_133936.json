@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:36.476166",
+    "file_path": "E:\\D-820 (DAOJM6MB8G4).BIN",
+    "file_name": "D-820 (DAOJM6MB8G4).BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x2001c",
+            "0x252c2",
+            "0x28138"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

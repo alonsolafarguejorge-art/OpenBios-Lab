@@ -1,0 +1,52 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:50.922150",
+    "file_path": "E:\\dell studio  1458 hm55.BIN",
+    "file_name": "dell studio  1458 hm55.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Phoenix BIOS": [
+            "0x35fd57",
+            "0x380f31",
+            "0x383055",
+            "0x383d23",
+            "0x3849f5",
+            "0x385197",
+            "0x390f54",
+            "0x393080",
+            "0x393fb0",
+            "0x394732",
+            "0x3b197a",
+            "0x3ef0a0",
+            "0x3efcfc",
+            "0x3f0627",
+            "0x3f2b67",
+            "0x3f4c0f",
+            "0x3f6307",
+            "0x3f6e8f",
+            "0x3f79af",
+            "0x3f82ff",
+            "0x3f8d17",
+            "0x3f94bf",
+            "0x3f9d37",
+            "0x3fa56f",
+            "0x3fad33",
+            "0x3fb41f",
+            "0x3fb9f7",
+            "0x3fbf3f",
+            "0x3fc1d7",
+            "0x3fc3df",
+            "0x3fc587",
+            "0x3fc6f7"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:04.240144",
+    "file_path": "E:\\dv7-1232nr.bin",
+    "file_name": "dv7-1232nr.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x22028",
+            "0xc0028",
+            "0xd0028",
+            "0xd9028",
+            "0xe6028",
+            "0xf4bca",
+            "0xf764a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

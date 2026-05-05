@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:34.651473",
+    "file_path": "E:\\Bios Lenovo IBM\\lenovo ideapad 320-15ikb\\codeGetExtractPath\\4WCN47WW\\BIOS.fd",
+    "file_name": "BIOS.fd",
+    "file_size_bytes": 9683264,
+    "file_size_mb": 9.23,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2d0",
+            "0x3b1a38",
+            "0x66ea38",
+            "0x6a6a40",
+            "0x7eea38",
+            "0x7f4d2e",
+            "0x810e92"
+        ],
+        "Intel Flash Descriptor": [
+            "0x12fa20"
+        ],
+        "AMI BIOS": [
+            "0x62c186"
+        ],
+        "Insyde BIOS": [
+            "0x92ea3f",
+            "0x9319d1",
+            "0x931e9c",
+            "0x931f11",
+            "0x931f5d",
+            "0x93a98c",
+            "0x93af40"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

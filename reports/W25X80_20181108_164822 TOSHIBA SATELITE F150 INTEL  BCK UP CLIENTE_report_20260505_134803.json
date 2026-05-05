@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:03.166659",
+    "file_path": "E:\\Bios Toshiba\\TOSHIBA SATELITE F150   6050A2218301\\W25X80_20181108_164822 TOSHIBA SATELITE F150 INTEL  BCK UP CLIENTE.BIN",
+    "file_name": "W25X80_20181108_164822 TOSHIBA SATELITE F150 INTEL  BCK UP CLIENTE.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x18028",
+            "0xc0028",
+            "0xd0028",
+            "0xe0028",
+            "0xe76f4",
+            "0xf5d9d"
+        ],
+        "Insyde BIOS": [
+            "0x108e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

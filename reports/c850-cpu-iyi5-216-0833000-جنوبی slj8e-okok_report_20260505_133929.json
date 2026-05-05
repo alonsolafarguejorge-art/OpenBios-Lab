@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:29.174843",
+    "file_path": "E:\\c850-cpu-iyi5-216-0833000-\u062c\u0646\u0648\u0628\u06cc slj8e-okok.bin",
+    "file_name": "c850-cpu-iyi5-216-0833000-\u062c\u0646\u0648\u0628\u06cc slj8e-okok.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1a2028",
+            "0x340028",
+            "0x346028",
+            "0x370028",
+            "0x3872fd",
+            "0x3877ae",
+            "0x3895e6"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Insyde BIOS": [
+            "0x180168"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

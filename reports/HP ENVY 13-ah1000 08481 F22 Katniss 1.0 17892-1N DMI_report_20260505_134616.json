@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:16.947555",
+    "file_path": "E:\\Bios Hp Compaq\\ENVY  katniss  1.0  17892-1n\\HP ENVY 13-ah1000 08481 F22 Katniss 1.0 17892-1N DMI.bin",
+    "file_name": "HP ENVY 13-ah1000 08481 F22 Katniss 1.0 17892-1N DMI.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x244028",
+            "0x296030",
+            "0x323028",
+            "0x636028",
+            "0x6cc028",
+            "0x6d1b09",
+            "0x6effc2"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x7c867e",
+            "0x7c885e"
+        ],
+        "Insyde BIOS": [
+            "0x22000a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

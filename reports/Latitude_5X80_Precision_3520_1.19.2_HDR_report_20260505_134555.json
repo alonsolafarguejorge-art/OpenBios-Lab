@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:55.218916",
+    "file_path": "E:\\Bios Dell\\DELL PRECISION 3520\\dell Precision 3520\\Latitude_5X80_Precision_3520_1.19.2_HDR.bin",
+    "file_name": "Latitude_5X80_Precision_3520_1.19.2_HDR.bin",
+    "file_size_bytes": 19489792,
+    "file_size_mb": 18.59,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:21.340076",
+    "file_path": "E:\\LG LP141WX1 (TL)(A2) (1).bin",
+    "file_name": "LG LP141WX1 (TL)(A2) (1).bin",
+    "file_size_bytes": 256,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:59.967042",
+    "file_path": "E:\\Bios Toshiba\\Satellite C4x-BL4x-BS4x-B (PSCJWxPSKQ8xPSKQAxPSKQExPSPN2xPSPN4x)\\ca_10su.bin",
+    "file_name": "ca_10su.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x78028",
+            "0x340028",
+            "0x360028",
+            "0x3b1fa6",
+            "0x3b20f5",
+            "0x3b671a",
+            "0x3c7f16",
+            "0x3ff710"
+        ],
+        "AMI BIOS": [
+            "0x3052c",
+            "0x358035"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:07.110860",
+    "file_path": "E:\\Bios Asus\\Asus Q500A r2.0\\W25Q64_20180825_173306  bck up dagoberto.BIN",
+    "file_name": "W25Q64_20180825_173306  bck up dagoberto.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x518028",
+            "0x540028",
+            "0x78e028",
+            "0x7ba36c",
+            "0x7ba4b7",
+            "0x7bc9fb",
+            "0x7cc5fa",
+            "0x7ff6f0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x518363",
+            "0x5193a6"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

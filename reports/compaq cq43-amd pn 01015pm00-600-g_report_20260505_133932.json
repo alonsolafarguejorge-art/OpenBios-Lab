@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:32.010545",
+    "file_path": "E:\\compaq cq43-amd pn 01015pm00-600-g.bin",
+    "file_name": "compaq cq43-amd pn 01015pm00-600-g.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x22028",
+            "0x31028",
+            "0x140028",
+            "0x180028",
+            "0x1b5809",
+            "0x1b5c67",
+            "0x1ba17d"
+        ],
+        "AMI BIOS": [
+            "0x1cc266",
+            "0x1cc446"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:26.025054",
+    "file_path": "E:\\M8400T IS7XM_Q77_EN25QH16_20150518_170923 THINK .BIN",
+    "file_name": "M8400T IS7XM_Q77_EN25QH16_20150518_170923 THINK .BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x130028",
+            "0x150028",
+            "0x160028",
+            "0x18f44e",
+            "0x18f597",
+            "0x192264",
+            "0x19f756",
+            "0x1ff790"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

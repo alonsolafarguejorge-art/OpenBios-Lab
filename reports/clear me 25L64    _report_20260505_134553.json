@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:53.514545",
+    "file_path": "E:\\Bios Dell\\Dell OptiPlex 3020M PIH81R  Dogfish_Entry 13124-1\\clear me 25L64    .bin",
+    "file_name": "clear me 25L64    .bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x200028",
+            "0x220028",
+            "0x290028",
+            "0x2f0028",
+            "0x700028",
+            "0x730469",
+            "0x7305b2",
+            "0x733e86",
+            "0x756956",
+            "0x7ff770"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2051c5",
+            "0x2251c5",
+            "0x72ba74",
+            "0x72e04c",
+            "0x72f7e0",
+            "0x77ecd4"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

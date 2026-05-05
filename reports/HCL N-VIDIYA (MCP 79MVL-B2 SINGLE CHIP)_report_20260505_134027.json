@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:27.473344",
+    "file_path": "E:\\HCL N-VIDIYA (MCP 79MVL-B2 SINGLE CHIP).BIN",
+    "file_name": "HCL N-VIDIYA (MCP 79MVL-B2 SINGLE CHIP).BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xeb801",
+            "0xeb834"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

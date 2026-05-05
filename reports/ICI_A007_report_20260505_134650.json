@@ -1,0 +1,50 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:50.854129",
+    "file_path": "E:\\Bios Hp Compaq\\HP 20 DA0N69MB6E0  REV E\\ICI_A007.bin",
+    "file_name": "ICI_A007.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x320028",
+            "0x371028",
+            "0x3c1028",
+            "0x680028",
+            "0x720028",
+            "0x7c0028",
+            "0x7c35cf",
+            "0x7ccc69",
+            "0x7ccd2b",
+            "0x7ccd53",
+            "0x7cd916",
+            "0x7df132",
+            "0x7df45d",
+            "0x7e0028",
+            "0x7e35cf",
+            "0x7ecc69",
+            "0x7ecd2b",
+            "0x7ecd53",
+            "0x7ed916",
+            "0x7ff132",
+            "0x7ff45d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x320325",
+            "0x63d099",
+            "0x7d17eb",
+            "0x7d1aeb",
+            "0x7f17eb",
+            "0x7f1aeb"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

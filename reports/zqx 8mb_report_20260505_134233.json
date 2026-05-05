@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:33.165630",
+    "file_path": "E:\\Bios Acer\\Acer Aspire R3-471T Quanta ZQX\\zqx 8mb.bin",
+    "file_name": "zqx 8mb.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x301028",
+            "0x6ce028",
+            "0x6fc030",
+            "0x700028",
+            "0x72347d",
+            "0x723855",
+            "0x72501f"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

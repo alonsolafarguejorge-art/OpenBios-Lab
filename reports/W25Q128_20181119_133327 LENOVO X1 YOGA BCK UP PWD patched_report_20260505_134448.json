@@ -1,0 +1,40 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:48.085527",
+    "file_path": "E:\\Bios Lenovo IBM\\LENOVO YOGA X1\\W25Q128_20181119_133327 LENOVO X1 YOGA BCK UP PWD patched\\W25Q128_20181119_133327 LENOVO X1 YOGA BCK UP PWD patched.rom",
+    "file_name": "W25Q128_20181119_133327 LENOVO X1 YOGA BCK UP PWD patched.rom",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x800028",
+            "0x8a0028",
+            "0x990028",
+            "0xdd0028",
+            "0xe00028",
+            "0xe10028",
+            "0xec0028",
+            "0xf1d12e",
+            "0xf9ce9f",
+            "0xf9cf28",
+            "0xf9cfee",
+            "0xfa012e",
+            "0xfa0646",
+            "0xfbba5a",
+            "0xfbba87",
+            "0xfe0028",
+            "0xfe1c96"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x62f9cc"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

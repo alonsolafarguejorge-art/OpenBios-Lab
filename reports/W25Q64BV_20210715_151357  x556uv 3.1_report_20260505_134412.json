@@ -1,0 +1,42 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:12.700608",
+    "file_path": "E:\\BIOS\\x556  x556uq\\W25Q64BV_20210715_151357  x556uv 3.1.BIN",
+    "file_name": "W25Q64BV_20210715_151357  x556uv 3.1.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x240028",
+            "0x380028",
+            "0x390028",
+            "0x660028",
+            "0x6a0028",
+            "0x6a0b84",
+            "0x6a2f2b",
+            "0x6be31b",
+            "0x730d36",
+            "0x7385d8",
+            "0x7414d8",
+            "0x755a41",
+            "0x759f31",
+            "0x7ffd7d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x240e19",
+            "0x241170",
+            "0x6b4831",
+            "0x73e251",
+            "0x7883e0",
+            "0x79f7c9"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

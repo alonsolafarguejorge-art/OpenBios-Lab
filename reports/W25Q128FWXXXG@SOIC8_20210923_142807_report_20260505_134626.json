@@ -1,0 +1,44 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:26.200157",
+    "file_path": "E:\\Bios Hp Compaq\\HP 14-dk1000 (8VZ02AV)\\ashmor20 6050a3176101-mb-a01\\W25Q128FWXXXG@SOIC8_20210923_142807.BIN",
+    "file_name": "W25Q128FWXXXG@SOIC8_20210923_142807.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2a7028",
+            "0x7c0028",
+            "0xad0028",
+            "0xad0ff0",
+            "0xad2d6d",
+            "0xb3d2ea",
+            "0xb64307",
+            "0xbffd00",
+            "0xbffd69",
+            "0xbffda3",
+            "0xbffdce",
+            "0xed0028",
+            "0xed0ff0",
+            "0xed2d6d",
+            "0xf3d2ea",
+            "0xf64307",
+            "0xfffd00",
+            "0xfffd69",
+            "0xfffda3",
+            "0xfffdce"
+        ],
+        "AMI BIOS": [
+            "0x7c025e",
+            "0xb6a5db",
+            "0xb6a8db",
+            "0xf6a5db",
+            "0xf6a8db"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

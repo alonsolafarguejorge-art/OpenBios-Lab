@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:07.525770",
+    "file_path": "E:\\Bios Asus\\ASUS ROG GL552VX (7th Gen Intel Core)\\vinafix.com_GL552VXK 7th HM175.300.bin",
+    "file_name": "vinafix.com_GL552VXK 7th HM175.300.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x220028",
+            "0x250028",
+            "0x610028",
+            "0x6a0028",
+            "0x6b2d17",
+            "0x720028",
+            "0x720ba4",
+            "0x72282f",
+            "0x7347e6",
+            "0x73d5c2",
+            "0x7a9ee1",
+            "0x7ffd7d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2210d2",
+            "0x71b679",
+            "0x732595",
+            "0x7b84da"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

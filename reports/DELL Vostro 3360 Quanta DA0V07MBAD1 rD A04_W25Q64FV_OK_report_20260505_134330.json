@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:30.022046",
+    "file_path": "E:\\BIOS\\DA0V07MBAD1\\DELL Vostro 3360 Dell Inspiron 13z-5323 Quanta DA0V07MBAD1 UMA\\DELL Vostro 3360 Quanta DA0V07MBAD1 rD A04_W25Q64FV_OK.bin",
+    "file_name": "DELL Vostro 3360 Quanta DA0V07MBAD1 rD A04_W25Q64FV_OK.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x6ff028",
+            "0x730028",
+            "0x760028",
+            "0x7668b0",
+            "0x76ae3f",
+            "0x76ae69",
+            "0x778f4c",
+            "0x778f76",
+            "0x7c4b6f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

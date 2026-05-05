@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:15.113320",
+    "file_path": "E:\\X1_Carbon_3rd_Gen_MX25L12873FType_20BS,_20BT_Lenovo_ThinkPad_X1.bin",
+    "file_name": "X1_Carbon_3rd_Gen_MX25L12873FType_20BS,_20BT_Lenovo_ThinkPad_X1.bin",
+    "file_size_bytes": 196608,
+    "file_size_mb": 0.19,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

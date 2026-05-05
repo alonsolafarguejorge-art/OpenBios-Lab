@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:18.320183",
+    "file_path": "E:\\asus z96j ok 39vf040.bin",
+    "file_name": "asus z96j ok 39vf040.bin",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x1b7f5",
+            "0x6bfea",
+            "0x7034c",
+            "0x70aaa",
+            "0x71a26"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

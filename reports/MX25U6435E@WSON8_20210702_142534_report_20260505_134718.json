@@ -1,0 +1,49 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:18.629960",
+    "file_path": "E:\\Bios Hp Compaq\\HP Notebook - 14-cm0005la HAGRID-6050A2983401-MB-A01\\MX25U6435E@WSON8_20210702_142534.BIN",
+    "file_name": "MX25U6435E@WSON8_20210702_142534.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x187028",
+            "0x3c0028",
+            "0x3e0028",
+            "0x4e0028",
+            "0x4e0ccf",
+            "0x4e27e7",
+            "0x53f482",
+            "0x5bf86e",
+            "0x60fc48",
+            "0x60fc70",
+            "0x60fcab",
+            "0x60fcd6",
+            "0x6d0028",
+            "0x6d0ccf",
+            "0x6d27e7",
+            "0x72f482",
+            "0x7af86e",
+            "0x7ffc48",
+            "0x7ffc70",
+            "0x7ffcab",
+            "0x7ffcd6"
+        ],
+        "AMI BIOS": [
+            "0x91857",
+            "0x3c02d3",
+            "0x3c4841",
+            "0x3e02d3",
+            "0x3e4841",
+            "0x5c81f3",
+            "0x5c84f3",
+            "0x7b81f3",
+            "0x7b84f3"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

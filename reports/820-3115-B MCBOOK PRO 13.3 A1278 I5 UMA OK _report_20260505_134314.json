@@ -1,0 +1,47 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:14.754480",
+    "file_path": "E:\\BIOS\\820-3115-B A1278\\820-3115-B MCBOOK PRO 13.3 A1278 I5 UMA OK .bin",
+    "file_name": "820-3115-B MCBOOK PRO 13.3 A1278 I5 UMA OK .bin",
+    "file_size_bytes": 8388688,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x190028",
+            "0x330028",
+            "0x360028",
+            "0x600028",
+            "0x610028",
+            "0x620028",
+            "0x630028",
+            "0x650028",
+            "0x670028",
+            "0x6a0028",
+            "0x6a6863",
+            "0x6b32d9",
+            "0x6e772f",
+            "0x6fa2eb",
+            "0x6fa75e",
+            "0x70465d",
+            "0x740028",
+            "0x746863",
+            "0x7532d9",
+            "0x78772f",
+            "0x79a2eb",
+            "0x79a75e",
+            "0x7a465d",
+            "0x7e0028",
+            "0x7e060b",
+            "0x7f0028",
+            "0x7f060b"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

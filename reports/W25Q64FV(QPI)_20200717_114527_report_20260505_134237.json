@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:37.550409",
+    "file_path": "E:\\Bios Acer\\ACER SWITCH 3\\W25Q64FV(QPI)_20200717_114527.BIN",
+    "file_name": "W25Q64FV(QPI)_20200717_114527.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x80468",
+            "0x81468",
+            "0x82bcb",
+            "0x90ef3",
+            "0x91033",
+            "0x9129a",
+            "0xdb468",
+            "0xe107e",
+            "0x388028",
+            "0x3d6028",
+            "0x5db028",
+            "0x619030"
+        ],
+        "Intel Flash Descriptor": [
+            "0x58ebd",
+            "0x6ff000"
+        ],
+        "AMI BIOS": [
+            "0xc5320"
+        ],
+        "Insyde BIOS": [
+            "0x3c9008"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:24.292268",
+    "file_path": "E:\\Bios Hp Compaq\\HP 14-ck1000  GRANGER-6050A2977701-MB-A01(A1)\\HP TPN-I131 6050A2977701-MB-A03 0849E.bin",
+    "file_name": "HP TPN-I131 6050A2977701-MB-A03 0849E.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x93028",
+            "0x95028",
+            "0x95cb0",
+            "0x96028",
+            "0x97805",
+            "0xa19e5",
+            "0xa3203",
+            "0xa86d9",
+            "0xa893f",
+            "0xb0a70",
+            "0xd7028",
+            "0xd91be",
+            "0xde016",
+            "0x13d028",
+            "0x161e53",
+            "0x1c9028",
+            "0x1f5028",
+            "0x40d028",
+            "0x655028",
+            "0x6d7030"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5a2f3",
+            "0x61512",
+            "0x61538",
+            "0x68d6f"
+        ],
+        "AMI BIOS": [
+            "0x10f50b",
+            "0x119878",
+            "0x11a6d8",
+            "0x11a728",
+            "0x18063e",
+            "0x18081e",
+            "0x2ba4f9"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:35.524231",
+    "file_path": "E:\\P5SD2-VM-0515.ROM",
+    "file_name": "P5SD2-VM-0515.ROM",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x6073c",
+            "0x6148f",
+            "0x64945",
+            "0x6bfea",
+            "0x70368",
+            "0x71dcf"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

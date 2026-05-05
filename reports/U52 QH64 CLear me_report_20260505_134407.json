@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:07.581800",
+    "file_path": "E:\\BIOS\\VAL91 La-9932p\\DELL E6440 LA-9932P Bios Dump\\U52 QH64 CLear me.bin",
+    "file_name": "U52 QH64 CLear me.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x600028",
+            "0x620028",
+            "0x640028",
+            "0x650028",
+            "0x690028",
+            "0x6f0028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5010"
+        ],
+        "AMI BIOS": [
+            "0x33717b",
+            "0x6a8035"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

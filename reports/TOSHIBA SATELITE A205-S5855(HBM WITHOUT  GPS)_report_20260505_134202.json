@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:02.451182",
+    "file_path": "E:\\TOSHIBA SATELITE A205-S5855(HBM WITHOUT  GPS).BIN",
+    "file_name": "TOSHIBA SATELITE A205-S5855(HBM WITHOUT  GPS).BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xec482",
+            "0xec4b6"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

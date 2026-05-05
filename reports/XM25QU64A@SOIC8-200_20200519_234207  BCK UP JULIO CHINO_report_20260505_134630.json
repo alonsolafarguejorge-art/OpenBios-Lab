@@ -1,0 +1,82 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:30.825320",
+    "file_path": "E:\\Bios Hp Compaq\\HP 15-0021LA EPK50  LA-G073P\\XM25QU64A@SOIC8-200_20200519_234207  BCK UP JULIO CHINO.BIN",
+    "file_name": "XM25QU64A@SOIC8-200_20200519_234207  BCK UP JULIO CHINO.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x93028",
+            "0x95028",
+            "0x95cb0",
+            "0x96028",
+            "0x97805",
+            "0xa1d45",
+            "0xa3563",
+            "0xa89d5",
+            "0xa8c3b",
+            "0xb13fd",
+            "0xd7028",
+            "0xd91ba",
+            "0xde016",
+            "0x13d028",
+            "0x16233b",
+            "0x1c9028",
+            "0x1f5028",
+            "0x4a2028",
+            "0x4a4028",
+            "0x4a4cb0",
+            "0x4a5028",
+            "0x4a6805",
+            "0x4b0d45",
+            "0x4b2563",
+            "0x4b79d5",
+            "0x4b7c3b",
+            "0x4c03fd",
+            "0x4e6028",
+            "0x4e81ba",
+            "0x4ed016",
+            "0x54c028",
+            "0x57133b",
+            "0x5d8028",
+            "0x604028",
+            "0x658028",
+            "0x6da030"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5a2f3",
+            "0x61512",
+            "0x61538",
+            "0x68d6f",
+            "0x4692f3",
+            "0x470512",
+            "0x470538",
+            "0x477d6f",
+            "0x77f000"
+        ],
+        "AMI BIOS": [
+            "0x10e6eb",
+            "0x118a58",
+            "0x1198b8",
+            "0x119908",
+            "0x18407e",
+            "0x18425e",
+            "0x2ba4f9",
+            "0x51d6eb",
+            "0x527a58",
+            "0x5288b8",
+            "0x528908",
+            "0x59307e",
+            "0x59325e"
+        ],
+        "Insyde BIOS": [
+            "0x3c700a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:11.840138",
+    "file_path": "E:\\VOSTRO 1015 (DAVM9NMB6DO) DDR3.BIN",
+    "file_name": "VOSTRO 1015 (DAVM9NMB6DO) DDR3.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x4001c",
+            "0x44d9b",
+            "0x47969"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

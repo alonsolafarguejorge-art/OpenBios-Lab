@@ -1,0 +1,37 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:32.944179",
+    "file_path": "E:\\BIOS\\DAOPABMB6E0\\sp132835\\0864A.bin",
+    "file_name": "0864A.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x22b028",
+            "0x26b028",
+            "0x633028",
+            "0x69d028",
+            "0x6af58a",
+            "0x722028",
+            "0x722d2c",
+            "0x725462",
+            "0x73d928",
+            "0x7a800d",
+            "0x7ff37d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x22c27b",
+            "0x7be5a3",
+            "0x7be8a3",
+            "0x7bfe6b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

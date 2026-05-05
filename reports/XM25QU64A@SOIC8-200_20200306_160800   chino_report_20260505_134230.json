@@ -1,0 +1,56 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:30.747049",
+    "file_path": "E:\\Bios Acer\\Acer Aspire 3 A315-53 C5V01 LA-E891P Rev2A\\XM25QU64A@SOIC8-200_20200306_160800   chino.BIN",
+    "file_name": "XM25QU64A@SOIC8-200_20200306_160800   chino.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x93028",
+            "0x95028",
+            "0x95cb0",
+            "0x96028",
+            "0x97805",
+            "0xa1d45",
+            "0xa3563",
+            "0xa89d5",
+            "0xa8c3b",
+            "0xb13fd",
+            "0xd7028",
+            "0xd91ba",
+            "0xde016",
+            "0x13d028",
+            "0x16233b",
+            "0x1c9028",
+            "0x1f5028",
+            "0x410028",
+            "0x658028",
+            "0x6da030"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5a2f3",
+            "0x61512",
+            "0x61538",
+            "0x68d6f",
+            "0x77f000"
+        ],
+        "AMI BIOS": [
+            "0x10e6e3",
+            "0x118a50",
+            "0x1198a8",
+            "0x1198f8",
+            "0x18407e",
+            "0x18425e",
+            "0x2ba4f9"
+        ],
+        "Insyde BIOS": [
+            "0x3c700a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

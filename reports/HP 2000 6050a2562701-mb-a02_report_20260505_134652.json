@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:52.677596",
+    "file_path": "E:\\Bios Hp Compaq\\HP 2000 6050a2562701\\HP 2000 6050a2562701-mb-a02.bin",
+    "file_name": "HP 2000 6050a2562701-mb-a02.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x23028",
+            "0x4f030",
+            "0x53028",
+            "0x2e0028",
+            "0x350028",
+            "0x351028",
+            "0x3bf943",
+            "0x3c0001",
+            "0x3c4813",
+            "0x3c4d36"
+        ],
+        "AMI BIOS": [
+            "0x35009e",
+            "0x35027e",
+            "0x3da9c6",
+            "0x3daba6"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

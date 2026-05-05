@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:32.365014",
+    "file_path": "E:\\Bios Hp Compaq\\HP 15-AC104LA AHL50ABL52 LA-C701P\\MX25L6473_20200110_142145  HP 15 AC-104LA  BCK.BIN",
+    "file_name": "MX25L6473_20200110_142145  HP 15 AC-104LA  BCK.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x244028",
+            "0x278030",
+            "0x2fd028",
+            "0x730028",
+            "0x7387a8",
+            "0x7ca42b"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x7c91c6",
+            "0x7c93a6"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

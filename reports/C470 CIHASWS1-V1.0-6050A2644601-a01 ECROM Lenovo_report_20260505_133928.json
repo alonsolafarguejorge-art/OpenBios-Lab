@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:28.405936",
+    "file_path": "E:\\C470 CIHASWS1-V1.0-6050A2644601-a01 ECROM Lenovo.BIN",
+    "file_name": "C470 CIHASWS1-V1.0-6050A2644601-a01 ECROM Lenovo.BIN",
+    "file_size_bytes": 262144,
+    "file_size_mb": 0.25,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

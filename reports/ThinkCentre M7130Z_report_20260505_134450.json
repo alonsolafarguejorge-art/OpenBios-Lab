@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:50.680734",
+    "file_path": "E:\\Bios Lenovo IBM\\ThinkCentre M7130Z 10124-3\\ThinkCentre M7130Z.bin",
+    "file_name": "ThinkCentre M7130Z.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x420028",
+            "0x440028",
+            "0x740028",
+            "0x77e083",
+            "0x77e1cc",
+            "0x780d7a",
+            "0x78ebd6",
+            "0x7ff770"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x400556",
+            "0x420556",
+            "0x53b8d5"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

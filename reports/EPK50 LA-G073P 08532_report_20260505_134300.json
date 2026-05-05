@@ -1,0 +1,61 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:00.333645",
+    "file_path": "E:\\BIOS\\EPK50 LA-G073P 08532.bin",
+    "file_name": "EPK50 LA-G073P 08532.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x368028",
+            "0x3ba030",
+            "0x3c5028",
+            "0x795028",
+            "0x835028",
+            "0xa20028",
+            "0xaa0028",
+            "0xaa5028",
+            "0xaa701d",
+            "0xb0193a",
+            "0xbe0028",
+            "0xbfa48a",
+            "0xc20028",
+            "0xc6af6d",
+            "0xcd0028",
+            "0xcd182f",
+            "0xcfcc02",
+            "0xcfd31a",
+            "0xcfd32a",
+            "0xd20028",
+            "0xda0028",
+            "0xda5028",
+            "0xda701d",
+            "0xe0193a",
+            "0xee0028",
+            "0xefb38a",
+            "0xf20028",
+            "0xf6af6d",
+            "0xfd0028",
+            "0xfd182f",
+            "0xffcc02",
+            "0xffd31a",
+            "0xffd32a",
+            "0xfff028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2000"
+        ],
+        "AMI BIOS": [
+            "0x11dbd7",
+            "0xc8796e",
+            "0xc87b4e",
+            "0xf8796e",
+            "0xf87b4e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:02.221424",
+    "file_path": "E:\\DV 6 WD IBM&GM45 INTL.BIN",
+    "file_name": "DV 6 WD IBM&GM45 INTL.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x24028",
+            "0x1ce028",
+            "0x1d8028",
+            "0x1de7c4",
+            "0x1e0992"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

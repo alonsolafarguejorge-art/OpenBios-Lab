@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:06.637262",
+    "file_path": "E:\\Bios Hp Compaq\\HP EliteBook 820 G1 BIOS\\bios.bin",
+    "file_name": "bios.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x811028",
+            "0xae1028",
+            "0xdb0028",
+            "0xe5b028",
+            "0xeac7c5",
+            "0xf4f028",
+            "0xfa07c5",
+            "0xffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

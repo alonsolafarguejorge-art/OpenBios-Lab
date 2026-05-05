@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:10.788636",
+    "file_path": "E:\\BIOS\\6-71-W54S0-D03A W540SU1W545SU1\\vinafix.com_ECROM.bin",
+    "file_name": "vinafix.com_ECROM.bin",
+    "file_size_bytes": 55221,
+    "file_size_mb": 0.05,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

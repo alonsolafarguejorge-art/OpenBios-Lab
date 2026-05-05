@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:00.995697",
+    "file_path": "E:\\Bios Dell\\Inspiron 14 7460 - 7560\\LBE_OutPut\\__Intel Management Engine (Non-VPro) Update 11.8.4._.bin",
+    "file_name": "__Intel Management Engine (Non-VPro) Update 11.8.4._.bin",
+    "file_size_bytes": 2031616,
+    "file_size_mb": 1.94,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x10"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

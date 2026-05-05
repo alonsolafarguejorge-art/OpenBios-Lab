@@ -1,0 +1,45 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:53.734563",
+    "file_path": "E:\\Bin\\mac_apple_15.bin",
+    "file_name": "mac_apple_15.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1028",
+            "0x190028",
+            "0x330028",
+            "0x360028",
+            "0x5e0028",
+            "0x5f0028",
+            "0x600028",
+            "0x610028",
+            "0x640028",
+            "0x649c20",
+            "0x69912b",
+            "0x6acab6",
+            "0x6acf4e",
+            "0x6b56fb",
+            "0x6f0028",
+            "0x6f9c20",
+            "0x74912b",
+            "0x75cab6",
+            "0x75cf4e",
+            "0x7656fb",
+            "0x7a0028",
+            "0x7da028",
+            "0x7da870",
+            "0x7fa028",
+            "0x7fa870"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

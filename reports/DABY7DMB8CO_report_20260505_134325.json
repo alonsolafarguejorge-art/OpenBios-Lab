@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:25.726049",
+    "file_path": "E:\\BIOS\\C805 DAMD DABY7DMB8CO\\DABY7DMB8CO.BIN",
+    "file_name": "DABY7DMB8CO.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x173028",
+            "0x183028",
+            "0x1be65f",
+            "0x1bea1b",
+            "0x1c0e63"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

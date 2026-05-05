@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:08.662203",
+    "file_path": "E:\\Asus k54l mini.bin",
+    "file_name": "Asus k54l mini.bin",
+    "file_size_bytes": 65536,
+    "file_size_mb": 0.06,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

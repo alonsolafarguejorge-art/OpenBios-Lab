@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:26.235122",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo C325 c225 ok\\Lenovo C325 c225 DAOQUDMB6DO\\C225 LENOVO BCKUP NO PRENDE.BIN",
+    "file_name": "C225 LENOVO BCKUP NO PRENDE.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

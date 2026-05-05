@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:44.805913",
+    "file_path": "E:\\Bios Hp Compaq\\HP Touchsmart Envy 20 AiO 6050A2516301\\W25Q80_20170426_184931 HP ENVY 20 TOUCH 6050A2516301 A02 BCK UP CLIENTE 2.BIN",
+    "file_name": "W25Q80_20170426_184931 HP ENVY 20 TOUCH 6050A2516301 A02 BCK UP CLIENTE 2.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

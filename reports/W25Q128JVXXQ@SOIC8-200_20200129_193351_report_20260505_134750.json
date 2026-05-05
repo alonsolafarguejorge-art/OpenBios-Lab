@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:50.537786",
+    "file_path": "E:\\Bios Hp Compaq\\PROBOOK 645 G4  lovo\\W25Q128JVXXQ@SOIC8-200_20200129_193351.BIN",
+    "file_name": "W25Q128JVXXQ@SOIC8-200_20200129_193351.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x21028",
+            "0x71028",
+            "0x92028",
+            "0x416028",
+            "0x428028",
+            "0xb0d028",
+            "0xb61cee",
+            "0xb6ad20",
+            "0xb71c62",
+            "0xdc0028",
+            "0xe14cee",
+            "0xe1dd20",
+            "0xe24c62",
+            "0xffe028"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

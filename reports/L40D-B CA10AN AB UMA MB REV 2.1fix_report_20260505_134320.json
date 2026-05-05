@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:20.724301",
+    "file_path": "E:\\BIOS\\BIOS RECIENTES\\L40D-B CA10AN AB UMA MB REV 2.1fix\\L40D-B CA10AN AB UMA MB REV 2.1fix.BIN",
+    "file_name": "L40D-B CA10AN AB UMA MB REV 2.1fix.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x173028",
+            "0x1a1030",
+            "0x1b1028",
+            "0x75b028",
+            "0x7b7e3f",
+            "0x7b81f4",
+            "0x7bb54e"
+        ],
+        "AMI BIOS": [
+            "0x131bc7"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

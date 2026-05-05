@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:57.354308",
+    "file_path": "E:\\K45VD-N14M-GE1-S-A1-SLJ8E-OK.bin",
+    "file_name": "K45VD-N14M-GE1-S-A1-SLJ8E-OK.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x450028",
+            "0x738028",
+            "0x767bb0",
+            "0x767cf9",
+            "0x769df0",
+            "0x776e5a",
+            "0x7ff750"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x400365",
+            "0x4004ce"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

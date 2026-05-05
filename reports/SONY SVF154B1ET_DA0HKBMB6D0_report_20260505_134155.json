@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:55.021817",
+    "file_path": "E:\\SONY SVF154B1ET_DA0HKBMB6D0.BIN",
+    "file_name": "SONY SVF154B1ET_DA0HKBMB6D0.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x4f028",
+            "0x6b3028",
+            "0x733028",
+            "0x761030",
+            "0x767028",
+            "0x7d1d43",
+            "0x7d20f5",
+            "0x7d4d93",
+            "0x7d52b6"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

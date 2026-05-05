@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:37.528628",
+    "file_path": "E:\\Bios Lenovo IBM\\LENOVO ThinkCentre Edge 92z - PIB75FTroy 11091-1M\\25Q64FV.BIN",
+    "file_name": "25Q64FV.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x600028",
+            "0x640028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x27a498",
+            "0x6005ce",
+            "0x601f19",
+            "0x601f60",
+            "0x6020d0"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

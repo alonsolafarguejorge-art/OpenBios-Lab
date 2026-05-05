@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:43.373428",
+    "file_path": "E:\\451G EA40-CM 12276-1M.bin",
+    "file_name": "451G EA40-CM 12276-1M.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x54028",
+            "0x33a028",
+            "0x368030",
+            "0x36e028",
+            "0x3c9da5",
+            "0x3ca29c",
+            "0x3cc2d3",
+            "0x3cc7ea"
+        ],
+        "Insyde BIOS": [
+            "0x8074",
+            "0x52008"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

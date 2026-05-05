@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:07.603509",
+    "file_path": "E:\\Bios Toshiba\\Toshiba Satellite S45t-ASP4207SL PSKHAM, PSKHAP, PSKHAU, PSKHEP BIOS version 1.20\\KH25L1636_20190923_192436.BIN",
+    "file_name": "KH25L1636_20190923_192436.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

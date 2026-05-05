@@ -1,0 +1,40 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:19.239591",
+    "file_path": "E:\\Bios Lenovo IBM\\ideapad 3-14IML05 Laptop\\MX25L12805D@SOP16_20210923_131359.BIN",
+    "file_name": "MX25L12805D@SOP16_20210923_131359.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x6be028",
+            "0x71e030",
+            "0x777028",
+            "0xbd0028",
+            "0xc10028",
+            "0xca0028",
+            "0xd20028",
+            "0xd2b50d",
+            "0xd33af6",
+            "0xda0028",
+            "0xddbd26",
+            "0xde3640",
+            "0xe80028",
+            "0xe88028",
+            "0xe8a1a4",
+            "0xeef595",
+            "0xfc1028",
+            "0xfc291f",
+            "0xffbb2e",
+            "0xfff167"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2000"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

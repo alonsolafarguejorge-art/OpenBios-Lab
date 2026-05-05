@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:13.099118",
+    "file_path": "E:\\Bios Hp Compaq\\HP ENVY x360 - m6-aq003dx BIOS Marshmel low_MB 15257-2.bin",
+    "file_name": "HP ENVY x360 - m6-aq003dx BIOS Marshmel low_MB 15257-2.bin",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

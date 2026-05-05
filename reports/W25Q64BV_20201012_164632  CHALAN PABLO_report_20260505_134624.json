@@ -1,0 +1,48 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:24.030968",
+    "file_path": "E:\\Bios Hp Compaq\\hp 14-bw002la\\W25Q64BV_20201012_164632  CHALAN PABLO.BIN",
+    "file_name": "W25Q64BV_20201012_164632  CHALAN PABLO.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2a028",
+            "0x3c0028",
+            "0x3e0028",
+            "0x4e0028",
+            "0x4e0cc8",
+            "0x4e27df",
+            "0x539f92",
+            "0x5bcfe6",
+            "0x60fd08",
+            "0x60fd30",
+            "0x60fd6b",
+            "0x60fd96",
+            "0x6d0028",
+            "0x6d0cc8",
+            "0x6d27df",
+            "0x729f92",
+            "0x7acfe6",
+            "0x7ffd08",
+            "0x7ffd30",
+            "0x7ffd6b",
+            "0x7ffd96"
+        ],
+        "AMI BIOS": [
+            "0x3c02d3",
+            "0x3c4b5a",
+            "0x3e02d3",
+            "0x3e4b5a",
+            "0x5c31eb",
+            "0x5c34eb",
+            "0x7b31eb",
+            "0x7b34eb"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

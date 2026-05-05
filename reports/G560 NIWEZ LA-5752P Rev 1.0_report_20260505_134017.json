@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:17.680445",
+    "file_path": "E:\\G560 NIWEZ LA-5752P Rev 1.0.BIN",
+    "file_name": "G560 NIWEZ LA-5752P Rev 1.0.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x203028",
+            "0x210028",
+            "0x370028",
+            "0x380028",
+            "0x38ccde",
+            "0x3ba3aa"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2671bc"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:51.329351",
+    "file_path": "E:\\Bin\\Dell_Optiplex_9010_LA0602_E93839_WIN25Q32BV.bin",
+    "file_name": "Dell_Optiplex_9010_LA0602_E93839_WIN25Q32BV.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x32fc2a",
+            "0x32fd60",
+            "0x333692",
+            "0x343dea",
+            "0x3ff730"
+        ],
+        "AMI BIOS": [
+            "0x32b37c",
+            "0x32d8b4",
+            "0x32f088",
+            "0x36ce14"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

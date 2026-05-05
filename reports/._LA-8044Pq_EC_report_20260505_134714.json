@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:14.349567",
+    "file_path": "E:\\Bios Hp Compaq\\HP Folio 13-2000 QAZ61 LA-8044P\\__MACOSX\\HP Folio 13-2000_QAZ61 LA-8044P\\._LA-8044Pq_EC.BIN",
+    "file_name": "._LA-8044Pq_EC.BIN",
+    "file_size_bytes": 524,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

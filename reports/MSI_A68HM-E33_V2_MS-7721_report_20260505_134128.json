@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:28.985328",
+    "file_path": "E:\\MSI_A68HM-E33_V2_MS-7721.BIN",
+    "file_name": "MSI_A68HM-E33_V2_MS-7721.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x40028",
+            "0x190028",
+            "0x6c0028",
+            "0x6c61ce",
+            "0x6c631f",
+            "0x6c8e3f"
+        ],
+        "AMI BIOS": [
+            "0x4037a",
+            "0x7cf0e8",
+            "0x7d1c84",
+            "0x7d7fac"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

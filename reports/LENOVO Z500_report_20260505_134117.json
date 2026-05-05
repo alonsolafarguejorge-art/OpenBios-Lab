@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:17.306803",
+    "file_path": "E:\\LENOVO Z500.BIN",
+    "file_name": "LENOVO Z500.BIN",
+    "file_size_bytes": 4718592,
+    "file_size_mb": 4.5,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x5028",
+            "0x13028",
+            "0x38e028",
+            "0x3bc030",
+            "0x3c0028",
+            "0x3e1c85",
+            "0x3e204e",
+            "0x3e3153",
+            "0x3e3661"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

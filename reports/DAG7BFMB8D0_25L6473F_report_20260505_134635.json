@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:35.512172",
+    "file_path": "E:\\Bios Hp Compaq\\HP 15-CW0001UR DAG7BFMB8D0 REV D BIOS & EC\\DAG7BFMB8D0_25L6473F.bin",
+    "file_name": "DAG7BFMB8D0_25L6473F.bin",
+    "file_size_bytes": 8389120,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2a028",
+            "0x3e0028",
+            "0x6d0028",
+            "0x6d0d1c",
+            "0x6d2ef2",
+            "0x74db52"
+        ],
+        "AMI BIOS": [
+            "0x3e02be",
+            "0x3e78e6",
+            "0x3e8766",
+            "0x3e8d20",
+            "0x776c03",
+            "0x776f03"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

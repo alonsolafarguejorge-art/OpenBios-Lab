@@ -1,0 +1,47 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:36.776283",
+    "file_path": "E:\\Bios Lenovo IBM\\LENOVO S41-75 S41-35 LT415-AMD MB 14235-1\\W25Q64_20181205_162317  bck up  POSIBLE OK .BIN",
+    "file_name": "W25Q64_20181205_162317  bck up  POSIBLE OK .BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x427028",
+            "0x617028",
+            "0x64b028",
+            "0x680028",
+            "0x6c0028",
+            "0x700028",
+            "0x704729",
+            "0x7619e4",
+            "0x781350",
+            "0x78137a"
+        ],
+        "AMI BIOS": [
+            "0xf1e66"
+        ],
+        "Phoenix BIOS": [
+            "0x619aac",
+            "0x619adf",
+            "0x619b4f",
+            "0x619b82",
+            "0x619d47",
+            "0x619d7a",
+            "0x64ce37",
+            "0x64ce6a",
+            "0x64ceda",
+            "0x64cf0d",
+            "0x64d0d2",
+            "0x64d105"
+        ],
+        "Insyde BIOS": [
+            "0x140160"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

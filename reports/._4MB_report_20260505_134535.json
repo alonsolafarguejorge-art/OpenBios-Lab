@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:35.791248",
+    "file_path": "E:\\Bios Dell\\Dell Inspiron 14 (3459) - 14236-1\\__MACOSX\\DELL 14-3000 IRIS SKL 14236-1 PWB CPWW0 REV A00 TB\\._4MB.bin",
+    "file_name": "._4MB.bin",
+    "file_size_bytes": 182,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

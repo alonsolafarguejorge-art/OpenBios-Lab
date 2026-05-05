@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:24.150066",
+    "file_path": "E:\\Bios Hp Compaq\\HP Pavilion 14-al028tx DAG31AMB6D0 REV D ME B01\\HP DAG31AMB6D0 REV D TESTED OK\\HP DAG31AMB6D0 REV D.bin",
+    "file_name": "HP DAG31AMB6D0 REV D.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x254028",
+            "0x288030",
+            "0x34d028",
+            "0x649028",
+            "0x6da028",
+            "0x6df589",
+            "0x6fd754"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x325e7c",
+            "0x7c3cf6",
+            "0x7c3ed6"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

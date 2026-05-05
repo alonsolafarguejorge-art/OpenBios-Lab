@@ -1,0 +1,47 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:38.092713",
+    "file_path": "E:\\HP Laptop DA0P5EMB6E0 REV E .bin",
+    "file_name": "HP Laptop DA0P5EMB6E0 REV E .bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2e028",
+            "0x7c0028",
+            "0xad0028",
+            "0xad0ff0",
+            "0xad2d65",
+            "0xb3c59a",
+            "0xb63b9f",
+            "0xbffd00",
+            "0xbffd69",
+            "0xbffda3",
+            "0xbffdce",
+            "0xed0028",
+            "0xed0ff0",
+            "0xed2d65",
+            "0xf3c59a",
+            "0xf63b9f",
+            "0xfffd00",
+            "0xfffd69",
+            "0xfffda3",
+            "0xfffdce"
+        ],
+        "AMI BIOS": [
+            "0x7c02c6",
+            "0x7c4add",
+            "0x7c59aa",
+            "0x7c6345",
+            "0xb6a26b",
+            "0xb6a56b",
+            "0xf6a26b",
+            "0xf6a56b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

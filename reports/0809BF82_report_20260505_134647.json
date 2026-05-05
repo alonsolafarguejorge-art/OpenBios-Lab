@@ -1,0 +1,37 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:47.402825",
+    "file_path": "E:\\Bios Hp Compaq\\HP 17-G125DS DAX13AMB6E0\\0809BF82\\0809BF82\\0809BF82.bin",
+    "file_name": "0809BF82.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x22c028",
+            "0x26a030",
+            "0x27e028",
+            "0x2cb028",
+            "0x6da028",
+            "0x76c028",
+            "0x76d028",
+            "0x7c5079",
+            "0x7d0028",
+            "0x7d1914"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x7022b4",
+            "0x76c09e",
+            "0x76c27e",
+            "0x7c3dbe",
+            "0x7c3f9e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

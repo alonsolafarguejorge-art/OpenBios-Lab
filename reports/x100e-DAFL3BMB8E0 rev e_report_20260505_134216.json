@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:16.033519",
+    "file_path": "E:\\x100e-DAFL3BMB8E0 rev e.BIN",
+    "file_name": "x100e-DAFL3BMB8E0 rev e.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x1ed663",
+            "0x1ed696"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

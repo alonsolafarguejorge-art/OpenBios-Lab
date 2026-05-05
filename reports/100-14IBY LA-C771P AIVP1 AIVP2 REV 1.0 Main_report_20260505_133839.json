@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:39.406721",
+    "file_path": "E:\\100-14IBY LA-C771P AIVP1 AIVP2 REV 1.0 Main.BIN",
+    "file_name": "100-14IBY LA-C771P AIVP1 AIVP2 REV 1.0 Main.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x43e030",
+            "0x450028",
+            "0x532028",
+            "0x780028",
+            "0x796871",
+            "0x7e1028",
+            "0x7e2a17"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x120f4f"
+        ],
+        "Insyde BIOS": [
+            "0x50016a",
+            "0x50216a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:22.768647",
+    "file_path": "E:\\GoLine GA-H61-MA.bin",
+    "file_name": "GoLine GA-H61-MA.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1d0028",
+            "0x360028",
+            "0x3a1150",
+            "0x3a129d",
+            "0x3a542f",
+            "0x3b1c96",
+            "0x3ff7b0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x180373"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

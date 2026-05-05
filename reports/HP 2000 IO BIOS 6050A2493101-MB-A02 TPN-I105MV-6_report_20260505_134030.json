@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:30.446835",
+    "file_path": "E:\\HP 2000 IO BIOS 6050A2493101-MB-A02 TPN-I105MV-6.BIN",
+    "file_name": "HP 2000 IO BIOS 6050A2493101-MB-A02 TPN-I105MV-6.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x70028",
+            "0x71028",
+            "0x8bba5",
+            "0x8c2bb",
+            "0x8f77b"
+        ],
+        "AMI BIOS": [
+            "0x7009e",
+            "0x7027e",
+            "0xdcbe6",
+            "0xdcdc6"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

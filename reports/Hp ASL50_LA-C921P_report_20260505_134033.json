@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:33.031656",
+    "file_path": "E:\\Hp ASL50_LA-C921P.bin",
+    "file_name": "Hp ASL50_LA-C921P.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x244028",
+            "0x278030",
+            "0x33c028",
+            "0x67f028",
+            "0x71e028",
+            "0x71f028",
+            "0x729173",
+            "0x7e93ae"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010",
+            "0x6d29f8"
+        ],
+        "AMI BIOS": [
+            "0x71e09e",
+            "0x71e27e",
+            "0x7e818e",
+            "0x7e836e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

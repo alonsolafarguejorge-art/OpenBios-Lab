@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:57.500207",
+    "file_path": "E:\\BIOS\\COMPUTRO-6050A2945601-MB-A01 A1.BIN_Repeiared_by_EgyFixLab.Bin",
+    "file_name": "COMPUTRO-6050A2945601-MB-A01 A1.BIN_Repeiared_by_EgyFixLab.Bin",
+    "file_size_bytes": 33554432,
+    "file_size_mb": 32.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0xf01be8",
+            "0xf13be8",
+            "0x13d3be8",
+            "0x1424be8",
+            "0x151fbe8",
+            "0x1563f63",
+            "0x1569d00",
+            "0x1639623",
+            "0x1680be8",
+            "0x177bbe8",
+            "0x17bff63",
+            "0x17c5d00",
+            "0x1895623",
+            "0x18dbbe8"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010",
+            "0x18ddbf0"
+        ],
+        "AMI BIOS": [
+            "0x5c196b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

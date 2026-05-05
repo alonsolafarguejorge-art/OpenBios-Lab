@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:14.295633",
+    "file_path": "E:\\BIOS\\820-2179-C.BIN\\EN25P32_20200919_135913  A1237  EFI.BIN",
+    "file_name": "EN25P32_20200919_135913  A1237  EFI.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x390028",
+            "0x394028",
+            "0x3a0028",
+            "0x3d0028",
+            "0x3e5927"
+        ],
+        "AMI BIOS": [
+            "0xdbc79"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

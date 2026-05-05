@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:13.750264",
+    "file_path": "E:\\W251ESMB_0D_6_71_W25S0_D02_GP_BT.bin",
+    "file_name": "W251ESMB_0D_6_71_W25S0_D02_GP_BT.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x10028",
+            "0x30028",
+            "0x60028",
+            "0x310028",
+            "0x3bd360",
+            "0x3bd4a9",
+            "0x3c0ec2",
+            "0x3cd88a",
+            "0x3ff7d0"
+        ],
+        "AMI BIOS": [
+            "0x1034f",
+            "0x136ef",
+            "0x3034f",
+            "0x31c1b",
+            "0x3fa528",
+            "0x3fe01c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

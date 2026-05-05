@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:11.866495",
+    "file_path": "E:\\ASUS Q500A CPU IV SLJ8E.BIN",
+    "file_name": "ASUS Q500A CPU IV SLJ8E.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x518028",
+            "0x540028",
+            "0x78e028",
+            "0x7ba36c",
+            "0x7ba4b7",
+            "0x7bc9db",
+            "0x7cc76a",
+            "0x7ff6f0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x51837f"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:24.904060",
+    "file_path": "E:\\Bios Dell\\Dell 15-3567 I5-7200U 15341-1 91N85\\__MACOSX\\._MX25L12805_15341-1 91N85.ok.BIN",
+    "file_name": "._MX25L12805_15341-1 91N85.ok.BIN",
+    "file_size_bytes": 212,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

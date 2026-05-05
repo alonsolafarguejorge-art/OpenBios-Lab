@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:00.396382",
+    "file_path": "E:\\Bios Hp Compaq\\HP All-in-One - 20-c020 - DAN91CMB6C0\\MX25L6473_20191205_152021   N91F.BIN",
+    "file_name": "MX25L6473_20191205_152021   N91F.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x74028",
+            "0xa0030",
+            "0xb4028",
+            "0x770028",
+            "0x771028",
+            "0x7cfac3",
+            "0x7d01fe",
+            "0x7d817b",
+            "0x7d869b"
+        ],
+        "AMI BIOS": [
+            "0x77009e",
+            "0x77027e",
+            "0x7efe4e",
+            "0x7f002e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

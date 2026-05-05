@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:08.027146",
+    "file_path": "E:\\LENOVO E430c LA-8131P rev 1 Eniac Edit OK.rom",
+    "file_name": "LENOVO E430c LA-8131P rev 1 Eniac Edit OK.rom",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x6b0028",
+            "0x711028",
+            "0x740028",
+            "0x746ad8",
+            "0x75dd84",
+            "0x75ddae",
+            "0x7bc6e7"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

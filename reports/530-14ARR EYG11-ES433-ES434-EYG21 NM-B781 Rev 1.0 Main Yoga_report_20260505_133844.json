@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:44.936583",
+    "file_path": "E:\\530-14ARR EYG11-ES433-ES434-EYG21 NM-B781 Rev 1.0 Main Yoga.BIN",
+    "file_name": "530-14ARR EYG11-ES433-ES434-EYG21 NM-B781 Rev 1.0 Main Yoga.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x255028",
+            "0x6a6028",
+            "0x6f2030"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

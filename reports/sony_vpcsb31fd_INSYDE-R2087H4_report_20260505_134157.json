@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:57.458594",
+    "file_path": "E:\\sony_vpcsb31fd_INSYDE-R2087H4.rom",
+    "file_name": "sony_vpcsb31fd_INSYDE-R2087H4.rom",
+    "file_size_bytes": 2621440,
+    "file_size_mb": 2.5,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x80028",
+            "0x1d1028",
+            "0x240028",
+            "0x25258f",
+            "0x25279e",
+            "0x26e693"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

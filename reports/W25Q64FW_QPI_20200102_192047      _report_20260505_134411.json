@@ -1,0 +1,37 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:11.796084",
+    "file_path": "E:\\BIOS\\x441nc rev 2.1.BIN\\W25Q64FW_QPI_20200102_192047      .BIN",
+    "file_name": "W25Q64FW_QPI_20200102_192047      .BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x84468",
+            "0x85468",
+            "0xb8caa",
+            "0xc6dcb",
+            "0xd2eae",
+            "0x3f2028",
+            "0x412028",
+            "0x432028",
+            "0x434028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x58ebd",
+            "0x77f000"
+        ],
+        "AMI BIOS": [
+            "0x94de8",
+            "0x3f266a",
+            "0x3fdd1d",
+            "0x41266a",
+            "0x41dd1d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

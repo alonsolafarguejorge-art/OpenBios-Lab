@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:00.666564",
+    "file_path": "E:\\dm1 intel ok.bin",
+    "file_name": "dm1 intel ok.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1e028",
+            "0xc8028",
+            "0xd0028",
+            "0xdc028",
+            "0xed028",
+            "0xf47b0",
+            "0xf6f4e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:46.245877",
+    "file_path": "E:\\BIOS\\LA-A911P\\DELL 22-3264 Kabylake-U 15107-1\u96c6\u663e\u4eae\u673a\u5907\u4efd.BIN",
+    "file_name": "DELL 22-3264 Kabylake-U 15107-1\u96c6\u663e\u4eae\u673a\u5907\u4efd.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0xa42028",
+            "0xa63028",
+            "0xaa3028",
+            "0xaf3028",
+            "0xafc930",
+            "0xdd0028",
+            "0xea0028",
+            "0xead1fa",
+            "0xf40028",
+            "0xf40ba1",
+            "0xf40ce4",
+            "0xf4294f",
+            "0xf56976",
+            "0xf5d8c6",
+            "0xfcc2e3",
+            "0xfffd7d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0xa64354",
+            "0xa68d0f",
+            "0xa71d97",
+            "0xa74537",
+            "0xaa4354",
+            "0xaa9f8a",
+            "0xab728a",
+            "0xabb38c",
+            "0xac6c17",
+            "0xacb8a0",
+            "0xad9fc7",
+            "0xadc767",
+            "0xae0424",
+            "0xf23909",
+            "0xf549a5",
+            "0xfd914d",
+            "0xfdb9dc"
+        ],
+        "Insyde BIOS": [
+            "0xa00160",
+            "0xa20160"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

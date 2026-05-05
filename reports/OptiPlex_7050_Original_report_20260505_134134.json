@@ -1,0 +1,44 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:34.498523",
+    "file_path": "E:\\OptiPlex_7050_Original.bin",
+    "file_name": "OptiPlex_7050_Original.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x700028",
+            "0x740028",
+            "0x791028",
+            "0x7d1028",
+            "0x7e1028",
+            "0xd70028",
+            "0xd80028",
+            "0xe50028",
+            "0xe50808",
+            "0xf08028",
+            "0xf0b31f",
+            "0xf3bc43",
+            "0xfa191f",
+            "0xfb9b15",
+            "0xfff505"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x701601",
+            "0x703342",
+            "0x741601",
+            "0x743342",
+            "0x885c6a",
+            "0xfb4c5d",
+            "0xfe74e9"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

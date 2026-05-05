@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:19.178759",
+    "file_path": "E:\\Bios Hp Compaq\\HP 13-4010LA\\0804F.bin",
+    "file_name": "0804F.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x220028",
+            "0x260028",
+            "0x640028",
+            "0x6a0028",
+            "0x6a0ca5",
+            "0x6a45b4",
+            "0x6c4931",
+            "0x737e1d",
+            "0x73fbf6",
+            "0x747d92",
+            "0x761403",
+            "0x765c0d",
+            "0x7ffd7d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x220e36",
+            "0x7ad02b",
+            "0x7ad32b",
+            "0x7ae4de"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

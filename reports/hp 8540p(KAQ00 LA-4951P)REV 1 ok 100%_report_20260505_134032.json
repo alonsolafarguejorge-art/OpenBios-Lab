@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:32.342793",
+    "file_path": "E:\\hp 8540p(KAQ00 LA-4951P)REV 1 ok 100%.bin",
+    "file_name": "hp 8540p(KAQ00 LA-4951P)REV 1 ok 100%.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x530028",
+            "0x680028",
+            "0x7a0028",
+            "0x7a76af",
+            "0x7e08ad"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x783b50"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:32.195162",
+    "file_path": "E:\\Bios Hp Compaq\\HP Pavillion G6-2201SX -DA0R33MB6F0 REV F_Bios_Clear me.bin\\Bios_Clear me.bin",
+    "file_name": "Bios_Clear me.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1ae030",
+            "0x1d0028",
+            "0x380028",
+            "0x381028",
+            "0x399ce3",
+            "0x39a316",
+            "0x39e7a7"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x38009e",
+            "0x38027e",
+            "0x3e2596",
+            "0x3e2776"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

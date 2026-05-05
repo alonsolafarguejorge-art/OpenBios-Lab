@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:40.410287",
+    "file_path": "E:\\BIOS\\flessy225Q128FV.bin\\25Q128FV.bin",
+    "file_name": "25Q128FV.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0xa00028",
+            "0xa40028",
+            "0xa60028",
+            "0xb40028",
+            "0xe30028",
+            "0xe50028",
+            "0xee0028",
+            "0xf36757",
+            "0xfe0028",
+            "0xfe23be"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

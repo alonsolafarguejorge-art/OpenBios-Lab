@@ -1,0 +1,44 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:55.447306",
+    "file_path": "E:\\Bios Dell\\DELL PRECISION 3520\\dell Precision 3520\\DELL 5580 LA-E152P rev 1.0 UC5 UT2 UT6\\LA-E152P rev 1.0 UC5.bin",
+    "file_name": "LA-E152P rev 1.0 UC5.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x700028",
+            "0x750028",
+            "0x7b0028",
+            "0x810028",
+            "0x821028",
+            "0x861028",
+            "0x871028",
+            "0xd50028",
+            "0xe50028",
+            "0xf00028",
+            "0xf03070",
+            "0xf8ef9c",
+            "0xf9fe1f",
+            "0xfc9913",
+            "0xfd1bb8",
+            "0xfff5a5"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x7514c3",
+            "0x753298",
+            "0x7b14c3",
+            "0x7b68c1",
+            "0xf9bef5",
+            "0xfd578b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

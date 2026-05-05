@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:12.602159",
+    "file_path": "E:\\Bios Asus\\ASUS X200CA\\W25Q64FV.BIN",
+    "file_name": "W25Q64FV.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x20beac",
+            "0x27b0c8",
+            "0x755580",
+            "0x784dd5",
+            "0x784f21",
+            "0x786e71",
+            "0x7945cf",
+            "0x7ef920"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2fb4",
+            "0x7f31b0"
+        ],
+        "AMI BIOS": [
+            "0x20c1ef"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

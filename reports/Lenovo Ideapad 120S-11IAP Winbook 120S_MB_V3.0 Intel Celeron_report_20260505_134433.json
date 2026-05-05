@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:33.269814",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo Ideapad 120S-11IAP Winbook 120S_MB_V3.0\\Lenovo Ideapad 120S-11IAP Winbook 120S_MB_V3.0 Intel Celeron.bin",
+    "file_name": "Lenovo Ideapad 120S-11IAP Winbook 120S_MB_V3.0 Intel Celeron.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x87468",
+            "0x88468",
+            "0x8ab9d",
+            "0x93756",
+            "0x93a3b",
+            "0x1690e8",
+            "0x1a00e8",
+            "0x3810e8",
+            "0x3ca0e8"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5c857",
+            "0x63945",
+            "0x6396b",
+            "0x6b061"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:18.499636",
+    "file_path": "E:\\Bios Hp Compaq\\HP Notebook - 14-cm0005la HAGRID-6050A2983401-MB-A01\\EC UTE_084A2.bin",
+    "file_name": "EC UTE_084A2.bin",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

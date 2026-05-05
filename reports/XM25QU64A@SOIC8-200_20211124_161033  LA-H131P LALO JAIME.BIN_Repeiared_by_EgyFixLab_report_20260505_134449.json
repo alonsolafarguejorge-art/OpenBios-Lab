@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:49.660212",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo_IdeaPad_S340_15IIL_MB_LA_H103P_Rev_1_0_XM25QH128AHIG_BIOS\\XM25QU64A@SOIC8-200_20211124_161033  LA-H131P LALO JAIME.BIN_Repeiared_by_EgyFixLab.Bin",
+    "file_name": "XM25QU64A@SOIC8-200_20211124_161033  LA-H131P LALO JAIME.BIN_Repeiared_by_EgyFixLab.Bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x364028",
+            "0x6db028",
+            "0x727030"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

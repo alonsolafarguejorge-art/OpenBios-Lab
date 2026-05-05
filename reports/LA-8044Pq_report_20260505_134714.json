@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:14.214973",
+    "file_path": "E:\\Bios Hp Compaq\\HP Folio 13-2000 QAZ61 LA-8044P\\HP Folio 13-2000_QAZ61 LA-8044P\\LA-8044Pq.BIN",
+    "file_name": "LA-8044Pq.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x182028",
+            "0x192028",
+            "0x392028",
+            "0x3a878f",
+            "0x3a8e15",
+            "0x3c826f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x3da936",
+            "0x3dab16"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

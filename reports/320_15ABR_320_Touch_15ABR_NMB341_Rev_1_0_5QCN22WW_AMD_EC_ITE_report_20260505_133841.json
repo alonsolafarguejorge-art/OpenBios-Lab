@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:41.382054",
+    "file_path": "E:\\320_15ABR_320_Touch_15ABR_NMB341_Rev_1_0_5QCN22WW_AMD_EC_ITE.bin",
+    "file_name": "320_15ABR_320_Touch_15ABR_NMB341_Rev_1_0_5QCN22WW_AMD_EC_ITE.bin",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

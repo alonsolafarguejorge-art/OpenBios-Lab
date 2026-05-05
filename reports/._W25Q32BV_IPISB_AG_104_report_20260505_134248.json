@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:48.602082",
+    "file_path": "E:\\Bios Acer\\Gateway ZX4970 - IPISB-AG\\__MACOSX\\Acer Z3770 Z5770 Z5771_IPISB-AG 1.04\\._W25Q32BV_IPISB_AG_104.BIN",
+    "file_name": "._W25Q32BV_IPISB_AG_104.BIN",
+    "file_size_bytes": 212,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

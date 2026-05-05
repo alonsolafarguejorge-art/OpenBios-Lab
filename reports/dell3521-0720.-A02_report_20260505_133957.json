@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:57.752782",
+    "file_path": "E:\\dell3521-0720.-A02.rom",
+    "file_name": "dell3521-0720.-A02.rom",
+    "file_size_bytes": 4718592,
+    "file_size_mb": 4.5,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x22028",
+            "0x380028",
+            "0x3b0030",
+            "0x3c0028",
+            "0x3e5b37",
+            "0x3e5f2a",
+            "0x3e76db"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:49.475707",
+    "file_path": "E:\\BIOS\\lcd-1  11248-2 48 4se01021 BETITO\\BUL08_20200831_100056.BIN",
+    "file_name": "BUL08_20200831_100056.BIN",
+    "file_size_bytes": 1024,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

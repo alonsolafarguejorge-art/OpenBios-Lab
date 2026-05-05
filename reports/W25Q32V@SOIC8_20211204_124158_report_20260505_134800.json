@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:00.406041",
+    "file_path": "E:\\Bios Toshiba\\SATELLITE L50DT  PSKMAM  CR10ADTG-6050A2556001-MB-A02\\W25Q32V@SOIC8_20211204_124158.BIN",
+    "file_name": "W25Q32V@SOIC8_20211204_124158.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x51028",
+            "0x333028",
+            "0x361030",
+            "0x367028",
+            "0x3d3235",
+            "0x3d34ee",
+            "0x3d6393",
+            "0x3d68e1"
+        ],
+        "Insyde BIOS": [
+            "0x108e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

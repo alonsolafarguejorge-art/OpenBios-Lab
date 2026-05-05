@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:57.127892",
+    "file_path": "E:\\k45 vd. ok .ok.bin",
+    "file_name": "k45 vd. ok .ok.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x420028",
+            "0x450028",
+            "0x738028",
+            "0x767ba8",
+            "0x767cf1",
+            "0x769de8",
+            "0x776e52",
+            "0x7ff750"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x400365",
+            "0x4018cb",
+            "0x420365",
+            "0x4218d7",
+            "0x423a57",
+            "0x423bd7",
+            "0x423d57",
+            "0x42f37f",
+            "0x42f4ff",
+            "0x42f67f"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

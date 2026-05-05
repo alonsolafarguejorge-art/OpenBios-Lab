@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:11.230260",
+    "file_path": "E:\\asus N71J-MIN N71J-N1Y811-SLGZS.OK.bin",
+    "file_name": "asus N71J-MIN N71J-N1Y811-SLGZS.OK.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x210028",
+            "0x220028",
+            "0x370028",
+            "0x3c680d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x21034f",
+            "0x211535"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

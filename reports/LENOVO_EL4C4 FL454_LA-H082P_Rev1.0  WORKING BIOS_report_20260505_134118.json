@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:18.044127",
+    "file_path": "E:\\LENOVO_EL4C4 FL454_LA-H082P_Rev1.0  WORKING BIOS.bin",
+    "file_name": "LENOVO_EL4C4 FL454_LA-H082P_Rev1.0  WORKING BIOS.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x5bd028",
+            "0x61d030",
+            "0x676028",
+            "0xb30028",
+            "0xc70028",
+            "0xce0028",
+            "0xd50028",
+            "0xd669a0",
+            "0xdd0028",
+            "0xe18060",
+            "0xed0028",
+            "0xed5028",
+            "0xed727b",
+            "0xf34aa8",
+            "0xfc1028",
+            "0xfc2aa4",
+            "0xffbef2",
+            "0xfff320"
+        ],
+        "Intel Flash Descriptor": [
+            "0x280000"
+        ],
+        "AMI BIOS": [
+            "0x95248b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

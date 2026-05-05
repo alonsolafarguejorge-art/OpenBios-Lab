@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:01.352089",
+    "file_path": "E:\\TOSHIBA L305D AMD (4024)  6050A2175001-MB-A02.BIN",
+    "file_name": "TOSHIBA L305D AMD (4024)  6050A2175001-MB-A02.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1d028",
+            "0xc0028",
+            "0xc8028",
+            "0xd1028",
+            "0xda028",
+            "0xe7028",
+            "0xf5b4d",
+            "0xf8755"
+        ],
+        "AMI BIOS": [
+            "0x9a46d"
+        ],
+        "Insyde BIOS": [
+            "0x108e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

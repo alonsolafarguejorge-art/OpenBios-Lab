@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:58.261233",
+    "file_path": "E:\\Studio 1555  A07.BIN",
+    "file_name": "Studio 1555  A07.BIN",
+    "file_size_bytes": 2137622,
+    "file_size_mb": 2.04,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x9c18b",
+            "0x1e9907",
+            "0x2019ad"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

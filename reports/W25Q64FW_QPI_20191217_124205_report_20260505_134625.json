@@ -1,0 +1,53 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:25.164932",
+    "file_path": "E:\\Bios Hp Compaq\\HP 14-ck1000 GRANGER-6050A2977701-MB-A01 (A1) BIOS\\W25Q64FW_QPI_20191217_124205.BIN",
+    "file_name": "W25Q64FW_QPI_20191217_124205.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x90028",
+            "0x92028",
+            "0x92cb0",
+            "0x93028",
+            "0x94805",
+            "0x9e605",
+            "0x9fe23",
+            "0xa51e8",
+            "0xa544e",
+            "0xad3f4",
+            "0xd4028",
+            "0xd61fa",
+            "0xdb14b",
+            "0x13a028",
+            "0x15fbb8",
+            "0x1c6028",
+            "0x1f2028",
+            "0x40d028",
+            "0x655028",
+            "0x6d7030"
+        ],
+        "Intel Flash Descriptor": [
+            "0x57f4e",
+            "0x5f035",
+            "0x5f05b",
+            "0x65e27",
+            "0x77f000"
+        ],
+        "AMI BIOS": [
+            "0x10f8c3",
+            "0x119c30",
+            "0x11aaf8",
+            "0x11ab48",
+            "0x17ccee",
+            "0x17cece",
+            "0x48093b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

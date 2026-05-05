@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:47.689907",
+    "file_path": "E:\\BIOS\\la-j081p\\DELL Inspiron 3493 FDI55- LA-J081P REV 1.0(A00)\\XM25QH128A@SOIC8.BIN",
+    "file_name": "XM25QH128A@SOIC8.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0xd0028",
+            "0x110028",
+            "0x120028",
+            "0x170028",
+            "0x632028",
+            "0x670028",
+            "0x690028",
+            "0xd80028",
+            "0xd90028",
+            "0xd901a8",
+            "0xe10028",
+            "0xe389a8",
+            "0xe50028",
+            "0xef0028",
+            "0xef36fb",
+            "0xf1e9a1",
+            "0xf1ea51",
+            "0xf48a58",
+            "0xff0028",
+            "0xff24b1"
+        ],
+        "Insyde BIOS": [
+            "0xdc7c35"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

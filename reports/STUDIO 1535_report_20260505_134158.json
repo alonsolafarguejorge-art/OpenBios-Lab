@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:58.221789",
+    "file_path": "E:\\STUDIO 1535.BIN",
+    "file_name": "STUDIO 1535.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x5001c",
+            "0x54c66",
+            "0x57ad5"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

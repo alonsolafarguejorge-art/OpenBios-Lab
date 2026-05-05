@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:16.392591",
+    "file_path": "E:\\Bios Hp Compaq\\DV4-5164LA WSNU REV.2.1\\W25Q32BV.BIN",
+    "file_name": "W25Q32BV.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x183028",
+            "0x1ca028",
+            "0x370028",
+            "0x38a715",
+            "0x38adc6",
+            "0x38ebcf"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x3d85ce",
+            "0x3d87ae"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

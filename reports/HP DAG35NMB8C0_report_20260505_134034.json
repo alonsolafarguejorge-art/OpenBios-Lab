@@ -1,0 +1,72 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:34.270257",
+    "file_path": "E:\\HP DAG35NMB8C0.bin",
+    "file_name": "HP DAG35NMB8C0.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x3a0028",
+            "0x500028",
+            "0xaa0028",
+            "0xaa99bb",
+            "0xac277c",
+            "0xb40028",
+            "0xb40098",
+            "0xbf0028",
+            "0xbf4028",
+            "0xbf66ec",
+            "0xc42893",
+            "0xc50028",
+            "0xc50d4f",
+            "0xc53712",
+            "0xc6c488",
+            "0xc7b906",
+            "0xc8811c",
+            "0xc90b6d",
+            "0xd0d8e6",
+            "0xd0e277",
+            "0xd0fe70",
+            "0xd0fe98",
+            "0xd10028",
+            "0xd90028",
+            "0xd999bb",
+            "0xdb277c",
+            "0xe30028",
+            "0xe30098",
+            "0xee0028",
+            "0xee4028",
+            "0xee66ec",
+            "0xf32893",
+            "0xf40028",
+            "0xf40d4f",
+            "0xf43712",
+            "0xf5c488",
+            "0xf6b906",
+            "0xf7811c",
+            "0xf80b6d",
+            "0xffd8e6",
+            "0xffe277",
+            "0xfffe70",
+            "0xfffe98"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2000"
+        ],
+        "AMI BIOS": [
+            "0x3a1355",
+            "0xc96873",
+            "0xc96b73",
+            "0xc98215",
+            "0xf86873",
+            "0xf86b73",
+            "0xf88215"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

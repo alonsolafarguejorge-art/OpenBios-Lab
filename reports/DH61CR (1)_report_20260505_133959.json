@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:59.337624",
+    "file_path": "E:\\DH61CR (1).bin",
+    "file_name": "DH61CR (1).bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x185028",
+            "0x1a5028",
+            "0x1c5028",
+            "0x200028",
+            "0x240028",
+            "0x3c0028",
+            "0x3c4182",
+            "0x3c42cb",
+            "0x3c9477",
+            "0x3d7592",
+            "0x3ff6d0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x186fb7",
+            "0x1a67c7"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

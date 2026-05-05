@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:04.310534",
+    "file_path": "E:\\toshiba satt l305d-s5881.BIN",
+    "file_name": "toshiba satt l305d-s5881.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1d028",
+            "0xc0028",
+            "0xc8028",
+            "0xd0028",
+            "0xd9028",
+            "0xe6028",
+            "0xf4a2c",
+            "0xf7615"
+        ],
+        "Insyde BIOS": [
+            "0x108e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

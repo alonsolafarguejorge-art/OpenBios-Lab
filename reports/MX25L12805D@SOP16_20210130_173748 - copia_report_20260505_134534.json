@@ -1,0 +1,44 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:34.923884",
+    "file_path": "E:\\Bios Dell\\dell g3 3590 18839-1\\MX25L12805D@SOP16_20210130_173748 - copia.BIN",
+    "file_name": "MX25L12805D@SOP16_20210130_173748 - copia.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x360028",
+            "0x3c0028",
+            "0x420028",
+            "0x431028",
+            "0x471028",
+            "0x481028",
+            "0xcd0028",
+            "0xd70028",
+            "0xe90028",
+            "0xe91a54",
+            "0xe9a0dd",
+            "0xec3634",
+            "0xed5517",
+            "0xf3deb4",
+            "0xf60afc",
+            "0xf62afe",
+            "0xffed06"
+        ],
+        "Intel Flash Descriptor": [
+            "0x72000"
+        ],
+        "AMI BIOS": [
+            "0x361814",
+            "0x367e69",
+            "0x3c1814",
+            "0x3c7e69",
+            "0xf665fc"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

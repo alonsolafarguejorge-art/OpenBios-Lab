@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:15.984603",
+    "file_path": "E:\\Bios Hp Compaq\\HP G42-382TX DA0AX1MB6H1 REV h\\W25X40_20180725_145138 oerro ec.BIN",
+    "file_name": "W25X40_20180725_145138 oerro ec.BIN",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

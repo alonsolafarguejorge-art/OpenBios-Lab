@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:30.821351",
+    "file_path": "E:\\Bios Dell\\Dell DELL LAtitude E6440 VAL90 LA-9931P\\W25Q32_20191217_165258  E6440 BCK.BIN",
+    "file_name": "W25Q32_20191217_165258  E6440 BCK.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x32e4f0",
+            "0x32e639",
+            "0x33217f",
+            "0x357daa",
+            "0x3ff790"
+        ],
+        "AMI BIOS": [
+            "0x329c6c",
+            "0x32c2c4",
+            "0x32da58",
+            "0x390384"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

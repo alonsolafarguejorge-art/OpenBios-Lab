@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:52.782618",
+    "file_path": "E:\\Bios Samsung\\Samsung 300E4C scala3-14crv-REV1\\GD25Q64_20180310_172030  samsung.BIN",
+    "file_name": "GD25Q64_20180310_172030  samsung.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x510028",
+            "0x710028",
+            "0x730028",
+            "0x760028",
+            "0x7675d8",
+            "0x76cb07",
+            "0x76cb31",
+            "0x77d01c",
+            "0x77d046",
+            "0x7c94f7"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:32.275265",
+    "file_path": "E:\\Bios Acer\\Acer Aspire E5-523G DA0ZABMB6E0 rev E BIOS Quanta ZAB\\GD25LQ64B@SOP8-200_20200326_141528.BIN",
+    "file_name": "GD25LQ64B@SOP8-200_20200326_141528.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x142028",
+            "0x190028",
+            "0x589028",
+            "0x5b7030",
+            "0x600028",
+            "0x602b94",
+            "0x61792c"
+        ],
+        "Insyde BIOS": [
+            "0x183008"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:50.548913",
+    "file_path": "E:\\Bios Lenovo IBM\\think e14  ge4b0 ge4b0  nm-d011\\W25Q256FV@WSON8 8X6_20211207_182911.BIN",
+    "file_name": "W25Q256FV@WSON8 8X6_20211207_182911.BIN",
+    "file_size_bytes": 33554432,
+    "file_size_mb": 32.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x800028",
+            "0xba0028",
+            "0xc40028",
+            "0xcc0028",
+            "0xdb0028",
+            "0x1070028",
+            "0x11e0028",
+            "0x15c0028",
+            "0x1660028",
+            "0x16e0028",
+            "0x17d0028",
+            "0x1800028",
+            "0x1880028",
+            "0x18d0028",
+            "0x1930028",
+            "0x1930098",
+            "0x19b0028",
+            "0x19b23b0",
+            "0x1a30cf3",
+            "0x1ad0028",
+            "0x1af0028",
+            "0x1b20028",
+            "0x1b251a4",
+            "0x1b3e81e",
+            "0x1b49f05",
+            "0x1b49fc2",
+            "0x1b4a89f",
+            "0x1b539d6",
+            "0x1bfc7de",
+            "0x1c00028",
+            "0x1c80028",
+            "0x1cd0028",
+            "0x1d30028",
+            "0x1d30098",
+            "0x1db0028",
+            "0x1db23b0",
+            "0x1e30cf3",
+            "0x1ed0028",
+            "0x1ef0028",
+            "0x1f20028",
+            "0x1f251a4",
+            "0x1f3e81e",
+            "0x1f49f05",
+            "0x1f49fc2",
+            "0x1f4a89f",
+            "0x1f539d6",
+            "0x1ffc7de"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1f1000",
+            "0x1f2000"
+        ],
+        "AMI BIOS": [
+            "0xccf9fd",
+            "0x16ef9fd"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:07.557406",
+    "file_path": "E:\\BIOS\\Hewlett-Packard-F.25 hp dv5 core i3 ok  .rom",
+    "file_name": "Hewlett-Packard-F.25 hp dv5 core i3 ok  .rom",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1028",
+            "0x151028",
+            "0x161028",
+            "0x16fef3",
+            "0x17527b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

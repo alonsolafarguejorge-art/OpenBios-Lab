@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:04.601232",
+    "file_path": "E:\\BIOS\\SVF11N15SCP\\SVF11N15SCP.bin",
+    "file_name": "SVF11N15SCP.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x43e030",
+            "0x450028",
+            "0x4a0028",
+            "0x540028",
+            "0x780028",
+            "0x78b0bc",
+            "0x78b80f",
+            "0x7d0028",
+            "0x7d16a2"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

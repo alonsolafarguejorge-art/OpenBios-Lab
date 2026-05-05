@@ -1,0 +1,42 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:12.328110",
+    "file_path": "E:\\Bios Asus\\ASUS Vivobook X556UV\\X556UV 3.1 ok\\X556UV 3.1 backup.BIN",
+    "file_name": "X556UV 3.1 backup.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x240028",
+            "0x380028",
+            "0x390028",
+            "0x660028",
+            "0x6a0028",
+            "0x6a0b74",
+            "0x6a2f1b",
+            "0x6bebdb",
+            "0x734fda",
+            "0x73ce54",
+            "0x744ed2",
+            "0x7597f5",
+            "0x75de0a",
+            "0x7ffd7d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x240e00",
+            "0x2429fa",
+            "0x6b49f9",
+            "0x742b81",
+            "0x78c3c0",
+            "0x7a3430"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

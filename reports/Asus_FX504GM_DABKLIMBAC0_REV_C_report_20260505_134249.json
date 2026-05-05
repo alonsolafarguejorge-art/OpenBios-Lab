@@ -1,0 +1,49 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:49.937754",
+    "file_path": "E:\\Bin\\Asus_FX504GM_DABKLIMBAC0_REV_C.bin",
+    "file_name": "Asus_FX504GM_DABKLIMBAC0_REV_C.bin",
+    "file_size_bytes": 16777550,
+    "file_size_mb": 16.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x330028",
+            "0x3c0028",
+            "0x3d0028",
+            "0xd10028",
+            "0xde0028",
+            "0xde4c93",
+            "0xdf481e",
+            "0xe80028",
+            "0xe80098",
+            "0xf20028",
+            "0xf24028",
+            "0xf2607e",
+            "0xf71640",
+            "0xf80028",
+            "0xf80dd6",
+            "0xf829e8",
+            "0xf9f824",
+            "0xfaebf4",
+            "0xfb92cc",
+            "0xfc2416",
+            "0xffe846",
+            "0xfff2e0"
+        ],
+        "AMI BIOS": [
+            "0x3012c8",
+            "0x30688c",
+            "0x3312c8",
+            "0x3368a2",
+            "0xfc4534",
+            "0xfc4544",
+            "0xfc5d08"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

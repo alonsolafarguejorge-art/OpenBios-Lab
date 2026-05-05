@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:28.369677",
+    "file_path": "E:\\Bios Hp Compaq\\HP 14-r062tu ZS040 LA-A995P REV20.BIN\\__MACOSX\\._HP 14-r062tu ZS040 LA-A995P REV20.BIN",
+    "file_name": "._HP 14-r062tu ZS040 LA-A995P REV20.BIN",
+    "file_size_bytes": 406,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

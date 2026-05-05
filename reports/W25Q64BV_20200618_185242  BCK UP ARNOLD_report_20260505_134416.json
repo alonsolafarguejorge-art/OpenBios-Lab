@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:16.154293",
+    "file_path": "E:\\Bios Lenovo IBM\\110-15IBR Laptop (ideapad) CG420 NM-A805 Rev 1.0\\W25Q64BV_20200618_185242  BCK UP ARNOLD.BIN",
+    "file_name": "W25Q64BV_20200618_185242  BCK UP ARNOLD.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x308028",
+            "0x355028",
+            "0x393030",
+            "0x557028",
+            "0x767028",
+            "0x793844",
+            "0x7ab028",
+            "0x7ca028",
+            "0x7e1028",
+            "0x7f0028",
+            "0x7f1914"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

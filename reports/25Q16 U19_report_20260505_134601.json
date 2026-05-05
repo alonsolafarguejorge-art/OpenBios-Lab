@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:01.957607",
+    "file_path": "E:\\Bios Dell\\INSPIRON 2020\\25Q16 U19.BIN",
+    "file_name": "25Q16 U19.BIN",
+    "file_size_bytes": 2097168,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1ad3b8",
+            "0x1ad501",
+            "0x1b13e6",
+            "0x1beb3a",
+            "0x1ff790"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:39.043639",
+    "file_path": "E:\\DAH98MMB8D0 REV_D_16MB.BIN",
+    "file_name": "DAH98MMB8D0 REV_D_16MB.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x643028",
+            "0x6a3030",
+            "0x6e3028",
+            "0xb30028",
+            "0xc70028",
+            "0xce0028",
+            "0xd50028",
+            "0xd65200",
+            "0xdd0028",
+            "0xe193c0",
+            "0xed0028",
+            "0xed5028",
+            "0xed7283",
+            "0xf35530",
+            "0xfc1028",
+            "0xfc2aa4",
+            "0xffbe32",
+            "0xfff330"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2000"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

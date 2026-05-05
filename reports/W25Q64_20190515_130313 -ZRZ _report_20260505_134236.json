@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:36.098680",
+    "file_path": "E:\\Bios Acer\\ACER E5 522  DA0ZRZMB6D0\\W25Q64_20190515_130313 -ZRZ .BIN",
+    "file_name": "W25Q64_20190515_130313 -ZRZ .BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x162028",
+            "0x1b0028",
+            "0x5cb028",
+            "0x5f9030",
+            "0x600028",
+            "0x602383",
+            "0x6128b1"
+        ],
+        "AMI BIOS": [
+            "0x140e66"
+        ],
+        "Insyde BIOS": [
+            "0x1a3008"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:31.224396",
+    "file_path": "E:\\BIOS\\da0zqkmb8e0\\da0zqkmb8e0\\U39 W25Q32.bin",
+    "file_name": "U39 W25Q32.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x100028",
+            "0x312028",
+            "0x33c030",
+            "0x340028",
+            "0x35e22d",
+            "0x35e60c",
+            "0x36149b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

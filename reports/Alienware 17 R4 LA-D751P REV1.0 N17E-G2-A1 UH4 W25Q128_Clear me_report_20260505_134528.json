@@ -1,0 +1,55 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:28.612945",
+    "file_path": "E:\\Bios Dell\\Dell Alienware 17 R4 BAP10 LA-D751P REV 1.0 BIOS Schematics LA-D751P\\Alienware 17 R4 LA-D751P REV1.0 N17E-G2-A1 UH4 W25Q128_Clear me.bin",
+    "file_name": "Alienware 17 R4 LA-D751P REV1.0 N17E-G2-A1 UH4 W25Q128_Clear me.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x822028",
+            "0x842028",
+            "0x872028",
+            "0x87b720",
+            "0xca0028",
+            "0xea0028",
+            "0xead577",
+            "0xf40028",
+            "0xf40b8d",
+            "0xf428b7",
+            "0xf553d6",
+            "0xf5e46d",
+            "0xfcae3c",
+            "0xfffd7d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x82317d",
+            "0x8256d9",
+            "0x825720",
+            "0x825890",
+            "0x8277f8",
+            "0x82e357",
+            "0x84317d",
+            "0x8456d9",
+            "0x845720",
+            "0x845890",
+            "0x847953",
+            "0x8514f8",
+            "0x853a04",
+            "0x85db27",
+            "0xa8adb2",
+            "0xf20e51",
+            "0xf53165",
+            "0xfd705d",
+            "0xfd9715"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:14.717183",
+    "file_path": "E:\\Asus X409JA_TESTED_JD_BIOS.bin",
+    "file_name": "Asus X409JA_TESTED_JD_BIOS.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x940028",
+            "0x970028",
+            "0xbd3bbb",
+            "0xbd5639",
+            "0xd60028",
+            "0xdf0028",
+            "0xe70028",
+            "0xe70098",
+            "0xf00028",
+            "0xf06028",
+            "0xf6648d",
+            "0xf70028",
+            "0xf8de07",
+            "0xf8f866",
+            "0xf9c54e",
+            "0xf9c69e",
+            "0xfa612e",
+            "0xfb24c5",
+            "0xffc1cc"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2000"
+        ],
+        "AMI BIOS": [
+            "0x940974",
+            "0x947b18",
+            "0x949ff9",
+            "0xfc7f8c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

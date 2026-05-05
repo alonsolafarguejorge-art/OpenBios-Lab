@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:59.504368",
+    "file_path": "E:\\acer mini D260 (1).fd",
+    "file_name": "acer mini D260 (1).fd",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x22028",
+            "0x33028",
+            "0xce028",
+            "0xdc028",
+            "0xe334f",
+            "0xf435c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

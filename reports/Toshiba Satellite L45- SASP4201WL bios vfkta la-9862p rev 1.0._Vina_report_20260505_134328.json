@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:28.276109",
+    "file_path": "E:\\BIOS\\Compal VFKTA Rosetta 10FT 10FTG LA-9862P LS-9861P LS-9862P\\Toshiba Satellite L45- SASP4201WL bios vfkta la-9862p rev 1.0._Vina.bin",
+    "file_name": "Toshiba Satellite L45- SASP4201WL bios vfkta la-9862p rev 1.0._Vina.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x184028",
+            "0x1c4028",
+            "0x390028",
+            "0x3c1978",
+            "0x3c1ac1",
+            "0x3c5800",
+            "0x3d2b82",
+            "0x3ff750"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x1843ce"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

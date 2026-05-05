@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:13.886796",
+    "file_path": "E:\\Fujitsu Siemens Esprimo Mobile V6515-V6555 _ (BIOS).bin",
+    "file_name": "Fujitsu Siemens Esprimo Mobile V6515-V6555 _ (BIOS).bin",
+    "file_size_bytes": 1051590,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xeb887",
+            "0xeb8ba"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

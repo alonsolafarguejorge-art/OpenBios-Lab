@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:47.456940",
+    "file_path": "E:\\Bios Acer\\GATEWAY NV56R05m Q5WVH LA-7912P REV 1.0 OK\\MX25L8006E_20170816_150331  U42 OK.BIN",
+    "file_name": "MX25L8006E_20170816_150331  U42 OK.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x10028",
+            "0x40028",
+            "0x5ed7d",
+            "0x5f15c",
+            "0x60213"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

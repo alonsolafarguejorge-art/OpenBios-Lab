@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:45.613789",
+    "file_path": "E:\\Bios Hp Compaq\\HP ZBook 17 G3 Mobile Workstation LA-C381P\\GD25Q128B@WSON8_20200925_152051.BIN",
+    "file_name": "GD25Q128B@WSON8_20200925_152051.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x749028",
+            "0xab4028",
+            "0xaf5028",
+            "0xbbc028",
+            "0xbbeb77",
+            "0xbc5f80",
+            "0xc7e84b",
+            "0xca0ab8",
+            "0xd7a028",
+            "0xe41028",
+            "0xe43b77",
+            "0xe4af80",
+            "0xf0384b",
+            "0xf25ab8",
+            "0xffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x93d5b5"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

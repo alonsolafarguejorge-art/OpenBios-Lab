@@ -1,0 +1,50 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:11.890242",
+    "file_path": "E:\\DAX8SFMB8B1 REV B TESTED OK\\DAX8SFMB8B1 REV B TESTED OK\\HP_PROBOOK_450_G9_dax8sfmb8b1\\20230616_101427_SVOD4_HP_PROBOOK_450_G9_dax8sfmb8b1_EC.bin",
+    "file_name": "20230616_101427_SVOD4_HP_PROBOOK_450_G9_dax8sfmb8b1_EC.bin",
+    "file_size_bytes": 33554432,
+    "file_size_mb": 32.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x201028",
+            "0x342d90",
+            "0x46f028",
+            "0x4de028",
+            "0x4e0445",
+            "0x58390b",
+            "0x58e028",
+            "0x66f028",
+            "0x6c4498",
+            "0x708ab0",
+            "0x70faeb",
+            "0x7e88da",
+            "0x7ed028",
+            "0xe11028",
+            "0x1a12028",
+            "0x1b53d90",
+            "0x1c80028",
+            "0x1cef028",
+            "0x1cf1445",
+            "0x1d9490b",
+            "0x1d9f028",
+            "0x1e80028",
+            "0x1ed5498",
+            "0x1f19ab0",
+            "0x1f20aeb",
+            "0x1ff98da",
+            "0x1ffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x901000"
+        ],
+        "AMI BIOS": [
+            "0x12722e0"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

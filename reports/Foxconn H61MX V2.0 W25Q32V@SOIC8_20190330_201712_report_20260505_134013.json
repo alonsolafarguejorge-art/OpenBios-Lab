@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:13.587770",
+    "file_path": "E:\\Foxconn H61MX V2.0 W25Q32V@SOIC8_20190330_201712.BIN",
+    "file_name": "Foxconn H61MX V2.0 W25Q32V@SOIC8_20190330_201712.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x200028",
+            "0x210028",
+            "0x220028",
+            "0x3c0028",
+            "0x3dc79d",
+            "0x3deb8a",
+            "0x3ec846",
+            "0x3ff790"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2001b3",
+            "0x20047d",
+            "0x200b11",
+            "0x2101b3",
+            "0x21047d",
+            "0x210bd2",
+            "0x217d0d",
+            "0x21994a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

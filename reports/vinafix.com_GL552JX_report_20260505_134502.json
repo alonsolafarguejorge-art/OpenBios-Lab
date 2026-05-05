@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:02.890552",
+    "file_path": "E:\\Bios Asus\\Asus ASUS GL552JX\\vinafix.com_GL552JX.BIN",
+    "file_name": "vinafix.com_GL552JX.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x210028",
+            "0x280028",
+            "0x750028",
+            "0x796ad8",
+            "0x796c25",
+            "0x79af21",
+            "0x7a976e",
+            "0x7ff770"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x2104d6",
+            "0x2106af"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

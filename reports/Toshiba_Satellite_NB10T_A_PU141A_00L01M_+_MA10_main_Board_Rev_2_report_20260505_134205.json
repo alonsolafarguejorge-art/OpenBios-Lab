@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:05.255168",
+    "file_path": "E:\\Toshiba_Satellite_NB10T_A_PU141A_00L01M_+_MA10_main_Board_Rev_2.bin",
+    "file_name": "Toshiba_Satellite_NB10T_A_PU141A_00L01M_+_MA10_main_Board_Rev_2.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x318028",
+            "0x338028",
+            "0x368028",
+            "0x3b8028",
+            "0x77b028",
+            "0x79de06",
+            "0x79de4d",
+            "0x7d8028",
+            "0x7d9d24",
+            "0x7dc408",
+            "0x7df2af",
+            "0x7df3e9"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x31829e",
+            "0x31884a",
+            "0x33829e",
+            "0x33884a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

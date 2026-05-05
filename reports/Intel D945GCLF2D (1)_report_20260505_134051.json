@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:51.408962",
+    "file_path": "E:\\Intel D945GCLF2D (1).BIN",
+    "file_name": "Intel D945GCLF2D (1).BIN",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x2028",
+            "0x7028",
+            "0xd028",
+            "0x70028",
+            "0x7772b",
+            "0x7775b",
+            "0x799cb",
+            "0x79ae3"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file"
+    ]
+}

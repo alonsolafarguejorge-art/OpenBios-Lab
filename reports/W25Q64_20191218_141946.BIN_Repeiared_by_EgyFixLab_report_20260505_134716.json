@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:16.872597",
+    "file_path": "E:\\Bios Hp Compaq\\HP HP TouchSmart 620 3D - WJ1 da0wj1mb6f0\\W25Q64_20191218_141946.BIN_Repeiared_by_EgyFixLab.Bin",
+    "file_name": "W25Q64_20191218_141946.BIN_Repeiared_by_EgyFixLab.Bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x7dffea",
+            "0x7f0040",
+            "0x7f004c",
+            "0x7f03d8"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

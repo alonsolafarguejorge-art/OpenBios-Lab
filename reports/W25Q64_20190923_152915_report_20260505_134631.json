@@ -1,0 +1,49 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:31.233489",
+    "file_path": "E:\\Bios Hp Compaq\\HP 15-ab108AX AMD DA0X22MB6D0 BID080B1\\W25Q64_20190923_152915.BIN",
+    "file_name": "W25Q64_20190923_152915.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x68028",
+            "0x5c0028",
+            "0x5e0028",
+            "0x740028",
+            "0x745b77",
+            "0x745cc4",
+            "0x74a2a4"
+        ],
+        "AMI BIOS": [
+            "0x40167",
+            "0x40187",
+            "0x402e7",
+            "0x40307",
+            "0x40327",
+            "0x40347",
+            "0x40367",
+            "0x403c7",
+            "0x403e7",
+            "0x40407",
+            "0x40427",
+            "0x40447",
+            "0x40467",
+            "0x40487",
+            "0x5c0247",
+            "0x5c0707",
+            "0x5c0779",
+            "0x5e0247",
+            "0x5e0707",
+            "0x5e0779",
+            "0x7bb91c",
+            "0x7c21db",
+            "0x7c24db"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

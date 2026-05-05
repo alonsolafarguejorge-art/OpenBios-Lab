@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:27.447680",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo CIH61S1-1.0\\W25Q64BV_20200406_145913.BIN",
+    "file_name": "W25Q64BV_20200406_145913.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x380028",
+            "0x3a0028",
+            "0x3d0028",
+            "0x740028",
+            "0x76d468",
+            "0x76d5b1",
+            "0x77028c",
+            "0x77e1b2",
+            "0x7ff6d0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x3804e0",
+            "0x3a04e0"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

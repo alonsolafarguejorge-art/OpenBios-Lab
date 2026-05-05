@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:51.290110",
+    "file_path": "E:\\Intel D915PDT.bin",
+    "file_name": "Intel D915PDT.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x10028",
+            "0x60028",
+            "0xf0028",
+            "0xf64a3",
+            "0xf64c7",
+            "0xfb70f"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:47.306289",
+    "file_path": "E:\\Bios Hp Compaq\\HP-Compaq 6050A2313301-MB-A04_ST145IU-20091203_6050A2313301_HP DV3 Intel UMA\\hp dv5 6050a2313301-A04_Clear me.bin",
+    "file_name": "hp dv5 6050a2313301-A04_Clear me.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x201028",
+            "0x351028",
+            "0x361028",
+            "0x36fef3",
+            "0x37527b"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

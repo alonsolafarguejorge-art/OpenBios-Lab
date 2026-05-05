@@ -1,0 +1,37 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:53.068883",
+    "file_path": "E:\\Bios Lenovo IBM\\THINKPAD L470\\L470 DL470 NM-B021 Rev 1.0 UNLOCKED\\L470 DL470 NM-B021 Rev 1.0 UNLOCKED\\L470 old .bin",
+    "file_name": "L470 old .bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x800028",
+            "0x8a0028",
+            "0x970028",
+            "0xda0028",
+            "0xde0028",
+            "0xdf0028",
+            "0xea0028",
+            "0xeac2e3",
+            "0xf783c6",
+            "0xf78448",
+            "0xf78510",
+            "0xf7a0a1",
+            "0xf7a654",
+            "0xf98d7f",
+            "0xf98dac",
+            "0xfe0028",
+            "0xfe1ab9"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

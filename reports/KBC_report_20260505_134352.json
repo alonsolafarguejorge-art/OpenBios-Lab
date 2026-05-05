@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:52.238072",
+    "file_path": "E:\\BIOS\\NV5910e  ms2288 SJV50-CP MB 09284-1M\\EasyNote TJ75 MAINBOARD Wistron SJV50-CP\\PB EasyNote TJ75\\KBC.bin",
+    "file_name": "KBC.bin",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Insyde BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Insyde BIOS": [
+            "0x8074"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

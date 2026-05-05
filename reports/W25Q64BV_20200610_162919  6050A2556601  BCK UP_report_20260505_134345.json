@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:45.367311",
+    "file_path": "E:\\BIOS\\L55  PSKLAM  6050A2556601-MB-A02\\W25Q64BV_20200610_162919  6050A2556601  BCK UP.BIN",
+    "file_name": "W25Q64BV_20200610_162919  6050A2556601  BCK UP.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x319028",
+            "0x742028",
+            "0x76c030",
+            "0x770028",
+            "0x78c3aa",
+            "0x78c68e",
+            "0x78e98b"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2010"
+        ],
+        "AMI BIOS": [
+            "0x3cc62d"
+        ],
+        "Insyde BIOS": [
+            "0x30108e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

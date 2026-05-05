@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:18.316562",
+    "file_path": "E:\\Bios Lenovo IBM\\IBM-Lenovo vawga la-9912p r1.0\\vinafix.com_Lenovo G405,G505_LA-9912P_KB9012QF.bin",
+    "file_name": "vinafix.com_Lenovo G405,G505_LA-9912P_KB9012QF.bin",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

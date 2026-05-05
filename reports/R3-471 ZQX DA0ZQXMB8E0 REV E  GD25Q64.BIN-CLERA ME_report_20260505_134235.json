@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:35.268917",
+    "file_path": "E:\\Bios Acer\\acer da0zqxmb8e0\\R3-471 ZQX DA0ZQXMB8E0 REV E\\R3-471 ZQX DA0ZQXMB8E0 REV E  GD25Q64.BIN-CLERA ME.bin",
+    "file_name": "R3-471 ZQX DA0ZQXMB8E0 REV E  GD25Q64.BIN-CLERA ME.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x301028",
+            "0x6ce028",
+            "0x6fc030",
+            "0x700028",
+            "0x72347d",
+            "0x723855",
+            "0x72501f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:23.313485",
+    "file_path": "E:\\BIOS\\BIOS RECIENTES\\SABERTOOTH-Z97-MARK-1-ASUS-2702\\SABERTOOTH-Z97-MARK-1-ASUS-2401   TEST.CAP",
+    "file_name": "SABERTOOTH-Z97-MARK-1-ASUS-2401   TEST.CAP",
+    "file_size_bytes": 8390656,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180828",
+            "0x1c0828",
+            "0x1f0828",
+            "0x220828",
+            "0x600828",
+            "0x66d78a",
+            "0x66d8db",
+            "0x6718e8",
+            "0x688181",
+            "0x6ffd60",
+            "0x700828",
+            "0x76d78a",
+            "0x76d8db",
+            "0x7718e8",
+            "0x788181",
+            "0x7ffd60"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3810"
+        ],
+        "AMI BIOS": [
+            "0x5b2fa",
+            "0x18112e",
+            "0x3b1ef8",
+            "0x67e20a",
+            "0x6dd9b4",
+            "0x6e14bc",
+            "0x77e20a",
+            "0x7dd9b4",
+            "0x7e14bc"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

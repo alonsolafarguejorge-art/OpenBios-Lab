@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:50.577861",
+    "file_path": "E:\\Bios Dell\\Dell LATITUDE E5550 zam80 la-a911p\\zam80 la-a911p\\W25Q32V@SOIC8_20211207_143220 zam80 la-a911p uc3.BIN",
+    "file_name": "W25Q32V@SOIC8_20211207_143220 zam80 la-a911p uc3.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x280028",
+            "0x2a0028",
+            "0x2a1fdd",
+            "0x2a59d2",
+            "0x2a5b0b",
+            "0x2a8217",
+            "0x2a825e",
+            "0x2ac840",
+            "0x373ec0",
+            "0x3ffa6b"
+        ],
+        "AMI BIOS": [
+            "0x34bc81",
+            "0x36a11d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

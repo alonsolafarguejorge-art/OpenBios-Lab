@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:24.473140",
+    "file_path": "E:\\b95=lb59a mb=12209-1 48 (1).4xb01.011.bin",
+    "file_name": "b95=lb59a mb=12209-1 48 (1).4xb01.011.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x420028",
+            "0x6ab028",
+            "0x70c028",
+            "0x740028",
+            "0x749e38",
+            "0x761b7c",
+            "0x761ba6",
+            "0x7be26f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Insyde BIOS": [
+            "0x408074"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

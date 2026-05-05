@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:05.896030",
+    "file_path": "E:\\BIOS\\TPV Arroyo 715G4788M Compaq Presario CQ1-3100 4100 Series AIO\\vinafix.com_compaq CQ1-3108LA- AiO 6050A2477601 A02.bin",
+    "file_name": "vinafix.com_compaq CQ1-3108LA- AiO 6050A2477601 A02.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x10028",
+            "0x20028"
+        ],
+        "AMI BIOS": [
+            "0x205",
+            "0x10205"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

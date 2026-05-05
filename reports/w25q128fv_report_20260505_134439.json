@@ -1,0 +1,69 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:39.508779",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo ThinkPad T450 NM-A251 U49\\w25q128fv.BIN",
+    "file_name": "w25q128fv.BIN",
+    "file_size_bytes": 16777984,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0xc00028",
+            "0xeb1028",
+            "0xf17028",
+            "0xf40028",
+            "0xfc24af",
+            "0xfd94ef",
+            "0xfd9517",
+            "0xfdc9ce"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "Phoenix BIOS": [
+            "0xf97a98",
+            "0xf97ae0",
+            "0xf97b2c",
+            "0xf97b60",
+            "0xf97bb0",
+            "0xf97bf8",
+            "0xf97c48",
+            "0xf97c98",
+            "0xf97ce8",
+            "0xf97d1c",
+            "0xf97d4c",
+            "0xf97d84",
+            "0xf97dc0",
+            "0xf97e10",
+            "0xf97ef8",
+            "0xf97f1c",
+            "0xf97f58",
+            "0xf97f98",
+            "0xf97fc8",
+            "0xf98010",
+            "0xf98040",
+            "0xf98080",
+            "0xf980d0",
+            "0xf9811c",
+            "0xf98150",
+            "0xf981a8",
+            "0xf98200",
+            "0xf98254",
+            "0xf98290",
+            "0xf982d8",
+            "0xf98320",
+            "0xf98360",
+            "0xf9839c",
+            "0xf983d0",
+            "0xf9841c",
+            "0xf98450",
+            "0xf98498",
+            "0xf984f0",
+            "0xf98568"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

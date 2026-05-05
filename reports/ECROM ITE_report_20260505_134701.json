@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:01.210795",
+    "file_path": "E:\\Bios Hp Compaq\\HP All-in-One 20 DAN91AMB6D0\\HP All-in-One 20-c001la DAN91AMB6D0 RevD\\ECROM ITE.bin",
+    "file_name": "ECROM ITE.bin",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

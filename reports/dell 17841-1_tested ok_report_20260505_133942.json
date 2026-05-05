@@ -1,0 +1,42 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:42.935623",
+    "file_path": "E:\\dell 17841-1_tested ok.BIN",
+    "file_name": "dell 17841-1_tested ok.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x700028",
+            "0x740028",
+            "0x7a0028",
+            "0x800028",
+            "0x811028",
+            "0x851028",
+            "0x861028",
+            "0xd20028",
+            "0xdc0028",
+            "0xee0028",
+            "0xee3700",
+            "0xf132b2",
+            "0xf86c88",
+            "0xfa922b",
+            "0xfc1750",
+            "0xfff5a5"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x7415e7",
+            "0x7a15e7",
+            "0x7a77d7",
+            "0xf967dd"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

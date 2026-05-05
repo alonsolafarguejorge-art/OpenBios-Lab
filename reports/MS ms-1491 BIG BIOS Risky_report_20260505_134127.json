@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:27.163907",
+    "file_path": "E:\\MS ms-1491 BIG BIOS Risky.bin",
+    "file_name": "MS ms-1491 BIG BIOS Risky.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x190028",
+            "0x1b0028",
+            "0x380028",
+            "0x39c261",
+            "0x39d5ca",
+            "0x3a86a2",
+            "0x3ff810"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x74217",
+            "0x180287",
+            "0x180a98",
+            "0x190287",
+            "0x190b59"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

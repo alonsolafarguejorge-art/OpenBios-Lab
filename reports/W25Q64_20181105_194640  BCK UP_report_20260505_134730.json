@@ -1,0 +1,54 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:30.764480",
+    "file_path": "E:\\Bios Hp Compaq\\HP Pavilion TouchSmart 23-f330et All-in-One BIOS IPIVB-AT\\W25Q64_20181105_194640  BCK UP.BIN",
+    "file_name": "W25Q64_20181105_194640  BCK UP.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x430028",
+            "0x450028",
+            "0x470028",
+            "0x6c0028",
+            "0x708e0e",
+            "0x70950c",
+            "0x7096a9",
+            "0x70d9d0",
+            "0x71af02",
+            "0x75f5d0",
+            "0x75fe5e",
+            "0x75fe6f",
+            "0x75fe80",
+            "0x75fe91",
+            "0x760028",
+            "0x7a8e0e",
+            "0x7a950c",
+            "0x7a96a9",
+            "0x7ad9d0",
+            "0x7baf02",
+            "0x7ff5d0",
+            "0x7ffe5e",
+            "0x7ffe6f",
+            "0x7ffe80",
+            "0x7ffe91"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x430366",
+            "0x450366",
+            "0x7387fb",
+            "0x738afb",
+            "0x7d87fb",
+            "0x7d8afb"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

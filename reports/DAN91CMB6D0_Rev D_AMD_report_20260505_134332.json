@@ -1,0 +1,58 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:32.353708",
+    "file_path": "E:\\BIOS\\DAN91CMB6D0\\DAN91CMB6D0_Rev D_AMD.bin",
+    "file_name": "DAN91CMB6D0_Rev D_AMD.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x140028",
+            "0x14184c",
+            "0x160028",
+            "0x160803",
+            "0x180028",
+            "0x6c0028",
+            "0x6c4ce0",
+            "0x6c4e32",
+            "0x6c9799",
+            "0x75fd7e",
+            "0x75fd8f",
+            "0x75fda0",
+            "0x75fdb1",
+            "0x760028",
+            "0x764ce0",
+            "0x764e32",
+            "0x769799",
+            "0x7ffd7e",
+            "0x7ffd8f",
+            "0x7ffda0",
+            "0x7ffdb1"
+        ],
+        "AMI BIOS": [
+            "0x14020c",
+            "0x1419ed",
+            "0x1420b5",
+            "0x1422ed",
+            "0x144fdb",
+            "0x16020c",
+            "0x16099e",
+            "0x160f12",
+            "0x16114c",
+            "0x163cea",
+            "0x31b8e0",
+            "0x738304",
+            "0x73f69b",
+            "0x73f99b",
+            "0x7d8304",
+            "0x7df69b",
+            "0x7df99b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

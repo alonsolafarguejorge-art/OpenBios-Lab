@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:36.882598",
+    "file_path": "E:\\Bios Hp Compaq\\HP 15-d035dx OSAMU2_BT_HPC MV_MB_V1\\15-d088er kbc.BIN",
+    "file_name": "15-d088er kbc.BIN",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

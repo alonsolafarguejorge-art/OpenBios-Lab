@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:48.175534",
+    "file_path": "E:\\DELL Inspiron_3647_3847_A11_DIH81R GENERAL_SFF MB 12127-1M.bin",
+    "file_name": "DELL Inspiron_3647_3847_A11_DIH81R GENERAL_SFF MB 12127-1M.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x410028",
+            "0x460028",
+            "0x720028",
+            "0x740028",
+            "0x7839b8",
+            "0x783b05",
+            "0x7881cf",
+            "0x7a7356",
+            "0x7ff7b0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x410561",
+            "0x7e26cc",
+            "0x7e4c2c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

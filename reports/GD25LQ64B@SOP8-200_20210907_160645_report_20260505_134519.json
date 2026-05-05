@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:19.572280",
+    "file_path": "E:\\Bios Asus\\vivobook 15 f512 amd\\GD25LQ64B@SOP8-200_20210907_160645.BIN",
+    "file_name": "GD25LQ64B@SOP8-200_20210907_160645.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x2f1028",
+            "0x600028",
+            "0x602028",
+            "0x602cdd",
+            "0x604dbe",
+            "0x6787bf"
+        ],
+        "AMI BIOS": [
+            "0x202",
+            "0xc21"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:42.335118",
+    "file_path": "E:\\BIOS\\Gemini_M_8GBRAM_BIOS\\Gemini_M_BIOS\\M41N106.bin",
+    "file_name": "M41N106.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0xb8028",
+            "0xb9028",
+            "0xf1e3f",
+            "0xf1f97",
+            "0xf2437",
+            "0xff746",
+            "0x10879b",
+            "0x139028",
+            "0x139b5c",
+            "0x1418d1",
+            "0x176334",
+            "0x783028",
+            "0xad2028",
+            "0xad20b8",
+            "0xb12028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5a265",
+            "0x61319",
+            "0x6133f",
+            "0x68b93"
+        ],
+        "AMI BIOS": [
+            "0xe0b8b",
+            "0xeaf00",
+            "0xeb538",
+            "0xeb588",
+            "0x1834ce",
+            "0x849a35",
+            "0xb12722",
+            "0xb12f85"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

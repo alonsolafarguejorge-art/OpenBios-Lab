@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:33.701501",
+    "file_path": "E:\\cq40 intel nvidia.bin",
+    "file_name": "cq40 intel nvidia.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x24028",
+            "0xca028",
+            "0xd0028",
+            "0xdb028",
+            "0xe6428",
+            "0xf2428",
+            "0xf883b",
+            "0xfabca"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:46.020818",
+    "file_path": "E:\\BIOS\\LA-9591P\\W25Q64BV_20210213_162633.BIN",
+    "file_name": "W25Q64BV_20210213_162633.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x600028",
+            "0x620028",
+            "0x690028",
+            "0x6f0028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5010"
+        ],
+        "AMI BIOS": [
+            "0x604106",
+            "0x6041c3",
+            "0x624106",
+            "0x6241c3",
+            "0x6a8035"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

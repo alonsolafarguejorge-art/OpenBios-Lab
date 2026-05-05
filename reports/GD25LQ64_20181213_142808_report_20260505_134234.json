@@ -1,0 +1,40 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:34.181223",
+    "file_path": "E:\\Bios Acer\\Acer Aspire Z1-601 - UM1B_MAIN_PCB\\GD25LQ64_20181213_142808.BIN",
+    "file_name": "GD25LQ64_20181213_142808.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x320028",
+            "0x350028",
+            "0x3a0028",
+            "0x72a028",
+            "0x74fc20",
+            "0x74fc67",
+            "0x7a8028",
+            "0x7a9798",
+            "0x7abd2b",
+            "0x7aeae3",
+            "0x7aec1c",
+            "0x7c208d",
+            "0x7ffb73"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x30024a",
+            "0x306fcb",
+            "0x32024a",
+            "0x326fcb"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

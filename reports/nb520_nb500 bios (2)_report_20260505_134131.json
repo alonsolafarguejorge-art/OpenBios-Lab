@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:31.569156",
+    "file_path": "E:\\nb520_nb500 bios (2).rom",
+    "file_name": "nb520_nb500 bios (2).rom",
+    "file_size_bytes": 1053910,
+    "file_size_mb": 1.01,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xec226",
+            "0xec259"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

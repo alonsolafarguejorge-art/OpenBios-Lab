@@ -1,0 +1,54 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:56.197143",
+    "file_path": "E:\\Bios Hp Compaq\\HP 27-A001LA DA0N83MB6F0\\081B7.bin",
+    "file_name": "081B7.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x200028",
+            "0x241028",
+            "0x292028",
+            "0x510028",
+            "0x560028",
+            "0x560ba5",
+            "0x563337",
+            "0x5f833b",
+            "0x5fd94a",
+            "0x613c6f",
+            "0x66af1c",
+            "0x6af997",
+            "0x6af9d5",
+            "0x6afd3d",
+            "0x6b0028",
+            "0x6b0ba5",
+            "0x6b3337",
+            "0x74833b",
+            "0x74d94a",
+            "0x763c6f",
+            "0x7baf1c",
+            "0x7ff997",
+            "0x7ff9d5",
+            "0x7ffd3d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x241e6c",
+            "0x29a7b8",
+            "0x6a0764",
+            "0x6a2ed3",
+            "0x6a31d3",
+            "0x7f0764",
+            "0x7f2ed3",
+            "0x7f31d3"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

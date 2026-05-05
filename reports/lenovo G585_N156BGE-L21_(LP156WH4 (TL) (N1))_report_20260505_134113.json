@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:13.011858",
+    "file_path": "E:\\lenovo G585_N156BGE-L21_(LP156WH4 (TL) (N1)).ROM",
+    "file_name": "lenovo G585_N156BGE-L21_(LP156WH4 (TL) (N1)).ROM",
+    "file_size_bytes": 256,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

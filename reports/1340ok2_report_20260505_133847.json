@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:47.988736",
+    "file_path": "E:\\1340ok2.bin",
+    "file_name": "1340ok2.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x1eba89",
+            "0x1ebabc"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

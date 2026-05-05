@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:34.914622",
+    "file_path": "E:\\BIOS\\DAX61CMB6C0\\W25Q128FV_20200306_120527  HP JAVA BCK UP.BIN",
+    "file_name": "W25Q128FV_20200306_120527  HP JAVA BCK UP.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x75d028",
+            "0xb10028",
+            "0xb30028",
+            "0xb51028",
+            "0xc0c028",
+            "0xc0e677",
+            "0xcb51cb",
+            "0xcd70fe",
+            "0xda8028",
+            "0xe63028",
+            "0xe65677",
+            "0xf0c1cb",
+            "0xf2e0fe",
+            "0xffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

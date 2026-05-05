@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:23.145533",
+    "file_path": "E:\\au178yx-F.12.rom",
+    "file_name": "au178yx-F.12.rom",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2d028",
+            "0x140028",
+            "0x150028",
+            "0x17b028",
+            "0x1ab028",
+            "0x1b29bd",
+            "0x1b472a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

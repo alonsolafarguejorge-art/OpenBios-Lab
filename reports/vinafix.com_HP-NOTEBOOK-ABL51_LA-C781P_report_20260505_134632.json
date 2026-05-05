@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:32.438446",
+    "file_path": "E:\\Bios Hp Compaq\\HP 15-af000 Notebook series la-c781p\\vinafix.com_HP-NOTEBOOK-ABL51_LA-C781P.BIN",
+    "file_name": "vinafix.com_HP-NOTEBOOK-ABL51_LA-C781P.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x63028",
+            "0x8f030",
+            "0x93028",
+            "0x300028",
+            "0x301028",
+            "0x3747a3",
+            "0x374e63",
+            "0x379eb3"
+        ],
+        "AMI BIOS": [
+            "0x30009e",
+            "0x30027e",
+            "0x39268e",
+            "0x39286e"
+        ],
+        "Insyde BIOS": [
+            "0x31114"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

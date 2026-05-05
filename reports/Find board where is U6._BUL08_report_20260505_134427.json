@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:27.867704",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo E40 DAGC5AMB8F0\\Find board where is U6._BUL08.bin",
+    "file_name": "Find board where is U6._BUL08.bin",
+    "file_size_bytes": 1024,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

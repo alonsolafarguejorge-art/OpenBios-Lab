@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:06.125155",
+    "file_path": "E:\\BIOS\\V3-472P OK\\GD25Q64_20191018_135635.BIN",
+    "file_name": "GD25Q64_20191018_135635.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x301028",
+            "0x6ce028",
+            "0x6fc030",
+            "0x700028",
+            "0x723625",
+            "0x7239fd",
+            "0x7251c7"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x4727e1"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

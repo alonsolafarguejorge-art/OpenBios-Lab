@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:45.694970",
+    "file_path": "E:\\SAMSUNG LT140WF1-SPB1 (0MJ2P\u20ac140WF1 DELL).BIN",
+    "file_name": "SAMSUNG LT140WF1-SPB1 (0MJ2P\u20ac140WF1 DELL).BIN",
+    "file_size_bytes": 8192,
+    "file_size_mb": 0.01,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

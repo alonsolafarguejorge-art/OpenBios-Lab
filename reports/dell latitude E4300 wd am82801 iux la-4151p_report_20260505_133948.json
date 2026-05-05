@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:48.985645",
+    "file_path": "E:\\dell latitude E4300 wd am82801 iux la-4151p.bin",
+    "file_name": "dell latitude E4300 wd am82801 iux la-4151p.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0xb010"
+        ],
+        "Phoenix BIOS": [
+            "0x28001c",
+            "0x285a57",
+            "0x288b37"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

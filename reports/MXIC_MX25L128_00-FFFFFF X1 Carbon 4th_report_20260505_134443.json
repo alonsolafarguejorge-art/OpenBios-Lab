@@ -1,0 +1,69 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:43.424248",
+    "file_path": "E:\\Bios Lenovo IBM\\LENOVO X1 CARBON LMQ-1 MB 12298-2 48.4LY06.021\\MXIC_MX25L128_00-FFFFFF X1 Carbon 4th.bin",
+    "file_name": "MXIC_MX25L128_00-FFFFFF X1 Carbon 4th.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0xc00028",
+            "0xeb1028",
+            "0xf17028",
+            "0xf40028",
+            "0xfc4b14",
+            "0xfdbfd0",
+            "0xfdbffa",
+            "0xfdff2f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "Phoenix BIOS": [
+            "0xf9d0f0",
+            "0xf9d138",
+            "0xf9d184",
+            "0xf9d1b8",
+            "0xf9d208",
+            "0xf9d250",
+            "0xf9d2a0",
+            "0xf9d2f0",
+            "0xf9d340",
+            "0xf9d374",
+            "0xf9d3a4",
+            "0xf9d3dc",
+            "0xf9d418",
+            "0xf9d468",
+            "0xf9d54a",
+            "0xf9d56c",
+            "0xf9d5a8",
+            "0xf9d5e8",
+            "0xf9d618",
+            "0xf9d660",
+            "0xf9d690",
+            "0xf9d6d0",
+            "0xf9d720",
+            "0xf9d76c",
+            "0xf9d7a0",
+            "0xf9d7f8",
+            "0xf9d850",
+            "0xf9d8a4",
+            "0xf9d8e0",
+            "0xf9d928",
+            "0xf9d970",
+            "0xf9d9b0",
+            "0xf9d9ec",
+            "0xf9da20",
+            "0xf9da6c",
+            "0xf9daa0",
+            "0xf9dae8",
+            "0xf9db40",
+            "0xf9dbb8"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

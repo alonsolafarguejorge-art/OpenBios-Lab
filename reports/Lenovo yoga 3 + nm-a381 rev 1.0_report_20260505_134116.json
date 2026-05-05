@@ -1,0 +1,44 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:16.929667",
+    "file_path": "E:\\Lenovo yoga 3 + nm-a381 rev 1.0.BIN",
+    "file_name": "Lenovo yoga 3 + nm-a381 rev 1.0.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x232028",
+            "0x53d028",
+            "0x570028",
+            "0x5f0028",
+            "0x650028",
+            "0x6e0028",
+            "0x6e22a2",
+            "0x75dd94",
+            "0x774250",
+            "0x77427a"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Phoenix BIOS": [
+            "0x53f8fe",
+            "0x53f931",
+            "0x53f9a1",
+            "0x53f9d4",
+            "0x53fb99",
+            "0x53fbcc",
+            "0x685bdc",
+            "0x685c0f",
+            "0x685c7f",
+            "0x685cb2",
+            "0x685e77",
+            "0x685eaa"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

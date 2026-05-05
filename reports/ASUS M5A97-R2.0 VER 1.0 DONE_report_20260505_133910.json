@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:10.219028",
+    "file_path": "E:\\ASUS M5A97-R2.0 VER 1.0 DONE.bin",
+    "file_name": "ASUS M5A97-R2.0 VER 1.0 DONE.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x50028",
+            "0xd0028",
+            "0x150028",
+            "0x700028",
+            "0x7593ad",
+            "0x75b786"
+        ],
+        "AMI BIOS": [
+            "0x2d9",
+            "0x325b17",
+            "0x7957dc",
+            "0x7992ec"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

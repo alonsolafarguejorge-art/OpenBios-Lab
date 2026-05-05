@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:03.898645",
+    "file_path": "E:\\lcd samsung SN2033 PLUS Epiram IC 201 100%OK.bin",
+    "file_name": "lcd samsung SN2033 PLUS Epiram IC 201 100%OK.bin",
+    "file_size_bytes": 1024,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

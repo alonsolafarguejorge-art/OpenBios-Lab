@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:31.813686",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo IdeaCentre C440=8=CIH61S1 VER.1.0\\CIH61S1-1.0 EC.bin",
+    "file_name": "CIH61S1-1.0 EC.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

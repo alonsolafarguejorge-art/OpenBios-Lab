@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:27.700913",
+    "file_path": "E:\\Bios Hp Compaq\\HP 14-r062tu ZS040 LA-A995P REV20.BIN\\HP 14-r062tu ZS040 LA-A995P REV20.BIN",
+    "file_name": "HP 14-r062tu ZS040 LA-A995P REV20.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x38e028",
+            "0x3cc030",
+            "0x3e0028",
+            "0x430028",
+            "0x730028",
+            "0x75d7de",
+            "0x75dd86",
+            "0x7e1028",
+            "0x7e2722"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x75cbce",
+            "0x75cdae"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

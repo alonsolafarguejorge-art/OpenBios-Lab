@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:13.933872",
+    "file_path": "E:\\Fujitsu_v6555_model_z17m3_0_mainboard.bin",
+    "file_name": "Fujitsu_v6555_model_z17m3_0_mainboard.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xeb893",
+            "0xeb8c6"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

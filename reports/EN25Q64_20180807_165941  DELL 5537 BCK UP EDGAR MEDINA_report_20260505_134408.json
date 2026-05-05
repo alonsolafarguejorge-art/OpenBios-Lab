@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:08.211797",
+    "file_path": "E:\\BIOS\\VBW01 LA-9982P_Inspiron 5537\\EN25Q64_20180807_165941  DELL 5537 BCK UP EDGAR MEDINA.BIN",
+    "file_name": "EN25Q64_20180807_165941  DELL 5537 BCK UP EDGAR MEDINA.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x402028",
+            "0x6ce028",
+            "0x6fc030",
+            "0x700028",
+            "0x730aeb",
+            "0x730ec0",
+            "0x7327a3"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

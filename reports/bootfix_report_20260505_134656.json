@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:56.338378",
+    "file_path": "E:\\Bios Hp Compaq\\HP 27-A001LA DA0N83MB6F0\\GSP1RMCULXF\\boot\\bootfix.bin",
+    "file_name": "bootfix.bin",
+    "file_size_bytes": 1024,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:59.148735",
+    "file_path": "E:\\BIOS\\EN25F32_20201029_163819 LA-6062P IRAZU toshiba a665 psaw3u.BIN",
+    "file_name": "EN25F32_20201029_163819 LA-6062P IRAZU toshiba a665 psaw3u.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x200028",
+            "0x37b028",
+            "0x39b028",
+            "0x3fa239"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

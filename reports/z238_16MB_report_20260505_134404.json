@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:04.474797",
+    "file_path": "E:\\BIOS\\SPITFIRE\\z238_16MB.bin",
+    "file_name": "z238_16MB.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x709028",
+            "0xb98028",
+            "0xbd9028",
+            "0xc8d028",
+            "0xc8f577",
+            "0xd3664b",
+            "0xd5297e",
+            "0xdec028",
+            "0xea0028",
+            "0xea2577",
+            "0xf4964b",
+            "0xf6597e",
+            "0xffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:38.611947",
+    "file_path": "E:\\hp mini 210 ddr-3.bin",
+    "file_name": "hp mini 210 ddr-3.bin",
+    "file_size_bytes": 2097154,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x22028",
+            "0x1b0028",
+            "0x1c0028",
+            "0x1c8069",
+            "0x1cbf50"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

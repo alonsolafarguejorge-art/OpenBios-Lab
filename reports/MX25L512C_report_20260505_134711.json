@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:11.077917",
+    "file_path": "E:\\Bios Hp Compaq\\HP ENVY 23 TouchSmart IPISB-NK ok\\HP TouchSmart IPISB-NK INTEL HP Omni 27-1102eu\\MX25L512C.BIN",
+    "file_name": "MX25L512C.BIN",
+    "file_size_bytes": 65536,
+    "file_size_mb": 0.06,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

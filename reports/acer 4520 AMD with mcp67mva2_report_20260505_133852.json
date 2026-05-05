@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:52.663624",
+    "file_path": "E:\\acer 4520 AMD with mcp67mva2.BIN",
+    "file_name": "acer 4520 AMD with mcp67mva2.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xf42a3",
+            "0xf4e53",
+            "0xf4e88"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

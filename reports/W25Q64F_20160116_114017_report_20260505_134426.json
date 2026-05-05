@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:26.009898",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo C260 ZAA00 LA-B001P Rev 1.0\\W25Q64F_20160116_114017.BIN",
+    "file_name": "W25Q64F_20160116_114017.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x33e030",
+            "0x350028",
+            "0x3a4028",
+            "0x740028",
+            "0x7512c8",
+            "0x75157e",
+            "0x7d9028",
+            "0x7da722"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x4a3313",
+            "0x5059c7"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

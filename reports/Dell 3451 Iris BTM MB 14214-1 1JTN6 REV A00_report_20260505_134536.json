@@ -1,0 +1,40 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:36.168963",
+    "file_path": "E:\\Bios Dell\\DELL INSPIRON 14 14 Iris BTM MB 142141-1 PWB 1JTN6 REV A00\\Dell 3451 Iris BTM MB 14214-1 1JTN6 REV A00.rom",
+    "file_name": "Dell 3451 Iris BTM MB 14214-1 1JTN6 REV A00.rom",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x224028",
+            "0x274028",
+            "0x2c4028",
+            "0x67f028",
+            "0x680028",
+            "0x780028",
+            "0x7ce028",
+            "0x7cff90",
+            "0x7d25f9",
+            "0x7d8630",
+            "0x7e96d8",
+            "0x7ffb5a"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x120f4f",
+            "0x22463e",
+            "0x53732e"
+        ],
+        "Insyde BIOS": [
+            "0x200160"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

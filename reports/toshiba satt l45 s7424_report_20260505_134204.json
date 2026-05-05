@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:04.232964",
+    "file_path": "E:\\toshiba satt l45 s7424.bin",
+    "file_name": "toshiba satt l45 s7424.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xdffea",
+            "0xf0040",
+            "0xf037e"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:39.575103",
+    "file_path": "E:\\100AAHZ0D0_130815.bin",
+    "file_name": "100AAHZ0D0_130815.bin",
+    "file_size_bytes": 3305490,
+    "file_size_mb": 3.15,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

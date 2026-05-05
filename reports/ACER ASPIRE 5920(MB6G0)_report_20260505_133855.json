@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:55.301573",
+    "file_path": "E:\\ACER ASPIRE 5920(MB6G0).BIN",
+    "file_name": "ACER ASPIRE 5920(MB6G0).BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xed083",
+            "0xed0b8"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

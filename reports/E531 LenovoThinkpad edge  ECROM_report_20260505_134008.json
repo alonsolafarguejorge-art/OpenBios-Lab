@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:08.698091",
+    "file_path": "E:\\E531 LenovoThinkpad edge  ECROM.bin",
+    "file_name": "E531 LenovoThinkpad edge  ECROM.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x2b0028",
+            "0x311028",
+            "0x340028",
+            "0x346af8",
+            "0x35e00c",
+            "0x35e036",
+            "0x3bdd57"
+        ],
+        "AMI BIOS": [
+            "0x1be5fd"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

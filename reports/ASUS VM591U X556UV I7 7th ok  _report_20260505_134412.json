@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:12.568046",
+    "file_path": "E:\\BIOS\\x556  x556uq\\ASUS VM591U X556UV I7 7th ok  .BIN",
+    "file_name": "ASUS VM591U X556UV I7 7th ok  .BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x220028",
+            "0x250028",
+            "0x610028",
+            "0x6a0028",
+            "0x6ac8aa",
+            "0x720028",
+            "0x720ba4",
+            "0x72282f",
+            "0x734206",
+            "0x73f0f0",
+            "0x7ac915",
+            "0x7ffd7d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x22107e",
+            "0x70c9a9",
+            "0x732b55",
+            "0x7bac96"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

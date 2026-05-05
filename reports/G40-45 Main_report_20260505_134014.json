@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:14.842790",
+    "file_path": "E:\\G40-45 Main.bin",
+    "file_name": "G40-45 Main.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x163028",
+            "0x206028"
+        ],
+        "AMI BIOS": [
+            "0x131bc7"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

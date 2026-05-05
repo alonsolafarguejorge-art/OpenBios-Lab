@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:33.692761",
+    "file_path": "E:\\NP300e5z.BIN",
+    "file_name": "NP300e5z.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x190028",
+            "0x360028",
+            "0x380028",
+            "0x390028",
+            "0x3cf505"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x74217"
+        ],
+        "Phoenix BIOS": [
+            "0x3ffe3c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

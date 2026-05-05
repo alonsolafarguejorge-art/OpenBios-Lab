@@ -1,0 +1,37 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:46.125727",
+    "file_path": "E:\\Bios Hp Compaq\\hp zbook studio g3\\W25Q128BV@WSON8_20201021_143834.BIN",
+    "file_name": "W25Q128BV@WSON8_20201021_143834.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x749028",
+            "0xab4028",
+            "0xad4028",
+            "0xaf5028",
+            "0xbbc028",
+            "0xbbe677",
+            "0xc6ae4b",
+            "0xc8d17e",
+            "0xd7a028",
+            "0xe41028",
+            "0xe43677",
+            "0xeefe4b",
+            "0xf1217e",
+            "0xffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x89dd93"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

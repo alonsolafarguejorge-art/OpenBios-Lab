@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:59.127334",
+    "file_path": "E:\\Bios Dell\\dell_Inspiron_N5110_UMA_DQ15_INTEL\\19859-1\\XM25QH64A@SOIC8-200_20211218_110527.BIN",
+    "file_name": "XM25QH64A@SOIC8-200_20211218_110527.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x2f1000",
+            "0x2f2000"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:45.489877",
+    "file_path": "E:\\Bios Hp Compaq\\HP 15-DB0337UR EPV51 LA-G078P Rev 1.0 Bios +EC\\HP 15-DB0337UR EPV51 LA-G078P Rev 1.0 Bios +EC\\HP 15-DB0337UR EPV51 LA-G078P (BID 084AE) Bios.bin",
+    "file_name": "HP 15-DB0337UR EPV51 LA-G078P (BID 084AE) Bios.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0xd4028",
+            "0x126030",
+            "0x12b028",
+            "0x599028",
+            "0xaf0028",
+            "0xaf2380",
+            "0xecc028",
+            "0xece380",
+            "0xfff028"
+        ],
+        "AMI BIOS": [
+            "0xb98e5e",
+            "0xb9903e",
+            "0xf74e5e",
+            "0xf7503e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

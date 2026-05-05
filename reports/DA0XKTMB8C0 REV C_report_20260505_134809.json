@@ -1,0 +1,52 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:09.115192",
+    "file_path": "E:\\DA0XKTMB8C0 REV C i7-9750H WORKING BIOS 100%\\DA0XKTMB8C0 REV C i7-9750H WORKING BIOS 100%\\DA0XKTMB8C0 REV C.BIN",
+    "file_name": "DA0XKTMB8C0 REV C.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x3d0028",
+            "0x73d634",
+            "0x73d66b",
+            "0xcd0028",
+            "0xde0028",
+            "0xde956e",
+            "0xdfaaae",
+            "0xe80028",
+            "0xe80098",
+            "0xf20028",
+            "0xf25028",
+            "0xf276ec",
+            "0xf73dd3",
+            "0xf80028",
+            "0xf80db7",
+            "0xf8318a",
+            "0xfa03ec",
+            "0xfb1d3f",
+            "0xfbd62c",
+            "0xfc6936",
+            "0xffe6ee",
+            "0xffea54"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2000"
+        ],
+        "AMI BIOS": [
+            "0x3013e3",
+            "0x73fb45",
+            "0xd0dd09",
+            "0xd108bc",
+            "0xfc8a54",
+            "0xfc8a64",
+            "0xfca343"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

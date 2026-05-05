@@ -1,0 +1,48 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:00.527491",
+    "file_path": "E:\\BIos Apple\\Apple Mac Mini A1347 820-5509-A\\820-5509-A.bin",
+    "file_name": "820-5509-A.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1028",
+            "0x190028",
+            "0x330028",
+            "0x5e0028",
+            "0x5f0028",
+            "0x600028",
+            "0x610028",
+            "0x640028",
+            "0x64ba88",
+            "0x665b02",
+            "0x665bc7",
+            "0x6a3cd1",
+            "0x6b326a",
+            "0x6b3775",
+            "0x6bd01d",
+            "0x6f0028",
+            "0x6fba88",
+            "0x715b02",
+            "0x715bc7",
+            "0x753cd1",
+            "0x76326a",
+            "0x763775",
+            "0x76d01d",
+            "0x7a0028",
+            "0x7da028",
+            "0x7da7ea",
+            "0x7fa028",
+            "0x7fa7ea"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:10.014089",
+    "file_path": "E:\\BIOS\\4250_ZQP_AMD_ok\\W25Q16V@SOIC8_20210324_124336  4520.BIN",
+    "file_name": "W25Q16V@SOIC8_20210324_124336  4520.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x12028",
+            "0x185028",
+            "0x195028",
+            "0x19c028",
+            "0x1aa028",
+            "0x1de423",
+            "0x1de988",
+            "0x1e22db"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

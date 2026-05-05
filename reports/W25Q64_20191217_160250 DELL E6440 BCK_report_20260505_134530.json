@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:30.947428",
+    "file_path": "E:\\Bios Dell\\Dell DELL LAtitude E6440 VAL90 LA-9931P\\W25Q64_20191217_160250 DELL E6440 BCK.BIN",
+    "file_name": "W25Q64_20191217_160250 DELL E6440 BCK.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x600028",
+            "0x620028",
+            "0x690028",
+            "0x6f0028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5010"
+        ],
+        "AMI BIOS": [
+            "0x33717b",
+            "0x602891",
+            "0x602995",
+            "0x622891",
+            "0x622995",
+            "0x6a8035"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

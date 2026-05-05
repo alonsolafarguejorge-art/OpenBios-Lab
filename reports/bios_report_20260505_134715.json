@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:15.372624",
+    "file_path": "E:\\Bios Hp Compaq\\HP G4 G6 G7 Quanta R12\\HP Pavilion G6-1077sr (QUANTA R12)\\bios.bin",
+    "file_name": "bios.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x190028",
+            "0x3a1028",
+            "0x3af074",
+            "0x3afecc",
+            "0x3b4e1d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x3efaee",
+            "0x3efcce"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

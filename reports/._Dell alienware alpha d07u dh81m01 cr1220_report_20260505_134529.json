@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:29.166822",
+    "file_path": "E:\\Bios Dell\\Dell Alienware Alpha & Alienware Steam Machine D07U DH81M01\\__MACOSX\\._Dell alienware alpha d07u dh81m01 cr1220.BIN",
+    "file_name": "._Dell alienware alpha d07u dh81m01 cr1220.BIN",
+    "file_size_bytes": 216,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

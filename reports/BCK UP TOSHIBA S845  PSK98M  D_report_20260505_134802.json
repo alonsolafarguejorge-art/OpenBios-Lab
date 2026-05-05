@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:02.653368",
+    "file_path": "E:\\Bios Toshiba\\Toshiba L845D DABY6DMB8D0 ok\\BCK UP TOSHIBA S845  PSK98M  D.BIN",
+    "file_name": "BCK UP TOSHIBA S845  PSK98M  D.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x16c028",
+            "0x17c028",
+            "0x1d3bf7",
+            "0x1d3fb3",
+            "0x1d6592"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

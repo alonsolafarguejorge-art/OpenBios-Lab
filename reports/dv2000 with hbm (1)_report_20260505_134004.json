@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:04.689021",
+    "file_path": "E:\\dv2000 with hbm (1).BIN",
+    "file_name": "dv2000 with hbm (1).BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xec0f6",
+            "0xec12a"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:37.051361",
+    "file_path": "E:\\HP g60 intel.bin",
+    "file_name": "HP g60 intel.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x56028",
+            "0x19e028",
+            "0x1ab028",
+            "0x1bc028",
+            "0x1c58b6",
+            "0x1c7952"
+        ],
+        "Insyde BIOS": [
+            "0x4074"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

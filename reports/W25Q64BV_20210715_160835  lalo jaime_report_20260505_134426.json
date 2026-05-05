@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:26.977476",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo C365  6050A2594901\\W25Q64BV_20210715_160835  lalo jaime.BIN",
+    "file_name": "W25Q64BV_20210715_160835  lalo jaime.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x50028",
+            "0x180028",
+            "0x740028",
+            "0x744d37",
+            "0x744e84",
+            "0x74959a"
+        ],
+        "AMI BIOS": [
+            "0x30465",
+            "0x31a58",
+            "0x31a9f",
+            "0x31c0f",
+            "0x31d76",
+            "0x50465",
+            "0x51a58",
+            "0x51a9f",
+            "0x51c0f",
+            "0x51d76",
+            "0xfabc7",
+            "0x263ac6"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

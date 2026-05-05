@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:48.905247",
+    "file_path": "E:\\samsung R439OKKK.bin",
+    "file_name": "samsung R439OKKK.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x4010"
+        ],
+        "Phoenix BIOS": [
+            "0x2004a9",
+            "0x2759f1",
+            "0x276ca7",
+            "0x288b25",
+            "0x399afd"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:29.482907",
+    "file_path": "E:\\BIOS\\DA0NZBMB6D0\\W25Q64BV_20210329_134633.BIN",
+    "file_name": "W25Q64BV_20210329_134633.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x50028",
+            "0x5081a",
+            "0x70028",
+            "0x7081a",
+            "0x90028",
+            "0x640028",
+            "0x644f11",
+            "0x645063",
+            "0x6493c2",
+            "0x71fece",
+            "0x71fedf",
+            "0x71fef0",
+            "0x71ff01",
+            "0x720028",
+            "0x724f11",
+            "0x725063",
+            "0x7293c2",
+            "0x7ffece",
+            "0x7ffedf",
+            "0x7ffef0",
+            "0x7fff01"
+        ],
+        "AMI BIOS": [
+            "0x50224",
+            "0x509d7",
+            "0x50f78",
+            "0x57905",
+            "0x59690",
+            "0x70224",
+            "0x709d7",
+            "0x70f78",
+            "0x75a15",
+            "0x70de23",
+            "0x70e123",
+            "0x7ede23",
+            "0x7ee123"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

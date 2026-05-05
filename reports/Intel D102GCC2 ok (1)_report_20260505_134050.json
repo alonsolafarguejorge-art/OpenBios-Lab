@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:50.066662",
+    "file_path": "E:\\Intel D102GCC2 ok (1).BIN",
+    "file_name": "Intel D102GCC2 ok (1).BIN",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x2028",
+            "0xc028",
+            "0x70028",
+            "0x76469",
+            "0x7649a",
+            "0x7cace",
+            "0x7cbe6"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file"
+    ]
+}

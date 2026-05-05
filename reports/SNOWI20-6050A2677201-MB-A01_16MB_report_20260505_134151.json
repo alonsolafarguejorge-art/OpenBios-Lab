@@ -1,0 +1,37 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:51.541282",
+    "file_path": "E:\\SNOWI20-6050A2677201-MB-A01_16MB.bin",
+    "file_name": "SNOWI20-6050A2677201-MB-A01_16MB.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0xb03028",
+            "0xb2f030",
+            "0xb33028",
+            "0xf6c028",
+            "0xf6d028",
+            "0xf9b2a5",
+            "0xf9b8f0",
+            "0xfa0707"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0xf6c09e",
+            "0xf6c27e",
+            "0xfdf2c6",
+            "0xfdf4a6"
+        ],
+        "Insyde BIOS": [
+            "0x1c885"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:32.879131",
+    "file_path": "E:\\HP All-in-One - 22-c0033d_DAN97RMB6D0_08431.bin",
+    "file_name": "HP All-in-One - 22-c0033d_DAN97RMB6D0_08431.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x93028",
+            "0x95028",
+            "0x95cb0",
+            "0x96028",
+            "0x9c123",
+            "0x9c27b",
+            "0x9c6fb",
+            "0xa1e04",
+            "0xab246",
+            "0xb70db",
+            "0xd6028",
+            "0xd835c",
+            "0xdd22a",
+            "0x13c028",
+            "0x13cb6c",
+            "0x145ef1",
+            "0x15bf8f",
+            "0x17a930",
+            "0x180a2a",
+            "0x1bc028",
+            "0x783028",
+            "0xbee028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5a2b7",
+            "0x614d6",
+            "0x614fc",
+            "0x68d33"
+        ],
+        "AMI BIOS": [
+            "0x930a5",
+            "0xd60a5",
+            "0x106acf",
+            "0x110e48",
+            "0x111480",
+            "0x1114d0",
+            "0x18b92b",
+            "0x19c1f3",
+            "0x19c4f3",
+            "0x1bc0a5",
+            "0x78378b",
+            "0xbee74f"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

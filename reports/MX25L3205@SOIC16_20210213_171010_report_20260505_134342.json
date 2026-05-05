@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:42.105195",
+    "file_path": "E:\\BIOS\\GABLE 11212-1\\MX25L3205@SOIC16_20210213_171010.BIN",
+    "file_name": "MX25L3205@SOIC16_20210213_171010.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x183028",
+            "0x193028",
+            "0x3a1028",
+            "0x3b47e7",
+            "0x3b4de7",
+            "0x3d182f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x74217",
+            "0x3e3f7e",
+            "0x3e415e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

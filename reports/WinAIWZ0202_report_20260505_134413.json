@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:13.331012",
+    "file_path": "E:\\BIOS\\Z51-70 Laptop (Lenovo)\\c2cn21ww_LBE OutPut\\WinAIWZ0202.ROM",
+    "file_name": "WinAIWZ0202.ROM",
+    "file_size_bytes": 10113992,
+    "file_size_mb": 9.65,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2bd228",
+            "0x5c1228",
+            "0x5f5230",
+            "0x6c1228",
+            "0x6c87a3",
+            "0x6d89d1",
+            "0x9a02c8"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2210"
+        ],
+        "Insyde BIOS": [
+            "0x20136a",
+            "0x20336a",
+            "0x80122f",
+            "0x804106",
+            "0x804567",
+            "0x8045dc",
+            "0x804628",
+            "0x80cb5d",
+            "0x8113aa",
+            "0x8133aa"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:10.124812",
+    "file_path": "E:\\Bios Hp Compaq\\HP EliteDesk 800 G2 Small Form Factor BIOS\\MX25L12873F_20181205_165300  BCK UP LEO BRO.BIN",
+    "file_name": "MX25L12873F_20181205_165300  BCK UP LEO BRO.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x709028",
+            "0xb98028",
+            "0xbd9028",
+            "0xc8d028",
+            "0xc8f5f7",
+            "0xc96400",
+            "0xd44acb",
+            "0xd60ae2",
+            "0xdec028",
+            "0xea0028",
+            "0xea25f7",
+            "0xea9400",
+            "0xf57acb",
+            "0xf73ae2",
+            "0xffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x8d4f51"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

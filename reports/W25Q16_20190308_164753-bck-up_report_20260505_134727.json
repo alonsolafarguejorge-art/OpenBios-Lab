@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:27.406054",
+    "file_path": "E:\\Bios Hp Compaq\\HP Pavilion dm1-3000 Entertainment Notebook series\\W25Q16_20190308_164753-bck-up.BIN",
+    "file_name": "W25Q16_20190308_164753-bck-up.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x12028",
+            "0x20028",
+            "0x180028",
+            "0x187028",
+            "0x1aa028",
+            "0x1dbe5f",
+            "0x1dc6a9",
+            "0x1e143b"
+        ],
+        "AMI BIOS": [
+            "0x182076",
+            "0x182256"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

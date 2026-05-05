@@ -1,0 +1,56 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:55.151221",
+    "file_path": "E:\\Bios Hp Compaq\\Hp 240 G6 Funcionando\\084D6.bin",
+    "file_name": "084D6.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x93028",
+            "0x95028",
+            "0x95cb0",
+            "0x96028",
+            "0x97805",
+            "0xa1525",
+            "0xa2d43",
+            "0xa7f5e",
+            "0xa81c4",
+            "0xb00f3",
+            "0xd7028",
+            "0xd91fa",
+            "0xde14b",
+            "0x13d028",
+            "0x1631b8",
+            "0x1c9028",
+            "0x1f5028",
+            "0x40f028",
+            "0x4351b8",
+            "0x49b028",
+            "0x6e3028",
+            "0x765030"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5a422",
+            "0x6172c",
+            "0x61752",
+            "0x69285"
+        ],
+        "AMI BIOS": [
+            "0x1119d3",
+            "0x11bd40",
+            "0x11cc08",
+            "0x11cc58",
+            "0x182316",
+            "0x1824f6",
+            "0x454316",
+            "0x4544f6",
+            "0x53c6a5"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

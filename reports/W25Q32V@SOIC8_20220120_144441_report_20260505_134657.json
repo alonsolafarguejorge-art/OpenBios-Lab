@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:57.118254",
+    "file_path": "E:\\Bios Hp Compaq\\HP 4545S\\W25Q32V@SOIC8_20220120_144441.BIN",
+    "file_name": "W25Q32V@SOIC8_20220120_144441.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x21028",
+            "0x240028",
+            "0x280028",
+            "0x310028",
+            "0x36abcd",
+            "0x370798"
+        ],
+        "AMI BIOS": [
+            "0x3045de"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:26.915175",
+    "file_path": "E:\\\u0412\u0440\u043e\u0434\u0435_\u043a\u0430\u043a_\u043f\u043e\u0434\u0445\u043e\u0434\u0438\u0442_\u0434\u043b\u044f_LTN170CT05_1920_1200.bin",
+    "file_name": "\u0412\u0440\u043e\u0434\u0435_\u043a\u0430\u043a_\u043f\u043e\u0434\u0445\u043e\u0434\u0438\u0442_\u0434\u043b\u044f_LTN170CT05_1920_1200.bin",
+    "file_size_bytes": 256,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

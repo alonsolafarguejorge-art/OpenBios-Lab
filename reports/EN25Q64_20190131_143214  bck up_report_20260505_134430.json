@@ -1,0 +1,51 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:30.268420",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo G480 LG4858L 11326-1\\EN25Q64_20190131_143214  bck up.BIN",
+    "file_name": "EN25Q64_20190131_143214  bck up.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x420028",
+            "0x460028",
+            "0x6f0028",
+            "0x740028",
+            "0x749dd8",
+            "0x763cd4",
+            "0x763cfe",
+            "0x7b1e9f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Phoenix BIOS": [
+            "0x421e7f",
+            "0x421eb2",
+            "0x421f22",
+            "0x421f55",
+            "0x42211a",
+            "0x42214d",
+            "0x702df0",
+            "0x702e23",
+            "0x702e93",
+            "0x702ec6",
+            "0x70308b",
+            "0x7030be",
+            "0x744a58",
+            "0x744a8b",
+            "0x744afb",
+            "0x744b2e",
+            "0x744cf3",
+            "0x744d26"
+        ],
+        "Insyde BIOS": [
+            "0x408074"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

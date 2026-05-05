@@ -1,0 +1,42 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:40.884555",
+    "file_path": "E:\\Bios Dell\\Dell Inspiron 53685568736875697778 System BIOS LA-D822P\\W25Q128_20190719_141028  bck up.BIN",
+    "file_name": "W25Q128_20190719_141028  bck up.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x700028",
+            "0x750028",
+            "0x7b0028",
+            "0x810028",
+            "0x821028",
+            "0x861028",
+            "0x871028",
+            "0xd90028",
+            "0xe90028",
+            "0xe93a08",
+            "0xf24421",
+            "0xf36ef1",
+            "0xf3f2f3",
+            "0xf47048",
+            "0xfffd85"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x751469",
+            "0x75314f",
+            "0x7b1469",
+            "0x7b314f",
+            "0xf2d1e5"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

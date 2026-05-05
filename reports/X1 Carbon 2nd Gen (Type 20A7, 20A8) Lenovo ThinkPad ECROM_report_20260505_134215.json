@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:15.087959",
+    "file_path": "E:\\X1 Carbon 2nd Gen (Type 20A7, 20A8) Lenovo ThinkPad ECROM.bin",
+    "file_name": "X1 Carbon 2nd Gen (Type 20A7, 20A8) Lenovo ThinkPad ECROM.bin",
+    "file_size_bytes": 196608,
+    "file_size_mb": 0.19,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

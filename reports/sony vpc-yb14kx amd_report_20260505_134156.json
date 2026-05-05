@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:56.832098",
+    "file_path": "E:\\sony vpc-yb14kx amd.BIN",
+    "file_name": "sony vpc-yb14kx amd.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x20028",
+            "0x22028",
+            "0x186028",
+            "0x196028",
+            "0x19d028",
+            "0x1aa028",
+            "0x1dcceb",
+            "0x1dd246",
+            "0x1e031b"
+        ],
+        "Insyde BIOS": [
+            "0x8074"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

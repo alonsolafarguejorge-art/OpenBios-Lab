@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:44.980950",
+    "file_path": "E:\\Bios Hp Compaq\\HP ToushSmart 5.1 420-1140LA IPISB-NK\\W25Q32_20180710_131004  BCK  NI\u00d1O - copia.BIN",
+    "file_name": "W25Q32_20180710_131004  BCK  NI\u00d1O - copia.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x220028",
+            "0x230028",
+            "0x240028",
+            "0x3a0028",
+            "0x3bb708",
+            "0x3bd85c",
+            "0x3cdcc7",
+            "0x3ff770"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x2201fb",
+            "0x2301fb",
+            "0x3878ee"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

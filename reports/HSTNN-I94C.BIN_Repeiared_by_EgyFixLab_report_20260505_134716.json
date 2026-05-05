@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:16.108830",
+    "file_path": "E:\\Bios Hp Compaq\\HP G6-1C50LA     UMA        6050A2412801 MB-A02  2011-04-29\\HSTNN-I94C.BIN_Repeiared_by_EgyFixLab.Bin",
+    "file_name": "HSTNN-I94C.BIN_Repeiared_by_EgyFixLab.Bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x12028",
+            "0x40028",
+            "0x180028",
+            "0x1ba8a9",
+            "0x1bacc3",
+            "0x1bf7af"
+        ],
+        "AMI BIOS": [
+            "0x1d384e",
+            "0x1d3a2e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

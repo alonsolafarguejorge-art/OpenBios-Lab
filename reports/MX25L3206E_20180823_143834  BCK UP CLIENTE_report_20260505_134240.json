@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:40.875395",
+    "file_path": "E:\\Bios Acer\\Acer-Gateway eg50-kb mb 12253-3m\\MX25L3206E_20180823_143834  BCK UP CLIENTE.BIN",
+    "file_name": "MX25L3206E_20180823_143834  BCK UP CLIENTE.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x53028",
+            "0x337028",
+            "0x365030",
+            "0x36b028",
+            "0x3dd5ad",
+            "0x3dda9a",
+            "0x3e01ab",
+            "0x3e06ce"
+        ],
+        "Insyde BIOS": [
+            "0x51008"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

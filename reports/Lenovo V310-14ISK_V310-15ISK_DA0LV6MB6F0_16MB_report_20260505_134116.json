@@ -1,0 +1,45 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:16.472985",
+    "file_path": "E:\\Lenovo V310-14ISK_V310-15ISK_DA0LV6MB6F0_16MB.bin",
+    "file_name": "Lenovo V310-14ISK_V310-15ISK_DA0LV6MB6F0_16MB.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x830028",
+            "0x8a0028",
+            "0x990028",
+            "0xe10028",
+            "0xe30028",
+            "0xe40028",
+            "0xee0028",
+            "0xf3722e",
+            "0xf9789f",
+            "0xf97928",
+            "0xf979ee",
+            "0xf9b32e",
+            "0xf9b846",
+            "0xfaf6da",
+            "0xfaf707",
+            "0xfe0028",
+            "0xfe1c80"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Phoenix BIOS": [
+            "0xb988ae",
+            "0xb988e1",
+            "0xb98951",
+            "0xb98984",
+            "0xb98b49",
+            "0xb98b7c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

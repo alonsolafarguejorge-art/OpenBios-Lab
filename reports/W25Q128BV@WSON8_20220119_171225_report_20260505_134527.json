@@ -1,0 +1,64 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:27.994936",
+    "file_path": "E:\\Bios Dell\\Dell Alienware 17 R3 AAP21 LA-C912P Rev2.0 (A01)\\W25Q128BV@WSON8_20220119_171225.BIN",
+    "file_name": "W25Q128BV@WSON8_20220119_171225.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x822028",
+            "0x842028",
+            "0x872028",
+            "0xb2fd18",
+            "0xda0028",
+            "0xe20028",
+            "0xe20b8d",
+            "0xe22e87",
+            "0xe79bcb",
+            "0xefeeaa",
+            "0xf1051a",
+            "0xf27da0",
+            "0xfffd7d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x8230c6",
+            "0x823388",
+            "0x8258a9",
+            "0x8258f0",
+            "0x825a60",
+            "0x825db3",
+            "0x8430c6",
+            "0x843388",
+            "0x8458a9",
+            "0x8458f0",
+            "0x845a60",
+            "0x845db3",
+            "0xa61e8c",
+            "0xa61ea0",
+            "0xa61ede",
+            "0xa61ef1",
+            "0xa65a71",
+            "0xa65a86",
+            "0xa65b65",
+            "0xa65b79",
+            "0xa695ef",
+            "0xa69604",
+            "0xa696e3",
+            "0xa696f7",
+            "0xa6b154",
+            "0xa6b167",
+            "0xf0df45",
+            "0xf28f11",
+            "0xf64656"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

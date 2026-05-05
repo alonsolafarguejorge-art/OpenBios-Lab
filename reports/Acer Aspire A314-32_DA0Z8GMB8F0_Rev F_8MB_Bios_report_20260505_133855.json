@@ -1,0 +1,52 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:55.581274",
+    "file_path": "E:\\Acer Aspire A314-32_DA0Z8GMB8F0_Rev F_8MB_Bios.bin",
+    "file_name": "Acer Aspire A314-32_DA0Z8GMB8F0_Rev F_8MB_Bios.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0xa5028",
+            "0xa7028",
+            "0xa7cb0",
+            "0xa8028",
+            "0xa9805",
+            "0xb38c5",
+            "0xb50e1",
+            "0xba5e6",
+            "0xba84c",
+            "0xc215d",
+            "0xe9028",
+            "0xeb1fa",
+            "0xf014b",
+            "0x14f028",
+            "0x179fa8",
+            "0x1db028",
+            "0x389028",
+            "0x3d7028",
+            "0x5f5028",
+            "0x677030"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5a3f1",
+            "0x6164a",
+            "0x61670",
+            "0x69164"
+        ],
+        "AMI BIOS": [
+            "0x1239ab",
+            "0x12dd18",
+            "0x12ebd0",
+            "0x12ec20"
+        ],
+        "Insyde BIOS": [
+            "0x3ca008"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

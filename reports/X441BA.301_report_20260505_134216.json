@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:16.911733",
+    "file_path": "E:\\X441BA.301.bin",
+    "file_name": "X441BA.301.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x57028",
+            "0x197028",
+            "0x5e0028",
+            "0x5e0b3f",
+            "0x5e260d",
+            "0x63a5f0"
+        ],
+        "AMI BIOS": [
+            "0x57212"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:06.182509",
+    "file_path": "E:\\dv9410us_.bin",
+    "file_name": "dv9410us_.bin",
+    "file_size_bytes": 1109554,
+    "file_size_mb": 1.06,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xf6d17",
+            "0xf6d4c"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

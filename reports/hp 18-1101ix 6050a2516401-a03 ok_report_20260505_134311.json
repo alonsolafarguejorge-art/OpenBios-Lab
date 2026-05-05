@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:11.444984",
+    "file_path": "E:\\BIOS\\6050a2516401-a03\\hp 18-1101ix 6050a2516401-a03 ok.bin",
+    "file_name": "hp 18-1101ix 6050a2516401-a03 ok.bin",
+    "file_size_bytes": 4195328,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x40028",
+            "0x60028",
+            "0x80028",
+            "0x380028",
+            "0x381f32",
+            "0x38207f",
+            "0x385dcb"
+        ],
+        "AMI BIOS": [
+            "0x401e3",
+            "0x4369a",
+            "0x601e3",
+            "0x6369a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

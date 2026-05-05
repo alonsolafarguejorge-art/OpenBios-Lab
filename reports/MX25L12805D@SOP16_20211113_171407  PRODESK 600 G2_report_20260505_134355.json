@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:55.368100",
+    "file_path": "E:\\BIOS\\PRODESK 600  G2\\MX25L12805D@SOP16_20211113_171407  PRODESK 600 G2.BIN",
+    "file_name": "MX25L12805D@SOP16_20211113_171407  PRODESK 600 G2.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x709028",
+            "0xb98028",
+            "0xbd9028",
+            "0xc8d028",
+            "0xc8f577",
+            "0xd36ccb",
+            "0xd5266e",
+            "0xdec028",
+            "0xea0028",
+            "0xea2577",
+            "0xf49ccb",
+            "0xf6566e",
+            "0xffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

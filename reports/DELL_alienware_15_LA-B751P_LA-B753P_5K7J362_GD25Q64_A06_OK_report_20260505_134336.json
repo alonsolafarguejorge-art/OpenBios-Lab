@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:36.719904",
+    "file_path": "E:\\BIOS\\Echo 15 17 nVidia - LA-B751P  LA-B753P\\DELL_alienware_15_LA-B751P_LA-B753P_5K7J362_GD25Q64_A06_OK.BIN",
+    "file_name": "DELL_alienware_15_LA-B751P_LA-B753P_5K7J362_GD25Q64_A06_OK.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x204028",
+            "0x245028",
+            "0x720028",
+            "0x721c8f",
+            "0x723853",
+            "0x72fdb8",
+            "0x797fe0",
+            "0x7ffa63"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2046a2"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

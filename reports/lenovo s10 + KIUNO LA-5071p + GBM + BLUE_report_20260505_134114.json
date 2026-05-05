@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:14.783870",
+    "file_path": "E:\\lenovo s10 + KIUNO LA-5071p + GBM + BLUE.bin",
+    "file_name": "lenovo s10 + KIUNO LA-5071p + GBM + BLUE.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x22028",
+            "0x26028",
+            "0x3e028",
+            "0xe4028",
+            "0xe957d",
+            "0xeb573"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

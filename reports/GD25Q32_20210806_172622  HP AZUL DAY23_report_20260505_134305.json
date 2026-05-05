@@ -1,0 +1,44 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:05.182290",
+    "file_path": "E:\\BIOS\\GD25Q32_20210806_172622  HP AZUL DAY23.BIN",
+    "file_name": "GD25Q32_20210806_172622  HP AZUL DAY23.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x58028",
+            "0x2c0028",
+            "0x2e0028",
+            "0x300028",
+            "0x302b9f",
+            "0x302cec",
+            "0x3073b4"
+        ],
+        "AMI BIOS": [
+            "0x40167",
+            "0x40187",
+            "0x402e7",
+            "0x40307",
+            "0x40327",
+            "0x40347",
+            "0x40367",
+            "0x40387",
+            "0x403a7",
+            "0x403c7",
+            "0x2c0263",
+            "0x2c0913",
+            "0x2e0263",
+            "0x2e07b6",
+            "0x38e0a4",
+            "0x3914cc",
+            "0x3972e3",
+            "0x3975e3"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

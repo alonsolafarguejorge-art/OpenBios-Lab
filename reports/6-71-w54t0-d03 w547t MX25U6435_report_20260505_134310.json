@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:10.907054",
+    "file_path": "E:\\BIOS\\6-71-w54t0-d03 w547t\\6-71-w54t0-d03 w547t MX25U6435.BIN",
+    "file_name": "6-71-w54t0-d03 w547t MX25U6435.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x430028",
+            "0x480028",
+            "0x4d0028",
+            "0x77c028",
+            "0x7a4262",
+            "0x7a42a9",
+            "0x7d9028",
+            "0x7da760",
+            "0x7dcc13",
+            "0x7df9cb",
+            "0x7dfb04"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x430237",
+            "0x43040d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

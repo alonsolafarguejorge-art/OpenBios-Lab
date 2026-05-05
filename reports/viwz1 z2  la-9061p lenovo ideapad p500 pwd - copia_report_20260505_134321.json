@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:21.341707",
+    "file_path": "E:\\BIOS\\BIOS RECIENTES\\ovo ideapad p500  viwz1 z2  la-9061p\\viwz1 z2  la-9061p lenovo ideapad p500 pwd - copia.BIN",
+    "file_name": "viwz1 z2  la-9061p lenovo ideapad p500 pwd - copia.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x185028",
+            "0x193028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

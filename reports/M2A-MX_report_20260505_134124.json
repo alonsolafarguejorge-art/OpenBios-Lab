@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:24.753546",
+    "file_path": "E:\\M2A-MX.ROM",
+    "file_name": "M2A-MX.ROM",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xe074c",
+            "0xeb8d5",
+            "0xebfea",
+            "0xf0368",
+            "0xf121b"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

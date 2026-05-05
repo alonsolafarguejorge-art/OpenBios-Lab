@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:39.039358",
+    "file_path": "E:\\BIOS\\EIBM-SAM VER 1.2 BC.BIN\\EIBM-SAO VER 1.2 BC - copia.BIN-new.bin",
+    "file_name": "EIBM-SAO VER 1.2 BC - copia.BIN-new.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x320028",
+            "0x350028",
+            "0x3a0028",
+            "0x72a028",
+            "0x74dc18",
+            "0x74dc5f",
+            "0x7a8028",
+            "0x7a9778",
+            "0x7abc4b",
+            "0x7aea03",
+            "0x7aeb3c"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x300276",
+            "0x300894",
+            "0x320276",
+            "0x320894"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

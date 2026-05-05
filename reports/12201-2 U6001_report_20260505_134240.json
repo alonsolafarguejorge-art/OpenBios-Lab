@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:40.162466",
+    "file_path": "E:\\Bios Acer\\Acer-Gateway Acer Aspire S3 Series Wistron Hummingbird2_CR HM2-CR 12201-2 48.4TH03.001\\Aspire S3-331 Aspire S3-371 Aspire S3-391\\12201-2 U6001.BIN",
+    "file_name": "12201-2 U6001.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x522028",
+            "0x710028",
+            "0x740028",
+            "0x75d105",
+            "0x75d4e4",
+            "0x75e563"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Insyde BIOS": [
+            "0x508074"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

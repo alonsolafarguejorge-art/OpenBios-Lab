@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:27.880245",
+    "file_path": "E:\\HO PROBOOK4420S OK.BIN",
+    "file_name": "HO PROBOOK4420S OK.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1b0028",
+            "0x300028",
+            "0x3a0028",
+            "0x3a76c0",
+            "0x3dd12d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x393b0a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

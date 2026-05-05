@@ -1,0 +1,21 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:54.942206",
+    "file_path": "E:\\Bios Dell\\DELL PRECISION 3520\\dell Precision 3520\\LA-E152P MIGUEL MAC.BIN_Repeiared_by_EgyFixLab.Bin",
+    "file_name": "LA-E152P MIGUEL MAC.BIN_Repeiared_by_EgyFixLab.Bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x5c196b"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:55.724555",
+    "file_path": "E:\\sony vgn-fs550  PCG-792L (1).BIN",
+    "file_name": "sony vgn-fs550  PCG-792L (1).BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xebc2c",
+            "0xebc66"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

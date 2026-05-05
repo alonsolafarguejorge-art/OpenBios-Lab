@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:34.856774",
+    "file_path": "E:\\cq61intel with gpu n10mok.bin",
+    "file_name": "cq61intel with gpu n10mok.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x20028",
+            "0xd0028",
+            "0xd8028",
+            "0xe3028",
+            "0xef028",
+            "0xf6609",
+            "0xf80ba"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

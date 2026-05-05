@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:41.134737",
+    "file_path": "E:\\Bios Acer\\Acer-v5-551 DA0ZRPMB6C0\\Acer Aspire V5-551G _DA0ZRPMB6C0 REVC\\v5-551g.fd",
+    "file_name": "v5-551g.fd",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x58028",
+            "0x34c028",
+            "0x37a030",
+            "0x380028",
+            "0x3d8f43",
+            "0x3d92ff",
+            "0x3db523",
+            "0x3dba49"
+        ],
+        "Insyde BIOS": [
+            "0x56008"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

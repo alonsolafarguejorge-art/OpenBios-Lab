@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:23.283025",
+    "file_path": "E:\\Bios Hp Compaq\\HP Pavilion 13-a000 x360 - DA0Y72MB6C0\\022B3\\022B3.bin",
+    "file_name": "022B3.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x68028",
+            "0x5c0028",
+            "0x740028",
+            "0x7460af",
+            "0x7461fc",
+            "0x74a6ec"
+        ],
+        "AMI BIOS": [
+            "0x5c0242",
+            "0x691f40",
+            "0x7b8ce0",
+            "0x7bb0bc",
+            "0x7be443",
+            "0x7be743"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

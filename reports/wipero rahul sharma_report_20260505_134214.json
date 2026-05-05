@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:14.726832",
+    "file_path": "E:\\wipero rahul sharma.BIN",
+    "file_name": "wipero rahul sharma.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xeb870",
+            "0xeb8a4"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

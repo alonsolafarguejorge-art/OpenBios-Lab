@@ -1,0 +1,47 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:10.508961",
+    "file_path": "E:\\DAX8SFMB8B1 REV B TESTED OK\\DAX8SFMB8B1 REV B TESTED OK\\BIOS & EC\\hp probook 12 gen ec org.bin",
+    "file_name": "hp probook 12 gen ec org.bin",
+    "file_size_bytes": 33554432,
+    "file_size_mb": 32.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x201028",
+            "0x342810",
+            "0x46f028",
+            "0x4de028",
+            "0x4e03fd",
+            "0x57d610",
+            "0x58e028",
+            "0x66f028",
+            "0x6c6c98",
+            "0x70bf30",
+            "0x712eeb",
+            "0x7e889a",
+            "0x7ed028",
+            "0xe11028",
+            "0x1a12028",
+            "0x1b53810",
+            "0x1c80028",
+            "0x1cef028",
+            "0x1cf13fd",
+            "0x1d8e610",
+            "0x1d9f028",
+            "0x1e80028",
+            "0x1ed7c98",
+            "0x1f1cf30",
+            "0x1f23eeb",
+            "0x1ff989a",
+            "0x1ffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x901000"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

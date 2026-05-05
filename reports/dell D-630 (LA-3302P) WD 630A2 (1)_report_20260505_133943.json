@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:43.293468",
+    "file_path": "E:\\dell D-630 (LA-3302P) WD 630A2 (1).BIN",
+    "file_name": "dell D-630 (LA-3302P) WD 630A2 (1).BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x1001c",
+            "0x1521a",
+            "0x1842a"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

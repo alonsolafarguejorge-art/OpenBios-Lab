@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:26.050286",
+    "file_path": "E:\\Z570 lz57 (10254-2n).bin",
+    "file_name": "Z570 lz57 (10254-2n).bin",
+    "file_size_bytes": 4194370,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1a0028",
+            "0x1b0028",
+            "0x360028",
+            "0x390028",
+            "0x3d0005"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Phoenix BIOS": [
+            "0x3fff0c"
+        ],
+        "Insyde BIOS": [
+            "0x188074"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

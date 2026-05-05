@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:53.136373",
+    "file_path": "E:\\Bin\\Lenovo_M72e_IH61M_W25Q32BV_Backup.bin",
+    "file_name": "Lenovo_M72e_IH61M_W25Q32BV_Backup.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x20028",
+            "0x40028",
+            "0x360028",
+            "0x38d190",
+            "0x38d2d9",
+            "0x38fe62",
+            "0x39d7d2",
+            "0x3ff730"
+        ],
+        "AMI BIOS": [
+            "0x54d",
+            "0x2054d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

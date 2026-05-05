@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:08.419586",
+    "file_path": "E:\\v6.0.30.1203.bin",
+    "file_name": "v6.0.30.1203.bin",
+    "file_size_bytes": 983040,
+    "file_size_mb": 0.94,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x10"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:40.221469",
+    "file_path": "E:\\hp pro book 4420.BIN",
+    "file_name": "hp pro book 4420.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1b0028",
+            "0x300028",
+            "0x3a0028",
+            "0x3a76e0",
+            "0x3df16d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x393b0d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

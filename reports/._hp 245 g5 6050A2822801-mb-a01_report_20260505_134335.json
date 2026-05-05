@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:35.927258",
+    "file_path": "E:\\BIOS\\DINERAMD-6050A2822801-MB-A01\\__MACOSX\\._hp 245 g5 6050A2822801-mb-a01.BIN",
+    "file_name": "._hp 245 g5 6050A2822801-mb-a01.BIN",
+    "file_size_bytes": 212,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

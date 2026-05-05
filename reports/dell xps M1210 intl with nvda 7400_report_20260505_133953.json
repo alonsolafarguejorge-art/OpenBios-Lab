@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:53.800211",
+    "file_path": "E:\\dell xps M1210 intl with nvda 7400.BIN",
+    "file_name": "dell xps M1210 intl with nvda 7400.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x2001c",
+            "0x24e5b",
+            "0x2783f"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

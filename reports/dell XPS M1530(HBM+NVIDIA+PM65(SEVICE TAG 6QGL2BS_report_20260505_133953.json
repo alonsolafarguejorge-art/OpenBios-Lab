@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:53.996496",
+    "file_path": "E:\\dell XPS M1530(HBM+NVIDIA+PM65(SEVICE TAG 6QGL2BS.bin",
+    "file_name": "dell XPS M1530(HBM+NVIDIA+PM65(SEVICE TAG 6QGL2BS.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

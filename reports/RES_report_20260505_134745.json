@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:45.219057",
+    "file_path": "E:\\Bios Hp Compaq\\HP TPN-Q132 DAOU93MB6D0 REV D DIS QUANTA U93\\RES.BIN",
+    "file_name": "RES.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x13028",
+            "0x3f030",
+            "0x53028",
+            "0x356028",
+            "0x357028",
+            "0x3c7763",
+            "0x3c7d8b",
+            "0x3cc96b"
+        ],
+        "AMI BIOS": [
+            "0x35609e",
+            "0x35627e",
+            "0x3e4eb6",
+            "0x3e5096"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

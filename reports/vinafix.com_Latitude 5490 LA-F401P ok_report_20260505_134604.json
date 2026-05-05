@@ -1,0 +1,45 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:04.164150",
+    "file_path": "E:\\Bios Dell\\Latitude 5490 LA-F401P\\vinafix.com_Latitude 5490 LA-F401P ok.bin",
+    "file_name": "vinafix.com_Latitude 5490 LA-F401P ok.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x790028",
+            "0x7f0028",
+            "0x850028",
+            "0x861028",
+            "0x8a1028",
+            "0x8b1028",
+            "0xd80028",
+            "0xe50028",
+            "0xf00028",
+            "0xf06eda",
+            "0xf183bf",
+            "0xf5ba10",
+            "0xfcd54e",
+            "0xfdce90",
+            "0xfff5a5"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x5c196b",
+            "0x791615",
+            "0x7acc5e",
+            "0x7f1615",
+            "0x7f813d",
+            "0xb5389c",
+            "0xfd970d",
+            "0xfe0785"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

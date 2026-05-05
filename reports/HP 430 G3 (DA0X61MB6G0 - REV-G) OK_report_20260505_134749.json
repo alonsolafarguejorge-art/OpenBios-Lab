@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:49.371704",
+    "file_path": "E:\\Bios Hp Compaq\\PROBOOK 440G3 DAX61CMB6D0 REV D\\HP 430 G3 (DA0X61MB6G0 - REV-G) OK.BIN",
+    "file_name": "HP 430 G3 (DA0X61MB6G0 - REV-G) OK.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x75d028",
+            "0xb10028",
+            "0xb30028",
+            "0xb51028",
+            "0xc0c028",
+            "0xc0e677",
+            "0xcb524b",
+            "0xcd717e",
+            "0xda8028",
+            "0xe63028",
+            "0xe65677",
+            "0xf0c24b",
+            "0xf2e17e",
+            "0xffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

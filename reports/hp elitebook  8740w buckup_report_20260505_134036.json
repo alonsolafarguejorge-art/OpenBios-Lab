@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:36.001027",
+    "file_path": "E:\\hp elitebook  8740w buckup.bin",
+    "file_name": "hp elitebook  8740w buckup.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x530028",
+            "0x680028",
+            "0x7a0028",
+            "0x7a76ca",
+            "0x7e078d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x783adb"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

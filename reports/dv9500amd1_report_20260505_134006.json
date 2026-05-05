@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:06.207260",
+    "file_path": "E:\\dv9500amd1.bin",
+    "file_name": "dv9500amd1.bin",
+    "file_size_bytes": 1097986,
+    "file_size_mb": 1.05,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xf5340",
+            "0xf5375",
+            "0xf8030"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:27.387212",
+    "file_path": "E:\\HCL ME with ibm and gm45 (1).BIN",
+    "file_name": "HCL ME with ibm and gm45 (1).BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x12028",
+            "0xc4028",
+            "0xce028",
+            "0xe0028",
+            "0xe6acf",
+            "0xe89ba"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

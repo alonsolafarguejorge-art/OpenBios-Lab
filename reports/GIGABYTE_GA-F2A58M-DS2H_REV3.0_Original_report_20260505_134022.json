@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:22.540154",
+    "file_path": "E:\\GIGABYTE_GA-F2A58M-DS2H_REV3.0_Original.bin",
+    "file_name": "GIGABYTE_GA-F2A58M-DS2H_REV3.0_Original.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x50028",
+            "0x70028",
+            "0x700028",
+            "0x7047d8",
+            "0x704f86",
+            "0x7050d1",
+            "0x7079f6"
+        ],
+        "AMI BIOS": [
+            "0x30306",
+            "0x307c4",
+            "0x310b6",
+            "0x50306",
+            "0x507c4",
+            "0x510b6"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

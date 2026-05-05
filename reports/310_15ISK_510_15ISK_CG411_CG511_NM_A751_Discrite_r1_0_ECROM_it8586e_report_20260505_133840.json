@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:40.848554",
+    "file_path": "E:\\310_15ISK_510_15ISK_CG411_CG511_NM_A751_Discrite_r1_0_ECROM_it8586e.bin",
+    "file_name": "310_15ISK_510_15ISK_CG411_CG511_NM_A751_Discrite_r1_0_ECROM_it8586e.bin",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

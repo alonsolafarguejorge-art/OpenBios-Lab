@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:35.610233",
+    "file_path": "E:\\D-255 (LA-6421P).BIN",
+    "file_name": "D-255 (LA-6421P).BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x22028",
+            "0x33028",
+            "0x1af028",
+            "0x1bf028",
+            "0x1c66e5",
+            "0x1d547c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

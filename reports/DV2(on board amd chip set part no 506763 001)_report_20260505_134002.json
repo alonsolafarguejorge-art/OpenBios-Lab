@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:02.532630",
+    "file_path": "E:\\DV2(on board amd chip set part no 506763 001).BIN",
+    "file_name": "DV2(on board amd chip set part no 506763 001).BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xecc81",
+            "0xeccb5"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:25.419475",
+    "file_path": "E:\\z565 la-5754p.bin",
+    "file_name": "z565 la-5754p.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x25028",
+            "0x33028",
+            "0x199028",
+            "0x1a9028",
+            "0x1dddf2",
+            "0x1de525",
+            "0x1e1b7b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:03.891020",
+    "file_path": "E:\\Toshiba Satellite M45-S269 + 6050A2032201-MB-A03.BIN",
+    "file_name": "Toshiba Satellite M45-S269 + 6050A2032201-MB-A03.BIN",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "Insyde BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Insyde BIOS": [
+            "0x88",
+            "0x23dba",
+            "0x482ed",
+            "0x48900",
+            "0x76fa1",
+            "0x7ffa0"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

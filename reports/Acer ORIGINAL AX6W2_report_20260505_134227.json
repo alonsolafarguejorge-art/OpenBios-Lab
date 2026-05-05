@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:27.762301",
+    "file_path": "E:\\Bios Acer\\Acer ORIGINAL AX6W2.bin",
+    "file_name": "Acer ORIGINAL AX6W2.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x50028",
+            "0x182028",
+            "0x2d01b8",
+            "0x740028",
+            "0x7459ac",
+            "0x745af9",
+            "0x749c97"
+        ],
+        "AMI BIOS": [
+            "0x302a7",
+            "0x30548",
+            "0x30586",
+            "0x330cf",
+            "0x502a7",
+            "0x50548",
+            "0x50586",
+            "0x530cf",
+            "0x7b19c4"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

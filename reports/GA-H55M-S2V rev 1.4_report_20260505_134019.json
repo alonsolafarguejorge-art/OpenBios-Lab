@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:19.215902",
+    "file_path": "E:\\GA-H55M-S2V rev 1.4.bin",
+    "file_name": "GA-H55M-S2V rev 1.4.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x68c0f",
+            "0x68c3f",
+            "0x68c67",
+            "0x68c97",
+            "0x68caf",
+            "0x68cdb",
+            "0x68d03",
+            "0x68d37",
+            "0x68d6b",
+            "0x68ddb",
+            "0x68dff"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:27.883221",
+    "file_path": "E:\\c300.BIN",
+    "file_name": "c300.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xe7b73"
+        ],
+        "Phoenix BIOS": [
+            "0xe83c8",
+            "0xe83fc"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:52.363948",
+    "file_path": "E:\\Bios Dell\\Dell Latitude E7270 and Latitude E7470 BIOS AAZ50 LA-C451P\\DELL Latitude E7270 AAZ50 LA-C451P.bin",
+    "file_name": "DELL Latitude E7270 AAZ50 LA-C451P.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x700028",
+            "0x760028",
+            "0x7c0028",
+            "0x7d0028",
+            "0x810028",
+            "0x820028",
+            "0xdf0028",
+            "0xe40028",
+            "0xe40ffe",
+            "0xe43497",
+            "0xed9ba0",
+            "0xee2245",
+            "0xee647a",
+            "0xefa5b0",
+            "0xeff4c2",
+            "0xf88d83",
+            "0xfffd85"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x701334",
+            "0xb9eab5",
+            "0xee4e6d",
+            "0xf30900"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

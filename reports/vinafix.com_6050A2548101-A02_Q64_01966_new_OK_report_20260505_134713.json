@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:13.061444",
+    "file_path": "E:\\Bios Hp Compaq\\HP Envy TouchSmart 15 15SBGV2D-6050A2548101 MB-A02\\vinafix.com_6050A2548101-A02_Q64_01966_new_OK.bin",
+    "file_name": "vinafix.com_6050A2548101-A02_Q64_01966_new_OK.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x303028",
+            "0x32f030",
+            "0x333028",
+            "0x770028",
+            "0x771028",
+            "0x79cb75",
+            "0x79d1c0",
+            "0x7a059b"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x77009e",
+            "0x77027e",
+            "0x7e9976",
+            "0x7e9b56"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

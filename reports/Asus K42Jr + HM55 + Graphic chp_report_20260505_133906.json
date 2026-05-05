@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:06.691250",
+    "file_path": "E:\\Asus K42Jr + HM55 + Graphic chp.bin",
+    "file_name": "Asus K42Jr + HM55 + Graphic chp.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x210028",
+            "0x220028",
+            "0x340028",
+            "0x3cde0a"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x2102dc",
+            "0x211d7a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

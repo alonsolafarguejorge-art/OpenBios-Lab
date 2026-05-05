@@ -1,0 +1,52 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:30.882827",
+    "file_path": "E:\\Bios Hp Compaq\\HP Pavilion TouchSmart 23-f330et All-in-One BIOS IPIVB-AT\\HP Pavilion 23 All-in-one pc IPIVB-AT REV1.02\\LIN_8010.BIN",
+    "file_name": "LIN_8010.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x430028",
+            "0x470028",
+            "0x6c0028",
+            "0x709b86",
+            "0x70a284",
+            "0x70a421",
+            "0x70e743",
+            "0x71be0a",
+            "0x75f5d0",
+            "0x75fe5e",
+            "0x75fe6f",
+            "0x75fe80",
+            "0x75fe91",
+            "0x760028",
+            "0x7a9b86",
+            "0x7aa284",
+            "0x7aa421",
+            "0x7ae743",
+            "0x7bbe0a",
+            "0x7ff5d0",
+            "0x7ffe5e",
+            "0x7ffe6f",
+            "0x7ffe80",
+            "0x7ffe91"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x430372",
+            "0x743ffb",
+            "0x7442fb",
+            "0x7e3ffb",
+            "0x7e42fb"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

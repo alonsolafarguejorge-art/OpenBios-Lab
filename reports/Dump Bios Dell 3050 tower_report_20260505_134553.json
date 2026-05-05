@@ -1,0 +1,44 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:53.995034",
+    "file_path": "E:\\Bios Dell\\dell optiplex 3050 tower\\Dump Bios Dell 3050 tower.BIN",
+    "file_name": "Dump Bios Dell 3050 tower.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x700028",
+            "0x740028",
+            "0x780028",
+            "0x791028",
+            "0x7d1028",
+            "0x7e1028",
+            "0xd70028",
+            "0xd80028",
+            "0xe50028",
+            "0xe50808",
+            "0xf08028",
+            "0xf0b6ff",
+            "0xf3a84b",
+            "0xfa07dd",
+            "0xfb8c2d",
+            "0xfff505"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x701601",
+            "0x701abc",
+            "0x741601",
+            "0x741abc",
+            "0xfb3b95",
+            "0xfe6701"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

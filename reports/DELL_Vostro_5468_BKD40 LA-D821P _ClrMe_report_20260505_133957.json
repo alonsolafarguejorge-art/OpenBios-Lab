@@ -1,0 +1,40 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:57.050312",
+    "file_path": "E:\\DELL_Vostro_5468_BKD40 LA-D821P _ClrMe.bin",
+    "file_name": "DELL_Vostro_5468_BKD40 LA-D821P _ClrMe.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x700028",
+            "0x750028",
+            "0x7b0028",
+            "0x810028",
+            "0x820028",
+            "0x861028",
+            "0x871028",
+            "0xd90028",
+            "0xe90028",
+            "0xe93a08",
+            "0xf263ef",
+            "0xf38ed1",
+            "0xf41693",
+            "0xf494e8",
+            "0xfffd85"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x751469",
+            "0xb445f7",
+            "0xf2f145"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

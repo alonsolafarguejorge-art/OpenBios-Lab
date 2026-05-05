@@ -1,0 +1,49 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:30.617473",
+    "file_path": "E:\\Bios Acer\\Acer Aspire 3 A315-53 C5V01 LA-E891P Rev2A\\LA-E891P uc2.bin",
+    "file_name": "LA-E891P uc2.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x600028",
+            "0x620028",
+            "0x650028",
+            "0x690028",
+            "0x6a0028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5010"
+        ],
+        "AMI BIOS": [
+            "0x600b14",
+            "0x620b14",
+            "0x695d69",
+            "0x696028",
+            "0x69606f",
+            "0x6961df",
+            "0x696339",
+            "0x6964ee",
+            "0x696535",
+            "0x6966a5",
+            "0x696898",
+            "0x6968df",
+            "0x696a4f",
+            "0x696ba9",
+            "0x6973c0",
+            "0x697407",
+            "0x697577",
+            "0x6976d1",
+            "0x698518",
+            "0x69855f",
+            "0x6986cf",
+            "0x698829"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

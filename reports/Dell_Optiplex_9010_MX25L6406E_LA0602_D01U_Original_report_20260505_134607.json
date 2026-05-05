@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:07.347149",
+    "file_path": "E:\\Bios Dell\\Dell Optiplex 9010_o\\Dell_Optiplex_9010_MX25L6406E_LA0602_D01U_Original.bin",
+    "file_name": "Dell_Optiplex_9010_MX25L6406E_LA0602_D01U_Original.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x600028",
+            "0x620028",
+            "0x650028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5010"
+        ],
+        "AMI BIOS": [
+            "0x601d00",
+            "0x603395",
+            "0x621cf1",
+            "0x62275d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:14.098507",
+    "file_path": "E:\\BIOS\\640 G5 6050A3028601 PASS\\hp 640 g5 lovo\\640 G5 6050A3028601 PASS 32M 211021_Cleared.bin",
+    "file_name": "640 G5 6050A3028601 PASS 32M 211021_Cleared.bin",
+    "file_size_bytes": 33554432,
+    "file_size_mb": 32.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x103b028",
+            "0x104d028",
+            "0x18f4028",
+            "0x194f028",
+            "0x1ae0028",
+            "0x1b15028",
+            "0x1b16fbc",
+            "0x1b71c86",
+            "0x1b9d028",
+            "0x1ba1028",
+            "0x1bf9dbc",
+            "0x1c00498",
+            "0x1c1ceff",
+            "0x1c2fb6c",
+            "0x1c3a438",
+            "0x1c9ff1d",
+            "0x1ca0290",
+            "0x1cac028",
+            "0x1e3d028",
+            "0x1e72028",
+            "0x1e73fbc",
+            "0x1ecec86",
+            "0x1efa028",
+            "0x1efe028",
+            "0x1f56dbc",
+            "0x1f5d498",
+            "0x1f79eff",
+            "0x1f8cb6c",
+            "0x1f97438",
+            "0x1ffcf1d",
+            "0x1ffd290",
+            "0x1ffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x635000"
+        ],
+        "AMI BIOS": [
+            "0x5e9f65",
+            "0x5eaf9b",
+            "0x5eafbb",
+            "0x5eb0eb",
+            "0x5eb10d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:28.563051",
+    "file_path": "E:\\BIOS\\CTL51 53 LA-E841P REV 2.0\\hp_15-bw625ur, la-e841p kb9022q am9420ayn23ac AMD A9-Series A9-9420 AMD(ATI) 216-0867071\\w25q64fw.BIN",
+    "file_name": "w25q64fw.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x5c028",
+            "0x9e030",
+            "0xa3028",
+            "0x2f8028",
+            "0x550028",
+            "0x552c14",
+            "0x568eaa",
+            "0x6c0028",
+            "0x6c2c14",
+            "0x6d8eaa",
+            "0x7ff028"
+        ],
+        "AMI BIOS": [
+            "0x5fce36",
+            "0x5fd016",
+            "0x76ce36",
+            "0x76d016"
+        ],
+        "Insyde BIOS": [
+            "0x3100a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

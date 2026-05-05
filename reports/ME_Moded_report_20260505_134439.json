@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:39.268775",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo ThinkPad T450 NM-A251 U49\\ME_Moded.bin",
+    "file_name": "ME_Moded.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

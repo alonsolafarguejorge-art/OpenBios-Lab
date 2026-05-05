@@ -1,0 +1,37 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:17.654635",
+    "file_path": "E:\\Lenovo_ FV440 FS441 FS540 NM-C121 Rev 1.0_Tested.bin",
+    "file_name": "Lenovo_ FV440 FS441 FS540 NM-C121 Rev 1.0_Tested.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x6bd028",
+            "0xa40028",
+            "0xa74030",
+            "0xaa0028",
+            "0xb60028",
+            "0xe00028",
+            "0xe203b0",
+            "0xe60028",
+            "0xeb2523",
+            "0xf30028",
+            "0xf35028",
+            "0xf3702e",
+            "0xf91e46",
+            "0xfc0028",
+            "0xfc1844",
+            "0xffc9f2",
+            "0xffeec1"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2000"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

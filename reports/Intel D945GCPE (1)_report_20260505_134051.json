@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:51.499861",
+    "file_path": "E:\\Intel D945GCPE (1).bin",
+    "file_name": "Intel D945GCPE (1).bin",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x8028",
+            "0xc028",
+            "0x70028",
+            "0x768fd",
+            "0x7692e",
+            "0x7c981",
+            "0x7ca99"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file"
+    ]
+}

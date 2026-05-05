@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:48.785376",
+    "file_path": "E:\\DELL LATITUDE D620 QD-NVS-110M-N-A3 (1).bin",
+    "file_name": "DELL LATITUDE D620 QD-NVS-110M-N-A3 (1).bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x2001c",
+            "0x252bd",
+            "0x28127"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

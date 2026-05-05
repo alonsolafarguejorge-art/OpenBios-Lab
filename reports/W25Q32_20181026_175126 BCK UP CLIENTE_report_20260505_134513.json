@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:13.848145",
+    "file_path": "E:\\Bios Asus\\Asus X501U X401U-M3 REV 2.0\\W25Q32_20181026_175126 BCK UP CLIENTE.BIN",
+    "file_name": "W25Q32_20181026_175126 BCK UP CLIENTE.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x100028",
+            "0x310028",
+            "0x380028",
+            "0x380b7c",
+            "0x381228",
+            "0x381390",
+            "0x383570"
+        ],
+        "AMI BIOS": [
+            "0x301fd",
+            "0x307d9",
+            "0x3101fd",
+            "0x314037"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

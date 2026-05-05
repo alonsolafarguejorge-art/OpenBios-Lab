@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:59.741682",
+    "file_path": "E:\\BIOS\\S2-NSBW140X MB_V1\\NSBW140X.BIN",
+    "file_name": "NSBW140X.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x320028",
+            "0x350028",
+            "0x3a3028",
+            "0x576c70",
+            "0x73b028",
+            "0x7e1028",
+            "0x7e31ab",
+            "0x7e5f78",
+            "0x7f2865"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x300398",
+            "0x302539",
+            "0x303042",
+            "0x320398",
+            "0x3291a9",
+            "0x329cb2",
+            "0x751348"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:03.772548",
+    "file_path": "E:\\ASPIRE 5511 (LA-5912P) AMD.bin",
+    "file_name": "ASPIRE 5511 (LA-5912P) AMD.bin",
+    "file_size_bytes": 2097666,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x22028",
+            "0x23028",
+            "0x186028",
+            "0x196028",
+            "0x19d028",
+            "0x1aa028",
+            "0x1df535",
+            "0x1dfca5",
+            "0x1e3163"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

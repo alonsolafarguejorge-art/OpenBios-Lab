@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:19.462512",
+    "file_path": "E:\\Bios Hp Compaq\\HP Notebook - 15-ac113nx - LA-C921P\\HP Notebook - 15-ac113nx - LA-C921P ECROM kb9022q.bin",
+    "file_name": "HP Notebook - 15-ac113nx - LA-C921P ECROM kb9022q.bin",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

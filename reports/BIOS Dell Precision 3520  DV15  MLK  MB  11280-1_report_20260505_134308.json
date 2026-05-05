@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:08.963306",
+    "file_path": "E:\\BIOS\\11280-1\\BIOS Dell Precision 3520  DV15  MLK  MB  11280-1\\BIOS Dell Precision 3520  DV15  MLK  MB  11280-1.BIN",
+    "file_name": "BIOS Dell Precision 3520  DV15  MLK  MB  11280-1.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1a4028",
+            "0x1c4028",
+            "0x1e5028",
+            "0x740028",
+            "0x76cc40",
+            "0x76cd89",
+            "0x770a3c",
+            "0x77d82a",
+            "0x7ff6b0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x1a440c",
+            "0x1a4982",
+            "0x1c440c",
+            "0x1c4982"
+        ],
+        "Insyde BIOS": [
+            "0x180160"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:38.842435",
+    "file_path": "E:\\Bios Hp Compaq\\HP Probook 450 G5 DA0X8CMB6E0 BIOS X8C\\DA0X8CMB6E0 REV E OK .bin",
+    "file_name": "DA0X8CMB6E0 REV E OK .bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x73c028",
+            "0xb76028",
+            "0xbc7028",
+            "0xc72028",
+            "0xc7b151",
+            "0xcc49a3",
+            "0xcca6c0",
+            "0xd86863",
+            "0xde3028",
+            "0xe8e028",
+            "0xe97151",
+            "0xee09a3",
+            "0xee66c0",
+            "0xfa2863",
+            "0xffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

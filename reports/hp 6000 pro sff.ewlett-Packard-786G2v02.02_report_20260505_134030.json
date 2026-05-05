@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:30.769032",
+    "file_path": "E:\\hp 6000 pro sff.ewlett-Packard-786G2v02.02.rom",
+    "file_name": "hp 6000 pro sff.ewlett-Packard-786G2v02.02.rom",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

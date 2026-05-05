@@ -1,0 +1,54 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:32.827594",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo Ideapad 100S-14IBR 1501B_01_01 REV SOVP4\\PN 431202029010  1501B_01_01 REVSOVP4\\W25Q64FV(QPI)_20200820_173723    ING 110 LENOVO.BIN",
+    "file_name": "W25Q64FV(QPI)_20200820_173723    ING 110 LENOVO.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x220028",
+            "0x3d0028",
+            "0x5d0028",
+            "0x600028",
+            "0x610028",
+            "0x63f028",
+            "0x660028",
+            "0x690028",
+            "0x6aaa18",
+            "0x711028",
+            "0x7129a7",
+            "0x720308",
+            "0x720332",
+            "0x730028",
+            "0x760028",
+            "0x77aa18",
+            "0x7e1028",
+            "0x7e29a7",
+            "0x7f0308",
+            "0x7f0332"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Phoenix BIOS": [
+            "0x6122ee",
+            "0x612321",
+            "0x612391",
+            "0x6123c4",
+            "0x612589",
+            "0x6125bc",
+            "0x641413",
+            "0x641446",
+            "0x6414b6",
+            "0x6414e9",
+            "0x6416ae",
+            "0x6416e1"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

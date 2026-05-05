@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:00.117750",
+    "file_path": "E:\\Acer travemate 4202 duo 945 ok -V1.60.rom",
+    "file_name": "Acer travemate 4202 duo 945 ok -V1.60.rom",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xebf0f"
+        ],
+        "Phoenix BIOS": [
+            "0xec373",
+            "0xec3a7"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

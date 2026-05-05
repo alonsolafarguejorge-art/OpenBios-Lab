@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:29.235064",
+    "file_path": "E:\\Bios Lenovo IBM\\LENOVO G405 AMD E1\\Bios.bin",
+    "file_name": "Bios.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x53028",
+            "0x337028",
+            "0x365030",
+            "0x36b028",
+            "0x3d95af",
+            "0x3d9961",
+            "0x3dc523",
+            "0x3dca46"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

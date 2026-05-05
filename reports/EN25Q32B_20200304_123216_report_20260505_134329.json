@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:29.562622",
+    "file_path": "E:\\BIOS\\DA0R53MB6E1 REVE\\EN25Q32B_20200304_123216.BIN",
+    "file_name": "EN25Q32B_20200304_123216.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x31028",
+            "0x5f030",
+            "0x61028",
+            "0x380028",
+            "0x381028",
+            "0x3d9a03",
+            "0x3da01a",
+            "0x3deaf3"
+        ],
+        "AMI BIOS": [
+            "0x38009e",
+            "0x38027e",
+            "0x3f5e5e",
+            "0x3f603e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

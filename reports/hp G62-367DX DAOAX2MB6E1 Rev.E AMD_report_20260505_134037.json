@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:37.397072",
+    "file_path": "E:\\hp G62-367DX DAOAX2MB6E1 Rev.E AMD.bin",
+    "file_name": "hp G62-367DX DAOAX2MB6E1 Rev.E AMD.bin",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x22028",
+            "0x186028",
+            "0x196028",
+            "0x19d028",
+            "0x1aa028",
+            "0x1dff47",
+            "0x1e06ea",
+            "0x1e483b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

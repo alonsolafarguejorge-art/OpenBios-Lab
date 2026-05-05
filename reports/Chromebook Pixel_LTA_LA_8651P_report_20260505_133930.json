@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:30.770614",
+    "file_path": "E:\\Chromebook Pixel_LTA_LA_8651P.bin",
+    "file_name": "Chromebook Pixel_LTA_LA_8651P.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x282d15",
+            "0x372d15"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

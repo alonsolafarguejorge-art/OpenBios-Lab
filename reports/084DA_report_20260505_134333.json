@@ -1,0 +1,73 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:33.766047",
+    "file_path": "E:\\BIOS\\dau88mmb6a0\\OMEN by HP 15-dc0003la\\084DA.bin",
+    "file_name": "084DA.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x3a0028",
+            "0x500028",
+            "0xaa0028",
+            "0xaa993b",
+            "0xac283c",
+            "0xb40028",
+            "0xb40098",
+            "0xbf0028",
+            "0xbf4028",
+            "0xbf66ec",
+            "0xc43d73",
+            "0xc50028",
+            "0xc50d4f",
+            "0xc53702",
+            "0xc6ae40",
+            "0xc7a1b0",
+            "0xc86d34",
+            "0xc8f7a5",
+            "0xd0d8e6",
+            "0xd0e277",
+            "0xd0fe70",
+            "0xd0fe98",
+            "0xd10028",
+            "0xd90028",
+            "0xd9993b",
+            "0xdb283c",
+            "0xe30028",
+            "0xe30098",
+            "0xee0028",
+            "0xee4028",
+            "0xee66ec",
+            "0xf33d73",
+            "0xf40028",
+            "0xf40d4f",
+            "0xf43702",
+            "0xf5ae40",
+            "0xf6a1b0",
+            "0xf76d34",
+            "0xf7f7a5",
+            "0xffd8e6",
+            "0xffe277",
+            "0xfffe70",
+            "0xfffe98"
+        ],
+        "Intel Flash Descriptor": [
+            "0x20f000"
+        ],
+        "AMI BIOS": [
+            "0x3a1357",
+            "0x5bf9c7",
+            "0xc955f2",
+            "0xc958ea",
+            "0xc96f87",
+            "0xf855f2",
+            "0xf858ea",
+            "0xf86f87"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

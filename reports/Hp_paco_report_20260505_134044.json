@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:44.555895",
+    "file_path": "E:\\Hp_paco.bin",
+    "file_name": "Hp_paco.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x22e028",
+            "0x26c030",
+            "0x280028",
+            "0x2cd028",
+            "0x76d028",
+            "0x7bede0",
+            "0x7d0028",
+            "0x7d1a17"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x944de",
+            "0x7bdbb6",
+            "0x7bdd96"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

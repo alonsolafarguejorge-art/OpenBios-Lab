@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:39.048992",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo ThinkPad T450 NM-A251 U49\\Lenovo ThinkPad T450 NM-A251 U49.BIN",
+    "file_name": "Lenovo ThinkPad T450 NM-A251 U49.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0xa00028",
+            "0xdf1028",
+            "0xe87028",
+            "0xeb0028",
+            "0xeb2286",
+            "0xf4c8af",
+            "0xf5fb6f",
+            "0xf5fb97"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

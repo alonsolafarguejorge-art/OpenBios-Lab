@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:08.498078",
+    "file_path": "E:\\Bios Hp Compaq\\HP EliteBook 850 G3 6050A2892401-MB-A01\\BACKUP W25Q128 SERIE 5CG7271R5K.bin",
+    "file_name": "BACKUP W25Q128 SERIE 5CG7271R5K.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x75d028",
+            "0xb10028",
+            "0xb51028",
+            "0xc0c028",
+            "0xc0e677",
+            "0xc15a80",
+            "0xcc2d4b",
+            "0xce4db8",
+            "0xda8028",
+            "0xe63028",
+            "0xe65677",
+            "0xe6ca80",
+            "0xf19d4b",
+            "0xf3bdb8",
+            "0xffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

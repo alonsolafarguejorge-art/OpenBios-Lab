@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:07.977324",
+    "file_path": "E:\\BIOS\\010194q00-35k-g\\Bios HP 15 D035DX m\u00e3 main 010194Q00-35K-G share ok\\rom to 1.8 (25Q64FWSIG).BIN",
+    "file_name": "rom to 1.8 (25Q64FWSIG).BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x438030",
+            "0x540028",
+            "0x584028",
+            "0x788028",
+            "0x7b1ddb",
+            "0x7b23bc",
+            "0x7e1028",
+            "0x7e2722"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x7b11ee",
+            "0x7b13ce"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

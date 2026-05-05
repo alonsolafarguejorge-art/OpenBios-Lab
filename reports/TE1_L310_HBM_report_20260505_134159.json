@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:59.921692",
+    "file_path": "E:\\TE1_L310_HBM.BIN",
+    "file_name": "TE1_L310_HBM.BIN",
+    "file_size_bytes": 1048832,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xecfba",
+            "0xecfef"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

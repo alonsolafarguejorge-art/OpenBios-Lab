@@ -1,0 +1,69 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:42.054735",
+    "file_path": "E:\\Bios Dell\\dell inspiron11- P19T001-DA0ZM3MB8D0 REV,D\\W25Q64BV_20210529_165305  LALO JAIME.BIN",
+    "file_name": "W25Q64BV_20210529_165305  LALO JAIME.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x3a2028",
+            "0x63f028",
+            "0x6c3028",
+            "0x750028",
+            "0x7a17b4",
+            "0x7bc450",
+            "0x7bc47a",
+            "0x7becaf"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x487cea"
+        ],
+        "Phoenix BIOS": [
+            "0x663f57",
+            "0x663f8a",
+            "0x663ffa",
+            "0x66402d",
+            "0x6641f2",
+            "0x664225",
+            "0x6c4e37",
+            "0x6c4e6a",
+            "0x6c4eda",
+            "0x6c4f0d",
+            "0x6c50d2",
+            "0x6c5105",
+            "0x6c7bac",
+            "0x6c7bdf",
+            "0x6c7c4f",
+            "0x6c7c82",
+            "0x6c7e47",
+            "0x6c7e7a",
+            "0x6c9801",
+            "0x6c9834",
+            "0x6c98a4",
+            "0x6c98d7",
+            "0x6c9a9c",
+            "0x6c9acf",
+            "0x6cb456",
+            "0x6cb489",
+            "0x6cb4f9",
+            "0x6cb52c",
+            "0x6cb6f1",
+            "0x6cb724",
+            "0x6cd09e",
+            "0x6cd0d1",
+            "0x6cd141",
+            "0x6cd174",
+            "0x6cd339",
+            "0x6cd36c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

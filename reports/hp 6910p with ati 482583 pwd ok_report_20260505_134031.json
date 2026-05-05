@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:31.636215",
+    "file_path": "E:\\hp 6910p with ati 482583 pwd ok.bin",
+    "file_name": "hp 6910p with ati 482583 pwd ok.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x1000",
+            "0x8a7c",
+            "0x76c0c",
+            "0x7f208"
+        ],
+        "AMI BIOS": [
+            "0x31e436"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

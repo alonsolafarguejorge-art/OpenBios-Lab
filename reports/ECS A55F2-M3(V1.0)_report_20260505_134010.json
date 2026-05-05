@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:10.065240",
+    "file_path": "E:\\ECS A55F2-M3(V1.0).ROM",
+    "file_name": "ECS A55F2-M3(V1.0).ROM",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x80028",
+            "0x350028",
+            "0x352b47",
+            "0x352c94",
+            "0x356e67"
+        ],
+        "AMI BIOS": [
+            "0x3024e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:17.675034",
+    "file_path": "E:\\Bios Lenovo IBM\\Flex 2-14D LF145M MB 13287-1   448.00Y02.0011\\Lenovo touch screen Flex 2-14d LF145M MB 13287-1.BIN",
+    "file_name": "Lenovo touch screen Flex 2-14d LF145M MB 13287-1.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x446028",
+            "0x696028",
+            "0x6ca028",
+            "0x700028",
+            "0x704653",
+            "0x75e9e4",
+            "0x77dec0",
+            "0x77deea"
+        ],
+        "AMI BIOS": [
+            "0xe1bc7"
+        ],
+        "Phoenix BIOS": [
+            "0x698a3a",
+            "0x698a6d",
+            "0x698add",
+            "0x698b10",
+            "0x698cd5",
+            "0x698d08",
+            "0x6cc0ab",
+            "0x6cc0de",
+            "0x6cc14e",
+            "0x6cc181",
+            "0x6cc346",
+            "0x6cc379"
+        ],
+        "Insyde BIOS": [
+            "0x148074"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

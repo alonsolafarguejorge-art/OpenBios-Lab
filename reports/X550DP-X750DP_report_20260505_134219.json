@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:19.792230",
+    "file_path": "E:\\X550DP-X750DP.bin",
+    "file_name": "X550DP-X750DP.bin",
+    "file_size_bytes": 3818505,
+    "file_size_mb": 3.64,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x40028",
+            "0x2dc431",
+            "0x304431",
+            "0x30584d",
+            "0x30599c",
+            "0x307ba8"
+        ],
+        "AMI BIOS": [
+            "0x2dc616"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

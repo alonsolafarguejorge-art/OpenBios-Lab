@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:53.736058",
+    "file_path": "E:\\Bios Samsung\\Samsung NP305E5Z-S02TH BA41-01822A OK BA41-01821A\\AMD HST BA41-01821A OK\\AMD HST BA41-01821A OK.BIN",
+    "file_name": "AMD HST BA41-01821A OK.BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x10028",
+            "0x180028",
+            "0x190028",
+            "0x1a0028",
+            "0x1a0e7c",
+            "0x1a2081"
+        ],
+        "AMI BIOS": [
+            "0x1101",
+            "0x18026d",
+            "0x1804be",
+            "0x1804fc",
+            "0x19026d",
+            "0x1904be",
+            "0x1904fc"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

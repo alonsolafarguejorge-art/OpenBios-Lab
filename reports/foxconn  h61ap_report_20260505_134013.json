@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:13.499440",
+    "file_path": "E:\\foxconn  h61ap.BIN",
+    "file_name": "foxconn  h61ap.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x1d0028",
+            "0x360028",
+            "0x38f796",
+            "0x38f8df",
+            "0x393a65",
+            "0x3a1c57",
+            "0x3ff7b0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x180386",
+            "0x3c3cf4",
+            "0x3c6f8c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

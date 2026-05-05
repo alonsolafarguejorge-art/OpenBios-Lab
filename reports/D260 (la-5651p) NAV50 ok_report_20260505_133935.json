@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:35.635331",
+    "file_path": "E:\\D260 (la-5651p) NAV50 ok.bin",
+    "file_name": "D260 (la-5651p) NAV50 ok.bin",
+    "file_size_bytes": 1048834,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x22028",
+            "0x33028",
+            "0xce028",
+            "0xde028",
+            "0xe4fda",
+            "0xf425c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

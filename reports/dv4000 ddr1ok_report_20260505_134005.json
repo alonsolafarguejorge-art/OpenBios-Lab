@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:05.673407",
+    "file_path": "E:\\dv4000 ddr1ok.bin",
+    "file_name": "dv4000 ddr1ok.bin",
+    "file_size_bytes": 524288,
+    "file_size_mb": 0.5,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0x75188",
+            "0x751c4"
+        ],
+        "Insyde BIOS": [
+            "0x2052"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

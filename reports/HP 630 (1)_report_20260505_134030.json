@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:30.142832",
+    "file_path": "E:\\HP 630 (1).rom",
+    "file_name": "HP 630 (1).rom",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x3028",
+            "0x13028",
+            "0x1a1028",
+            "0x1af804",
+            "0x1b0e72",
+            "0x1b5f5f"
+        ],
+        "AMI BIOS": [
+            "0x1f41fe",
+            "0x1f43de"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

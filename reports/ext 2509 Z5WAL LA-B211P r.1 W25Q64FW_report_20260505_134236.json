@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:36.568606",
+    "file_path": "E:\\Bios Acer\\Acer E5-511G Compal LA-B211P Z5WAL UMA\\ext 2509 Z5WAL LA-B211P r.1 W25Q64FW.bin",
+    "file_name": "ext 2509 Z5WAL LA-B211P r.1 W25Q64FW.bin",
+    "file_size_bytes": 8389632,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x3a0028",
+            "0x3de030",
+            "0x3f0028",
+            "0x43a028",
+            "0x446028",
+            "0x770028",
+            "0x786316",
+            "0x7865c7",
+            "0x7e1028",
+            "0x7e2722"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Insyde BIOS": [
+            "0x442008"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

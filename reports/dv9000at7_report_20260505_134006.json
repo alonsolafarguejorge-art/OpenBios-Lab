@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:06.031169",
+    "file_path": "E:\\dv9000at7.bin",
+    "file_name": "dv9000at7.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xec33b",
+            "0xec36f"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

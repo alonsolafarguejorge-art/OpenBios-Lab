@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:14.029043",
+    "file_path": "E:\\Bios Hp Compaq\\HP ENVY x360 - m6-aq003dx BIOS Marshmel low_MB 15257-2\\081AD\\081AD.bin",
+    "file_name": "081AD.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x244028",
+            "0x278030",
+            "0x332028",
+            "0x645028",
+            "0x6db028",
+            "0x6e0809",
+            "0x6fdac2"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x7c562e",
+            "0x7c580e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

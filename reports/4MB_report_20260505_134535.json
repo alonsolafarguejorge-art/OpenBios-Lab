@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:35.662032",
+    "file_path": "E:\\Bios Dell\\Dell Inspiron 14 (3459) - 14236-1\\DELL 14-3000 IRIS SKL 14236-1 PWB CPWW0 REV A00 TB\\4MB.bin",
+    "file_name": "4MB.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1f0028",
+            "0x290028",
+            "0x290fee",
+            "0x293467",
+            "0x2b89f3",
+            "0x32d53d",
+            "0x335257",
+            "0x33c1e8",
+            "0x34ff9a",
+            "0x35459a",
+            "0x3ffd45"
+        ],
+        "AMI BIOS": [
+            "0x33a225",
+            "0x3847a8"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

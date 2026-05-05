@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:59.175178",
+    "file_path": "E:\\BIos Apple\\A1466\\A1466 820-00165-02 2015\\820-00165-A_G944_0166_B02.BIN\\__MACOSX\\._820-00165-A G944 0166_B02.BIN",
+    "file_name": "._820-00165-A G944 0166_B02.BIN",
+    "file_size_bytes": 628,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

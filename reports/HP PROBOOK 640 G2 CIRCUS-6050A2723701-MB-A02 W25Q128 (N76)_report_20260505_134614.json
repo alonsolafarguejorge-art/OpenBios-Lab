@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:14.035731",
+    "file_path": "E:\\Bios Hp Compaq\\HP PROBOOK 640 G2 CIRCUS-6050A2723701-MB-A02 W25Q128 (N76).BIN",
+    "file_name": "HP PROBOOK 640 G2 CIRCUS-6050A2723701-MB-A02 W25Q128 (N76).BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x75d028",
+            "0xb10028",
+            "0xb51028",
+            "0xc0c028",
+            "0xc0e677",
+            "0xcb96cb",
+            "0xcdb4fe",
+            "0xda8028",
+            "0xe63028",
+            "0xe65677",
+            "0xf106cb",
+            "0xf324fe",
+            "0xffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

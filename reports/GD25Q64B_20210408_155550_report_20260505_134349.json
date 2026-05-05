@@ -1,0 +1,43 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:49.766909",
+    "file_path": "E:\\BIOS\\MS-1782 -17821 -17822 VER 2.0\\GD25Q64B_20210408_155550.BIN",
+    "file_name": "GD25Q64B_20210408_155550.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x220028",
+            "0x240028",
+            "0x270028",
+            "0x278148",
+            "0x600028",
+            "0x610028",
+            "0x6a0028",
+            "0x6a0b6d",
+            "0x6a2e77",
+            "0x6ba877",
+            "0x72f8ec",
+            "0x7378ec",
+            "0x73f222",
+            "0x752397",
+            "0x756c83",
+            "0x7ffd7d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x220f7c",
+            "0x246250",
+            "0x247967",
+            "0x7874ec",
+            "0x79ccb4"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

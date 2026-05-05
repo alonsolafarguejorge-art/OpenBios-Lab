@@ -1,0 +1,44 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:18.254769",
+    "file_path": "E:\\Bios Hp Compaq\\HP Notebook - 14-cm0005la HAGRID-6050A2983401-MB-A01\\084A0.bin",
+    "file_name": "084A0.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x187028",
+            "0x3c0028",
+            "0x4e0028",
+            "0x4e0cc8",
+            "0x4e27e7",
+            "0x53e60e",
+            "0x5be00e",
+            "0x60fc48",
+            "0x60fc70",
+            "0x60fcab",
+            "0x60fcd6",
+            "0x6d0028",
+            "0x6d0cc8",
+            "0x6d27e7",
+            "0x72e60e",
+            "0x7ae00e",
+            "0x7ffc48",
+            "0x7ffc70",
+            "0x7ffcab",
+            "0x7ffcd6"
+        ],
+        "AMI BIOS": [
+            "0x3c02d3",
+            "0x5c617b",
+            "0x5c647b",
+            "0x7b617b",
+            "0x7b647b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

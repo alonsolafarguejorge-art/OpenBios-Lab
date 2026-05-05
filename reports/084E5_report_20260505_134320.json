@@ -1,0 +1,44 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:20.244423",
+    "file_path": "E:\\BIOS\\BIOS RECIENTES\\DAG7BFMB8D0\\084E5.bin",
+    "file_name": "084E5.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2a028",
+            "0x3c0028",
+            "0x4e0028",
+            "0x4e0cd0",
+            "0x4e2f07",
+            "0x53cff2",
+            "0x5bef6e",
+            "0x60fd08",
+            "0x60fd30",
+            "0x60fd6b",
+            "0x60fd96",
+            "0x6d0028",
+            "0x6d0cd0",
+            "0x6d2f07",
+            "0x72cff2",
+            "0x7aef6e",
+            "0x7ffd08",
+            "0x7ffd30",
+            "0x7ffd6b",
+            "0x7ffd96"
+        ],
+        "AMI BIOS": [
+            "0x3c02d4",
+            "0x5c642b",
+            "0x5c672b",
+            "0x7b642b",
+            "0x7b672b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

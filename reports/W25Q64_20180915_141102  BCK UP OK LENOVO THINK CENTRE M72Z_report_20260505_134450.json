@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:50.806139",
+    "file_path": "E:\\Bios Lenovo IBM\\ThinkCentre M7130Z 10124-3\\W25Q64_20180915_141102  BCK UP OK LENOVO THINK CENTRE M72Z.BIN",
+    "file_name": "W25Q64_20180915_141102  BCK UP OK LENOVO THINK CENTRE M72Z.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x420028",
+            "0x440028",
+            "0x740028",
+            "0x77decc",
+            "0x77e015",
+            "0x780bc2",
+            "0x78e99e",
+            "0x7ff770"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x400544",
+            "0x420544"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

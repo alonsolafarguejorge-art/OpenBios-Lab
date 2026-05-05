@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:11.681050",
+    "file_path": "E:\\BIOS\\6050a2556901-mb-a03\\C55D\\C55D 6050A2556901.BIN",
+    "file_name": "C55D 6050A2556901.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x42028",
+            "0x337028",
+            "0x365030",
+            "0x36b028",
+            "0x3daf5f",
+            "0x3db218",
+            "0x3dda63",
+            "0x3ddfcd"
+        ],
+        "Insyde BIOS": [
+            "0x108e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

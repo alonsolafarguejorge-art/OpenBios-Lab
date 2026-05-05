@@ -1,0 +1,70 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:33.163239",
+    "file_path": "E:\\BIOS\\DAOPABMB6E0\\sp132835\\0864B.bin",
+    "file_name": "0864B.bin",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x3a0028",
+            "0x500028",
+            "0xaa0028",
+            "0xaa91fe",
+            "0xac13d7",
+            "0xb40028",
+            "0xb40098",
+            "0xbf0028",
+            "0xbf5028",
+            "0xbf76ec",
+            "0xc44093",
+            "0xc50028",
+            "0xc50d3f",
+            "0xc53702",
+            "0xc6b308",
+            "0xc84ce7",
+            "0xc8dcd9",
+            "0xd0d5f1",
+            "0xd0dfbf",
+            "0xd0fe78",
+            "0xd0fea0",
+            "0xd10028",
+            "0xd90028",
+            "0xd991fe",
+            "0xdb13d7",
+            "0xe30028",
+            "0xe30098",
+            "0xee0028",
+            "0xee5028",
+            "0xee76ec",
+            "0xf34093",
+            "0xf40028",
+            "0xf40d3f",
+            "0xf43702",
+            "0xf5b308",
+            "0xf74ce7",
+            "0xf7dcd9",
+            "0xffd5f1",
+            "0xffdfbf",
+            "0xfffe78",
+            "0xfffea0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x210000"
+        ],
+        "AMI BIOS": [
+            "0x3a242a",
+            "0xc93e1b",
+            "0xc9411b",
+            "0xc96892",
+            "0xf83e1b",
+            "0xf8411b",
+            "0xf86892"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

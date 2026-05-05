@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:58.004787",
+    "file_path": "E:\\DENA   STB802T2  (DVB-MPEG-164G-ver1.0 ).bin",
+    "file_name": "DENA   STB802T2  (DVB-MPEG-164G-ver1.0 ).bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

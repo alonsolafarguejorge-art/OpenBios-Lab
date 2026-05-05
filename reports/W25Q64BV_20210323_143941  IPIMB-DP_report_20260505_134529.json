@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:29.443231",
+    "file_path": "E:\\Bios Dell\\DELL ALL IN ONE 2330 - IPIMB-DP\\W25Q64BV_20210323_143941  IPIMB-DP.BIN",
+    "file_name": "W25Q64BV_20210323_143941  IPIMB-DP.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x610028",
+            "0x630028",
+            "0x662028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x6104a0",
+            "0x610879",
+            "0x6304a0",
+            "0x630879"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

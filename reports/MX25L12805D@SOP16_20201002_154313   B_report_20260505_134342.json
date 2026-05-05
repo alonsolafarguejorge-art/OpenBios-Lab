@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:42.004363",
+    "file_path": "E:\\BIOS\\GA-Z87X-UD3H  NEW\\MX25L12805D@SOP16_20201002_154313   B.BIN",
+    "file_name": "MX25L12805D@SOP16_20201002_154313   B.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x200028",
+            "0x280028",
+            "0x310028",
+            "0xee0028",
+            "0xf00028",
+            "0xf3f79c",
+            "0xf40055",
+            "0xf4019e",
+            "0xf43cc5",
+            "0xf8cc2a",
+            "0xfff450"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x200a65",
+            "0x20257a",
+            "0x280a65",
+            "0x282690",
+            "0xfc26f0",
+            "0xfc4c7c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

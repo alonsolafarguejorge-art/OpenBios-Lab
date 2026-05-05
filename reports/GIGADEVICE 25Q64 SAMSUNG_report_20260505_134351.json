@@ -1,0 +1,42 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:51.503689",
+    "file_path": "E:\\BIOS\\NP300E43-S0BCN BIOS scala3-14crv 1.2 HST BA41-02059A\\GIGADEVICE 25Q64 SAMSUNG.BIN",
+    "file_name": "GIGADEVICE 25Q64 SAMSUNG.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x510028",
+            "0x6f0028",
+            "0x730028",
+            "0x760028",
+            "0x7677f8",
+            "0x77b73c",
+            "0x77b766",
+            "0x7c952f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "Phoenix BIOS": [
+            "0x70318c",
+            "0x7031bf",
+            "0x70322f",
+            "0x703262",
+            "0x703427",
+            "0x70345a",
+            "0x73256f",
+            "0x7325a2",
+            "0x732612",
+            "0x732645",
+            "0x73280a",
+            "0x73283d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

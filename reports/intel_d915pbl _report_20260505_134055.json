@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:55.048054",
+    "file_path": "E:\\intel_d915pbl .BIN",
+    "file_name": "intel_d915pbl .BIN",
+    "file_size_bytes": 702660,
+    "file_size_mb": 0.67,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x70b52",
+            "0x71102",
+            "0x80adc",
+            "0xa2c02"
+        ]
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected"
+    ]
+}

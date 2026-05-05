@@ -1,0 +1,37 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:01.382697",
+    "file_path": "E:\\BIOS\\S340-15IWL Laptop (ideapad)\\W25Q128BV@WSON8_20210831_140714.BIN",
+    "file_name": "W25Q128BV@WSON8_20210831_140714.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x6bd028",
+            "0x9f7028",
+            "0xa39030",
+            "0xaa0028",
+            "0xb60028",
+            "0xe00028",
+            "0xe1cbd0",
+            "0xe60028",
+            "0xeadf9f",
+            "0xf30028",
+            "0xf35028",
+            "0xf3701d",
+            "0xf9238d",
+            "0xfc0028",
+            "0xfc182f",
+            "0xffca12",
+            "0xffeeae"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2000"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

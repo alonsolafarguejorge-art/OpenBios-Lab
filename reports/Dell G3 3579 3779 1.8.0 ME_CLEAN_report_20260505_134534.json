@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:34.258622",
+    "file_path": "E:\\Bios Dell\\Dell G3 3579 3779  La-F612P Rev 1.0 ME CLEAN (1)\\Dell G3 3579 3779 1.8.0 ME_CLEAN\\Dell G3 3579 3779 1.8.0 ME_CLEAN.BIN",
+    "file_name": "Dell G3 3579 3779 1.8.0 ME_CLEAN.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x700028",
+            "0x750028",
+            "0x7b0028",
+            "0x810028",
+            "0x820028",
+            "0x861028",
+            "0x871028",
+            "0xd40028",
+            "0xe40028",
+            "0xf10028",
+            "0xf178d4",
+            "0xf28441",
+            "0xf5d048",
+            "0xf6b73d",
+            "0xfcf4bb",
+            "0xffed06"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2000"
+        ],
+        "AMI BIOS": [
+            "0x75177e",
+            "0xfcbdcd",
+            "0xfd2f46"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

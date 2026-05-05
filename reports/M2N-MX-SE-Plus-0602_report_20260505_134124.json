@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:24.835453",
+    "file_path": "E:\\M2N-MX-SE-Plus-0602.ROM",
+    "file_name": "M2N-MX-SE-Plus-0602.ROM",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xe0790",
+            "0xeb8d5",
+            "0xebfea",
+            "0xf038c",
+            "0xf1186"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:53.630362",
+    "file_path": "E:\\DELL XPS 15 Z-BIG-GEFORS-OK.bin",
+    "file_name": "DELL XPS 15 Z-BIG-GEFORS-OK.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180028",
+            "0x350028",
+            "0x380028",
+            "0x390028",
+            "0x3d6da5"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x194bee"
+        ],
+        "Phoenix BIOS": [
+            "0x3fff1c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

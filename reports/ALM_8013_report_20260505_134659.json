@@ -1,0 +1,43 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:59.338577",
+    "file_path": "E:\\Bios Hp Compaq\\HP AIO ALMOND REV A\\ALM_8013.BIN",
+    "file_name": "ALM_8013.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x28",
+            "0x40028",
+            "0x80028",
+            "0x2e0028",
+            "0x2e462e",
+            "0x2e4780",
+            "0x2e8ac7",
+            "0x36fece",
+            "0x36fedf",
+            "0x36fef0",
+            "0x36ff01",
+            "0x370028",
+            "0x37462e",
+            "0x374780",
+            "0x378ac7",
+            "0x3ffece",
+            "0x3ffedf",
+            "0x3ffef0",
+            "0x3fff01"
+        ],
+        "AMI BIOS": [
+            "0x401ee",
+            "0x36c2fb",
+            "0x36c5fb",
+            "0x3fc2fb",
+            "0x3fc5fb"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

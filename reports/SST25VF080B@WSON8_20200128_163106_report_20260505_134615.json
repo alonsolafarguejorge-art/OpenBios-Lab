@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:15.799000",
+    "file_path": "E:\\Bios Hp Compaq\\Compaq Mini CQ10-400 BIOS  series\\SST25VF080B@WSON8_20200128_163106.BIN",
+    "file_name": "SST25VF080B@WSON8_20200128_163106.BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x80000",
+            "0xdffea",
+            "0xf0040",
+            "0xf004c",
+            "0xf0378"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

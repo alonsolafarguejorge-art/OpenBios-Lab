@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:23.587569",
+    "file_path": "E:\\B41-35 LA-C293P Rev 1.0 UMA GD25Q64 Lenovo.BIN",
+    "file_name": "B41-35 LA-C293P Rev 1.0 UMA GD25Q64 Lenovo.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x21c028",
+            "0x5cd028",
+            "0x5fb030",
+            "0x600028",
+            "0x602383",
+            "0x612c0a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

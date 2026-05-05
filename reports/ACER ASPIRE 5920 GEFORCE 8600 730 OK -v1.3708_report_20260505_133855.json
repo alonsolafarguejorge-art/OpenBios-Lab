@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:55.258492",
+    "file_path": "E:\\ACER ASPIRE 5920 GEFORCE 8600 730 OK -v1.3708.rom",
+    "file_name": "ACER ASPIRE 5920 GEFORCE 8600 730 OK -v1.3708.rom",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "Phoenix/Legacy BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "Phoenix BIOS": [
+            "0xed090",
+            "0xed0c5"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

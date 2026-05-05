@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:46.960284",
+    "file_path": "E:\\Bios Hp Compaq\\hp-15-bd003tx-BDL50 la-d704p Rev 4.0\\MX25L6473_20180927_131508  HP 15 BCK UP EFRAIN.BIN",
+    "file_name": "MX25L6473_20180927_131508  HP 15 BCK UP EFRAIN.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x244028",
+            "0x278030",
+            "0x33c028",
+            "0x71f028",
+            "0x728e63",
+            "0x7ec7b3"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010",
+            "0x9000"
+        ],
+        "AMI BIOS": [
+            "0x7eb646",
+            "0x7eb826"
+        ],
+        "Insyde BIOS": [
+            "0x21000a"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

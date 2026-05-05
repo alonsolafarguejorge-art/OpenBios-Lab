@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:08.308031",
+    "file_path": "E:\\Bios Toshiba\\Toshiba Toshiba Satellite Click DA0TI6MB8E0\\Toshiba Satellite Click DA0TI6MB8E0\\click da0ti6mb8e0 rev E.bin",
+    "file_name": "click da0ti6mb8e0 rev E.bin",
+    "file_size_bytes": 4195072,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x42028",
+            "0x337028",
+            "0x365030",
+            "0x36b028",
+            "0x3db4e7",
+            "0x3db899",
+            "0x3ddcd3",
+            "0x3de1f6"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

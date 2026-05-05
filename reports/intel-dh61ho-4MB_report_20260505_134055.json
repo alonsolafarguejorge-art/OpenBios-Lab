@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:55.401250",
+    "file_path": "E:\\intel-dh61ho-4MB.BIN",
+    "file_name": "intel-dh61ho-4MB.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x185028",
+            "0x195028",
+            "0x1a5028",
+            "0x1f5028",
+            "0x3c0028",
+            "0x3c26e7",
+            "0x3c47da",
+            "0x3ff840"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

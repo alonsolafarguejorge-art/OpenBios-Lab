@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:05.349045",
+    "file_path": "E:\\ASROCK_H110M-DVS R3.0_JD_Bios.bin",
+    "file_name": "ASROCK_H110M-DVS R3.0_JD_Bios.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x200028",
+            "0x244028",
+            "0x660028",
+            "0x6a0028",
+            "0x6a0d1d",
+            "0x6a2f02",
+            "0x6af41a",
+            "0x6ce0b1",
+            "0x6d2a0a",
+            "0x70d95b",
+            "0x7849a3",
+            "0x78c8f2",
+            "0x7fdce5",
+            "0x7fe028",
+            "0x7ffebf"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x200e2c",
+            "0x704bd4"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:59.162350",
+    "file_path": "E:\\k55de.bin",
+    "file_name": "k55de.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x18028",
+            "0x360028",
+            "0x388028",
+            "0x388f86",
+            "0x3890d1",
+            "0x38b143"
+        ],
+        "AMI BIOS": [
+            "0x3601ee",
+            "0x3603ea",
+            "0x36082c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

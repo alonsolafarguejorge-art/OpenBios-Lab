@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:44.287666",
+    "file_path": "E:\\Bios Hp Compaq\\HP TouchSmart 620 3D - WJ1 da0wj1mb6f0\\__MACOSX\\._8M.rom",
+    "file_name": "._8M.rom",
+    "file_size_bytes": 212,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

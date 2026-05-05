@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:30.580098",
+    "file_path": "E:\\CHI MEI N173HGE-L11 Rev C1 (HC9GK\u20ac173HGE DELL).bin",
+    "file_name": "CHI MEI N173HGE-L11 Rev C1 (HC9GK\u20ac173HGE DELL).bin",
+    "file_size_bytes": 256,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

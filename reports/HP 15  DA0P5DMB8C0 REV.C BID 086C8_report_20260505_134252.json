@@ -1,0 +1,63 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:52.294257",
+    "file_path": "E:\\Bin\\HP 15  DA0P5DMB8C0 REV.C BID 086C8.bin",
+    "file_name": "HP 15  DA0P5DMB8C0 REV.C BID 086C8.bin",
+    "file_size_bytes": 16777550,
+    "file_size_mb": 16.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x4a0028",
+            "0x500028",
+            "0xaa0028",
+            "0xaa4e76",
+            "0xb40028",
+            "0xb40098",
+            "0xbcd028",
+            "0xbd3028",
+            "0xbd51a6",
+            "0xc38a35",
+            "0xc40028",
+            "0xc420d6",
+            "0xc597b2",
+            "0xc61920",
+            "0xc6fbe0",
+            "0xc7d9de",
+            "0xcfe187",
+            "0xcffe60",
+            "0xcffe88",
+            "0xd00028",
+            "0xda0028",
+            "0xda4e76",
+            "0xe40028",
+            "0xe40098",
+            "0xecd028",
+            "0xed3028",
+            "0xed51a6",
+            "0xf38a35",
+            "0xf40028",
+            "0xf420d6",
+            "0xf597b2",
+            "0xf61920",
+            "0xf6fbe0",
+            "0xf7d9de",
+            "0xffe187",
+            "0xfffe60",
+            "0xfffe88"
+        ],
+        "AMI BIOS": [
+            "0x4a18dc",
+            "0xc834c3",
+            "0xc837c3",
+            "0xc8da04",
+            "0xf834c3",
+            "0xf837c3",
+            "0xf8da04"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

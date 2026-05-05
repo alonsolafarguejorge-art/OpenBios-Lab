@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:11.976470",
+    "file_path": "E:\\Bios Hp Compaq\\HP ENVY Notebook - 13-d036tu - la-c482p\\GD25Q64B_20201001_130559.BIN",
+    "file_name": "GD25Q64B_20201001_130559.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x25e028",
+            "0x278030",
+            "0x33c028",
+            "0x70f028",
+            "0x718a73",
+            "0x7db08e"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x7d9bae",
+            "0x7d9d8e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

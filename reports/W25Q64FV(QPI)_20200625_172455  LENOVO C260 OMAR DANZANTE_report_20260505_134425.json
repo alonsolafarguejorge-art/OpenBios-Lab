@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:25.882980",
+    "file_path": "E:\\Bios Lenovo IBM\\LENOVO C260\\W25Q64FV(QPI)_20200625_172455  LENOVO C260 OMAR DANZANTE.BIN",
+    "file_name": "W25Q64FV(QPI)_20200625_172455  LENOVO C260 OMAR DANZANTE.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x300028",
+            "0x33e030",
+            "0x350028",
+            "0x3a4028",
+            "0x740028",
+            "0x751348",
+            "0x7515fe",
+            "0x7d9028",
+            "0x7da722"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x4cde8d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

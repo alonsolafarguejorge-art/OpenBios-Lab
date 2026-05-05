@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:23.793059",
+    "file_path": "E:\\Y-510 (SPEEDY MAIN BOARD).BIN",
+    "file_name": "Y-510 (SPEEDY MAIN BOARD).BIN",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0xdffea",
+            "0xf0040",
+            "0xf036e"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

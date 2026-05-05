@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:23.306855",
+    "file_path": "E:\\AUSU _ X553MA _rev__ 2.0 W25Q64F.BIN",
+    "file_name": "AUSU _ X553MA _rev__ 2.0 W25Q64F.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x410028",
+            "0x500028",
+            "0x530028",
+            "0x7aa028",
+            "0x7cdd3b",
+            "0x7cdd82",
+            "0x7d8028",
+            "0x7d9710",
+            "0x7dbaf3",
+            "0x7de8a4",
+            "0x7de9dd"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x41022e",
+            "0x410e9e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

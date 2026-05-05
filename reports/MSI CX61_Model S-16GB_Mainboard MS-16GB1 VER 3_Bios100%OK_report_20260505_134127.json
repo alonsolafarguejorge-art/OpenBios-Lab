@@ -1,0 +1,42 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:27.761034",
+    "file_path": "E:\\MSI CX61_Model S-16GB_Mainboard MS-16GB1 VER 3_Bios100%OK.bin",
+    "file_name": "MSI CX61_Model S-16GB_Mainboard MS-16GB1 VER 3_Bios100%OK.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x500028",
+            "0x520028",
+            "0x560028",
+            "0x740028",
+            "0x76e340",
+            "0x76e489",
+            "0x771e0d",
+            "0x77e0ea",
+            "0x7ff770"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x50036c",
+            "0x504a8a",
+            "0x50568f",
+            "0x5083a4",
+            "0x508d8f",
+            "0x50a408",
+            "0x51c027",
+            "0x522d3c",
+            "0x5235af",
+            "0x5244e8",
+            "0x526191"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

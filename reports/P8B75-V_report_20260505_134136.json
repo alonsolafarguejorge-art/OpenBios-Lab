@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:36.041529",
+    "file_path": "E:\\P8B75-V.bin",
+    "file_name": "P8B75-V.bin",
+    "file_size_bytes": 8390656,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x180828",
+            "0x1f0828",
+            "0x230828",
+            "0x680828",
+            "0x700828",
+            "0x780828",
+            "0x7824c5",
+            "0x78263b",
+            "0x78476c",
+            "0x792112",
+            "0x7bfe35",
+            "0x7c0828",
+            "0x7c24c5",
+            "0x7c263b",
+            "0x7c476c",
+            "0x7d2112",
+            "0x7ffe35"
+        ],
+        "AMI BIOS": [
+            "0x1811b5",
+            "0x42d71f"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

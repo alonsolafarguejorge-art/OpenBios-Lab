@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:18.334855",
+    "file_path": "E:\\GA-970A-DS3P Rev 2.0_JD_Bios.bin",
+    "file_name": "GA-970A-DS3P Rev 2.0_JD_Bios.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x30028",
+            "0x70028",
+            "0x320028",
+            "0x340028",
+            "0x39835a",
+            "0x398a4e",
+            "0x398b99",
+            "0x39b4e9"
+        ],
+        "AMI BIOS": [
+            "0x3036e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

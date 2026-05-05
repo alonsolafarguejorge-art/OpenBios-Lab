@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:39:08.369924",
+    "file_path": "E:\\asus k53sv(E89382)MV-4 94V-0 REV 3.bin",
+    "file_name": "asus k53sv(E89382)MV-4 94V-0 REV 3.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x420028",
+            "0x450028",
+            "0x720028",
+            "0x74fc79",
+            "0x751d8c",
+            "0x75e5b6",
+            "0x7ff750"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x400354",
+            "0x4004bc",
+            "0x40ee11",
+            "0x420354",
+            "0x4204bc"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

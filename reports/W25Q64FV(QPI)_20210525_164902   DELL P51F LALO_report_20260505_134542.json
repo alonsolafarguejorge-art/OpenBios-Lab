@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:42.181567",
+    "file_path": "E:\\Bios Dell\\dell inspiron11- P19T001-DA0ZM3MB8D0 REV,D\\W25Q64FV(QPI)_20210525_164902   DELL P51F LALO.BIN",
+    "file_name": "W25Q64FV(QPI)_20210525_164902   DELL P51F LALO.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x5b028",
+            "0x18b028",
+            "0x20b028",
+            "0x680028",
+            "0x680bfd",
+            "0x6828c7",
+            "0x6b5abb"
+        ],
+        "AMI BIOS": [
+            "0x5b207",
+            "0x5b3c4",
+            "0x5c9fb",
+            "0x5ca42",
+            "0x5cbb2",
+            "0x5cdbb",
+            "0x18b24a",
+            "0x6a9298",
+            "0x6ad678"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

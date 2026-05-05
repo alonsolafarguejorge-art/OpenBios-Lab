@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:05.788440",
+    "file_path": "E:\\Bios Toshiba\\Toshiba Satellite L55-B5191SM PSKTGU, PSKTLU, PSPQCU, or PSPQEU BLI, BLIC v2.00.bin\\GD25Q64_20190131_151240  BCK UP - copia.BIN-ME .bin",
+    "file_name": "GD25Q64_20190131_151240  BCK UP - copia.BIN-ME .bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x244028",
+            "0x5c0028",
+            "0x5f4030",
+            "0x6c0028",
+            "0x6c7876",
+            "0x74ebe7"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x6cb3c6"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

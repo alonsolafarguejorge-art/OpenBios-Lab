@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:47.891739",
+    "file_path": "E:\\1206.ROM",
+    "file_name": "1206.ROM",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x10000",
+            "0x29595",
+            "0xdffea",
+            "0xf0388",
+            "0xf1013"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

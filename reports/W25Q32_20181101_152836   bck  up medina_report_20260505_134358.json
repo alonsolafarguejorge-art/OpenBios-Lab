@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:58.120347",
+    "file_path": "E:\\BIOS\\Quanta U72 rev1A  HP 14-F027CL DA0U72MB6D0\\W25Q32_20181101_152836   bck  up medina.BIN",
+    "file_name": "W25Q32_20181101_152836   bck  up medina.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x12028",
+            "0x3e030",
+            "0x42028",
+            "0x356028",
+            "0x357028",
+            "0x3c207b",
+            "0x3c26a3",
+            "0x3c6fcb",
+            "0x3c74ee"
+        ],
+        "AMI BIOS": [
+            "0x35609e",
+            "0x35627e",
+            "0x3df8ae",
+            "0x3dfa8e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

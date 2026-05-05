@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:00.239066",
+    "file_path": "E:\\Bios Toshiba\\Satellite L50-B DA0BLKMB6E0 REV E MOD BLK\\Vinafix.vn_l50_blk_24c08wp.bin",
+    "file_name": "Vinafix.vn_l50_blk_24c08wp.bin",
+    "file_size_bytes": 1024,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

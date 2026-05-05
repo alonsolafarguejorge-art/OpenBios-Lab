@@ -1,0 +1,48 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:14.880170",
+    "file_path": "E:\\BIOS\\A1502\\MX25L6406E_20180724_192943   a1502 bck up alejandro.BIN",
+    "file_name": "MX25L6406E_20180724_192943   a1502 bck up alejandro.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x1028",
+            "0x190028",
+            "0x330028",
+            "0x360028",
+            "0x5e0028",
+            "0x5f0028",
+            "0x600028",
+            "0x610028",
+            "0x640028",
+            "0x649999",
+            "0x6a5d77",
+            "0x6bb8e6",
+            "0x6bbd7e",
+            "0x6c452b",
+            "0x6f0028",
+            "0x6f9999",
+            "0x755d77",
+            "0x76b8e6",
+            "0x76bd7e",
+            "0x77452b",
+            "0x7a0028",
+            "0x7da028",
+            "0x7da870",
+            "0x7fa028",
+            "0x7fa870"
+        ],
+        "Intel Flash Descriptor": [
+            "0x2010"
+        ],
+        "AMI BIOS": [
+            "0x518a92"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

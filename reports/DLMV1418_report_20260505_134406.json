@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:06.648050",
+    "file_path": "E:\\BIOS\\V330-14ISK Laptop (Lenovo)\\6ucn63ww_LBE OutPut\\codeGetExtractPath\\6UCN63WW\\DLMV1418.ROM",
+    "file_name": "DLMV1418.ROM",
+    "file_size_bytes": 9194432,
+    "file_size_mb": 8.77,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x2d0",
+            "0x2c0338",
+            "0x2c08e3",
+            "0x2d6338",
+            "0x61e338",
+            "0x670340",
+            "0x757338",
+            "0x75dc19",
+            "0x77a787"
+        ],
+        "Intel Flash Descriptor": [
+            "0x98320"
+        ],
+        "Insyde BIOS": [
+            "0x89733f",
+            "0x89a2d1",
+            "0x89a79c",
+            "0x89a811",
+            "0x89a85d",
+            "0x8a33cc",
+            "0x8a39bb"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

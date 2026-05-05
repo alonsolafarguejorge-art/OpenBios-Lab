@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:25.836995",
+    "file_path": "E:\\Bios Hp Compaq\\HP Pavilion 15R  15G - Compal ZSO51 LA-A996P DIS\\W25Q32V@SOIC8_20200625_180502  BCK UP OMAR.BIN",
+    "file_name": "W25Q32V@SOIC8_20200625_180502  BCK UP OMAR.BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x63028",
+            "0x8f030",
+            "0x93028",
+            "0x300028",
+            "0x301028",
+            "0x374203",
+            "0x3748c3",
+            "0x379913"
+        ],
+        "AMI BIOS": [
+            "0x30009e",
+            "0x30027e",
+            "0x3920ee",
+            "0x3922ce"
+        ],
+        "Insyde BIOS": [
+            "0x114"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

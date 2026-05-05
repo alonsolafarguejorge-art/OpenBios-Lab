@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:36.292311",
+    "file_path": "E:\\HP EliteBook 8460 - OKY - refit.ir.BIN",
+    "file_name": "HP EliteBook 8460 - OKY - refit.ir.BIN",
+    "file_size_bytes": 8388672,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x530028",
+            "0x690028",
+            "0x7a0028",
+            "0x7cf0e0",
+            "0x7d0938"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x1b6363",
+            "0x67b021",
+            "0x784379"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

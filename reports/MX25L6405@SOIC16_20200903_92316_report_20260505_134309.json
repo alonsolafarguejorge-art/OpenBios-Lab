@@ -1,0 +1,44 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:09.345711",
+    "file_path": "E:\\BIOS\\14091-1\\MX25L6405@SOIC16_20200903_92316.BIN",
+    "file_name": "MX25L6405@SOIC16_20200903_92316.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x210028",
+            "0x250028",
+            "0x2a0028",
+            "0x5e0028",
+            "0x660028",
+            "0x660d15",
+            "0x66301f",
+            "0x6c5e1b",
+            "0x74d4ab",
+            "0x75ec5a",
+            "0x776ea0",
+            "0x7ffd7d"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x211545",
+            "0x21181b",
+            "0x21b3f3",
+            "0x251545",
+            "0x25181b",
+            "0x25c89d",
+            "0x6b36d0",
+            "0x75c685",
+            "0x777ea9",
+            "0x7b1bd5"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

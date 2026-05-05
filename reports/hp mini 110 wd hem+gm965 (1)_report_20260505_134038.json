@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:38.387231",
+    "file_path": "E:\\hp mini 110 wd hem+gm965 (1).BIN",
+    "file_name": "hp mini 110 wd hem+gm965 (1).BIN",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "Intel Flash Descriptor": [
+            "0x1000",
+            "0x8a7c",
+            "0x76c0c",
+            "0x7f208"
+        ],
+        "AMI BIOS": [
+            "0x31e449"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

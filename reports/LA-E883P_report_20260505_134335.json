@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:35.380538",
+    "file_path": "E:\\BIOS\\DCA20 LA-E883P  Rev 1B\\LA-E883P.bin",
+    "file_name": "LA-E883P.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x37028",
+            "0x287028",
+            "0x297fb0",
+            "0x600028",
+            "0x600b68",
+            "0x60262f",
+            "0x65c236"
+        ],
+        "AMI BIOS": [
+            "0x37286"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

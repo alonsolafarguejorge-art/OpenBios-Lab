@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:29.092033",
+    "file_path": "E:\\msi-u135dx.-EN014IMS.70J.rom",
+    "file_name": "msi-u135dx.-EN014IMS.70J.rom",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x10028",
+            "0x20028",
+            "0xe0028",
+            "0xe25be",
+            "0xe36dc"
+        ],
+        "AMI BIOS": [
+            "0x1012c",
+            "0x1053c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

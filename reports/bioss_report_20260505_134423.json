@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:23.435135",
+    "file_path": "E:\\Bios Lenovo IBM\\LENOVO 300-14IBR BMWC1 BMWC2 NM-A471 REV_2.0\\300-14IBR Laptop\\c9cn47ww_LBE OutPut\\app\\C9CN47WW\\bioss.fd",
+    "file_name": "bioss.fd",
+    "file_size_bytes": 9056712,
+    "file_size_mb": 8.64,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x308c38",
+            "0x355c38",
+            "0x393c40",
+            "0x547c38",
+            "0x767c38",
+            "0x795144",
+            "0x7c0c38",
+            "0x7e1c38",
+            "0x7e3524",
+            "0x8a02e8"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1c20"
+        ],
+        "Insyde BIOS": [
+            "0x800c3f",
+            "0x803bd1",
+            "0x804080",
+            "0x8040f5",
+            "0x804141",
+            "0x80c2bb",
+            "0x80c86f"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:03.230529",
+    "file_path": "E:\\Bios Hp Compaq\\HP CHANGE SN\\HP Change SN ORIG.BIN",
+    "file_name": "HP Change SN ORIG.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x75d028",
+            "0xb10028",
+            "0xb51028",
+            "0xc0c028",
+            "0xc0e677",
+            "0xc15580",
+            "0xcbaa4b",
+            "0xcdc562",
+            "0xda8028",
+            "0xe63028",
+            "0xe65677",
+            "0xe6c580",
+            "0xf11a4b",
+            "0xf33562",
+            "0xffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

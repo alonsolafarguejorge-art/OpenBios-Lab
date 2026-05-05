@@ -1,0 +1,59 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:40.636058",
+    "file_path": "E:\\Bios Lenovo IBM\\Lenovo ThinkPad T460S BT460 NM-A421 Rev 3.0\\prime x570-pro\\PRIME-X570-PRO-ASUS-4021.CAP",
+    "file_name": "PRIME-X570-PRO-ASUS-4021.CAP",
+    "file_size_bytes": 33558528,
+    "file_size_mb": 32.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x41028",
+            "0x91028",
+            "0x6f1028",
+            "0x6f1908",
+            "0xaf8303",
+            "0xafd21b",
+            "0xafd4c3",
+            "0xafd6aa",
+            "0xf21028",
+            "0x1041028",
+            "0x1091028",
+            "0x1a61028",
+            "0x1a61908",
+            "0x1e755f3",
+            "0x1e7a50b",
+            "0x1e7a7b3",
+            "0x1e7a99a",
+            "0x1f21028"
+        ],
+        "AMI BIOS": [
+            "0x412af",
+            "0xa02af",
+            "0xa051d",
+            "0xa0581",
+            "0xa05ec",
+            "0xa0729",
+            "0xa0dc3",
+            "0xa0dd5",
+            "0xa38b9",
+            "0xa4663",
+            "0xb5f22c",
+            "0x10412af",
+            "0x10a02af",
+            "0x10a051d",
+            "0x10a0581",
+            "0x10a05ec",
+            "0x10a0729",
+            "0x10a0dc3",
+            "0x10a0dd5",
+            "0x10a38b9",
+            "0x10a4663",
+            "0x1edc71c"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

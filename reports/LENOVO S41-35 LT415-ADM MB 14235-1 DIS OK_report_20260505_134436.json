@@ -1,0 +1,47 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:44:36.538822",
+    "file_path": "E:\\Bios Lenovo IBM\\LENOVO S41-75 S41-35 LT415-AMD MB 14235-1\\LENOVO S41-35 LT415-ADM MB 14235-1 DIS OK.bin",
+    "file_name": "LENOVO S41-35 LT415-ADM MB 14235-1 DIS OK.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x427028",
+            "0x617028",
+            "0x64b028",
+            "0x680028",
+            "0x6c0028",
+            "0x700028",
+            "0x704729",
+            "0x7619e4",
+            "0x781350",
+            "0x78137a"
+        ],
+        "AMI BIOS": [
+            "0xf1e66"
+        ],
+        "Phoenix BIOS": [
+            "0x619cec",
+            "0x619d1f",
+            "0x619d8f",
+            "0x619dc2",
+            "0x619f87",
+            "0x619fba",
+            "0x64d077",
+            "0x64d0aa",
+            "0x64d11a",
+            "0x64d14d",
+            "0x64d312",
+            "0x64d345"
+        ],
+        "Insyde BIOS": [
+            "0x140160"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

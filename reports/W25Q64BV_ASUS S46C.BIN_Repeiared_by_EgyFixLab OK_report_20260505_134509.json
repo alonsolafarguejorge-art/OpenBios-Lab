@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:09.066656",
+    "file_path": "E:\\Bios Asus\\ASUS S46C\\W25Q64BV_ASUS S46C.BIN_Repeiared_by_EgyFixLab OK.Bin",
+    "file_name": "W25Q64BV_ASUS S46C.BIN_Repeiared_by_EgyFixLab OK.Bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x210028",
+            "0x280028",
+            "0x764028",
+            "0x792f1d",
+            "0x79306d",
+            "0x794ffd",
+            "0x7a2777",
+            "0x7ff710"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ],
+        "AMI BIOS": [
+            "0x210385"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

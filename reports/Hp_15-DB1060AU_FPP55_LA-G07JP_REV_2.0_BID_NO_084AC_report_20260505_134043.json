@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:40:43.667752",
+    "file_path": "E:\\Hp_15-DB1060AU_FPP55_LA-G07JP_REV_2.0_BID_NO_084AC.bin",
+    "file_name": "Hp_15-DB1060AU_FPP55_LA-G07JP_REV_2.0_BID_NO_084AC.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x5c028",
+            "0xae030",
+            "0xb3028",
+            "0x2f8028",
+            "0x500028",
+            "0x502c14",
+            "0x518b8c",
+            "0x6e0028",
+            "0x6e2c14",
+            "0x6f8b8c",
+            "0x7ff028"
+        ],
+        "AMI BIOS": [
+            "0x2fd1b1",
+            "0x5ad35e",
+            "0x5ad53e",
+            "0x78d35e",
+            "0x78d53e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

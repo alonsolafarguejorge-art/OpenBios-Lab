@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:00.936924",
+    "file_path": "E:\\Bios Dell\\Inspiron 14 7460 - 7560\\2\\Inspiron_7460_7560_1.14.1_HDR.bin",
+    "file_name": "Inspiron_7460_7560_1.14.1_HDR.bin",
+    "file_size_bytes": 11967488,
+    "file_size_mb": 11.41,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x320",
+            "0x3d00",
+            "0x991c4",
+            "0xac12b",
+            "0xb4d92",
+            "0xbcbe7",
+            "0x17680b",
+            "0x176f63",
+            "0x27bab3",
+            "0x7b2cad",
+            "0x7c2f56",
+            "0x8039fa",
+            "0x814f4c",
+            "0x875f42",
+            "0x8d6f38",
+            "0x9287b5"
+        ],
+        "Intel Flash Descriptor": [
+            "0x9788e5"
+        ],
+        "AMI BIOS": [
+            "0xa1f1a",
+            "0x55ba9b",
+            "0x877383"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

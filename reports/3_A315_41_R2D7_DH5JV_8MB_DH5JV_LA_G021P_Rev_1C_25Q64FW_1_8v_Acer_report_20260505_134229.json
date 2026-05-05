@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:42:29.429786",
+    "file_path": "E:\\Bios Acer\\ACER A315-41 LA-G021P\\Acer_Aspire A315 DH5JV_ENE_LA_G021P_Rev_1C\\3_A315_41_R2D7_DH5JV_8MB_DH5JV_LA_G021P_Rev_1C_25Q64FW_1_8v_Acer.bin",
+    "file_name": "3_A315_41_R2D7_DH5JV_8MB_DH5JV_LA_G021P_Rev_1C_25Q64FW_1_8v_Acer.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x20a028",
+            "0x258028",
+            "0x6db028",
+            "0x727030"
+        ],
+        "Insyde BIOS": [
+            "0x24b008"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

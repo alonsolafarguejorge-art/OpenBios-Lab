@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:51.983311",
+    "file_path": "E:\\BIOS\\np300e4x (Scala3-14crv).BIN\\np300e4x (Scala3-14crv).BIN",
+    "file_name": "np300e4x (Scala3-14crv).BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x510028",
+            "0x710028",
+            "0x730028",
+            "0x760028",
+            "0x7675b8",
+            "0x76cae7",
+            "0x76cb11",
+            "0x77cf6c",
+            "0x77cf96",
+            "0x7c929f"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

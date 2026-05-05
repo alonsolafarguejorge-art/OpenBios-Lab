@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:33.311567",
+    "file_path": "E:\\Bios Hp Compaq\\hp pro x2 410 g1\\021f0f26.bin",
+    "file_name": "021f0f26.bin",
+    "file_size_bytes": 9177600,
+    "file_size_mb": 8.75,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x46800c"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

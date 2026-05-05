@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:36.564434",
+    "file_path": "E:\\Bios Dell\\Dell Inspiron 14 5452 LA-C571P\\ECROM AAL14 LA-C571P KB9022.bin",
+    "file_name": "ECROM AAL14 LA-C571P KB9022.bin",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

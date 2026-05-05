@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:35.307013",
+    "file_path": "E:\\p5ld2-x-gbl-backup.bin",
+    "file_name": "p5ld2-x-gbl-backup.bin",
+    "file_size_bytes": 1048576,
+    "file_size_mb": 1.0,
+    "bios_type": "AMI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "AMI BIOS": [
+            "0x8837a",
+            "0x91e15",
+            "0xebfea",
+            "0xf051a",
+            "0xf0eb0",
+            "0xf0ebc",
+            "0xf1c7a"
+        ]
+    },
+    "health_check": [
+        "No UEFI volumes detected"
+    ]
+}

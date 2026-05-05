@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:07.452502",
+    "file_path": "E:\\Bios Hp Compaq\\HP EliteBook 840 - 6050A2637901-MB-A02\\W25Q128_20191023_141009 6050A2637901-MB-A02  HP EliteBook 840 G2.BIN",
+    "file_name": "W25Q128_20191023_141009 6050A2637901-MB-A02  HP EliteBook 840 G2.BIN",
+    "file_size_bytes": 16777216,
+    "file_size_mb": 16.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x650028",
+            "0x691028",
+            "0x9ff028",
+            "0xdf5028",
+            "0xe674c8",
+            "0xf3e028",
+            "0xfb04c8"
+        ],
+        "Intel Flash Descriptor": [
+            "0x3010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

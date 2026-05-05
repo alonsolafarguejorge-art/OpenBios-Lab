@@ -1,0 +1,44 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:25.537443",
+    "file_path": "E:\\Bios Hp Compaq\\HP 14-dk1000 (8VZ02AV)\\084A0.bin",
+    "file_name": "084A0.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x187028",
+            "0x3c0028",
+            "0x4e0028",
+            "0x4e0ccf",
+            "0x4e27e7",
+            "0x53f482",
+            "0x5bf90e",
+            "0x60fc48",
+            "0x60fc70",
+            "0x60fcab",
+            "0x60fcd6",
+            "0x6d0028",
+            "0x6d0ccf",
+            "0x6d27e7",
+            "0x72f482",
+            "0x7af90e",
+            "0x7ffc48",
+            "0x7ffc70",
+            "0x7ffcab",
+            "0x7ffcd6"
+        ],
+        "AMI BIOS": [
+            "0x3c02d3",
+            "0x5c787b",
+            "0x5c7b7b",
+            "0x7b787b",
+            "0x7b7b7b"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

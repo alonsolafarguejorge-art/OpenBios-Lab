@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:48:06.182525",
+    "file_path": "E:\\Bios Toshiba\\Toshiba Satellite L55-B5191SM PSKTGU, PSKTLU, PSPQCU, or PSPQEU BLI, BLIC v2.00.bin\\__MACOSX\\._Toshiba Satellite L55-B5191SM PSKTGU, PSKTLU, PSPQCU, or PSPQEU BLI, BLIC v2.00.bin",
+    "file_name": "._Toshiba Satellite L55-B5191SM PSKTGU, PSKTLU, PSPQCU, or PSPQEU BLI, BLIC v2.00.bin",
+    "file_size_bytes": 120,
+    "file_size_mb": 0.0,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

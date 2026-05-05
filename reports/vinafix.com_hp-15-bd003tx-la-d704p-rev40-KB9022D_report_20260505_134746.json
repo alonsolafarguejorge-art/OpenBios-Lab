@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:46.983646",
+    "file_path": "E:\\Bios Hp Compaq\\hp-15-bd003tx-BDL50 la-d704p Rev 4.0\\vinafix.com_hp-15-bd003tx-la-d704p-rev40-KB9022D.BIN",
+    "file_name": "vinafix.com_hp-15-bd003tx-la-d704p-rev40-KB9022D.BIN",
+    "file_size_bytes": 131072,
+    "file_size_mb": 0.12,
+    "bios_type": "Unknown",
+    "confidence_level": "Low",
+    "detected_structure": {
+        "Unknown": "N/A"
+    },
+    "health_check": [
+        "Unusually small BIOS file",
+        "No UEFI volumes detected",
+        "No known firmware signatures detected"
+    ]
+}

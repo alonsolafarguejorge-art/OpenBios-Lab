@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:40.717058",
+    "file_path": "E:\\BIOS\\G6 AMD 6050A2412801 MB-A02\\HP G6-1D45DX (6050A2412801) (MB-A02).BIN",
+    "file_name": "HP G6-1D45DX (6050A2412801) (MB-A02).BIN",
+    "file_size_bytes": 2097152,
+    "file_size_mb": 2.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x12028",
+            "0x40028",
+            "0x180028",
+            "0x1ba8a9",
+            "0x1bacc3",
+            "0x1bf7af"
+        ],
+        "AMI BIOS": [
+            "0x1d384e",
+            "0x1d3a2e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:43:53.226952",
+    "file_path": "E:\\BIOS\\optiplex 9020m\\MX25L6405@SOIC16_20210331_151739.BIN",
+    "file_name": "MX25L6405@SOIC16_20210331_151739.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x600028",
+            "0x620028",
+            "0x690028",
+            "0x6f0028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x5010"
+        ],
+        "AMI BIOS": [
+            "0x604359",
+            "0x604d5d",
+            "0x624359",
+            "0x624d5d"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

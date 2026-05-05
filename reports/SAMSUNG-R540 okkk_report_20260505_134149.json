@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:41:49.861203",
+    "file_path": "E:\\SAMSUNG-R540 okkk.bin",
+    "file_name": "SAMSUNG-R540 okkk.bin",
+    "file_size_bytes": 4194304,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x190028",
+            "0x1a0028",
+            "0x1b0028",
+            "0x360028",
+            "0x3cc5ba"
+        ],
+        "Intel Flash Descriptor": [
+            "0x6010"
+        ],
+        "AMI BIOS": [
+            "0x181101",
+            "0x1903c1",
+            "0x191454",
+            "0x1a03c1",
+            "0x1a146f"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

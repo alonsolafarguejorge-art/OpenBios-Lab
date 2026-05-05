@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:16.075980",
+    "file_path": "E:\\Bios Hp Compaq\\HP G42-382TX DA0AX1MB6H1 REV h\\HP CQ42 HM55 AX1 595183-001\\HP CQ42 HM55 AX1 HMROM 595183-001.ROM",
+    "file_name": "HP CQ42 HM55 AX1 HMROM 595183-001.ROM",
+    "file_size_bytes": 4195328,
+    "file_size_mb": 4.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x282028",
+            "0x390028",
+            "0x3a0028",
+            "0x3adf03",
+            "0x3b2a33"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

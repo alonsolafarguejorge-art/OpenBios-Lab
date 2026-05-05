@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:44.769700",
+    "file_path": "E:\\Bios Hp Compaq\\HP Touchsmart Envy 20 AiO 6050A2516301\\RES2.BIN",
+    "file_name": "RES2.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x400028",
+            "0x430028",
+            "0x450028",
+            "0x480028",
+            "0x760028",
+            "0x78e518",
+            "0x78e661",
+            "0x792155",
+            "0x79f762",
+            "0x7ff7b0"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x430388",
+            "0x43cec1",
+            "0x43dbf7",
+            "0x4400bc",
+            "0x442be0",
+            "0x450388",
+            "0x4558f2"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

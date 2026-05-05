@@ -1,0 +1,60 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:38:42.946966",
+    "file_path": "E:\\330-20IGM All-in-One O3SKT36A Lenovo AIO.bin",
+    "file_name": "330-20IGM All-in-One O3SKT36A Lenovo AIO.bin",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x90028",
+            "0x92028",
+            "0x92cb0",
+            "0x93028",
+            "0x93950",
+            "0x93a09",
+            "0x99936",
+            "0x99a8e",
+            "0x99f23",
+            "0x9fa7a",
+            "0xa8770",
+            "0xb29fb",
+            "0xc3028",
+            "0xc539a",
+            "0xca3d8",
+            "0x10e028",
+            "0x10ebac",
+            "0x117d20",
+            "0x118dae",
+            "0x118e67",
+            "0x15576d",
+            "0x15b5fc",
+            "0x16a028",
+            "0x1d8028",
+            "0x383028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x57f4e",
+            "0x5f035",
+            "0x5f05b",
+            "0x65e27"
+        ],
+        "AMI BIOS": [
+            "0x900a5",
+            "0xc30a5",
+            "0xf75a3",
+            "0x101918",
+            "0x101f50",
+            "0x101fa0",
+            "0x1609f5",
+            "0x16a0a5",
+            "0x1d8781",
+            "0x1d910e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

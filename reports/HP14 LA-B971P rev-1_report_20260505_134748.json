@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:47:48.483011",
+    "file_path": "E:\\Bios Hp Compaq\\HP14 LA-B971P rev-1\\HP14 LA-B971P rev-1.BIN",
+    "file_name": "HP14 LA-B971P rev-1.BIN",
+    "file_size_bytes": 8388608,
+    "file_size_mb": 8.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x244028",
+            "0x278030",
+            "0x2fd028",
+            "0x730028",
+            "0x7379fb",
+            "0x7c610b"
+        ],
+        "Intel Flash Descriptor": [
+            "0x1010"
+        ],
+        "AMI BIOS": [
+            "0x323baa",
+            "0x7c4f4e",
+            "0x7c512e"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

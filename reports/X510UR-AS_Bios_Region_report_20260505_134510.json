@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:45:10.185957",
+    "file_path": "E:\\Bios Asus\\ASUS VivoBook 15 X510UR\\X510UR-AS_Bios_Region.bin",
+    "file_name": "X510UR-AS_Bios_Region.bin",
+    "file_size_bytes": 6291456,
+    "file_size_mb": 6.0,
+    "bios_type": "UEFI BIOS",
+    "confidence_level": "Medium",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x20028",
+            "0x50028",
+            "0x410028",
+            "0x4a0028",
+            "0x4ae65a",
+            "0x520028",
+            "0x520b67",
+            "0x5225a5",
+            "0x534ff6",
+            "0x53dcb2",
+            "0x5a0cab",
+            "0x5ff385"
+        ],
+        "AMI BIOS": [
+            "0x210fb",
+            "0x5174f9",
+            "0x533db1",
+            "0x5b0beb"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

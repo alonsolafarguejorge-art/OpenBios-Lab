@@ -1,0 +1,60 @@
+{
+    "status": "success",
+    "analysis_timestamp": "2026-05-05T13:46:12.849789",
+    "file_path": "E:\\Bios Hp Compaq\\HP 840 G6 PASS_unlocked_TESTED_BY_HERBERT.BIN",
+    "file_name": "HP 840 G6 PASS_unlocked_TESTED_BY_HERBERT.BIN",
+    "file_size_bytes": 33554432,
+    "file_size_mb": 32.0,
+    "bios_type": "Intel UEFI/Modern BIOS",
+    "confidence_level": "High",
+    "detected_structure": {
+        "UEFI Firmware Volume": [
+            "0x103b028",
+            "0x104d028",
+            "0x18f4028",
+            "0x194f028",
+            "0x1ae0028",
+            "0x1b15028",
+            "0x1b16fbc",
+            "0x1b719a6",
+            "0x1b9d028",
+            "0x1ba1028",
+            "0x1bf1cbc",
+            "0x1bf8398",
+            "0x1c146ff",
+            "0x1c2726c",
+            "0x1c314b8",
+            "0x1c9ff1d",
+            "0x1ca0290",
+            "0x1cac028",
+            "0x1e3d028",
+            "0x1e72028",
+            "0x1e73fbc",
+            "0x1ece9a6",
+            "0x1efa028",
+            "0x1efe028",
+            "0x1f4ecbc",
+            "0x1f55398",
+            "0x1f716ff",
+            "0x1f8426c",
+            "0x1f8e4b8",
+            "0x1ffcf1d",
+            "0x1ffd290",
+            "0x1ffe028"
+        ],
+        "Intel Flash Descriptor": [
+            "0x4000"
+        ],
+        "AMI BIOS": [
+            "0x1b8fbb",
+            "0x6e187b",
+            "0x6e282f",
+            "0x6e2853",
+            "0x6e297f",
+            "0x6e29ad"
+        ]
+    },
+    "health_check": [
+        "No obvious structural issues detected"
+    ]
+}

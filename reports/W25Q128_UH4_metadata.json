@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "file_path": "E:\\Bios Dell\\Dell Dell Alienware 17 R3 AAP21 LA-C912P Rev 2.0 (A01)\\Dell Alienware 17 R3 LA-C912P ( 2016 )\\Dell Alienware 17 R3 LA-C912P ( 2016 )\\W25Q128_UH4.BIN",
+    "detected_vendor": "HP",
+    "confidence_score": 528,
+    "confidence_level": "High",
+    "vendor_score_breakdown": {
+        "HP": 528,
+        "Dell": 24,
+        "Lenovo": 0,
+        "ASUS": 97,
+        "Acer": 0,
+        "Samsung": 2,
+        "Sony": 0,
+        "Toshiba": 0,
+        "MSI": 5,
+        "Gigabyte": 0
+    },
+    "general_metadata": {
+        "AMI": [
+            "0x8d254",
+            "0xb4369",
+            "0xe59a1",
+            "0xe85f9",
+            "0x8220d6",
+            "0x82452f",
+            "0x824576",
+            "0x8246e6",
+            "0x824a39",
+            "0x824c4e"
+        ]
+    }
+}

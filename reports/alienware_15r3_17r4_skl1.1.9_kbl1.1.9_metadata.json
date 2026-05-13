@@ -1,0 +1,45 @@
+{
+    "status": "success",
+    "file_path": "E:\\Bios Dell\\Dell Alienware 17 R4 BAP10 LA-D751P REV 1.0 BIOS Schematics LA-D751P\\Alienware 15 R3 Alienware 17 R4 System BIOS Ver SKL1.1.9_KBL1.1.9\\alienware_15r3_17r4_skl1.1.9_kbl1.1.9.bin\\alienware_15r3_17r4_skl1.1.9_kbl1.1.9.bin",
+    "detected_metadata": {
+        "AMI": [
+            "0xb2385",
+            "0xb7159",
+            "0xc4cad",
+            "0xc4eff",
+            "0xc5261",
+            "0x105f8f",
+            "0x19748a",
+            "0x82317d",
+            "0x9b006c",
+            "0xf20ce1"
+        ],
+        "Dell": [
+            "0x65480",
+            "0x87b654"
+        ],
+        "HP": [
+            "0x2da7",
+            "0xcce5",
+            "0xde52",
+            "0x100a2",
+            "0x14793",
+            "0x19df0",
+            "0x291f2",
+            "0x2d6ec",
+            "0x3cba5",
+            "0x4442d"
+        ],
+        "Samsung": [
+            "0xf76334"
+        ],
+        "ROG": [
+            "0x1960b",
+            "0x1992c",
+            "0x1c871",
+            "0x2cd5e",
+            "0x47e5e",
+            "0xa1fd0b"
+        ]
+    }
+}

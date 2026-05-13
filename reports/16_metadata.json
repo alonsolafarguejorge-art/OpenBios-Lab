@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "file_path": "E:\\Acer Nitro 5 AN515-52 AN515 DH5VF LA-F952P (1)\\Acer Nitro 5 AN515-52 AN515 DH5VF LA-F952P\\LA-F952P DH53F Rev10\\16.bin",
+    "detected_vendor": "Acer",
+    "confidence_score": 27,
+    "confidence_level": "High",
+    "vendor_score_breakdown": {
+        "HP": 0,
+        "Dell": 0,
+        "Lenovo": 0,
+        "ASUS": 6,
+        "Acer": 27,
+        "Samsung": 1,
+        "Sony": 0,
+        "Toshiba": 0,
+        "MSI": 1,
+        "Gigabyte": 0
+    },
+    "general_metadata": {
+        "AMI": [
+            "0x65e55",
+            "0x68097",
+            "0x1f0063",
+            "0x1f42d6",
+            "0x71f0f7",
+            "0x7210da",
+            "0x765a56"
+        ],
+        "Insyde": [
+            "0x643008"
+        ]
+    }
+}

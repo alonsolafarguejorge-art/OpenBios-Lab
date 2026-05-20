@@ -1,0 +1,68 @@
+{
+    "status": "success",
+    "file_path": "E:\\Bios Dell\\Dell Alienware 17 R3 AAP21 LA-C912P Rev2.0 (A01)\\Alienware 15 R2_LA-C912P_Clear me.bin",
+    "platform_type": "Intel Platform",
+    "bios_mode": "UEFI",
+    "detected_regions": {
+        "Intel Flash Descriptor": [
+            "0x10"
+        ],
+        "UEFI Firmware Volume": [
+            "0x822028",
+            "0x872028",
+            "0xb1da98",
+            "0xda0028",
+            "0xe20028",
+            "0xe20b8d",
+            "0xe22e87",
+            "0xe77c0b",
+            "0xefc89b",
+            "0xf0ded2",
+            "0xf2573c",
+            "0xfffd7d"
+        ],
+        "Intel ME Region": [
+            "0x1010"
+        ],
+        "BIOS Region": [
+            "0x4f00",
+            "0xa6969b",
+            "0xa72c58",
+            "0xae8f50",
+            "0xae8fa4",
+            "0xf5b74c",
+            "0xf5b7a0"
+        ],
+        "GbE Region": [
+            "0x53b4",
+            "0xc2e72",
+            "0x3c6b95",
+            "0x9759e5"
+        ],
+        "EC Region": [
+            "0x6247a0"
+        ],
+        "AMI BIOS": [
+            "0xadeb7",
+            "0x14cf5d",
+            "0x307f7d",
+            "0x8230c6",
+            "0x8dbfe1",
+            "0x9221fb",
+            "0xa55974",
+            "0xa55988",
+            "0xa559c6",
+            "0xa559d9",
+            "0xa59559",
+            "0xa5956e",
+            "0xa5964d",
+            "0xa59661",
+            "0xa5d0d7",
+            "0xa5d0ec",
+            "0xa5d1cb",
+            "0xa5d1df",
+            "0xa5ec3c",
+            "0xa5ec4f"
+        ]
+    }
+}
